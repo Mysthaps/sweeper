@@ -1,0 +1,100 @@
+{
+  "dataList": [
+    {
+      "id": "enter_exp_dungeon",
+      "content": "239 96341514787"
+    },
+    {
+      "id": "enter_mirror_dungeon",
+      "content": "873383 36752872"
+    },
+    {
+      "id": "enter_thread_dungeon",
+      "content": "463213 96341514787"
+    },
+    {
+      "id": "enter_count",
+      "content": "2743722"
+    },
+    {
+      "id": "remain_time",
+      "content": "4782 9244"
+    },
+    {
+      "id": "open_at_day_of_the_week",
+      "content": "89272 {0}"
+    },
+    {
+      "id": "recommended_level",
+      "content": "3744746945"
+    },
+    {
+      "id": "equal_or_more",
+      "content": "83 16852"
+    },
+    {
+      "id": "valid_attack_type",
+      "content": "622469 45922"
+    },
+    {
+      "id": "exp_dungeon_index",
+      "content": "239 96341514787 #{0}"
+    },
+    {
+      "id": "Monday",
+      "content": "887"
+    },
+    {
+      "id": "Tuesday",
+      "content": "462"
+    },
+    {
+      "id": "Wednesday",
+      "content": "123"
+    },
+    {
+      "id": "Thursday",
+      "content": "466"
+    },
+    {
+      "id": "Friday",
+      "content": "437"
+    },
+    {
+      "id": "Saturday",
+      "content": "214"
+    },
+    {
+      "id": "Sunday",
+      "content": "267"
+    },
+    {
+      "id": "select_level",
+      "content": "92529 229244"
+    },
+    {
+      "id": "require_clear_story_stage",
+      "content": "49213 8177 24835 {0}-{1}"
+    },
+    {
+      "id": "daily_bonus_count",
+      "content": "31795 6876222"
+    },
+    {
+      "id": "reward_dungeon_exp",
+      "content": "239"
+    },
+    {
+      "id": "reward_dungeon_thread",
+      "content": "463213"
+    },
+    {
+      "id": "reward_dungeon_mining",
+      "content": "96341514787"
+    },
+    {
+      "id": "thread_dungeon_stage_name_with_attribute",
+      "content": "463213 96341514787 ({0})"
+    }
+  ]
+}

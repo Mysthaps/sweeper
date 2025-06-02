@@ -1,0 +1,60 @@
+{
+  "dataList": [
+    {
+      "id": "CLEAR_STAGE",
+      "content": "49213 175 24152 {0} 4782(2)"
+    },
+    {
+      "id": "KILL_ENEMY_ANY",
+      "content": "324214 {0} 2728722"
+    },
+    {
+      "id": "KILL_ENEMY_ABNORMALITY",
+      "content": "26993222 {0} 1678381974722"
+    },
+    {
+      "id": "SOMEONE_PARTICIPATED_IN_BATTLE",
+      "content": "6152 {1} 77 614492 {0} 4782(2)"
+    },
+    {
+      "id": "MIRROR_DUNGEON_TRY",
+      "content": "27423 462 873383 3675287 {0} 4782(2)"
+    },
+    {
+      "id": "MIRROR_DUNGEON_CLEAR",
+      "content": "49213 873383 36752872 {0} 4782(2)"
+    },
+    {
+      "id": "BATTLEPASS_LEVELUP",
+      "content": "32146 614492 9122 92529 {0}"
+    },
+    {
+      "id": "USE_EGO_20402",
+      "content": "622 358266\u20192 446 81446 49182 {0} 4782(2)"
+    },
+    {
+      "id": "USE_ANNOUNCER_2",
+      "content": "6152 532583 12 462 177867423 {0} 4782(2)"
+    },
+    {
+      "id": "LOGIN_ONCE",
+      "content": "{0} 31795 985-772"
+    },
+    {
+      "id": "LOGIN_MULTIPLE",
+      "content": "{0} 48419 31795 985-772"
+    },
+    {
+      "id": "EXPDUNGEON_CLEAR",
+      "content": "49213 239 96341514787 {0} 4782(2)"
+    },
+    {
+      "id": "THREADDENGEON_CLEAR",
+      "content": "49213 463213 96341514787 {0} 4782(2)"
+    },
+    {
+      "id": "PURCHASE_ENKEPHALIN_MODULE",
+      "content": "12228692 {0} 2782961977 883692(2)"
+    }
+  ]
+}

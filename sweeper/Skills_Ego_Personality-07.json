@@ -1,0 +1,578 @@
+{
+  "dataList": [
+    {
+      "id": 2070511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6897315",
+          "abName": "21738996",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 31738895 229244 872 84 462 489981775 2442442: 6637, 69223, 432883, 3694632, 83 2778775. 4627, 7749744 1 9842745 84 462 22924423 244244 7234 4637.\n329214 462 16852 9384222 (2 + (6756224 5964. 1-32287.)) 47822. (5 47822 813)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "6897315",
+          "abName": "21738996",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 31738895 229244 872 84 462 489981775 2442442: 6637, 69223, 432883, 3694632, 83 2778775. 4627, 7749744 1 9842745 84 462 22924423 244244 7234 4637.\n329214 462 16852 9384222 (2 + (6756224 5964. 1-32287.)) 47822. (5 47822 813)"
+                },
+                {
+                  "desc": "[EnemyKill] 31738895 229244 872 84 462 489981775 2442442: 1 98722 48674, 1 461352 48674, 1 61242, 1 8442722 92529 69, 83 1 3242722 92529 69. 4627, 19995 462 22924423 244244 48 2 317388 199722 7234 4637"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "6897315",
+          "abName": "21738996",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 31738895 229244 872 84 462 489981775 2442442: 6637, 69223, 432883, 3694632, 83 2778775. 4627, 7749744 1 9842745 84 462 22924423 244244 7234 4637.\n329214 462 16852 9384222 (2 + (6756224 5964. 1-32287.)) 47822. (7 47822 813)"
+                },
+                {
+                  "desc": "[EnemyKill] 31738895 229244 872 84 462 489981775 2442442: 2 98722 48674, 2 461352 48674, 2 61242, 2 8442722 92529 69, 83 2 3242722 92529 69. 4627, 19995 462 22924423 244244 48 2 317388 199722 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6897315",
+          "abName": "21738996",
+          "desc": "[CantIdentify]\n4135242 462 6774 1746 462 8824 29\n[BeforeAttack] 413524 98222 10 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 31738895 229244 872 84 462 489981775 2442442: 6637, 69223, 432883, 3694632, 83 2778775. 4627, 7749744 1 9842745 84 462 22924423 244244 7234 4637.\n329214 462 16852 9384222 (2 + (6756224 5964. 1-32287.)) 47822. (7 47822 813)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "6897315",
+          "abName": "21738996",
+          "desc": "[CantIdentify]\n4135242 462 6774 1746 462 8824 29\n[BeforeAttack] 413524 98222 10 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 31738895 229244 872 84 462 489981775 2442442: 6637, 69223, 432883, 3694632, 83 2778775. 4627, 7749744 1 9842745 84 462 22924423 244244 7234 4637.\n329214 462 16852 9384222 (2 + (6756224 5964. 1-32287.)) 47822. (7 47822 813)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "6897315",
+          "abName": "21738996",
+          "desc": "[CantIdentify]\n4135242 462 6774 1746 462 8824 29\n74 462 8177 413524'2 29 72 675623 4617 15, 148 127564 +1\n[BeforeAttack] 413524 98222 10 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 31738895 229244 872 84 462 489981775 2442442: 6637, 69223, 432883, 3694632, 83 2778775. 4627, 7749744 1 9842745 84 462 22924423 244244 7234 4637.\n329214 462 16852 9384222 (2 + (6756224 5964. 1-32287.)) 47822. (7 47822 813)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "67732",
+          "abName": "462 8775 77 67732",
+          "desc": "[EndSkill] 483 3 46372, 9822 10 29 14 4637 273\n[EndSkill] 7234 4637, 5177 20 [Binding], 1 [ForwardToTheKing], 173 1 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "67732",
+          "abName": "462 8775 77 67732",
+          "desc": "[EndSkill] 483 3 46372, 9822 10 29 14 4637 273\n[EndSkill] 7234 4637, 5177 20 [Binding], 1 [ForwardToTheKing], 173 1 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Binding] 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "67732",
+          "abName": "462 8775 77 67732",
+          "desc": "[EndSkill] 483 3 46372, 9822 10 29 14 4637 273\n[EndSkill] 7234 4637, 5177 20 [Binding], 1 [ForwardToTheBoundKing], 173 2 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Binding] 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "67732",
+          "abName": "462 8775 77 67732",
+          "desc": "[CantIdentify]\n4135242 31738895\n[EndSkill] 7234 4637, 5177 20 [Binding], 1 [ForwardToTheKing], 173 2 [Enhancement]\n[EndSkill] 7234 4637, 19995 20 [Binding] 173 3 [Enhancement] 48 2 84623 199722 77 462 83323 84 3299858274\n- 462 768623 84 14424423 199722 53812 65 (6756224 59888 83 93732 32287. - 2) (813 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Binding] 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "67732",
+          "abName": "462 8775 77 67732",
+          "desc": "[CantIdentify]\n4135242 31738895\n[EndSkill] 7234 4637, 5177 20 [Binding], 1 [ForwardToTheKing], 173 2 [Enhancement]\n[EndSkill] 7234 4637, 19995 20 [Binding], 3 [Enhancement], 173 1 <style=\"highlight\">[AzureDamageUp]</style> 48 2 84623 199722 77 462 83323 84 3299858274\n- 462 768623 84 14424423 199722 53812 65 (6756224 59888 83 93732 32287. - 2) (813 <style=\"highlight\">3</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Binding] 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "67732",
+          "abName": "462 8775 77 67732",
+          "desc": "[CantIdentify]\n4135242 31738895\n[EndSkill] 7234 4637, 5177 20 [Binding], 1 [ForwardToTheKing], 173 3 [Enhancement]\n[EndSkill] 7234 4637, 19995 20 [Binding], 3 [Enhancement], 173 <style=\"highlight\">2</style> [AzureDamageUp] 48 2 84623 199722 77 462 83323 84 3299858274\n- 462 768623 84 14424423 199722 53812 65 (6756224 59888 83 93732 32287. - 2) (813 <style=\"highlight\">4</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Binding] 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4299 669924",
+          "abName": "323 49646246\u00fc422",
+          "desc": "[BeforeAttack] 5177 (6756224 32287. + 1) [BoseProjektil] (813 7)\n- 74 74 112 17 1-32287., 5177 (6756224 32287. +2) [BoseProjektil] 7724213\n[BeforeAttack] 5177 1 [Breath] 483 25235 [BoseProjektil] (813 3)\n[EndSkill] 9822 25235 [BoseProjektil]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+5% 318152 87 43747419 674 483 25235 [BoseProjektil] (813 35%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 7749744 3 [Sinking]"
+                },
+                {
+                  "desc": "[CriticalTargetKill] 74 4672 6774 612 462 [Bullet] 244244, 5177 1 [Bullet] (2 47822 923 274867423)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "4299 669924",
+          "abName": "323 49646246\u00fc422",
+          "desc": "[BeforeAttack] 5177 (6756224 32287. + 1) [BoseProjektil] (813 7)\n- 74 74 112 17 1-32287., 5177 (6756224 32287. + 2) [BoseProjektil] 7724213\n[BeforeAttack] 5177 1 [Breath] 483 25235 [BoseProjektil] (813 <style=\"highlight\">4</style>)\n[EndSkill] 9822 25235 [BoseProjektil]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+<style=\"highlight\">10</style>% 318152 87 43747419 674 483 25235 [BoseProjektil] (813 <style=\"highlight\">70</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 7749744 3 [Sinking]"
+                },
+                {
+                  "desc": "[CriticalTargetKill] 74 4672 6774 612 462 [Bullet] 244244, 5177 1 [Bullet] (2 47822 923 274867423)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "4299 669924",
+          "abName": "323 49646246\u00fc422",
+          "desc": "[BeforeAttack] 5177 (6756224 32287. + 1) [BoseProjektil] (813 7)\n- 74 74 112 17 1-32287., 5177 (6756224 32287. + 2) [BoseProjektil] 7724213\n[BeforeAttack] 5177 1 [Breath] 483 25235 [BoseProjektil] (813 <style=\"highlight\">7</style>)\n[BeforeAttack] 5177 +1 [Breath] 48674\n[EndSkill] 9822 25235 [BoseProjektil]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+<style=\"highlight\">15</style>% 318152 87 43747419 674 483 25235 [BoseProjektil] (813 <style=\"highlight\">105</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 5 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 7749744 3 [Sinking]"
+                },
+                {
+                  "desc": "[CriticalTargetKill] 74 4672 6774 612 462 [Bullet] 244244, 5177 1 [Bullet] (3 47822 923 274867423)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4299 669924",
+          "abName": "323 49646246\u00fc422",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 5177 (6756224 32287. + 1) [BoseProjektil] (813 7)\n- 74 74 112 17 1-32287., 5177 (6756224 32287. + 2) [BoseProjektil] 7724213\n[BeforeAttack] 3219 +2% 318152 483 25235 [BoseProjektil] (813 14%)\n[BeforeAttack] 5177 1 [Breath] 483 25235 [BoseProjektil] (813 3)\n[BeforeAttack] 3219 +3% 318152 483 25235 5 [Breath] 87 2294 (813 15%)\n[BeforeAttack] 4872682 5 [Breath] 87 2294\n[EndSkill] 9822 25235 [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Laceration] 173 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "4299 669924",
+          "abName": "323 49646246\u00fc422",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 5177 (6756224 32287. + 1) [BoseProjektil] (813 7)\n- 74 74 112 17 1-32287., 5177 (6756224 32287. + 2) [BoseProjektil] 7724213\n<style=\"highlight\">[BeforeAttack] 14 3+ [BoseProjektil], 5177 1 148 127564</style>\n[BeforeAttack] 3219 +2% 318152 483 25235 [BoseProjektil] (813 14%)\n[BeforeAttack] 5177 1 [Breath] 483 25235 [BoseProjektil] (813 <style=\"highlight\">4</style>)\n[BeforeAttack] 3219 +<style=\"highlight\">4</style>% 318152 483 25235 5 [Breath] 87 2294 (813 <style=\"highlight\">20</style>%)\n[BeforeAttack] 4872682 5 [Breath] 87 2294\n[EndSkill] 9822 25235 [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Laceration] 173 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "4299 669924",
+          "abName": "323 49646246\u00fc422",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 5177 (6756224 32287. + 1) [BoseProjektil] (813 7)\n- 74 74 112 17 1-32287., 5177 (6756224 32287. + 2) [BoseProjektil] 7724213\n[BeforeAttack] 5177 1 148 127564 483 <style=\"highlight\">25235 3 [BoseProjektil] (813 2)</style>\n[BeforeAttack] 3219 +<style=\"highlight\">3</style>% 318152 483 25235 [BoseProjektil] (813 <style=\"highlight\">21</style>%)\n[BeforeAttack] 5177 1 [Breath] 483 25235 [BoseProjektil] (813 <style=\"highlight\">7</style>)\n[BeforeAttack] 3219 +<style=\"highlight\">5</style>% 318152 483 25235 5 [Breath] 87 2294 (813 <style=\"highlight\">25</style>%)\n[BeforeAttack] 4872682 5 [Breath] 87 2294\n[EndSkill] 9822 25235 [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Laceration] 173 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "125882437419 7723471",
+          "abName": "498481838-4782-3895-9895",
+          "desc": "[BeforeAttack] 5177 (6756224 32287.) [Vibration] 48674 (813 6, 20 923 4637)\n- 74 462 2173 32287. 112 1 29846 32287., 4375523 [Switch_Vibration] 87 [Vibration] 87 2294 7748 [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 7749744 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 7749744 +2 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1\n- 1627 4375523775 432883 66324, 7749744 1 [AmberTakeDamageUp] 4672 4637\n- 74 462 6756224 32287. 112 1 4+ 29846 1-32287., 7749744 1 [AmberTakeDamageUp] 7234 4637 12 1299"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "125882437419 7723471",
+          "abName": "498481838-4782-3895-9895",
+          "desc": "[BeforeAttack] 5177 (<style=\"highlight\">2 +</style> 6756224 32287.) [Vibration] 48674 (813 <style=\"highlight\">8</style>, 20 923 4637)\n- 74 462 2173 32287. 112 1 29846 32287., 4375523 [Switch_Vibration] 87 [Vibration] 87 2294 7748 [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 7749744 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 7749744 +2 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1\n- 1627 4375523775 432883 66324, 7749744 1 [AmberTakeDamageUp] 4672 4637\n- 74 462 6756224 32287. 112 1 <style=\"highlight\">29846 1-32287.</style>, 7749744 1 [AmberTakeDamageUp] 7234 4637 12 1299"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "125882437419 7723471",
+          "abName": "498481838-4782-3895-9895",
+          "desc": "[BeforeAttack] 5177 (<style=\"highlight\">4 +</style> 6756224 32287.) [Vibration] 48674 (813 8, 20 923 4637)\n- 74 462 2173 32287. 112 1 29846 32287., 4375523 [Switch_Vibration] 87 [Vibration] 87 2294 7748 [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 7749744 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 7749744 +3 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1\n- 1627 4375523775 432883 66324, 7749744 1 [AmberTakeDamageUp] 4672 4637\n- 74 462 6756224 32287. 112 1 <style=\"highlight\">3+ 29846 32287.</style>, 7749744 1 [AmberTakeDamageUp] 7234 4637 12 1299"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "125882437419 7723471",
+          "abName": "498481838-4782-3895-9895",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 5177 (2 + 6756224 32287.) [Vibration] 48674 (813 8, 20 923 4637)\n- 74 462 2173 32287. 112 1 29846 32287., 4375523 [Switch_Vibration] 87 [Vibration] 87 2294 7748 [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 7749744 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 7749744 +2 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1\n- 1627 4375523775 432883 66324, 7749744 2 [AmberTakeDamageUp] 4672 4637\n- 74 462 6756224 32287. 112 1 4+ 29846 1-32287, 7749744 2 [AmberTakeDamageUp] 7234 4637 12 1299"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "125882437419 7723471",
+          "abName": "498481838-4782-3895-9895",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 5177 (<style=\"highlight\">4 +</style> 6756224 32287.) [Vibration] 48674 (813 8, 20 923 4637)\n- 74 462 2173 32287. 112 1 29846 32287., 4375523 [Switch_Vibration] 87 [Vibration] 87 2294 7748 [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 7749744 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 7749744 +3 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1\n- 1627 4375523775 432883 66324, 7749744 2 [AmberTakeDamageUp] 4672 4637\n- 74 462 6756224 32287. 112 1 <style=\"highlight\">29846 1-32287</style>, 7749744 2 [AmberTakeDamageUp] 7234 4637 12 1299"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "125882437419 7723471",
+          "abName": "498481838-4782-3895-9895",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 5177 (4 + 6756224 32287.) [Vibration] 48674 (813 <style=\"highlight\">10</style>, 20 923 4637)\n- 74 462 2173 32287. 112 1 29846 32287., 4375523 [Switch_Vibration] 87 [Vibration] 87 2294 7748 [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 7749744 6 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 7749744 +4 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1\n- 1627 4375523775 432883 66324, 7749744 2 [AmberTakeDamageUp] 4672 4637\n- 74 462 6756224 32287. 112 1 <style=\"highlight\">3+ 29846 32287.</style>, 7749744 2 [AmberTakeDamageUp] 7234 4637 12 1299"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "dataList": [
+    {
+      "id": "dungeon_shop_ego_gift_upgrade",
+      "content": "2761742 57442"
+    },
+    {
+      "id": "dungeon_shop_ego_gift_composite",
+      "content": "4622 57442"
+    },
+    {
+      "id": "dungeon_shop_ego_gift_sell",
+      "content": "2299 57442"
+    },
+    {
+      "id": "dungeon_shop_refresh",
+      "content": "3243226"
+    },
+    {
+      "id": "mirror_dungeon_selected_ego_gift",
+      "content": "22924423 2.5.8 5744"
+    },
+    {
+      "id": "ego_gift_upgrade_ui_title",
+      "content": "2761742 2.5.8 5744"
+    },
+    {
+      "id": "ego_gift_upgrade_confirm_format",
+      "content": "29273 <color=#F8C200>{0}</color> 4824 48 2761742 462 2.5.8 5744?"
+    },
+    {
+      "id": "ego_gift_upgrade_not_enough_cost_format",
+      "content": "586 7223 <color=#990000>{0}</color> 8832 4824 48 2761742 4672 2.5.8 5744."
+    },
+    {
+      "id": "ego_gift_combine_ui_title",
+      "content": "4622 2.5.8 5744"
+    },
+    {
+      "id": "combine",
+      "content": "4622"
+    },
+    {
+      "id": "selected_gift",
+      "content": "22924423 2.5.8 57442"
+    },
+    {
+      "id": "expectation",
+      "content": "9323744787"
+    },
+    {
+      "id": "ego_gift_combine_ui_main_text",
+      "content": "4622 462 22924423 2.5.8 57442?"
+    },
+    {
+      "id": "mirror_dungeon3_normal_reward_info",
+      "content": "783819"
+    },
+    {
+      "id": "mirror_dungeon3_hard_reward_info",
+      "content": "6133"
+    },
+    {
+      "id": "mirror_dungeon3_current_explore",
+      "content": "239983775:"
+    },
+    {
+      "id": "mirror_dungeon3_entrance_button_formation",
+      "content": "2777232"
+    },
+    {
+      "id": "mirror_dungeon3_entrance_button_start_buff",
+      "content": "2413423 66442"
+    },
+    {
+      "id": "mirror_dungeon3_entrance_hard_hint_before_release",
+      "content": "49213 41748 75 48 679848"
+    },
+    {
+      "id": "mirror_dungeon3_start_buff_summary_detail",
+      "content": "2688135/3241792"
+    },
+    {
+      "id": "mirror_dungeon3_start_buff_summary",
+      "content": "2688135"
+    },
+    {
+      "id": "mirror_dungeon3_start_buff_detail",
+      "content": "3241792"
+    },
+    {
+      "id": "ego_gift_sell_ui_title",
+      "content": "2299 2.5.8 5744"
+    },
+    {
+      "id": "sell",
+      "content": "2299"
+    },
+    {
+      "id": "guided_sell_ego_gift",
+      "content": "229244 462 2.5.8 5744 586 18693 9782 48 2299."
+    },
+    {
+      "id": "ego_gift_sell_confirm_format",
+      "content": "2299 [{0}] 483 {1} 4824?"
+    },
+    {
+      "id": "mirror_dungeon_3_start_buff_name",
+      "content": "2413423 66442 - 124319 8792248722"
+    },
+    {
+      "id": "mirror_dungeon_3_purchase_start_buff",
+      "content": "2753152 24132"
+    },
+    {
+      "id": "mirror_dungeon_give_up_getting_ego_gift_with_enemy_buff",
+      "content": "74 586 468822 48 48747762 1746864 17 2.5.8 5744, 1 317388 49883 6644 1799 62 22924423 7724213."
+    },
+    {
+      "id": "mirror_dungeon_shop_could_not_refresh",
+      "content": "417784 3243226"
+    },
+    {
+      "id": "mirror_dungeon_shop_change_formation_count",
+      "content": "4218 913474791742"
+    },
+    {
+      "id": "mirror_dungeon_exploring",
+      "content": "! 239983775 !"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_before",
+      "content": "624832 27435"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_3_normal",
+      "content": "783819 49883 {0}"
+    },
+    {
+      "id": "normal_difficulty_simple",
+      "content": "783819"
+    },
+    {
+      "id": "hard_difficulty_simple",
+      "content": "6133"
+    },
+    {
+      "id": "starchip_ui_difficulty_ratio_format",
+      "content": "\u203b 3744746945: {0} [x{1}]"
+    },
+    {
+      "id": "number_of_cleared_floors",
+      "content": "4921323 498832"
+    },
+    {
+      "id": "number_of_cleared_nodes",
+      "content": "4921323 78322"
+    },
+    {
+      "id": "number_of_starlight_nodes",
+      "content": "241397564 78322"
+    },
+    {
+      "id": "number_of_battles",
+      "content": "2748674232"
+    },
+    {
+      "id": "number_of_acquired_ego_gift",
+      "content": "14067323 2.5.8 57442"
+    },
+    {
+      "id": "choose_starting_ego_gift",
+      "content": "24134775 2.5.8 5744 468742"
+    },
+    {
+      "id": "rest_gauge",
+      "content": "3224 68762"
+    },
+    {
+      "id": "starlight_reward",
+      "content": "241397564"
+    },
+    {
+      "id": "battlepass_progress_reward",
+      "content": "9122 39 321133"
+    },
+    {
+      "id": "side_title_unable_ego_gift_upgrade",
+      "content": "417784 2761742"
+    },
+    {
+      "id": "side_content_not_have_any_ego_gift",
+      "content": "78 2.5.8 57442 81723."
+    },
+    {
+      "id": "side_content_ego_gift_is_not_upgradeable",
+      "content": "4672 2.5.8 5744 417784 62 27617423."
+    },
+    {
+      "id": "side_content_ego_gift_is_maximum_upgraded",
+      "content": "4672 2.5.8 5744 72 1932135 46995 27617423."
+    },
+    {
+      "id": "side_title_unable_ego_gift_combine",
+      "content": "417784 4622"
+    },
+    {
+      "id": "side_content_need_more_ego_gift",
+      "content": "586 7223 48 817 14 92124 2 2.5.8 57442."
+    },
+    {
+      "id": "side_content_need_lower_tier_ego_gift",
+      "content": "586 417 229244 8795 4723 3 83 98123 2.5.8 57442."
+    },
+    {
+      "id": "side_title_unable_ego_gift_sell",
+      "content": "417784 2299"
+    },
+    {
+      "id": "side_content_ego_gift_is_not_for_sale",
+      "content": "586 417784 2299 4672 2.5.8 5744."
+    },
+    {
+      "id": "mirror_dungeon_already_participated",
+      "content": "9134747914775"
+    },
+    {
+      "id": "mirror_dungeon_acquire_ego_gift_desc",
+      "content": "1406732 2.5.8 5744"
+    },
+    {
+      "id": "mirror_dungeon_acquire_enemy_buff",
+      "content": "88674775 437192"
+    },
+    {
+      "id": "mirror_dungeon3_entrance_hard_hint_after_release",
+      "content": "<Unlock Conditions>\n49213 4-54\n49213 873383 84 462 9182 783819 3744746945"
+    },
+    {
+      "id": "mirror_dungeon_reload_select_ego_gift_category",
+      "content": "3243226 (8742)"
+    },
+    {
+      "id": "mirror_dungeon_select_chip_effect",
+      "content": "1726 84 24132"
+    },
+    {
+      "id": "mirror_dungeon_select_chip_effect_desc_selected",
+      "content": "29273 {0} 241397564 48 14475142 462 22924423 244244 483 4672 873383 3675287 367.\n679222 586 3214475142 462 244244, 83 679222 586 3299242 5863 241397564, 462 22924423 244244 1799 62 1648814741995 1999723 6987 24134775 1 721 873383 3675287 367."
+    },
+    {
+      "id": "mirror_dungeon_select_chip_effect_desc_not_selected",
+      "content": "29273 241397564 48 14475142 2924719 2442442 483 4672 873383 3675287 367."
+    },
+    {
+      "id": "mirror_dungeon_atart_buff_activation",
+      "content": "14475142"
+    },
+    {
+      "id": "mirror_dungeon_atart_buff_diactivation",
+      "content": "3214475142"
+    },
+    {
+      "id": "mirrordungeon_unable_to_change_activation_buffs_when_running_dungeon",
+      "content": "586 417784 14475142 83 3214475142 5863 2413423 66442 16792 1 873383 3675287 367 72 77 93853222."
+    },
+    {
+      "id": "mirrordungeon_edit_start_buff_activation",
+      "content": "06748 2374"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_3_hard",
+      "content": "6133 49883 {0}"
+    },
+    {
+      "id": "mirror_dungeon_unable_to_modify_activation_of_start_buff_during_running",
+      "content": "586 417784 14475142 83 3214475142 5863 2413423 66442 16792 1 873383 3675287 367 72 77 93853222."
+    },
+    {
+      "id": "add_enemy_level",
+      "content": "27285 92529 69"
+    },
+    {
+      "id": "mirrordungeon_unable_to_change_activation_buffs_when_parent_buff_off",
+      "content": "586 417784 14475142 462 224873135 66442 16792 462 9378135 66442 132 32144751423."
+    },
+    {
+      "id": "mirrordungeon_purchase_buffs_when_parent_buff_off",
+      "content": "586 417784 2753152 24132 87 224873135 66442 16792 462 9378135 66442 132 32144751423."
+    },
+    {
+      "id": "side_content_already_owned_tier_ego_gift",
+      "content": "586 417 78 987523 864177 4614 4723 84 2.5.8 57442 571 '4622 5744' 4388 462 3224 24892."
+    },
+    {
+      "id": "mirror_dungoen_ego_gift_history_view_desc",
+      "content": "5721 3224."
+    },
+    {
+      "id": "side_content_ego_gift_is_unable_combine",
+      "content": "4672 2.5.8 5744 417784 62 46223."
+    }
+  ]
+}

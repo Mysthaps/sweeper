@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "railway_dungeon_save_formation",
+      "content": "2152 4218"
+    },
+    {
+      "id": "railway_dungeon_init_saved_stage_data",
+      "content": "32224"
+    },
+    {
+      "id": "railway_dungeon_init_saved_stage_data_desc",
+      "content": "32224 462 4633274 2414787 93853222\n173 324637 48 462 24142 78823714295 624832 27435?"
+    },
+    {
+      "id": "railway_dungeon_3_reward_condition_special_ticket",
+      "content": "\u203b 86417723 65 49213775 462 42387762 84 9772 3 1746 <color=#cd5e00>{0}</color> 46372 83 9222 48419 46372 624832\n<color=#003c3e>221287 3: 687 585152</color> 2732"
+    },
+    {
+      "id": "railway_dungeon_3_banner_reward_condition_1",
+      "content": "86417723 65 49213775 462 42387762 84 3243144787 3179115 9772 3"
+    },
+    {
+      "id": "railway_dungeon_3_banner_reward_condition_2",
+      "content": "86417723 65 49213775 462 42387762 84 9772 3 1746 {0} 46372 83 9222 48419 46372 624832 221287 3: 687 585152 2732"
+    },
+    {
+      "id": "railway_dungeon_before_enter_past_node_change_formation",
+      "content": "215775 5863 4218 9813864 1799 4889924295 32224 175 93853222\n8132 14423 5863 22924423 3224 2414787.\n\n2152 5863 4218 9813864 175115?"
+    },
+    {
+      "id": "railway_dungeon_3_retry_popup_init",
+      "content": "324637"
+    },
+    {
+      "id": "railway_dungeon_3_boss_accumulated_turn",
+      "content": "48419 46372"
+    },
+    {
+      "id": "railway_dungeon_3_unit_recovered",
+      "content": "69 173 29 6152 6227 32248323."
+    },
+    {
+      "id": "railway_dungeon_3_formation_saved",
+      "content": "5863 4218 9813864 612 6227 21523."
+    },
+    {
+      "id": "railway_dungeon_before_enter_past_node_battle",
+      "content": "32435775 17 1932135-4921323 2414787\n1799 4889924295 32224 175 93853222\n586 6152 8132 27742 4614 2414787.\n\n32435 462 2414787 175115?"
+    }
+  ]
+}

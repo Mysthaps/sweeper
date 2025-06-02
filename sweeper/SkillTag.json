@@ -1,0 +1,260 @@
+{
+  "dataList": [
+    {
+      "id": "OnSucceedAttack",
+      "name": "[87 674]"
+    },
+    {
+      "id": "WhenUse",
+      "name": "[87 622]"
+    },
+    {
+      "id": "WinDuel",
+      "name": "[49126 177]"
+    },
+    {
+      "id": "BeforeAttack",
+      "name": "[624832 144148]"
+    },
+    {
+      "id": "Wide",
+      "name": "[182]"
+    },
+    {
+      "id": "nxPostLine",
+      "name": "[{n} 77 43874]"
+    },
+    {
+      "id": "nxCenterLine",
+      "name": "[{n} 77 873392]"
+    },
+    {
+      "id": "nxBackLine",
+      "name": "[{n} 77 6148]"
+    },
+    {
+      "id": "CantIdentify",
+      "name": "[77372437877142]"
+    },
+    {
+      "id": "CRIMSON",
+      "name": "4378287"
+    },
+    {
+      "id": "SCARLET",
+      "name": "2413924"
+    },
+    {
+      "id": "AMBER",
+      "name": "18623"
+    },
+    {
+      "id": "SHAMROCK",
+      "name": "26183848"
+    },
+    {
+      "id": "AZURE",
+      "name": "12632"
+    },
+    {
+      "id": "INDIGO",
+      "name": "773758"
+    },
+    {
+      "id": "VIOLET",
+      "name": "578924"
+    },
+    {
+      "id": "WHITE",
+      "name": "16742"
+    },
+    {
+      "id": "BLACK",
+      "name": "69148"
+    },
+    {
+      "id": "EndSkill",
+      "name": "[14423 144148]"
+    },
+    {
+      "id": "StartBattle",
+      "name": "[488614 24134]"
+    },
+    {
+      "id": "DefeatDuel",
+      "name": "[49126 9822]"
+    },
+    {
+      "id": "OnSucceedAttackHead",
+      "name": "[62132 674]"
+    },
+    {
+      "id": "OnSucceedAttackTail",
+      "name": "[41792 674]"
+    },
+    {
+      "id": "OnSucceedEvade",
+      "name": "[87 25132]"
+    },
+    {
+      "id": "AlwaysUse",
+      "name": "[48724174]"
+    },
+    {
+      "id": "CantDuel",
+      "name": "[67491261692]"
+    },
+    {
+      "id": "EnemyKill",
+      "name": "[87 8799]"
+    },
+    {
+      "id": "EnemyKillFail",
+      "name": "[417923 8799]"
+    },
+    {
+      "id": "ReUse",
+      "name": "[87 32622]"
+    },
+    {
+      "id": "ReUseOnSucceedAttackHead",
+      "name": "[32622 - 62132 674]"
+    },
+    {
+      "id": "CriticalOnSucceedAttack",
+      "name": "[87 4374]"
+    },
+    {
+      "id": "StartDuel",
+      "name": "[49126 24134]"
+    },
+    {
+      "id": "EndBattle",
+      "name": "[4637 273]"
+    },
+    {
+      "id": "OnDefeatEvade",
+      "name": "[417923 25132]"
+    },
+    {
+      "id": "EndSkillHead",
+      "name": "[62132 144148 273]"
+    },
+    {
+      "id": "EndSkillTail",
+      "name": "[41792 144148 273]"
+    },
+    {
+      "id": "WinDuelAttackHead",
+      "name": "[62132 674 14423 49126 177]"
+    },
+    {
+      "id": "WinDuelAttack",
+      "name": "[674 14423 49126 177]"
+    },
+    {
+      "id": "CriticalActivated",
+      "name": "[87 4374]"
+    },
+    {
+      "id": "CriticalEndSkill",
+      "name": "[4374 144148 273]"
+    },
+    {
+      "id": "CantChangeTarget",
+      "name": "[413524 47323]"
+    },
+    {
+      "id": "TurnStartBattle",
+      "name": "[4637 24134]"
+    },
+    {
+      "id": "EndSkillAll",
+      "name": "[28799 273]"
+    },
+    {
+      "id": "WhenUse_Force",
+      "name": "<color=#26cfff>[87 622]</color>"
+    },
+    {
+      "id": "StartBattle_Force",
+      "name": "<color=#93f13e>[488614 24134]</color>"
+    },
+    {
+      "id": "TargetKill",
+      "name": "[87 413524 8799]"
+    },
+    {
+      "id": "CriticalTargetKill",
+      "name": "[87 4374 8799]"
+    },
+    {
+      "id": "BeforeUse",
+      "name": "[624832 622]"
+    },
+    {
+      "id": "DuelCounter",
+      "name": "[491261692 4867423]"
+    },
+    {
+      "id": "CantBreak",
+      "name": "[67632181692 4877]"
+    },
+    {
+      "id": "DuelGuard",
+      "name": "[491261692 56133]"
+    },
+    {
+      "id": "WhenUseEvade",
+      "name": "[87 25132 622]"
+    },
+    {
+      "id": "EndCoin",
+      "name": "[14423 4633274 4877 144148]"
+    },
+    {
+      "id": "CriticalEnemyTargetKillFail",
+      "name": "[87 4374 8799 4179 1517724 27285]"
+    },
+    {
+      "id": "CriticalEnemyTargetKill",
+      "name": "[87 4374 8799 1517724 27285]"
+    },
+    {
+      "id": "DefeatDuelAttack",
+      "name": "[674 14423 49126 9822]"
+    },
+    {
+      "id": "TargetKillFail",
+      "name": "[87 413524 8799 4179]"
+    },
+    {
+      "id": "AllyKill",
+      "name": "[87 1995 8799]"
+    },
+    {
+      "id": "AllyKillFail",
+      "name": "[87 1995 8799 4179]"
+    },
+    {
+      "id": "TabExplain",
+      "name": ""
+    },
+    {
+      "id": "UnBrokenCoinOnSucceedAttack",
+      "name": "[87 674 1746864 43148775]"
+    },
+    {
+      "id": "BeforeHit",
+      "name": "[624832 5244775 674]"
+    },
+    {
+      "id": "OnDirectAttack",
+      "name": "[87 678998223 144148]"
+    },
+    {
+      "id": "ReUseOnSucceedAttack",
+      "name": "[32622 - 87 674]"
+    }
+  ]
+}

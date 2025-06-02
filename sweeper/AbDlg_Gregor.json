@@ -1,0 +1,116 @@
+{
+  "dataList": [
+    {
+      "id": 1,
+      "personalityid": 11201,
+      "voiceFile": 0,
+      "teller": "532583",
+      "dialog": "86, 4672 2686937\u20194 62 1 675 3219 14 199, 666?",
+      "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
+    },
+    {
+      "id": 2,
+      "personalityid": 11201,
+      "voiceFile": 0,
+      "teller": "532583",
+      "dialog": "98882 9782 1 674 84 1 684623, 664, 26\u2026 93861695 381692.",
+      "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
+    },
+    {
+      "id": 3,
+      "personalityid": 11201,
+      "voiceFile": 0,
+      "teller": "532583",
+      "dialog": "1299\u2026 784 321995 4229775 74, 664 74 586 215 28.",
+      "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
+    },
+    {
+      "id": 4,
+      "personalityid": 11201,
+      "voiceFile": 0,
+      "teller": "532583",
+      "dialog": "72 4614 17 83323? 74 586\u201932 7624 128775, 4627 7 2655224 2882872 2922.",
+      "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
+    },
+    {
+      "id": 5,
+      "personalityid": 11201,
+      "voiceFile": 0,
+      "teller": "532583",
+      "dialog": "\u202628 586 1232 462 8773 84 6822 48 524 4315523 65 46273 817 827.",
+      "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
+    },
+    {
+      "id": 6,
+      "personalityid": 11201,
+      "voiceFile": 0,
+      "teller": "532583",
+      "dialog": "68, 584 96485.",
+      "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
+    },
+    {
+      "id": 7,
+      "personalityid": 11201,
+      "voiceFile": 0,
+      "teller": "532583",
+      "dialog": "3688 52916427. 1174 1 475?",
+      "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
+    },
+    {
+      "id": 8,
+      "personalityid": 11202,
+      "voiceFile": 0,
+      "teller": "976 532583",
+      "dialog": "",
+      "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
+    },
+    {
+      "id": 9,
+      "personalityid": 11202,
+      "voiceFile": 0,
+      "teller": "976 532583",
+      "dialog": "",
+      "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
+    },
+    {
+      "id": 10,
+      "personalityid": 11202,
+      "voiceFile": 0,
+      "teller": "976 532583",
+      "dialog": "",
+      "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
+    },
+    {
+      "id": 11,
+      "personalityid": 11202,
+      "voiceFile": 0,
+      "teller": "976 532583",
+      "dialog": "",
+      "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
+    },
+    {
+      "id": 12,
+      "personalityid": 11202,
+      "voiceFile": 0,
+      "teller": "976 532583",
+      "dialog": "",
+      "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
+    },
+    {
+      "id": 13,
+      "personalityid": 11202,
+      "voiceFile": 0,
+      "teller": "976 532583",
+      "dialog": "",
+      "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
+    },
+    {
+      "id": 14,
+      "personalityid": 11202,
+      "voiceFile": 0,
+      "teller": "976 532583",
+      "dialog": "",
+      "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
+    }
+  ]
+}

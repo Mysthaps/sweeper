@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "id": "LoseRatioHpOnly",
+      "content": "<color=#ebcaa2>{conditions}{targets}</color> 41822 <color=#e30000>{amount}% 69</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_901070401",
+      "content": "5177 <color=#f8c200>2 13146 2.5.8 322863422</color>\n5177 <color=#f8c200>2 93732 2.5.8 322863422</color>"
+    },
+    {
+      "id": "Choice_901070402",
+      "content": "5177 <color=#f8c200>2 9624 2.5.8 322863422</color>\n5177 <color=#f8c200>2 59644875 2.5.8 322863422</color>"
+    },
+    {
+      "id": "Choice_901070403",
+      "content": "5177 <color=#f8c200>2 59888 2.5.8 322863422</color>\n5177 <color=#f8c200>2 2755 2.5.8 322863422</color>"
+    },
+    {
+      "id": "Choice_901070404",
+      "content": "199 2777232 5177 <color=#e30000>+4 3694632 48674</color> 14 462 7234 488614 24134"
+    },
+    {
+      "id": "Choice_901070405",
+      "content": "199 2777232 5177 <color=#e30000>4 3694632 173 +4 3694632 48674</color> 14 462 7234 488614 24134"
+    }
+  ]
+}

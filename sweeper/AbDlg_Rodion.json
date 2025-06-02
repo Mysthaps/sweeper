@@ -1,0 +1,116 @@
+{
+  "dataList": [
+    {
+      "id": 1,
+      "personalityid": 10902,
+      "voicefile": 0,
+      "teller": "86388688 383787",
+      "dialog": "9888, 7\u201999 989 844 85 6173 74 7 2882681 387\u20194 8182 74. 3219?",
+      "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
+    },
+    {
+      "id": 2,
+      "personalityid": 10902,
+      "voicefile": 0,
+      "teller": "86388688 383787",
+      "dialog": "462 8332 132 7742. 92152 74 48 82.",
+      "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
+    },
+    {
+      "id": 3,
+      "personalityid": 10902,
+      "voicefile": 0,
+      "teller": "86388688 383787",
+      "dialog": "2632, 165 784. 586 43624 82, 5216?",
+      "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
+    },
+    {
+      "id": 4,
+      "personalityid": 10902,
+      "voicefile": 0,
+      "teller": "86388688 383787",
+      "dialog": "4672 87564 4182 1 4777775 674 84 9648 48 9699 844.",
+      "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
+    },
+    {
+      "id": 5,
+      "personalityid": 10902,
+      "voicefile": 0,
+      "teller": "86388688 383787",
+      "dialog": "92152 82 864 84 4672, 8\u2019815?",
+      "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
+    },
+    {
+      "id": 6,
+      "personalityid": 10902,
+      "voicefile": 0,
+      "teller": "86388688 383787",
+      "dialog": "7 624 462 846232 186931 5872 6624.",
+      "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
+    },
+    {
+      "id": 7,
+      "personalityid": 10902,
+      "voicefile": 0,
+      "teller": "86388688 383787",
+      "dialog": "4841995 113723 51.",
+      "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
+    },
+    {
+      "id": 8,
+      "personalityid": 10901,
+      "voicefile": 0,
+      "teller": "383787",
+      "dialog": "9888, 7\u201999 989 844 85 6173 74 7 2882681 387\u20194 8182 74. 3219?",
+      "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
+    },
+    {
+      "id": 9,
+      "personalityid": 10901,
+      "voicefile": 0,
+      "teller": "383787",
+      "dialog": "462 8332 132 7742. 92152 74 48 82.",
+      "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
+    },
+    {
+      "id": 10,
+      "personalityid": 10901,
+      "voicefile": 0,
+      "teller": "383787",
+      "dialog": "2632, 165 784. 586 43624 82, 5216?",
+      "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
+    },
+    {
+      "id": 11,
+      "personalityid": 10901,
+      "voicefile": 0,
+      "teller": "383787",
+      "dialog": "4672 87564 4182 1 4777775 674 84 9648 48 9699 844.",
+      "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
+    },
+    {
+      "id": 12,
+      "personalityid": 10901,
+      "voicefile": 0,
+      "teller": "383787",
+      "dialog": "92152 82 864 84 4672, 8\u2019815?",
+      "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
+    },
+    {
+      "id": 13,
+      "personalityid": 10901,
+      "voicefile": 0,
+      "teller": "383787",
+      "dialog": "7 624 462 846232 186931 5872 6624.",
+      "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
+    },
+    {
+      "id": 14,
+      "personalityid": 10901,
+      "voicefile": 0,
+      "teller": "383787",
+      "dialog": "4841995 113723 51.",
+      "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
+    }
+  ]
+}

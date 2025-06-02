@@ -1,0 +1,560 @@
+{
+  "dataList": [
+    {
+      "id": 2110511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6897315",
+          "abName": "21738996",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4375523 432883 66324"
+                },
+                {
+                  "desc": "[EndSkill] 19995 1 '318152 69' 483 462 14477745 1746 462 6756224 322871742 48674 48 2 199722 1746 462 92124 29"
+                },
+                {
+                  "desc": "[EndSkill] 6219 20 29 483 2 199722 1746 462 92124 29"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "6897315",
+          "abName": "21738996",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4375523 432883 66324"
+                },
+                {
+                  "desc": "[EndSkill] 19995 1 '318152 69' 483 462 14477745 1746 462 6756224 322871742 48674 48 3 199722 1746 462 92124 29"
+                },
+                {
+                  "desc": "[EndSkill] 6219 20 29 483 3 199722 1746 462 92124 29"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "6897315",
+          "abName": "21738996",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4375523 432883 66324"
+                },
+                {
+                  "desc": "[EndSkill] 19995 1 '318152 69' 483 462 14477745 1746 462 6756224 322871742 48674 48 4 199722 1746 462 92124 29"
+                },
+                {
+                  "desc": "[EndSkill] 6219 20 29 483 4 199722 1746 462 92124 29"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6897315",
+          "abName": "21738996",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 4672 6774 98222 10% 69",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 413524 98222 10 29"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 432883 66324"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 7749744 1 431579745 48 462 14477745 1746 462 6756224 322871742 48674"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "6897315",
+          "abName": "21738996",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 4672 6774 98222 10% 69",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 413524 98222 10 29"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 432883 66324"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 7749744 2 431579745 483 462 14477745 1746 462 6756224 322871742 48674"
+                },
+                {
+                  "desc": "[EndSkillTail] 5177 1 '318152 69' 48 462 14477745 1746 462 6756224 322871742 48674"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "6897315",
+          "abName": "21738996",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 4672 6774 98222 10% 69",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 413524 98222 10 29"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 432883 66324"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 431579745 483 462 14477745 1746 462 6756224 322871742 48674"
+                },
+                {
+                  "desc": "[EndSkillTail] 5177 1 '318152 69' 48 462 14477745 1746 462 6756224 322871742 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "67732",
+          "abName": "462 8775 77 67732",
+          "desc": "[BeforeAttack] 5177 (6756224 93732 83 29846 32287. - 2) 148 127564 (813 2)\n[EndSkill] 483 3 46372, 9822 10 29 14 4637 273",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [Switch_Vibration] 7748 [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "67732",
+          "abName": "462 8775 77 67732",
+          "desc": "[BeforeAttack] 5177 (6756224 93732 83 29846 32287. - 2) 148 127564 (813 2)\n188674 84 2415523 463226893 317223 65 [VibrationExplosion] 774321222 65 50%\n[EndSkill] 483 3 46372, 9822 9 29 14 4637 273",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [Switch_Vibration] 7748 [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "67732",
+          "abName": "462 8775 77 67732",
+          "desc": "[BeforeAttack] 5177 (6756224 93732 83 29846 32287. - 2) 148 127564 (813 2)\n188674 84 2415523 463226893 317223 65 [VibrationExplosion] 774321222 65 100%\n[EndSkill] 483 3 46372, 9822 8 29 14 4637 273",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 6 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [Switch_Vibration] 7748 [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "67732",
+          "abName": "462 8775 77 67732",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 5177 (6756224 93732 83 29846 32287. - 2) 148 127564 (813 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [Switch_Vibration] 7748 [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "67732",
+          "abName": "462 8775 77 67732",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 5177 (6756224 93732 83 29846 32287. - 2) 148 127564 (813 2)\n188674 84 2415523 463226893 317223 65 [VibrationExplosion] 774321222 65 50%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [Switch_Vibration] 7748 [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 4375523 [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "67732",
+          "abName": "462 8775 77 67732",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 5177 (6756224 93732 83 29846 32287. - 2) 148 127564 (813 2)\n188674 84 2415523 463226893 317223 65 [VibrationExplosion] 774321222 65 50%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 6 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +3 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [Switch_Vibration] 7748 [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 4375523 [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 4375523 [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "378272787 26323323",
+          "abName": "1151133 912227523",
+          "desc": "[BeforeAttack] 14 4+ 6756224 32287., 5177 +1 148 127564\n[BeforeAttack] 14 9222 4617 10 [Charge] 48674, 4872682 15% 69 48 5177 +10 [Charge] 48674 (4672 318152 3822 784 323642 4672 6774'2 69 48 0; 3867323 3817)\n[BeforeAttack] 4872682 69 48 40 [Charge] 48674 173 3219 +1% 318152 483 25235 [Charge] 48674 48726823 (813 10%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 ([Charge] - 1) [DimensionRift] (813 1)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [Agility] 173 1 [ChargeLoad] 7234 4637 483 25235 [Charge] (813 1 84 2146 923 28799)"
+                },
+                {
+                  "desc": "[EnemyKill] 5177 +2 [Charge] 48674"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "378272787 26323323",
+          "abName": "1151133 912227523",
+          "desc": "[BeforeAttack] 14 <style=\"highlight\">3</style>+ 6756224 32287., 5177 +1 148 127564\n[BeforeAttack] 14 9222 4617 10 [Charge] 48674, 4872682 15% 69 48 5177 +10 [Charge] 48674 (4672 318152 3822 784 323642 4672 6774'2 69 48 0; 3867323 3817)\n[BeforeAttack] 4872682 69 48 40 [Charge] 48674 173 3219 +1% 318152 483 25235 [Charge] 48674 48726823 (813 <style=\"highlight\">20</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 ([Charge] - 1) [DimensionRift] (813 <style=\"highlight\">2</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [Agility] 173 1 [ChargeLoad] 7234 4637 483 25235 [Charge] (813 <style=\"highlight\">2</style> 84 2146 923 28799)"
+                },
+                {
+                  "desc": "[EnemyKill] 5177 +2 [Charge] 48674<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "378272787 26323323",
+          "abName": "1151133 912227523",
+          "desc": "[BeforeAttack] 5177 <style=\"highlight\">(6756224 32287. - 2)</style> 148 127564 <style=\"highlight\">(813 2)</style>\n[BeforeAttack] 14 9222 4617 10 [Charge] 48674, 4872682 <style=\"highlight\">10</style>% 69 48 5177 +10 [Charge] 48674 (4672 318152 3822 784 323642 4672 6774'2 69 48 0; 3867323 3817)\n[BeforeAttack] 4872682 69 48 40 [Charge] 48674 173 3219 +1% 318152 483 25235 [Charge] 48674 48726823 (813 <style=\"highlight\">30</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 ([Charge] - 1) [DimensionRift] (813 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [Agility] 173 1 [ChargeLoad] 7234 4637 483 25235 [Charge] (813 <style=\"highlight\">3</style> 84 2146 923 28799)"
+                },
+                {
+                  "desc": "[EnemyKill] 5177 +2 [Charge] 48674<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "378272787 26323323",
+          "abName": "1151133 912227523",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 14 4+ 6756224 32287., 5177 +1 148 127564\n[BeforeAttack] 14 9222 4617 8137868 [Charge] 48674, 4872682 (8722775 [Charge] 48674 3 1.5)% 69 48 5177 69 48 813 [Charge] 48674 (813 [Charge] 48674 8641771692 4388 4672 244244: 30. 4672 318152 3822 784 323642 4672 6774'2 69 48 0; 3867323 3817)\n[BeforeAttack] 4872682 69 48 40 [Charge] 48674 173 3219 +2% 318152 483 25235 [Charge] 48674 48726823 (813 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 ([Charge] - 1) [DimensionRift] (813 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [Agility] 173 1 [ChargeLoad] 7234 4637 483 25235 [Charge] (813 2 84 2146 923 28799)"
+                },
+                {
+                  "desc": "[EnemyKill] 5177 +2 [Charge] 48674"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "378272787 26323323",
+          "abName": "1151133 912227523",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 14 4+ 6756224 32287., 5177 +1 148 127564\n[BeforeAttack] 14 9222 4617 8137868 [Charge] 48674, 4872682 (8722775 [Charge] 48674 3 <style=\"highlight\">1.2</style>)% 69 48 5177 69 48 813 [Charge] 48674 (813 [Charge] 48674 8641771692 4388 4672 244244: 30. 4672 318152 3822 784 323642 4672 6774'2 69 48 0; 3867323 3817)\n[BeforeAttack] 4872682 69 48 40 [Charge] 48674 173 3219 +2% 318152 483 25235 [Charge] 48674 48726823 (813 <style=\"highlight\">40</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 ([Charge] - 1) [DimensionRift] (813 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [Agility] 173 1 [ChargeLoad] 7234 4637 483 25235 [Charge] (813 2 84 2146 923 28799)"
+                },
+                {
+                  "desc": "[EnemyKill] 5177 +2 [Charge] 48674<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "378272787 26323323",
+          "abName": "1151133 912227523",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 5177 <style=\"highlight\">(6756224 32287. - 2)</style> 148 127564 <style=\"highlight\">(813 2)</style>\n[BeforeAttack] 14 9222 4617 8137868 [Charge] 48674, 4872682 <style=\"highlight\">(8722775 [Charge] 48674)%</style> 69 48 5177 69 48 813 [Charge] 48674 (813 [Charge] 48674 8641771692 4388 4672 244244: 30. 4672 318152 3822 784 323642 4672 6774'2 69 48 0; 3867323 3817)\n[BeforeAttack] 4872682 69 48 40 [Charge] 48674 173 3219 +2% 318152 483 25235 [Charge] 48674 48726823 (813 <style=\"highlight\">60</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 ([Charge] - 1) [DimensionRift] (813 <style=\"highlight\">4</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [Agility] 173 1 [ChargeLoad] 7234 4637 483 25235 [Charge] (813 <style=\"highlight\">3</style> 84 2146 923 28799)"
+                },
+                {
+                  "desc": "[EnemyKill] 5177 +2 [Charge] 48674<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "81574 669924",
+          "abName": "323 4327246\u00fc42",
+          "desc": "3219 +1% 318152 483 25235 3 [Combustion] 87 413524 (813 10%)\n[BeforeAttack] 14 0 [FreischutzShotCount], 5177 1 [FreischutzShotCount].\n- [FreischutzShotCount] 51962 3242387722 462 669924 48 4732.\n\u00b7 [FreishutzOutisEgoBullet_1st]\n\u00b7 [FreishutzOutisEgoBullet_2nd]\n\u00b7 [FreishutzOutisEgoBullet_3rd]\n\u00b7 [FreishutzOutisEgoBullet_4th]\n\u00b7 [FreishutzOutisEgoBullet_5th]\n\u00b7 [FreishutzOutisEgoBullet_6th]\n\u00b7 [FreishutzOutisEgoBullet_7th]\n[EndSkill] 5177 [FreischutzShotCount] 20619 48 462 6756224 32287. (877. 1, 813 4)\n[EndSkill] 74 462 8177 413524 72 32421423, 7749744 2 [DarkFlame] 1517724 199 2728722 1746 [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [Combustion] 20619 48 [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [DarkFlame] 20619 48 [FreischutzShotCount] (8742 923 4637 483 2146 6774)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "81574 669924",
+          "abName": "323 4327246\u00fc42",
+          "desc": "3219 +<style=\"highlight\">2</style>% 318152 483 25235 3 [Combustion] 87 413524 (813 <style=\"highlight\">20</style>%)\n[BeforeAttack] 14 0 [FreischutzShotCount], 5177 1 [FreischutzShotCount].\n- [FreischutzShotCount] 51962 3242387722 462 669924 48 4732.\n\u00b7 [FreishutzOutisEgoBullet_1st]\n\u00b7 [FreishutzOutisEgoBullet_2nd]\n\u00b7 [FreishutzOutisEgoBullet_3rd]\n\u00b7 [FreishutzOutisEgoBullet_4th]\n\u00b7 [FreishutzOutisEgoBullet_5th]\n\u00b7 [FreishutzOutisEgoBullet_6th]\n\u00b7 [FreishutzOutisEgoBullet_7th]\n[EndSkill] 5177 [FreischutzShotCount] 20619 48 462 6756224 32287. (877. 1, 813 4)\n[EndSkill] 74 462 8177 413524 72 32421423, 7749744 <style=\"highlight\">3</style> [DarkFlame] 1517724 199 2728722 1746 [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [Combustion] 20619 48 [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [DarkFlame] 20619 48 [FreischutzShotCount] (8742 923 4637 483 2146 6774)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "81574 669924",
+          "abName": "323 4327246\u00fc42",
+          "desc": "3219 +<style=\"highlight\">3</style>% 318152 483 25235 3 [Combustion] 87 413524 (813 <style=\"highlight\">30</style>%)\n[BeforeAttack] 14 0 [FreischutzShotCount], 5177 1 [FreischutzShotCount].\n- [FreischutzShotCount] 51962 3242387722 462 669924 48 4732.\n\u00b7 [FreishutzOutisEgoBullet_1st]\n\u00b7 [FreishutzOutisEgoBullet_2nd]\n\u00b7 [FreishutzOutisEgoBullet_3rd]\n\u00b7 [FreishutzOutisEgoBullet_4th]\n\u00b7 [FreishutzOutisEgoBullet_5th]\n\u00b7 [FreishutzOutisEgoBullet_6th]\n\u00b7 [FreishutzOutisEgoBullet_7th]\n[EndSkill] 5177 [FreischutzShotCount] 20619 48 462 6756224 32287. (877. 1, 813 4)\n[EndSkill] 74 462 8177 413524 72 32421423, 7749744 <style=\"highlight\">4</style> [DarkFlame] 1517724 199 2728722 1746 [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [Combustion] 20619 48 [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [DarkFlame] 20619 48 [FreischutzShotCount] (8742 923 4637 483 2146 6774)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "81574 669924",
+          "abName": "323 4327246\u00fc42",
+          "desc": "[CantIdentify]\n4135242 31738895\n3219 +1% 318152 483 25235 3 [Combustion] 87 413524 (813 10%)\n[BeforeAttack] 14 0 [FreischutzShotCount], 5177 1 [FreischutzShotCount].\n- [FreischutzShotCount] 51962 3242387722 462 669924 48 4732.\n\u00b7 [FreishutzOutisEgoBullet_1st]\n\u00b7 [FreishutzOutisEgoBullet_2nd]\n\u00b7 [FreishutzOutisEgoBullet_3rd]\n\u00b7 [FreishutzOutisEgoBullet_4th]\n\u00b7 [FreishutzOutisEgoBullet_5th]\n\u00b7 [FreishutzOutisEgoBullet_6th]\n\u00b7 [FreishutzOutisEgoBullet_7th]\n[EndSkill] 5177 [FreischutzShotCount] 20619 48 462 6756224 32287. (877. 1, 813 4)\n[EndSkill] 74 462 8177 413524 72 32421423, 7749744 3 [DarkFlame] 1517724 199 2728722 1746 [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [Combustion] 20619 48 [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [DarkFlame] 20619 48 [FreischutzShotCount] (8742 923 4637 483 2146 6774)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "81574 669924",
+          "abName": "323 4327246\u00fc42",
+          "desc": "[CantIdentify]\n4135242 31738895\n3219 +<style=\"highlight\">2</style>% 318152 483 25235 3 [Combustion] 87 413524 (813 <style=\"highlight\">20</style>%)\n[BeforeAttack] 14 0 [FreischutzShotCount], 5177 1 [FreischutzShotCount].\n- [FreischutzShotCount] 51962 3242387722 462 669924 48 4732.\n\u00b7 [FreishutzOutisEgoBullet_1st]\n\u00b7 [FreishutzOutisEgoBullet_2nd]\n\u00b7 [FreishutzOutisEgoBullet_3rd]\n\u00b7 [FreishutzOutisEgoBullet_4th]\n\u00b7 [FreishutzOutisEgoBullet_5th]\n\u00b7 [FreishutzOutisEgoBullet_6th]\n\u00b7 [FreishutzOutisEgoBullet_7th]\n[EndSkill] 5177 [FreischutzShotCount] 20619 48 462 6756224 32287. (877. 1, 813 4)\n[EndSkill] 74 462 8177 413524 72 32421423, 7749744 <style=\"highlight\">5</style> [DarkFlame] 1517724 199 2728722 1746 [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [Combustion] 20619 48 [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +([FreischutzShotCount] / 3) [Combustion] 48674 (3867323 3817)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [DarkFlame] 20619 48 [FreischutzShotCount] (8742 923 4637 483 2146 6774)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "81574 669924",
+          "abName": "323 4327246\u00fc42",
+          "desc": "[CantIdentify]\n4135242 31738895\n3219 +<style=\"highlight\">3</style>% 318152 483 25235 3 [Combustion] 87 413524 (813 <style=\"highlight\">30</style>%)\n[BeforeAttack] 14 0 [FreischutzShotCount], 5177 1 [FreischutzShotCount].\n- [FreischutzShotCount] 51962 3242387722 462 669924 48 4732.\n\u00b7 [FreishutzOutisEgoBullet_1st]\n\u00b7 [FreishutzOutisEgoBullet_2nd]\n\u00b7 [FreishutzOutisEgoBullet_3rd]\n\u00b7 [FreishutzOutisEgoBullet_4th]\n\u00b7 [FreishutzOutisEgoBullet_5th]\n\u00b7 [FreishutzOutisEgoBullet_6th]\n\u00b7 [FreishutzOutisEgoBullet_7th]\n[EndSkill] 5177 [FreischutzShotCount] 20619 48 462 6756224 32287. (877. 1, 813 4)\n[EndSkill] 74 462 8177 413524 72 32421423, 7749744 <style=\"highlight\">7</style> [DarkFlame] 1517724 199 2728722 1746 [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [Combustion] 20619 48 [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +([FreischutzShotCount] / <style=\"highlight\">2</style>) [Combustion] 48674 (3867323 3817)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [DarkFlame] 20619 48 [FreischutzShotCount] (8742 923 4637 483 2146 6774)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

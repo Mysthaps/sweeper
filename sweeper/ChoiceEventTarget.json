@@ -1,0 +1,56 @@
+{
+  "dataList": [
+    {
+      "id": "Ally",
+      "content": "43727395 67742"
+    },
+    {
+      "id": "RandomAlly",
+      "content": "317388 43727395 67742"
+    },
+    {
+      "id": "EveryAlly",
+      "content": "199 199722"
+    },
+    {
+      "id": "EveryEnemy",
+      "content": "199 2728722"
+    },
+    {
+      "id": "ChosenPersonality",
+      "content": "462 22924423 73274745"
+    },
+    {
+      "id": "HighestHpAlly",
+      "content": "43727395 67742 1746 462 8824 69"
+    },
+    {
+      "id": "LowestHpAlly",
+      "content": "43727395 67742 1746 462 92124 69"
+    },
+    {
+      "id": "HighestMpAlly",
+      "content": "43727395 67742 1746 462 6756224 29"
+    },
+    {
+      "id": "LowestMpAlly",
+      "content": "43727395 67742 1746 462 981224 29"
+    },
+    {
+      "id": "NotFullHpAlly",
+      "content": "43727395 67742 16822 69 72 784 4699"
+    },
+    {
+      "id": "NotAffectedAlly",
+      "content": "199722 6714424423 65 93257862 2442442"
+    },
+    {
+      "id": "LowestHpRatioAlly",
+      "content": "1995 1746 462 981224 69 9234274152"
+    },
+    {
+      "id": "Every",
+      "content": "199"
+    }
+  ]
+}

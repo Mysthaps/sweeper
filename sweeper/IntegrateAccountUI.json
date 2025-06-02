@@ -1,0 +1,104 @@
+{
+  "dataList": [
+    {
+      "id": "receive_integrate_account_code",
+      "content": "2273 82352 4832"
+    },
+    {
+      "id": "receive_integrate_account_code_description",
+      "content": "14423 324275775 5863 4832, 992122 8182 2632 48 48899242 462 9384222 624832 74 2397322."
+    },
+    {
+      "id": "request_integrate_account_code",
+      "content": "3206224 4832"
+    },
+    {
+      "id": "input_integrate_account_code",
+      "content": "82352 4832 77964"
+    },
+    {
+      "id": "input_code",
+      "content": "27423 4832"
+    },
+    {
+      "id": "integrate_account_code",
+      "content": "1448674 823523 4832"
+    },
+    {
+      "id": "input_integrate_account_code_description",
+      "content": "992122 27423 5863 673 173 462 93857323 4832."
+    },
+    {
+      "id": "unable_to_integrate_account",
+      "content": "48693 784 82352 1448674."
+    },
+    {
+      "id": "not_exist_integrate_code",
+      "content": "462 82352 4832 3822 784 23724."
+    },
+    {
+      "id": "select_account_for_integrate",
+      "content": "992122 229244 17 1448674 48 82352."
+    },
+    {
+      "id": "current_account",
+      "content": "4633274 1448674"
+    },
+    {
+      "id": "new_account",
+      "content": "721 1448674"
+    },
+    {
+      "id": "warning_none_integrate_account_removed",
+      "content": "\u203b 462 6722924423 1448674 1799 62 3292423."
+    },
+    {
+      "id": "ask_to_integrate_account",
+      "content": "82352 3141 48 462 22924423 1448674?"
+    },
+    {
+      "id": "ask_to_integrate_account_warning",
+      "content": "82352 3141 48 462 22924423 1448674?"
+    },
+    {
+      "id": "receiving_integrate_account_code",
+      "content": "2273775 4832\u2026"
+    },
+    {
+      "id": "success_integrate_account_message",
+      "content": "1448674 3141 823523 264422246995."
+    },
+    {
+      "id": "warning_before_integrate",
+      "content": "<color=red>462 6722924423 1448674 1799 62 3292423.</color>"
+    },
+    {
+      "id": "link_error_link_failed",
+      "content": "417784 82352"
+    },
+    {
+      "id": "link_error_expired",
+      "content": "462 82352 4832 612 2397323."
+    },
+    {
+      "id": "link_error",
+      "content": "417923 48 774253142 1448674 3141.\n586 417784 82352 3141 1746 17 1448674 84 462 2182 99144838 83 1 56224 1448674."
+    },
+    {
+      "id": "input_unlink_account",
+      "content": "679778 14486742"
+    },
+    {
+      "id": "alarm_unlink_account",
+      "content": "1448674 67977823"
+    },
+    {
+      "id": "unlink_account_ask_title",
+      "content": "679778 14486742"
+    },
+    {
+      "id": "unlink_account_ask_content",
+      "content": "679778 462 489981775 14486742.\n8742 586 679778, 586 1799 784 62 1692 48 679778 15177 483 {0} 3152."
+    }
+  ]
+}

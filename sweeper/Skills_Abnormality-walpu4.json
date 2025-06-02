@@ -1,0 +1,258 @@
+{
+  "dataList": [
+    {
+      "id": 836301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6732324173775",
+          "desc": "74 413524 612 10- 29, 49126 98123 +1\n[WhenUse] 5177 1 [VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9234294787",
+          "desc": "74 413524 612 10- 29, 49126 98123 +1\n[WhenUse] 5177 2 [VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [VioletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "219514787",
+          "desc": "74 413524 612 10- 29, 49126 98123 +1\n[WhenUse] 5177 1 [VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [VioletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "1614 72 7748893262727692",
+          "desc": "[WhenUse] 5177 2 [VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "32415",
+          "desc": "[CantDuel]\n[EndSkill] 3722",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [VioletTakeDamageUp] 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 3219 10~14 29 318152"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "82345",
+          "desc": "74 413524 612 20- 29, 49126 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [VioletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9852",
+          "desc": "74 413524 612 20- 29, 49126 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [VioletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4974823775 595962 84 6732324173775",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [MentalCrack]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4974823775 595962 84 6732324173775",
+          "desc": "74 413524 612 20- 29, 49126 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [VioletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "1614 72 7748893262727692",
+          "desc": "[WhenUse] 5177 2 [Protection]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "3626775 1382 84 3224",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3219 100 69 318152"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

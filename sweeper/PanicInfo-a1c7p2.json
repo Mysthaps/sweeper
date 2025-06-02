@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": 1030,
+      "panicName": "637392 84 77679745",
+      "lowMoraleDescription": "4637 24134: 5177 1 [Enhancement] 173 3 [DefenseDown]. 4182 5 29 14 4637 273.",
+      "panicDescription": "4637 24134: 5177 2 [Enhancement] 173 6 [DefenseDown]. 6219 10 29 14 4637 273."
+    },
+    {
+      "id": 9996,
+      "panicName": "468372",
+      "lowMoraleDescription": "87 49126 177, 5177 1 [AttackDmgUp]",
+      "panicDescription": "87 49126 177, 5177 1 [AttackDmgUp]. 14 4637 273, 5177 2 [ParryingResultUp] 7234 4637."
+    }
+  ]
+}

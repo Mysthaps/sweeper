@@ -1,0 +1,108 @@
+{
+  "dataList": [
+    {
+      "id": "hells_chicken_bonus_description",
+      "content": "363775 462 25274, 615775 462 972423 7327474722 173 2.5.8 87 5863 4218 <color=#f8c200>774321222 462 188674 84 [68755 99626722] 213723</color>."
+    },
+    {
+      "id": "hells_chicken_bonus_popup_title",
+      "content": "25274 68762 67742"
+    },
+    {
+      "id": "hells_chicken_event_panel_stage",
+      "content": "674 69 462 241522!"
+    },
+    {
+      "id": "hells_chicken_event_panel_story_title",
+      "content": "3.2."
+    },
+    {
+      "id": "hells_chicken_event_panel_story_desc",
+      "content": "(3211446 24835)"
+    },
+    {
+      "id": "hells_chicken_doll_name",
+      "content": "68755 99626"
+    },
+    {
+      "id": "hells_chicken_reward_exchange_counter",
+      "content": "486987 43132-77"
+    },
+    {
+      "id": "hells_chicken_additional_effect_desc",
+      "content": "25274 7327474722 173 2.5.8 87 462 4218\n68824 462 1874. 84 [68755 99626722] 213723."
+    },
+    {
+      "id": "hells_chicken_reward_event_main_phrase",
+      "content": "2676875\u20192 <color=#205925>613 & 435232</color> <color=#ebcaa2>4674819198821!</color>"
+    },
+    {
+      "id": "hells_chicken_reward_event_phrase_0",
+      "content": "\u203b 992122 3224 1226323 4614 199 8214 6223 14 2676875\u20192 72 784 3237523 4388 8 4839\u20192 27756913745."
+    },
+    {
+      "id": "hells_chicken_reward_event_phrase_1",
+      "content": "199 4672 24644 69 483 53162?! 462 81723\u20192 5872 464888!!!"
+    },
+    {
+      "id": "hells_chicken_reward_event_phrase_2",
+      "content": "2924719\n4674827 486987"
+    },
+    {
+      "id": "hells_chicken_reward_event_description",
+      "content": "49213 6299\u20192 4674827 25274 241522, 8177 24835 241522, 83 36752872 48 2137 <color=#990000>[68755 99626722]</color>.\n\n586 417 323228 5137862 3211332 4388 462 <color=#990000>[486987 43132-77]</color> 61223 87 462 768623 84 <color=#990000>[68755 99626722]</color> 586 6152."
+    },
+    {
+      "id": "hells_chicken_main_event_banner_unlock_condition",
+      "content": "49213 3-22 48 679848"
+    },
+    {
+      "id": "check_rewards",
+      "content": "46248 3211332"
+    },
+    {
+      "id": "earned_doll_count",
+      "content": "68755 99626722"
+    },
+    {
+      "id": "hells_chicken_event_end_stage_text",
+      "content": "7\u20198 844\n483 3&3."
+    },
+    {
+      "id": "hells_chicken_dungeon_select_recent",
+      "content": "932224"
+    },
+    {
+      "id": "hells_chicken_dungeon_ask_recent_personality",
+      "content": "9813 462 21523 7327474722 173 2.5.8 4388 462 932224?"
+    },
+    {
+      "id": "hells_chicken_dungeon_no_recent_personality",
+      "content": "78 21523 9322242 151791692."
+    },
+    {
+      "id": "hells_chicken_dungeon_desc_recent_personality",
+      "content": "\u203b 462 9724 84 7327474722 173 2.5.8 586 6223 72 1648814741995 21523 77 462 932224, 16746 417 62 981323 6987 3227435."
+    },
+    {
+      "id": "giving_up_hells_chicken_dungeon_title",
+      "content": "4834274 25274 3675287"
+    },
+    {
+      "id": "giving_up_hells_chicken_dungeon_content",
+      "content": "586\u201932 463327495 239983775 {0}.\n4834274 5863 93853222 173 27423 1 721 3675287?"
+    },
+    {
+      "id": "hells_chicken_dungeon_error_desc",
+      "content": "3141 112 9824 362 48 1 223523 23383.\n74 586 4834274, 462 2782961977 8836922 29274 483 27435 1799 62 32467323."
+    },
+    {
+      "id": "only_giving_up_hells_chicken_dungeon_content",
+      "content": "{0} 72 77 93853222.\n132 586 2632 586 1174 48 4834274?"
+    },
+    {
+      "id": "hells_chicken_dungeon_stage_button_locked",
+      "content": "58 49213 41748 777 47324."
+    }
+  ]
+}

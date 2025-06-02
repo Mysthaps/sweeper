@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": "HealHpMaxForSelected",
+      "content": "46995 6219 22924423 73274745"
+    },
+    {
+      "id": "HealHpPercentageForAll",
+      "content": "199 7327474722 6219 {0}% 69"
+    },
+    {
+      "id": "ResurrectForSelected",
+      "content": "325752 17 73274745 1746 46995 621923 69"
+    }
+  ]
+}

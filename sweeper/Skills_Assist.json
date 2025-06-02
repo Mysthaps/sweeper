@@ -1,0 +1,129 @@
+{
+  "dataList": [
+    {
+      "id": 40000101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4378287 243782",
+          "desc": "[WhenUse] 74 413524 612 5+ 72514752 2442442, 49126 98123 +1\n[WhenUse] 6122 98123 +1 483 25235 3 [Burst] 87 413524 (813 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Burst] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 5177 1 [AttackUp] 7234 4637"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Burst] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 5177 1 [AttackUp] 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4378287 9682773",
+          "desc": "[WhenUse] 74 413524 612 5+ 72514752 2442442, 4877 98123 +1\n[WhenUse] 4877 98123 +1 483 25235 6 [Burst] 87 413524 (813 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Burst] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Burst] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [AttackUp] 7234 4637"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 [Breath] 20619 48 [Burst] 87 413524 (813 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 5177 [Breath] 48674 20619 48 [Burst] 48674 87 413524 (813 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 3219 +50% 318152"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKillFail] 7749744 +2 [Burst] 48674"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] 5177 3 [AttackUp] 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4378287 293775",
+          "desc": "[StartBattle] 5177 +1 148 127564 483 25235 4 72514752 244244 87 413524 (813 2)\n[WhenUse] 74 413524 612 5+ 72514752 2442442, 6122 98123 +5\n[WhenUse] 74 462 268 84 462 413524'2 [Burst] 173 [Burst] 48674 72 14 15+, 4877 98123 +5\n[WinDuel] 7749744 +2 [Burst] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 7 69223"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 3219 +200% 318152"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 7749744 +3 69223 48674"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 5177 2 [Breath] 173 +1 [Breath] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "13294 2512787",
+          "desc": "[OnSucceedEvade] 5177 1 [Breath] 7234 4637. (3 47822 923 4637)"
+        }
+      ]
+    }
+  ]
+}

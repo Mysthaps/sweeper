@@ -1,0 +1,548 @@
+{
+  "dataList": [
+    {
+      "id": "mirror_dungeon_get_ego_gift_with_enemy_buff_less_count",
+      "content": "586 6152 328177775 2.5.8 5744 4687422.\n\n1799 586 9384223 1746864 229244775 17 2.5.8 5744?\n\n(\u203b 586 1799 5177 317388 437192 20619 48 462 768623 84 5863 328177775 4687422)"
+    },
+    {
+      "id": "mirror_dungeon_easy_difficulty",
+      "content": "783819"
+    },
+    {
+      "id": "mirror_dungeon_hard_difficulty",
+      "content": "6133"
+    },
+    {
+      "id": "mirror_dungeon_start_bonus_formation_rest_point",
+      "content": "3224 68762"
+    },
+    {
+      "id": "mirror_dungeon_start_bonus_formation_total",
+      "content": "3224\n68762"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_Panel_reset_selection",
+      "content": "49213 244244 229244787"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_Panel_applied_effect",
+      "content": "144751423 2442442"
+    },
+    {
+      "id": "mirror_dungeon_reward_popup_rest_bonus_guide",
+      "content": "199 7327474722 8642732 462 4633274 4218 5177 1 3224 68762"
+    },
+    {
+      "id": "mirror_user_start_buff",
+      "content": "3224 68762"
+    },
+    {
+      "id": "mirror_enemy_buff",
+      "content": "437192"
+    },
+    {
+      "id": "mirror_enemy_addenemylevel_desc",
+      "content": "27285 92529 69 +{0}"
+    },
+    {
+      "id": "mirror_card_pack",
+      "content": "46282 9148"
+    },
+    {
+      "id": "mirror_acquired_random_enemy_buff_popup_title",
+      "content": "43719 517723"
+    },
+    {
+      "id": "mirror_acquired_enemy_buff_popup_desc",
+      "content": "1 43719 612 6227 13323."
+    },
+    {
+      "id": "mirror_start_buff_purchase_complete_modal_title",
+      "content": "53142 84 24132 22924423"
+    },
+    {
+      "id": "mirror_start_buff_purchase_complete_modal_desc",
+      "content": "53142 84 24132 612 6227 22924423."
+    },
+    {
+      "id": "mirror_recovered_unit_status",
+      "content": "199 199722 6152 6227 46995 621923, 173 32421423 199722 6152 6227 3257523"
+    },
+    {
+      "id": "mirror_start_buff_cannot_purchase_side_popup_title",
+      "content": "417784 93853222"
+    },
+    {
+      "id": "mirror_start_buff_cannot_purchase_side_popup_desc",
+      "content": "784 278656 3224 68762"
+    },
+    {
+      "id": "user_enemy_buff_empty_list",
+      "content": "78 144752 2442442"
+    },
+    {
+      "id": "mirror_start_set_buff_type",
+      "content": "53142 84 24132"
+    },
+    {
+      "id": "mirror_start_buff_type",
+      "content": "53142 84 2413 49624232"
+    },
+    {
+      "id": "mirror_start_buff_purchase_button",
+      "content": "27423"
+    },
+    {
+      "id": "user_enemy_buff_select_event_buff",
+      "content": "468742 2442442"
+    },
+    {
+      "id": "dungeon_shop_heal_desc_one_revive",
+      "content": "325752 22924423 277723"
+    },
+    {
+      "id": "dungeon_shop_heal_desc_all_revive",
+      "content": "325752 199 2777232"
+    },
+    {
+      "id": "dungeon_encounter_guide_mirror_hard_ab_battle",
+      "content": "16783819745 274867423"
+    },
+    {
+      "id": "dungeon_shop_heal_enter",
+      "content": "12 417 6219 83 325752 1 277723 6232.\n1614 268693 12 38?"
+    },
+    {
+      "id": "dungeon_shop_heal_select_one",
+      "content": "69 173 29 621923 483 {0}."
+    },
+    {
+      "id": "dungeon_shop_heal_all",
+      "content": "199 2777232' 69 173 29 6152 6227 621923."
+    },
+    {
+      "id": "dungeon_shop_heal_revive_select_one",
+      "content": "{0}, 3257523, 3246372 48 614492."
+    },
+    {
+      "id": "mirrordungeon_revive_log",
+      "content": "53142 84 24132 144751423\n[{0}] 3257523"
+    },
+    {
+      "id": "mirror_start_buff_unlock_condition_needs_held_buff_points",
+      "content": "14 {0}+ 3224 68762"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_after_selected_bonus",
+      "content": "328177775 3224 68762"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_exchanged_cost",
+      "content": "4824"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_title",
+      "content": "229244 53142 84 24132"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_description",
+      "content": "1799 586 229244 46222 2442442?"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_purchase_description",
+      "content": "328177775 3224 68762 1799 62 487523423 48 4824"
+    },
+    {
+      "id": "mirror_start_buff_applied_passive",
+      "content": "53142 84 24132 9122752"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_Panel_title",
+      "content": "53142 84 462 33218775 2413"
+    },
+    {
+      "id": "mirror_shop_purchase_complete",
+      "content": "963461223"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_not_selected_any_buff",
+      "content": "387'4 229244 175"
+    },
+    {
+      "id": "dungeon_shop_heal_title_all_season5",
+      "content": "8832314295 6219 25235 277723."
+    },
+    {
+      "id": "dungeon_shop_heal_title_one_season5",
+      "content": "5321495 6219 1 277592 277723."
+    },
+    {
+      "id": "dungeon_shop_revive_title_one_season5",
+      "content": "325752 1 277592 277723."
+    },
+    {
+      "id": "dungeon_shop_revive_one_select_ask",
+      "content": "229244 462 277723 48 325752."
+    },
+    {
+      "id": "mirror_dungeon_block_to_click_hard_theme_list",
+      "content": "49213 41748 6\n48 679848"
+    },
+    {
+      "id": "mirrordungeon_theme_hard_blocked",
+      "content": "49213 41748 6\n48 679848"
+    },
+    {
+      "id": "mirrordungeon_shop_heal_title",
+      "content": "6219 2777232"
+    },
+    {
+      "id": "mirrordungeon_shop_title",
+      "content": "2689"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_5",
+      "content": "873383 84 462 33218775 - 4{0}"
+    },
+    {
+      "id": "mirror_dungeon_progress_awaiting_reward_claim",
+      "content": "674917823 3211332"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_bonus_gift",
+      "content": "53142 84 24132 144751423\n483 462787 & 2192 57442 86417723"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_0_1",
+      "content": "783819"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_0_2",
+      "content": "6133"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_1_1",
+      "content": "3256913 274867423 : 7.5%\n4846223 274867423 : -\n29742 274867423 : -\n1678. 274867423: -\n6822 274867423 : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_1_2",
+      "content": "3256913 274867423 : 7.5%\n4846223 274867423 : -\n29742 274867423 : -\n1678. 274867423: -\n6822 274867423 : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_2_1",
+      "content": "3256913 274867423 : 10%\n4846223 274867423 : 20%\n29742 274867423 : 33%\n1678. 274867423: -\n6822 274867423 : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_2_2",
+      "content": "3256913 274867423 : 10%\n4846223 274867423 : 20%\n29742 274867423 : 33%\n1678. 274867423: -\n6822 274867423 : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_3_1",
+      "content": "3256913 274867423 : 10%\n4846223 274867423 : 20%\n29742 274867423 : 33%\n1678. 274867423: 100%\n6822 274867423 : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_3_2",
+      "content": "3256913 274867423 : 10%\n4846223 274867423 : 20%\n29742 274867423 : 33%\n1678. 274867423: 100%\n6822 274867423 : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_4_1",
+      "content": "3256913 274867423 : 12.5%\n4846223 274867423 : 25%\n29742 274867423 : 50%\n1678. 274867423: 100%\n6822 274867423 : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_4_2",
+      "content": "3256913 274867423 : 12.5%\n4846223 274867423 : 25%\n29742 274867423 : 50%\n1678. 274867423: 100%\n6822 274867423 : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_5_1",
+      "content": "3256913 274867423 : 12.5%\n4846223 274867423 : 25%\n29742 274867423 : 50%\n1678. 274867423: 100%\n6822 274867423 : -"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_5_2",
+      "content": "3256913 274867423 : 12.5%\n4846223 274867423 : 25%\n29742 274867423 : 50%\n1678. 274867423: 100%\n6822 274867423 : -"
+    },
+    {
+      "id": "mirrordungeon_additional_cost_by_start_bonus",
+      "content": "53142 84 24132 144751423\n4824 517723"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_desc",
+      "content": "2146 2.5.8 5744 612 5135775 '987742' 483 462787 329273775 87 46273 4723."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_header",
+      "content": "2.5.8 5744 47232"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_score_header",
+      "content": "987742"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_1",
+      "content": "4723 1"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_1_score",
+      "content": "3"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_2",
+      "content": "4723 2"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_2_score",
+      "content": "6"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_3",
+      "content": "4723 3"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_3_score",
+      "content": "10"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_4",
+      "content": "4723 4"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_4_score",
+      "content": "15"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_5",
+      "content": "4723 5"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_5_score",
+      "content": "30"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_label",
+      "content": "462 462787 2.5.8 5744 4723 72 3242387723 65 462 41995 84 987742 4388 2146 7753237274."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_header",
+      "content": "98774 41995"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_header",
+      "content": "462787 2.5.8 5744 4723"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_1",
+      "content": "10- 987742"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_1",
+      "content": "4723 1"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_2",
+      "content": "11~16 987742"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_2",
+      "content": "4723 2"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_3",
+      "content": "17 ~ 24 987742"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_3",
+      "content": "4723 3"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_4",
+      "content": "25+ 987742"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_4",
+      "content": "4723 4"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_1",
+      "content": "\u203b 175 2.5.8 57442 463327495 77 5863 9822222787 417784 62 86417723 12 1 462787 322694."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_2",
+      "content": "\u203b 2.5.8 57442 48726823 12 77532372742 483 1 462787 417784 62 86417723 4388 4614 462787. 6812523, 2.5.8 57442 4614 6152 1932135 6227 48726823 12 77532372742 77 93257862 4627872 417 62 86417723 12 1 462787 322694."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_3",
+      "content": "\u203b 74 586 6152 86417723 25235 98227692 2.5.8 5744 8641771692 77 4614 29247474 4723 + 8251833 48867714787, 586 1799 3242752 17 2.5.8 5744 84 1 374423274 8251833 77 462 2182 4723."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_4",
+      "content": "\u203b 74 586 6152 86417723 25235 98227692 2.5.8 5744 8641771692 4388 462 322694174 4723, 586 1799 3242752 1 462787 & 2192 8795 2.5.8 5744."
+    },
+    {
+      "id": "mirrordungeon_upgrade_shop_title",
+      "content": "<color=#990000>26923 2689</color>"
+    },
+    {
+      "id": "mirrordungeon_upgrade_shop_rate_in_next_floor",
+      "content": "26923 2689\n87 7234 49883?"
+    },
+    {
+      "id": "mirror_start_buff_unlock_condition_lack_of_current_point",
+      "content": "784 278656 3224 68762"
+    },
+    {
+      "id": "mirror_theme_pack_baton",
+      "content": "9875 614492"
+    },
+    {
+      "id": "mirrordungeon_theme_hard_no_pool",
+      "content": "586 781 8224 462 4873747872 48 679848 462 6133 3744746945. 586 417 217446 374474694722 24134775 4388 7234 49883 46282 9148 8276."
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_3_0",
+      "content": "4+ 57442"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_3_1",
+      "content": "99%"
+    },
+    {
+      "id": "mirrordungeon_level_up_by_long_battle_theme",
+      "content": "9875 614492 321133 517723\n73274745 925292 +3"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_100",
+      "content": "2413 84 462 625777775"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_101",
+      "content": "4686914775 241349863"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_102",
+      "content": "774232429913 431529"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_103",
+      "content": "2413-268123"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_104",
+      "content": "677135 2413-2689"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_105",
+      "content": "8887 2413-2689"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_106",
+      "content": "41583 84 462 7266912"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_107",
+      "content": "241397564 56731742"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_108",
+      "content": "461742 48824"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_109",
+      "content": "923424423 98227679745"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over10",
+      "content": "14 [10]+ 3224 68762"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over20",
+      "content": "14 [20]+ 3224 68762"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over30",
+      "content": "14 [30]+ 3224 68762"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over40",
+      "content": "14 [40]+ 3224 68762"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs__over50",
+      "content": "14 [50]+ 3224 68762"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs__over60",
+      "content": "14 [60]+ 3224 68762"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_label_upgrade",
+      "content": "462775 77 1 26923 2689 1332 1 2924719 88374723 48 462 32067323 41995 84 462 987742 4388 2146 7753237274."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_1_upgrade",
+      "content": "9- 987742"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_2_upgrade",
+      "content": "10 ~ 14 987742"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_3_upgrade",
+      "content": "15 ~ 21 987742"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade",
+      "content": "22+ 987742"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_title",
+      "content": "3224 68762 324274787 67742"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_desc",
+      "content": "483 462 324274787 36314787, 46222 67742' 3224 6876222 1799 784 62 29274 6987 49213775 1 873383 3675287 367."
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_label",
+      "content": "14424423 67742"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_button_label",
+      "content": "3224 68762 324274787 67742"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_period",
+      "content": "67479 {0}"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_level_using_lunacy_desc",
+      "content": "\u203b 9634612775 {0} 14672528274 239 48242 {1} 9173 967145."
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_level_ask_using_lunacy",
+      "content": "29273 {0} 9173 967145 48 96346122 146725282742 239?"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_title",
+      "content": "96346122 14672528274 239"
+    },
+    {
+      "id": "mirrordungeon_achievement_progress",
+      "content": "93853222"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_block_by_max_level",
+      "content": "23422323 96346121692 14672528274 92529"
+    },
+    {
+      "id": "mirrordungeon_achievement_max_level",
+      "content": "14672528274 92529 81323 864"
+    },
+    {
+      "id": "lack_of_point_for_shop_without_new_line",
+      "content": "784 278656 4824"
+    },
+    {
+      "id": "mirror_dungeon_give_up_ego_gift_ask_with_random_category",
+      "content": "48747762 1746864 229244775 17 2.5.8 5744?\n\n74 586 48747762 1746864 229244775 17 2.5.8 5744,\n462 82518332 84 5863 24134775 2.5.8 5744 1799 62\n22924423 14 317388."
+    }
+  ]
+}

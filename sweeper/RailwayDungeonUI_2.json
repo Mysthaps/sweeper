@@ -1,0 +1,232 @@
+{
+  "dataList": [
+    {
+      "id": "railway_dungeon_alarm_buff_no_one_select_for_heal",
+      "content": "78 32485231692 73"
+    },
+    {
+      "id": "railway_dungeon_alarm_buff_no_one_select_for_resurrect",
+      "content": "78 325751692 73"
+    },
+    {
+      "id": "railway_dungeon_healable",
+      "content": "32485231692"
+    },
+    {
+      "id": "railway_dungeon_resurrectable",
+      "content": "325751692"
+    },
+    {
+      "id": "railway_dungeon_ask_to_select_buff_and_rotate",
+      "content": "324637 48 462 <color=#0f7137>47324 2489</color>?\n<size=90%>38775 28 774321222 5863 45492 48674, \n173 586 417 229244 1 <color=#0f7137>1995 6644</color> & 1 <color=#990000>27285 6644</color>.</size>"
+    },
+    {
+      "id": "railway_dungeon_current_rotation_count_title",
+      "content": "45492 48674 : "
+    },
+    {
+      "id": "railway_dungeon_rotation_count",
+      "content": "45492 48674"
+    },
+    {
+      "id": "railway_dungeon_cumulative_turn_count",
+      "content": "48419 46372"
+    },
+    {
+      "id": "railway_dungeon_2_banner_reward_condition_1",
+      "content": "86417723 65 49213775 9772 2 1746 {1} 83 8832 45492 486742"
+    },
+    {
+      "id": "railway_dungeon_2_banner_reward_condition_2",
+      "content": "86417723 65 49213775 9772 2 1746 {1} 83 8832 45492 486742"
+    },
+    {
+      "id": "railway_dungeon_2_banner_reward_condition_3",
+      "content": "86417723 65 49213775 9772 2 1746 {1} 83 8832 45492 486742 173 67323 {0} 48419 46372"
+    },
+    {
+      "id": "railway_dungeon_2_banner_reward_condition_4",
+      "content": "86417723 65 49213775 9772 2 1746 {1} 83 8832 45492 486742 624832 <color=#d6e7f2>221287 2: 328777242742</color> 2732"
+    },
+    {
+      "id": "railway_dungeon_2_banner_reward_condition_5",
+      "content": "86417723 65 49213775 9772 2 1746 {1} 83 8832 45492 486742 624832 <color=#d6e7f2>221287 2: 328777242742</color> 2732"
+    },
+    {
+      "id": "railway_dungeon_2_banner_reward_condition_6",
+      "content": "86417723 65 49213775 9772 2 1746 {1} 83 8832 45492 486742 173 {0} 83 9222 48419 46372 624832 <color=#d6e7f2>221287 2: 328777242742</color> 2732"
+    },
+    {
+      "id": "railway_dungeon_2_buff_list",
+      "content": "66442 9724"
+    },
+    {
+      "id": "railway_dungeon_2_dummy_buff_name_1",
+      "content": "6644 7182 1 (36885)"
+    },
+    {
+      "id": "railway_dungeon_2_dummy_buff_name_2",
+      "content": "6644 7182 2 (36885)"
+    },
+    {
+      "id": "railway_dungeon_2_dummy_buff_name_3",
+      "content": "6644 7182 3 (36885)"
+    },
+    {
+      "id": "railway_dungeon_2_dummy_buff_name_4",
+      "content": "6644 7182 4 (36885)"
+    },
+    {
+      "id": "railway_dungeon_2_dummy_buff_name_5",
+      "content": "6644 7182 5 (36885)"
+    },
+    {
+      "id": "railway_dungeon_2_no_owned_buff_desc",
+      "content": "78 144752 66442."
+    },
+    {
+      "id": "railway_dungeon_2_buff_effect_title",
+      "content": "22924423 66442 9724"
+    },
+    {
+      "id": "railway_dungeon_2_current_buff",
+      "content": "6644 241462"
+    },
+    {
+      "id": "railway_dungeon_2_buff_acquire_ally_buff",
+      "content": "229244 1 <style=\"railwayDungeonAlly\">1995 6644</style>."
+    },
+    {
+      "id": "railway_dungeon_2_buff_acquire_enemy_buff",
+      "content": "229244 1 <style=\"railwayDungeonEnemy\">27285 6644</style>."
+    },
+    {
+      "id": "railway_dungeon_2_buff_not_selectable",
+      "content": "417784 62 22924423 4672 45492."
+    },
+    {
+      "id": "railway_dungeon_2_buff_fixed_selection",
+      "content": "47323 468742"
+    },
+    {
+      "id": "railway_dungeon_2_select_buff_popup_title",
+      "content": "229244 66442"
+    },
+    {
+      "id": "railway_dungeon_2_select_ally_buff",
+      "content": "229244 1995 6644"
+    },
+    {
+      "id": "railway_dungeon_2_select_enemy_buff",
+      "content": "229244 27285 6644"
+    },
+    {
+      "id": "railway_dungeon_2_ally_buff",
+      "content": "1995 66442"
+    },
+    {
+      "id": "railway_dungeon_2_enemy_buff",
+      "content": "27285 66442"
+    },
+    {
+      "id": "railway_dungeon_2_select_resurrect",
+      "content": "229244 73274745 48 325752"
+    },
+    {
+      "id": "railway_dungeon_2_empty_selected_buffs",
+      "content": "78 22924423 66442."
+    },
+    {
+      "id": "railway_dungeon_2_ask_retry_when_all_died",
+      "content": "199 84 5863 2777232 132 3213. 586 417 78 987523 48747762 462 274867423.\n324637 48 462 24142 78823714295 624832 27423775 4672 24152?"
+    },
+    {
+      "id": "railway_dungeon_2_ask_retry_when_defeat",
+      "content": "324637 48 24142 78823714295 624832 27423775 4672 24152?"
+    },
+    {
+      "id": "railway_dungeon_2_ask_retry_when_defeat_info",
+      "content": "\u203b 268693 586 468822 48 48747762, 586 815 622 462 328177775 2777232 48 48747762 462 614492. 27285 69 173 6644 2442442 1799 41335 8523."
+    },
+    {
+      "id": "railway_dungeon_2_retry_stage",
+      "content": "32435 24152"
+    },
+    {
+      "id": "railway_dungeon_2_retry_popup_exit",
+      "content": "273 24152"
+    },
+    {
+      "id": "railway_dungeon_2_retry_popup_continue",
+      "content": "48747762"
+    },
+    {
+      "id": "railway_dungeon_2_retry_popup_retry",
+      "content": "435 15177"
+    },
+    {
+      "id": "railway_dungeon_2_rotation_count",
+      "content": "({0} 45492 48674)"
+    },
+    {
+      "id": "railway_dungeon_2_rotation_count_short",
+      "content": "45492 : {0}"
+    },
+    {
+      "id": "railway_dungeon_2_turn_count_short",
+      "content": "46372 : {0}"
+    },
+    {
+      "id": "railway_dungeon_2_rotation_node",
+      "content": "45492"
+    },
+    {
+      "id": "railway_dungeon_2_reward_condition_special_ticket",
+      "content": "\u203b 86417723 65 49213775 9772 2 1746 <color=#005823>{1}</color> 83 8832 45492 486742 173<color=#005823>{0}</color> 83 9222 48419 46372 624832 \n<color=#32434f>221287 2: 328777242742</color> 2732"
+    },
+    {
+      "id": "railway_dungeon_2_special_reward_title",
+      "content": "2924719 3211332"
+    },
+    {
+      "id": "railway_dungeon_2_fixed_enemy_buff",
+      "content": "47323 27285 66442"
+    },
+    {
+      "id": "railway_dungeon_2_pass_station",
+      "content": "9122 2414787"
+    },
+    {
+      "id": "railway_dungeon_2_next_station",
+      "content": "7234 2414787"
+    },
+    {
+      "id": "railway_dungeon_2_final_station",
+      "content": "462 42387762"
+    },
+    {
+      "id": "railway_dungeon_2_banner_reward_condition_7",
+      "content": "86417723 65 49213775 9772 2 1746 {1} 83 8832 45492 486742 173 {0} 83 9222 48419 46372 624832\n<color=#d6e7f2>221287 2: 328777242742</color> 2732 (8624 62 1 324833 4388 1 367 2413423 14423 2023.09.15 20:15(824))"
+    },
+    {
+      "id": "railway_dungeon_2_reward_condition_special_ticket_14",
+      "content": "86417723 65 49213775 9772 2 1746 <color=#005823>{1}</color> 83 8832 45492 486742 173 <color=#005823>{0}</color> 83 9222 48419 46372\n624832 <color=#32434f>221287 2: 328777242742</color> 2732\n(8624 62 1 324833 4388 1 367 2413423 14423 2023.09.15 20:15(824))"
+    },
+    {
+      "id": "railway_dungeon_2_current_battle_turn_count",
+      "content": "46372 41827 4672 2414787 : <style=\"number_highlight\"><size=\"60%\">{0}</size></style>"
+    },
+    {
+      "id": "railway_dungeon_2_ask_retry_when_defeat_info_turn_count",
+      "content": "\u203b 6987 4889924775 462 2414787, <style=\"yellow\">46372 41827 77 462 4633274 2414787</style> 1799 62 13323 48 462 <style=\"yellow\">48419 46372</style>."
+    },
+    {
+      "id": "railway_dungeon_2_ask_retry_when_defeat_info_save_battle",
+      "content": "268693 586 468822 48 48747762, 586 815 622 462 328177775 2777232 48 48747762 462 614492. 27285 69 173 6644 2442442 1799 41335 8523."
+    },
+    {
+      "id": "railway_dungeon_2_ask_retry_when_all_died_turn_count",
+      "content": "\u203b <style=\"yellow\">46372 41827 77 462 4633274 2414787</style> 1799 62 13323 48 462 <style=\"yellow\">48419 46372</style> 8795 14423 4889924775 462 2414787."
+    }
+  ]
+}

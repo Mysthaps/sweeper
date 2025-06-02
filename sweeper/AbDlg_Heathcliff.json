@@ -1,0 +1,116 @@
+{
+  "dataList": [
+    {
+      "id": 1,
+      "personalityid": 10702,
+      "voicefile": 0,
+      "teller": "267 6214649744",
+      "dialog": "7\u201999 28126 \u201828 5883, 17564?",
+      "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
+    },
+    {
+      "id": 2,
+      "personalityid": 10702,
+      "voicefile": 0,
+      "teller": "267 6214649744",
+      "dialog": "87564 12 1299, 7 2699822.",
+      "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
+    },
+    {
+      "id": 3,
+      "personalityid": 10702,
+      "voicefile": 0,
+      "teller": "267 6214649744",
+      "dialog": "74 586 321995 387\u20194 6152 17546775 624423 48 2655224.",
+      "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
+    },
+    {
+      "id": 4,
+      "personalityid": 10702,
+      "voicefile": 0,
+      "teller": "267 6214649744",
+      "dialog": "524 2882872 2922.",
+      "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
+    },
+    {
+      "id": 5,
+      "personalityid": 10702,
+      "voicefile": 0,
+      "teller": "267 6214649744",
+      "dialog": "\u2026132 586 418775 462 9722? 586 1174 82 48 38 4672?",
+      "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
+    },
+    {
+      "id": 6,
+      "personalityid": 10702,
+      "voicefile": 0,
+      "teller": "267 6214649744",
+      "dialog": "1614\u20192 4614 93863 9888? 7\u20198 462 872 168 32194 1746 74.",
+      "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
+    },
+    {
+      "id": 7,
+      "personalityid": 10702,
+      "voicefile": 0,
+      "teller": "267 6214649744",
+      "dialog": "4672 72 321995 7138775 82. 3737\u20194 7 4299 586 48 524 2882872 2922?",
+      "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
+    },
+    {
+      "id": 36,
+      "personalityid": 10701,
+      "voicefile": 0,
+      "teller": "6214649744",
+      "dialog": "7\u201999 28126 \u201828 5883, 17564?",
+      "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
+    },
+    {
+      "id": 37,
+      "personalityid": 10701,
+      "voicefile": 0,
+      "teller": "6214649744",
+      "dialog": "87564 12 1299, 7 2699822.",
+      "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
+    },
+    {
+      "id": 38,
+      "personalityid": 10701,
+      "voicefile": 0,
+      "teller": "6214649744",
+      "dialog": "74 586 321995 387\u20194 6152 17546775 624423 48 2655224.",
+      "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
+    },
+    {
+      "id": 39,
+      "personalityid": 10701,
+      "voicefile": 0,
+      "teller": "6214649744",
+      "dialog": "524 2882872 2922.",
+      "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
+    },
+    {
+      "id": 40,
+      "personalityid": 10701,
+      "voicefile": 0,
+      "teller": "6214649744",
+      "dialog": "\u2026132 586 418775 462 9722? 586 1174 82 48 38 4672?",
+      "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
+    },
+    {
+      "id": 41,
+      "personalityid": 10701,
+      "voicefile": 0,
+      "teller": "6214649744",
+      "dialog": "1614\u20192 4614 93863 9888? 7\u20198 462 872 168 32194 1746 74.",
+      "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
+    },
+    {
+      "id": 42,
+      "personalityid": 10701,
+      "voicefile": 0,
+      "teller": "6214649744",
+      "dialog": "4672 72 321995 7138775 82. 3737\u20194 7 4299 586 48 524 2882872 2922?",
+      "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
+    }
+  ]
+}

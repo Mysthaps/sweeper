@@ -1,0 +1,223 @@
+{
+  "dataList": [
+    {
+      "id": 112204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "852346381",
+          "desc": "[WhenUse] 5177 +3 [Breath] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "74 4672 4877 72 4314823, 9822 10 47719 98123"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [Breath] 173 +1 [Breath] 48674"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 +1 [Laceration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "74 4672 4877 72 4314823, 9822 10 47719 98123"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [SlashDamageUp] 7234 4637"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 2 [SlashResistDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "74 4672 4877 72 4314823, 9822 10 47719 98123"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 5 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 2 [Paralysis] 7234 4637"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 +3 [Laceration] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "48 49178 46273 68722",
+          "desc": "[StartBattle] 5177 100 267293\n[WhenUse] 74 462 267293 727'4 46995 32992423, 49126 98123 +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "74 4672 4877 72 4314823, 9822 20 47719 98123"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 3 [SlashResistDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "74 4672 4877 72 4314823, 9822 20 47719 98123"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] +100% 318152 87 43747419 674"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 10 [Laceration] 173 +2 [Laceration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "74 4672 4877 72 4314823, 9822 20 47719 98123"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 74 462 267293 727'4 46995 32992423, 375732 [Grudge] 51962 65 148 127564 173 7749744 74 12 47323 318152."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "48 49178 46273 68722",
+          "desc": "[StartBattle] 5177 250 267293\n[WhenUse] 5177 +3 [Breath] 48674\n[WhenUse] 74 462 267293 727'4 46995 32992423, 49126 98123 +10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "74 4672 4877 72 4314823, 9822 23 47719 98123"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [SlashResistDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "74 4672 4877 72 4314823, 9822 23 47719 98123"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] +100% 318152 87 43747419 674"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 5 [Paralysis] 7234 4637"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 10 [Laceration] 173 +2 [Laceration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "74 4672 4877 72 4314823, 9822 23 47719 98123"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 74 462 267293 727'4 46995 32992423, 375732 [Grudge] 51962 65 148 127564 173 7749744 74 12 47323 318152."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112309,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "48 49178 46273 68722",
+          "desc": "[CantChangeTarget]\n93783747222 462 6774 1746 462 92124 69\n[EnemyKill] 386692 462 [Grudge] 51962.\n[EnemyKill] 6219 69 20619 48 [Grudge] 51962",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "74 4672 4877 72 4314823, 9822 25 47719 98123"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "74 4672 4877 72 4314823, 9822 25 47719 98123"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "74 4672 4877 72 4314823, 9822 25 47719 98123"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 3219 47323 318152 20619 48 [Grudge] 51962."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

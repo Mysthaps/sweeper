@@ -1,0 +1,288 @@
+{
+  "dataList": [
+    {
+      "id": "GetConditionTitle",
+      "content": "320673282742"
+    },
+    {
+      "id": "BannerSelect",
+      "content": "617723"
+    },
+    {
+      "id": "Personality",
+      "content": "7327474722"
+    },
+    {
+      "id": "CharacterNumber",
+      "content": "73"
+    },
+    {
+      "id": "Rarity",
+      "content": "313745"
+    },
+    {
+      "id": "Season",
+      "content": "221287"
+    },
+    {
+      "id": "Group",
+      "content": "4144787"
+    },
+    {
+      "id": "Name",
+      "content": "7182"
+    },
+    {
+      "id": "LastLoginDay",
+      "content": "9124 879772:"
+    },
+    {
+      "id": "Manager",
+      "content": "8171523"
+    },
+    {
+      "id": "Company",
+      "content": "4889175"
+    },
+    {
+      "id": "Friends",
+      "content": "4372732"
+    },
+    {
+      "id": "Add_Friends",
+      "content": "133 1 437273"
+    },
+    {
+      "id": "Delete_Friends",
+      "content": "328852 437273"
+    },
+    {
+      "id": "Waiting_Friends",
+      "content": "2274 32062242"
+    },
+    {
+      "id": "Accept_Friends",
+      "content": "77683"
+    },
+    {
+      "id": "Last_Reload",
+      "content": "{0}2 158!"
+    },
+    {
+      "id": "WaitCancle",
+      "content": "417429"
+    },
+    {
+      "id": "Refuse",
+      "content": "3249772"
+    },
+    {
+      "id": "Accept",
+      "content": "144294"
+    },
+    {
+      "id": "Send_Add_Friends",
+      "content": "2273 4628 1 437273 3206224?"
+    },
+    {
+      "id": "Delete_Friends_Apply",
+      "content": "132 586 2632 586 1174 48 328852 4672 6223 4388 5863 437273 9724?"
+    },
+    {
+      "id": "SendSendFriend_1",
+      "content": "586 6152 488 8175 32062242."
+    },
+    {
+      "id": "SendSendFriend_2",
+      "content": "5863 437273 9724 72 4699."
+    },
+    {
+      "id": "SendSendFriend_3",
+      "content": "4672 6223 463327495 612 488 8175 32062242."
+    },
+    {
+      "id": "SendSendFriend_4",
+      "content": "4672 6223\u20192 437273 9724 72 4699."
+    },
+    {
+      "id": "SendSendFriend_5",
+      "content": "7751973 6223."
+    },
+    {
+      "id": "SendSendFriend_6",
+      "content": "462 6223 72 1932135 87 462 3206224 9724."
+    },
+    {
+      "id": "SendSendFriend_7",
+      "content": "17 6723924423 23383 612 84463323."
+    },
+    {
+      "id": "SendAcceptReceivedFriend_1",
+      "content": "5863 437273 9724 72 4699."
+    },
+    {
+      "id": "SendAcceptReceivedFriend_2",
+      "content": "4672 6223\u20192 437273 9724 624182 4699."
+    },
+    {
+      "id": "SendAcceptReceivedFriend_3",
+      "content": "462 6223 41742923 46273 3206224."
+    },
+    {
+      "id": "SendAcceptReceivedFriend_4",
+      "content": "17 6723924423 23383 612 84463323."
+    },
+    {
+      "id": "Today",
+      "content": "48315!"
+    },
+    {
+      "id": "Ago",
+      "content": "{0}3 158"
+    },
+    {
+      "id": "Day_Ago",
+      "content": "88/33"
+    },
+    {
+      "id": "Change_Introduce",
+      "content": "2374 77438 4159772"
+    },
+    {
+      "id": "Sorting_Level",
+      "content": "92529"
+    },
+    {
+      "id": "Sorting_LastLogin",
+      "content": "9124 879772"
+    },
+    {
+      "id": "Season_0",
+      "content": "3256913"
+    },
+    {
+      "id": "Season_1",
+      "content": "221287 1"
+    },
+    {
+      "id": "Season_2",
+      "content": "221287 2"
+    },
+    {
+      "id": "Change",
+      "content": "461752"
+    },
+    {
+      "id": "Uninstall",
+      "content": "6720679"
+    },
+    {
+      "id": "All",
+      "content": "199"
+    },
+    {
+      "id": "Reset_Company_Title",
+      "content": "32224 22447752"
+    },
+    {
+      "id": "Reset_Company_desc",
+      "content": "132 586 2632 586 1174 48 32224 5863 4889175 22447752?"
+    },
+    {
+      "id": "NO_Friends",
+      "content": "7846775 48 3729915 6232 524."
+    },
+    {
+      "id": "NO_SendFriends",
+      "content": "78 32062242 8132."
+    },
+    {
+      "id": "NO_AcceptFriends",
+      "content": "78 32062242 32427523."
+    },
+    {
+      "id": "SupportPersonality_Reset",
+      "content": "32224"
+    },
+    {
+      "id": "SearchFriends",
+      "content": "37248523 1/ 73"
+    },
+    {
+      "id": "ReLoad",
+      "content": "3243226"
+    },
+    {
+      "id": "Btn_Search",
+      "content": "221346"
+    },
+    {
+      "id": "Sentence",
+      "content": "963122"
+    },
+    {
+      "id": "Word",
+      "content": "1833"
+    },
+    {
+      "id": "Uid_Copy",
+      "content": "4895"
+    },
+    {
+      "id": "Uid_Copy_ModalTitle",
+      "content": "4895 2644222"
+    },
+    {
+      "id": "Uid_Copy_ModalDesc",
+      "content": "462 73 612 6227 489723."
+    },
+    {
+      "id": "TicketCustom_Button",
+      "content": "462488722"
+    },
+    {
+      "id": "TicketCustom_Popup_L",
+      "content": "683323 1"
+    },
+    {
+      "id": "TicketCustom_Popup_R",
+      "content": "683323 2"
+    },
+    {
+      "id": "TicketCustom_Popup_EGOBG",
+      "content": "65"
+    },
+    {
+      "id": "Using",
+      "content": "77 622"
+    },
+    {
+      "id": "IntroduceSort_Default",
+      "content": "3241694"
+    },
+    {
+      "id": "IntroduceSort_ABC",
+      "content": "199616247419"
+    },
+    {
+      "id": "IntroduceSort_Acquisition",
+      "content": "49178 3142"
+    },
+    {
+      "id": "SimilarBanner",
+      "content": "617723 9724"
+    },
+    {
+      "id": "SimilarTicket",
+      "content": "474824 9724"
+    },
+    {
+      "id": "Choosing",
+      "content": "229244775"
+    },
+    {
+      "id": "IntroduceSort_Release",
+      "content": "3292122 3142"
+    }
+  ]
+}

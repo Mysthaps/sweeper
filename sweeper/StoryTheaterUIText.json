@@ -1,0 +1,316 @@
+{
+  "dataList": [
+    {
+      "id": "MAINSTORY",
+      "content": "8177 24835"
+    },
+    {
+      "id": "PERSONALITYSTORY",
+      "content": "73274745 1346752"
+    },
+    {
+      "id": "NOTE_OF_DANTE",
+      "content": "31742\u20192 78422"
+    },
+    {
+      "id": "EPISODE",
+      "content": "29. {0}"
+    },
+    {
+      "id": "PAGE",
+      "content": "95. {0}"
+    },
+    {
+      "id": "PROGRESS",
+      "content": "93853222"
+    },
+    {
+      "id": "Before",
+      "content": "932-614492"
+    },
+    {
+      "id": "After",
+      "content": "9824-614492"
+    },
+    {
+      "id": "None",
+      "content": ""
+    },
+    {
+      "id": "ENTER",
+      "content": "27423"
+    },
+    {
+      "id": "CLOSE",
+      "content": "49822"
+    },
+    {
+      "id": "MIRRORWOLDS",
+      "content": "873383 183932"
+    },
+    {
+      "id": "STORY",
+      "content": "24835"
+    },
+    {
+      "id": "SECURITY_MATERIAL",
+      "content": "4912274723 9852"
+    },
+    {
+      "id": "SPEECH",
+      "content": "37198562"
+    },
+    {
+      "id": "OPEN_CONDITION",
+      "content": "48 679848: "
+    },
+    {
+      "id": "DEEP_ANALYSIS",
+      "content": "77-32946: "
+    },
+    {
+      "id": "DATA_DOWNLOAD",
+      "content": "3141 38179813"
+    },
+    {
+      "id": "DATA_DOWNLOAD_DESC",
+      "content": "9915 28673 47922 483 587423 37198562?\n1337478719 3141 1799 62 3817981323."
+    },
+    {
+      "id": "DATA_DOWNLOAD_NO",
+      "content": "67587423\n(0.00\u00a086)"
+    },
+    {
+      "id": "DATA_DOWNLOAD_YES",
+      "content": "587423\n({0} 86)"
+    },
+    {
+      "id": "CV_1",
+      "content": "877 22675-188"
+    },
+    {
+      "id": "CV_2",
+      "content": "9138 77-5887"
+    },
+    {
+      "id": "CV_3",
+      "content": "878 521-978"
+    },
+    {
+      "id": "CV_4",
+      "content": "57 212-16"
+    },
+    {
+      "id": "CV_5",
+      "content": "8187 2675-6568"
+    },
+    {
+      "id": "CV_6",
+      "content": "878 277-188"
+    },
+    {
+      "id": "CV_7",
+      "content": "6875 22675-658"
+    },
+    {
+      "id": "CV_8",
+      "content": "7175 52-71"
+    },
+    {
+      "id": "CV_9",
+      "content": "5887 1-58675"
+    },
+    {
+      "id": "CV_10",
+      "content": "878 31-89"
+    },
+    {
+      "id": "CV_11",
+      "content": "878 68-71"
+    },
+    {
+      "id": "CV_12",
+      "content": "4687 617"
+    },
+    {
+      "id": "gacksung",
+      "content": "69472"
+    },
+    {
+      "id": "EnterStoryPopupDesc",
+      "content": "1799 586 27423\n{0}?"
+    },
+    {
+      "id": "No",
+      "content": "417429"
+    },
+    {
+      "id": "DetailStoryDungeon",
+      "content": "174677 24835 3675287"
+    },
+    {
+      "id": "NeedsPersonality",
+      "content": "73274745 32067323"
+    },
+    {
+      "id": "NeedsPersonalityButton",
+      "content": "5721 320673282742"
+    },
+    {
+      "id": "MainStoryOpenCondition_101",
+      "content": "49213 1-1"
+    },
+    {
+      "id": "MainStoryOpenCondition_102",
+      "content": "49213 2-1"
+    },
+    {
+      "id": "MainStoryOpenCondition_103",
+      "content": "49213 3-1"
+    },
+    {
+      "id": "PersonalityStory_OpenCodition",
+      "content": "67984823 14 69472 4723 {0}"
+    },
+    {
+      "id": "OTHERSTORY",
+      "content": "324863 41922"
+    },
+    {
+      "id": "DanteNote_Record",
+      "content": "324833"
+    },
+    {
+      "id": "DanteNote_Time",
+      "content": "4782"
+    },
+    {
+      "id": "DanteNote_Update",
+      "content": "693142"
+    },
+    {
+      "id": "DanteNote_Main",
+      "content": "7\u20198 784 2632 16232 48 2527 24134.\n7 56222 74\u20192 8795 7146319, 57527 4614 7 417\u20194 4299 681 8646 7 483584 48 62577 1746.\n81562 7\u201999 24134 65 818775 78422 16272523 7 367 7748 467752 7 387\u20194 32828623."
+    },
+    {
+      "id": "MINI",
+      "content": "8777"
+    },
+    {
+      "id": "DetailStoryMini",
+      "content": "8777 29728322"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9103",
+      "content": "49213 3.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9010",
+      "content": "49213 3.5-9"
+    },
+    {
+      "id": "MainStoryOpenCondition_104",
+      "content": "49213 4-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9104",
+      "content": "49213 4.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9011",
+      "content": "49213 4.5-11"
+    },
+    {
+      "id": "MainStoryOpenCondition_105",
+      "content": "49213 5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9012",
+      "content": "49213 5-36"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9105",
+      "content": "49213 5.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9013",
+      "content": "49213 5.5-12"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9014",
+      "content": "49213 5.5-12"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9107",
+      "content": "49213 5.5-13"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9015",
+      "content": "49213 5.5-24"
+    },
+    {
+      "id": "MainStoryOpenCondition_106",
+      "content": "49213 6-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9016",
+      "content": "49213 6-48"
+    },
+    {
+      "id": "theStoryOf",
+      "content": "'2 24835"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9109",
+      "content": "49213 6.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9017",
+      "content": "49213 6-48"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9110",
+      "content": "49213 6.5-16"
+    },
+    {
+      "id": "personality_voice_section_before_clear_chapter_format",
+      "content": "932\n41748 {0}"
+    },
+    {
+      "id": "personality_voice_section_after_clear_chapter_format",
+      "content": "9824\n41748 {0}"
+    },
+    {
+      "id": "PersonalityStory_OpenCodition_UnlockCode106",
+      "content": "49213 41748 57"
+    },
+    {
+      "id": "PersoanlityStory_After",
+      "content": "(462 14423)"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9018",
+      "content": "49213 6.5-30"
+    },
+    {
+      "id": "MainStoryOpenCondition_107",
+      "content": "49213 7-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9019",
+      "content": "49213 7-36"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9114",
+      "content": "49213 7.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9116",
+      "content": "49213 7.5-15"
+    },
+    {
+      "id": "MainStoryOpenCondition_108",
+      "content": "49213 8-1"
+    }
+  ]
+}

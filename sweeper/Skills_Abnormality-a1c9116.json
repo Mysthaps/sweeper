@@ -1,0 +1,249 @@
+{
+  "dataList": [
+    {
+      "id": 112701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "78 8832 42242",
+          "desc": "[WhenUse] 5177 3 [HitDamageUp] 7234 4637\n[WhenUse] 74 462 8177 413524 612 3+ [MiddleFingerBook], 4875234 199 48772 87 4672 28799 48 [SuperCoin]2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Binding] 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "93887223 264423775",
+          "desc": "93783747222 4135242 1746 462 6756224 [MiddleFingerBook] 24148\n[WhenUse] 74 413524 612 3+ [MiddleFingerBook], 4875234 199 48772 87 4672 28799 48 [SuperCoin]2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Vulnerable] 4672 4637 173 7234 4637"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Vulnerable] 4672 4637 173 7234 4637"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 ([MiddleFingerBook] 87 462 413524 3 3) 69674 68762 318152"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 328852 199 [MiddleFingerBook] 87 462 413524"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "278656 51822",
+          "desc": "[StartBattle] 6219 199 199722' 29 65 10\n[EndBattle] 74 46232 132 91774823 199722, 3248523 4628 4388 91774 14 462 7234 4637 24134 173 32224 46273 29 48 0\n[EndBattle] 19995 1 [HitResultUp] 48 199 199722, 774963775 4672 6774",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "48899242 173 48419 2342387714787!!!",
+          "desc": "417 49126 1746 4672 28799 3251339222 84 29223\n74 462 8177 413524 612 5+ [MiddleFingerBook], 47719 98123 +5\n[EndSkill] 328852 [MiddleFingerBook] 4388 199 4135242 4614 1232 674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 ([MiddleFingerBook] 87 462 413524 3 10) 69674 68762 318152"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "241349775 243782",
+          "desc": "[WhenUse] 74 413524 612 5+ [Burst], 49126 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "92348314775 8799",
+          "desc": "[WhenUse] 74 413524 612 5+ [Burst], 49126 98123 +1\n[WhenUse] 5177 3 [LegStrength]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Burst] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 [BurstAgility], 5177 1 [Agility] 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "2446775 243782",
+          "desc": "[WhenUse] 74 413524 612 5+ [Burst], 4877 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [BurstAgility]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "463221374 664462369132 - 697782429",
+          "desc": "93783747222 4135242 1746 [BurstAgility]\n3219 +15% 318152 483 25235 2 29223 3744232742 6241227 4672 6774 173 462 413524 (813 60%)\n[WhenUse] 4877 98123 +1 483 25235 5 [Burst] 87 462 413524 (813 2)\n[WhenUse] 6122 98123 +1 483 25235 2 [Burst] 48674 87 462 413524 (813 3)\n[EndSkill] 14 10+ 29223, 173 74 462 413524 72 32421423, 32622 4672 28799 1517724 1 317388 27285 (8742 923 4637)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +3 [Burst] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 5 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "74 413524 612 [BurstAgility], 3219 +50% 318152"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 5 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "463221374",
+          "desc": "[DuelCounter]\n[WhenUse] 74 413524 612 [BurstAgility], 7749744 +1 8832 [Burst] 48674 1746 4672 28799",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Burst] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Burst] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Burst] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

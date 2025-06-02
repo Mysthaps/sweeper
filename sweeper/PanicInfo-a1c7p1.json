@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": 1027,
+      "panicName": "667523",
+      "lowMoraleDescription": "4637 24134: 5177 1 [Binding] 173 2 [Enhancement]. 4182 5 29 318152 14 4637 273",
+      "panicDescription": "4637 24134: 5177 2 [Binding] 173 4 [Enhancement]."
+    },
+    {
+      "id": 1028,
+      "panicName": "3629 2924719724",
+      "lowMoraleDescription": "4637 24134: 5177 2 [AttackUp]. 87 49126 9822, 5177 1 [DefenseDown] (813 3 923 4637). 877. 29223 -1",
+      "panicDescription": "4637 24134: 5177 4 [AttackUp]. 87 49126 9822, 5177 2 [DefenseDown] (813 6 923 4637). 877. 29223 -1"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "id": "GetConfirmedObject",
+      "content": "<color=#ebcaa2>{reward} 13474144 86417723!</color>"
+    },
+    {
+      "id": "GetConfirmedCoin",
+      "content": "<color=#ebcaa2>{reward}: {stack} 86417723!</color>"
+    },
+    {
+      "id": "LoseConfirmedCoin",
+      "content": "<color=#ebcaa2>{reward}: {stack} 9824!</color>"
+    },
+    {
+      "id": "DestroyObject",
+      "content": "<color=#ebcaa2>{reward} 13474144</color> <color=#e30000>9824!</color>"
+    },
+    {
+      "id": "GetConfirmedObjectOnWinBattle",
+      "content": "<color=#ebcaa2>177 462 7234 614492 48 5177 {reward} 13474144!</color>"
+    },
+    {
+      "id": "HiddenGiftUnlockHiddenRoute",
+      "content": "<color=#ebcaa2>1 721 9146 892723 69 87 462 819!</color>"
+    }
+  ]
+}

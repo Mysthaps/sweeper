@@ -1,0 +1,116 @@
+{
+  "dataList": [
+    {
+      "id": "dawn_of_green_reward_button",
+      "content": "87227872"
+    },
+    {
+      "id": "dawn_of_green_story_theater_button",
+      "content": "48 4621423"
+    },
+    {
+      "id": "dawn_of_green_normal_stage",
+      "content": "783819"
+    },
+    {
+      "id": "dawn_of_green_hard_stage",
+      "content": "6133"
+    },
+    {
+      "id": "dawn_of_green_hard_stage_unlock_condition",
+      "content": "49213 783819 3744746945 48 679848"
+    },
+    {
+      "id": "reward_Noraml",
+      "content": "783819"
+    },
+    {
+      "id": "reward_Hard",
+      "content": "6133"
+    },
+    {
+      "id": "EVENT_NEWYEAR_2024_NORMAL",
+      "content": "783819"
+    },
+    {
+      "id": "EVENT_NEWYEAR_2024_HARD",
+      "content": "6133"
+    },
+    {
+      "id": "missionConditionTitle_10001",
+      "content": "3117 84 53227 27474722 32421423 77 1 277592 274867423"
+    },
+    {
+      "id": "missionConditionTitle_10002",
+      "content": "3117 84 53227 - 38664 - \u03b3 27474722 32421423 77 1 277592 274867423"
+    },
+    {
+      "id": "missionConditionTitle_10003",
+      "content": "3117 84 53227 - 38664 - \u03b4 27474722 32421423 77 1 277592 274867423"
+    },
+    {
+      "id": "missionConditionTitle_10004",
+      "content": "48899242 26993222787 1746864 175 1995 321462"
+    },
+    {
+      "id": "missionConditionTitle_10005",
+      "content": "48899242 26993222787 1746864 175 84 462 199722' 29 33899775 48 -45 29"
+    },
+    {
+      "id": "missionConditionTitle_10006",
+      "content": "324214 3 3117 84 53227 27474722 1746 1 277592 144148 28799"
+    },
+    {
+      "id": "missionConditionTitle_10007",
+      "content": "3117 84 53227 27474722 32421423 65 462 4874389 4218 4194177'2 144148 28799 77 1 277592 274867423"
+    },
+    {
+      "id": "missionConditionTitle_10008",
+      "content": "48899242 26993222787 1746 4874389 4218 4194177 263575775 173 418775 9222 4617 10 6742 4388 27285 144148 287992"
+    },
+    {
+      "id": "missionConditionTitle_20001",
+      "content": "3117 84 53227 27474722 32421423 77 1 277592 274867423"
+    },
+    {
+      "id": "missionConditionTitle_20002",
+      "content": "3117 84 53227 - 38664 - \u03b3 27474722 32421423 77 1 277592 274867423"
+    },
+    {
+      "id": "missionConditionTitle_20003",
+      "content": "3117 84 53227 - 38664 - \u03b4 27474722 32421423 77 1 277592 274867423"
+    },
+    {
+      "id": "missionConditionTitle_20004",
+      "content": "48899242 26993222787 1746864 175 1995 321462"
+    },
+    {
+      "id": "missionConditionTitle_20005",
+      "content": "48899242 26993222787 1746864 175 84 462 199722' 29 33899775 48 -45 29"
+    },
+    {
+      "id": "missionConditionTitle_20006",
+      "content": "324214 7 3117 84 53227 27474722 1746 1 277592 144148 28799"
+    },
+    {
+      "id": "missionConditionTitle_20007",
+      "content": "3117 84 53227 27474722 32421423 65 462 4874389 4218 4194177'2 144148 28799 77 1 277592 274867423"
+    },
+    {
+      "id": "missionConditionTitle_20008",
+      "content": "48899242 26993222787 1746 4874389 4218 4194177 263575775 173 418775 9222 4617 5 6742 4388 27285 144148 287992"
+    },
+    {
+      "id": "missionConditionTitle_30001",
+      "content": "48899242 199 87227872 77 6846 783819 173 6133 374474694722"
+    },
+    {
+      "id": "dawnofgreen_rewardpage_desc",
+      "content": "26993222 3117 84 53227 27474722 77 '783819' 173 '6133' 374474694722 4388 462 3117 84 53227 833219.\n\n2137 5137862 3211332 65 49213775 46222 87227872."
+    },
+    {
+      "id": "mainui_battleresult_wa",
+      "content": "8332192 2699322223"
+    }
+  ]
+}

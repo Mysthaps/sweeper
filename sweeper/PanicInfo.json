@@ -1,0 +1,112 @@
+{
+  "dataList": [
+    {
+      "id": 1001,
+      "panicName": "4889692787",
+      "lowMoraleDescription": "4637 24134: 5177 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">61242</color></link></u> 173 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">4315792</color></link></u>",
+      "panicDescription": "4637 24134: 9822 10 69."
+    },
+    {
+      "id": 1002,
+      "panicName": "8649126",
+      "lowMoraleDescription": "4637 24134: 5177 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">144148 98123 69</color></link></u> 173 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">4315792</color></link></u>",
+      "panicDescription": "4637 24134: 317388 1995 98222 20 29."
+    },
+    {
+      "id": 1003,
+      "panicName": "85231629823",
+      "lowMoraleDescription": "4637 24134: 5177 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">144148 98123 3817</color></link></u>",
+      "panicDescription": "3822 784 144 483 4672 4637."
+    },
+    {
+      "id": 1004,
+      "panicName": "143896723",
+      "lowMoraleDescription": "4637 24134: 5177 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">144148 98123 3817</color></link></u>",
+      "panicDescription": "4637 24134: 5177 4 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">144148 98123 3817</color></link></u>"
+    },
+    {
+      "id": 1005,
+      "panicName": "15741423",
+      "lowMoraleDescription": "4637 24134: 5177 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">318152 69</color></link></u> 173 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">4315792</color></link></u>",
+      "panicDescription": "4637 24134: 5177 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">318152 69</color></link></u> 173 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">4315792</color></link></u>"
+    },
+    {
+      "id": 1006,
+      "panicName": "3677775",
+      "lowMoraleDescription": "3822 784 144. 1627 674, 4672 6774 72 32421423 14423 462 28799 2732.",
+      "panicDescription": ""
+    },
+    {
+      "id": 1007,
+      "panicName": "283381",
+      "lowMoraleDescription": "5177 2 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">318152 3817</color></link></u> 2146 4637",
+      "panicDescription": "5177 5 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">318152 3817</color></link></u> 173 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">4315792</color></link></u> 2146 4637"
+    },
+    {
+      "id": 1008,
+      "panicName": "81332723",
+      "lowMoraleDescription": "1627 14 981 883192 483 462 47324 4782, 4135242 67742 7737243787714295",
+      "panicDescription": "4135242 7737243787714295; 49126 98123 +1, 173 5177 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">318152 69</color></link></u>"
+    },
+    {
+      "id": 1009,
+      "panicName": "26747319",
+      "lowMoraleDescription": "1627 14 981 883192 483 462 47324 4782, 624882 671692 48 144",
+      "panicDescription": "417784 144 483 3 46372. 14423 3 46372, 6774 3722 14 4637 24134; 199 742 199722 9822 1337478719 10 29 1746 25235 29 9822 487374787"
+    },
+    {
+      "id": 1010,
+      "panicName": "117323775",
+      "lowMoraleDescription": "4637 273: 3219 2 29 318152 48 199722",
+      "panicDescription": "4637 273: 3219 5 29 318152 48 199722. 49222 4388 614492 14423 3 46372 6152 912223"
+    },
+    {
+      "id": 1011,
+      "panicName": "67241692",
+      "lowMoraleDescription": "4637 24134: 5177 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">144148 98123 69</color></link></u> 173 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">6773</color></link></u>",
+      "panicDescription": "4637 24134: 624882 241552323"
+    },
+    {
+      "id": 1012,
+      "panicName": "327244787",
+      "lowMoraleDescription": "5177 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">4315792</color></link></u>; 77 1 49126, 74 175 4877 91732 41792, 49126 98123 -1 483 462 49126.",
+      "panicDescription": "5177 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">4315792</color></link></u>; 77 1 49126, 74 175 4877 91732 41792, 49126 98123 -3 483 462 49126."
+    },
+    {
+      "id": 9999,
+      "panicName": "91774",
+      "lowMoraleDescription": "",
+      "panicDescription": "3822 784 144 483 4672 4637."
+    },
+    {
+      "id": 1013,
+      "panicName": "78963745",
+      "lowMoraleDescription": "5177 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">4315792</color></link></u>. 413524 98222 2 29 74 4672 6774 98222 462 49126",
+      "panicDescription": "5177 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">4315792</color></link></u>. 413524 98222 5 29 74 4672 6774 98222 462 49126"
+    },
+    {
+      "id": 1014,
+      "panicName": "527521742",
+      "lowMoraleDescription": "4637 24134: 5177 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">144148 98123 69</color></link></u> 173 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">3242722 92529 3817</color></link></u>. 5177 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">318152 69</color></link></u> 61223 87 462 188674 84 318152 41827 9124 4637 (1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">318152 69</color></link></u> 483 25235 3% 84 813 69 9824)",
+      "panicDescription": "4637 24134: 5177 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">144148 98123 69</color></link></u> 173 6 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">3242722 92529 3817</color></link></u>. 5177 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">318152 69</color></link></u> 61223 87 462 188674 84 318152 41827 9124 4637 (1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">318152 69</color></link></u> 483 25235 3% 84 813 69 9824)"
+    },
+    {
+      "id": 1015,
+      "panicName": "919973 91774",
+      "lowMoraleDescription": "[MentalSystemResultDecrease_Typo] +2",
+      "panicDescription": "25235 4637 273: 5177 2 <sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">6773</color></link></u>.\n25235 4877 4672 6774 49792 91732 87 41792."
+    },
+    {
+      "id": 1016,
+      "panicName": "3222748274",
+      "lowMoraleDescription": "4637 24134: 5177 2 [AttackDmgUp] 173 3 [DefenseDown]",
+      "panicDescription": "4637 24134: 5177 1 [Enhancement] 173 5 [DefenseDown]"
+    },
+    {
+      "id": 1026,
+      "panicName": "3677",
+      "lowMoraleDescription": "5177 3 [Sinking] 14 25235 4637 273; 49126 98123 -1",
+      "panicDescription": "5177 5 [Sinking] 173 +3 [Sinking] 48674 14 25235 4637 273; 49126 98123 -2"
+    }
+  ]
+}

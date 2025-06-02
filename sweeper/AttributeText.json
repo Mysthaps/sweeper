@@ -1,0 +1,40 @@
+{
+  "dataList": [
+    {
+      "id": "CRIMSON",
+      "name": "13146"
+    },
+    {
+      "id": "SCARLET",
+      "name": "9624"
+    },
+    {
+      "id": "AMBER",
+      "name": "29846"
+    },
+    {
+      "id": "SHAMROCK",
+      "name": "5964."
+    },
+    {
+      "id": "AZURE",
+      "name": "59888"
+    },
+    {
+      "id": "INDIGO",
+      "name": "93732"
+    },
+    {
+      "id": "VIOLET",
+      "name": "2755"
+    },
+    {
+      "id": "WHITE",
+      "name": "813."
+    },
+    {
+      "id": "BLACK",
+      "name": "17524"
+    }
+  ]
+}

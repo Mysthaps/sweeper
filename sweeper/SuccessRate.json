@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "very-high",
+      "content": "3887714775"
+    },
+    {
+      "id": "high",
+      "content": "4158323"
+    },
+    {
+      "id": "normal",
+      "content": "7264319"
+    },
+    {
+      "id": "low",
+      "content": "2436559775"
+    },
+    {
+      "id": "very-low",
+      "content": "68929222"
+    },
+    {
+      "id": "impossible",
+      "content": "672292441692"
+    },
+    {
+      "id": "event-very-high",
+      "content": "5235 6756"
+    },
+    {
+      "id": "event-high",
+      "content": "6756"
+    },
+    {
+      "id": "event-normal",
+      "content": "783819"
+    },
+    {
+      "id": "event-low",
+      "content": "981"
+    },
+    {
+      "id": "event-very-low",
+      "content": "5235 981"
+    },
+    {
+      "id": "event-impossible",
+      "content": "672292441692"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "857701_abm_success_1_1",
+      "content": "<color=#ebcaa2>199 2777232</color> 9822 %{0}/%."
+    },
+    {
+      "id": "857701_abm_success_1_2",
+      "content": "<color=#ebcaa2>{0}</color> 98222 %{2} {1}/%"
+    },
+    {
+      "id": "857701_abm_failure_1_1",
+      "content": "133 69 <color=#ebcaa2>{0} 173 {0}</color> 48674 322924475295 87 <color=#ebcaa2>199 2777232</color>, 4627 375732 462 268 65 462 768623 84 2777232. 7749744 462 322694775 <color=#e30000>{0} 173 {0} 48674</color> 87 199 2777232. (8777868 1)"
+    },
+    {
+      "id": "857801_success_1_1",
+      "content": "<color=#ebcaa2>199 2777232</color> 9822 %{0}/%."
+    },
+    {
+      "id": "857801_success_1_2",
+      "content": "<color=#ebcaa2>199 2777232</color> <color=#80c9ff>6219 {0} 29.</color>"
+    },
+    {
+      "id": "857801_success_1_3",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>51772</color> %{2} [{1}]/% 7234 4637."
+    },
+    {
+      "id": "857801_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>51772</color> %{2} [{1}]/%"
+    },
+    {
+      "id": "857801_failure_1_2",
+      "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>98222 {1} 29</color>"
+    },
+    {
+      "id": "857801_failure_1_3",
+      "content": "<color=#ebcaa2>{0}</color> <color=#e30000>98222 {1} 69</color>"
+    },
+    {
+      "id": "857101_skinPredector_success_1_2",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>51772</color> %{2} {1}/% <color=#ebcaa2>483 462 274867423.</color>"
+    },
+    {
+      "id": "857101_skinPredector_success_1_3",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>51772</color> %{2} {1}/% 173 %{4} {3}/% <color=#ebcaa2>483 462 274867423.</color>"
+    },
+    {
+      "id": "857101_skinPredector_failure_1_1",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>51772</color> %{2} {1}/% 173 %{4} {3}/% <color=#ebcaa2>483 462 274867423.</color>"
+    },
+    {
+      "id": "857101_skinPredector_failure_1_2",
+      "content": "<color=#ebcaa2>199 2777232</color> <color=#ebcaa2>5177</color> %{1} {0}/% 173 %{3} {2}/%."
+    },
+    {
+      "id": "858501_soc_success_1_1",
+      "content": "<color=#ebcaa2>{0}'2 {1}</color> <color=#ebcaa2>3227241742 6248822 1.5</color>"
+    },
+    {
+      "id": "858501_soc_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000> 41822 {1} 69 318152</color>"
+    },
+    {
+      "id": "858501_soc_failure_1_2",
+      "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>41822 {1} 29 318152</color>"
+    },
+    {
+      "id": "858502_soc_success_1_1",
+      "content": "<color=#ebcaa2>{0}'2 {1}</color> <color=#ebcaa2>3227241742 6248822 1.5</color>"
+    },
+    {
+      "id": "858502_soc_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000> 41822 {1} 69 318152</color>"
+    },
+    {
+      "id": "858502_soc_failure_1_2",
+      "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>41822 {1} 29 318152</color>"
+    },
+    {
+      "id": "858502_soc_failure_1_3",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>51772</color> %{2} {1}/%"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "dataList": [
+    {
+      "id": "ADDITIONAL_COST_START",
+      "description": "24134775 4824 +{0}"
+    },
+    {
+      "id": "ADDITIONAL_COST_AFTER_WIN_BATTLE",
+      "description": "5177 {0} 8832 4824 14423 1777775 1 488614 274867423"
+    },
+    {
+      "id": "EGO_RESOURCE",
+      "description": "2.5.8 32286342 483 199 1447774722 +{0}"
+    },
+    {
+      "id": "EGO_RESOURCE_FORMATION",
+      "description": "2.5.8 32286342 483 1447774722 84 24134775 7327474722 +{0}"
+    },
+    {
+      "id": "HP_RECOVER_RATE_AFTER_WIN_BATTLE",
+      "description": "14423 1777775 1 488614 274867423, 6219 {0}% 84 813 69"
+    },
+    {
+      "id": "MP_RECOVER_NUMBER_AFTER_EVENT_ENCOUNTER",
+      "description": "14423 17 25274 274867423, 6219 {0} 29"
+    },
+    {
+      "id": "AttackLevelAdder",
+      "description": "8442722 92529 +{0}"
+    },
+    {
+      "id": "AttackLevelMultiply",
+      "description": "8442722 92529 +{0}%"
+    },
+    {
+      "id": "DefenseLevelAdder",
+      "description": "3242722 92529 +{0}"
+    },
+    {
+      "id": "DefenseLevelMultiply",
+      "description": "3242722 92529 +{0}%"
+    },
+    {
+      "id": "MaxHpAdder",
+      "description": "813 69 +{0}"
+    },
+    {
+      "id": "MaxHpMultiply",
+      "description": "813 69 +{0}%"
+    },
+    {
+      "id": "MaxSpeedUpAdder",
+      "description": "813 29223 +{0}"
+    },
+    {
+      "id": "AttackDamageAdder",
+      "description": "318152 32194 +{0}"
+    },
+    {
+      "id": "AttackDamageMultiply",
+      "description": "318152 32194 +{0}%"
+    },
+    {
+      "id": "TakeAttackDamageReducer",
+      "description": "318152 41827 -{0}"
+    },
+    {
+      "id": "TakeAttackDamageMultipliedReducer",
+      "description": "318152 41827 -{0}%"
+    },
+    {
+      "id": "StickCoinHeadAndTailToMaxPer",
+      "description": "25235 {0} 46372, 199 48772 87 2146 28799 6223 65 199722 9173 87 462 2182 2732 329273775 87 462 4877'2 4592"
+    },
+    {
+      "id": "RemoveBreakSection",
+      "description": "462 124 2415523 4632268932 84 199722 132 769974723"
+    }
+  ]
+}

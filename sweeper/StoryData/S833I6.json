@@ -1,0 +1,364 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Tienkan Temple Interior",
+      "model": "\uac00\ubaa8\uad34\ubb3c\ub2e4\uce68",
+      "content": "5863 8795 3645 72 48 1747222."
+    },
+    {
+      "id": 1,
+      "model": "\uac00\ubaa8\uad34\ubb3c\ub2e4\uce68",
+      "content": "4614 72 199 586 132, 4614 72 199 586 1799 2523 62 4191692 84. 586 8781 4672 624423 4617 175872 2922."
+    },
+    {
+      "id": 2,
+      "model": "\uc774\uc0c1\ub2e4\uce68",
+      "content": "... 6875 96, 5863 28792 612 4617523 784 8742. 4627 83 781."
+    },
+    {
+      "id": 3,
+      "model": "\uc774\uc0c1\ub2e4\uce68",
+      "content": "664 12 6152 4882 48 8781 4614 5863 28792 72 8832 4617 1 26299."
+    },
+    {
+      "id": 4,
+      "model": "\uc774\uc0c1\ub2e4\uce68",
+      "content": "7 8781 4614 74 72 462 2182 28792 4614 6386564 82 48 462 9124, 462 2182 28792 4614 7 4686564 322286923 6384623 58675-77'2."
+    },
+    {
+      "id": 5,
+      "model": "\uc774\uc0c1\ub2e4\uce68",
+      "content": "4662... 7 8781 5863 3724174 524 4362 62134, 6875 96."
+    },
+    {
+      "id": 6,
+      "model": "\uc774\uc0c1\ub2e4\uce68",
+      "content": "46232 112 16564 586 613 4294 4388 62, 112 46232 784?"
+    },
+    {
+      "id": 7,
+      "place": -1,
+      "model": "\ud64d\ub8e8",
+      "content": "28974632. 242134124. 977523775. 28 674423, 524... 28 77489231695 236162423..."
+    },
+    {
+      "id": 8,
+      "model": "\ud64d\ub8e8",
+      "content": "9872977222. 325324. 174747914787. 462 412492 84 742 112 28 987295 173 4893, 3229742 5863 28792..."
+    },
+    {
+      "id": 9,
+      "model": "\ud64d\ub8e8",
+      "content": "48749744. 1756726. 4863152. 664 46232 112 1 322923142 3228952 48 85234882 74 199 78724629222..."
+    },
+    {
+      "id": 10,
+      "model": "\ud64d\ub8e8",
+      "content": "9875775. 8291746895. 113846. 462 17752 67463923 1232 28 69773775, 28 637997174..."
+    },
+    {
+      "id": 11,
+      "model": "\ud64d\ub8e8",
+      "content": "9122787. 135274632. 42384745. 462 7863725, 4771995 77 221346 84 1 32247714787, 48673 9762314787..."
+    },
+    {
+      "id": 12,
+      "model": "\ud64d\ub8e8",
+      "content": "46479745. 3242387714787. 9852. 462 32491314787 112 621647469, 468656 48 1688 7 48693 784 8781..."
+    },
+    {
+      "id": 13,
+      "model": "\ud64d\ub8e8",
+      "content": "236791314787. 4315235. 2347428274. 7 9213723 681 621647469 173 774173224274 462 97564 84 1 4874776775 33218 48693 62."
+    },
+    {
+      "id": 14,
+      "place": "Tienkan Temple Interior",
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "664 7 1928 8781 4614 4625'32 7624 49224775 467752, 32247723 48 62 9824 48 4782."
+    },
+    {
+      "id": 15,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "12 199 467752 324637 48 3624, 28 1799 46222 28847872, 78 814423 681 68495 4625 8742 663723."
+    },
+    {
+      "id": 16,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "7'8 784 9782 462 3224 84 586."
+    },
+    {
+      "id": 17,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "7 387'4 1174 48 461752 17546775. 7 387'4 1174 48 1467252 17546775, 274623."
+    },
+    {
+      "id": 18,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "28 7 7624 11446... 1746 1 28792, 1 923924619 28792."
+    },
+    {
+      "id": 19,
+      "model": "\ub2e8\ud14c",
+      "content": "<You don't have to want to achieve anything.>"
+    },
+    {
+      "id": 20,
+      "model": "\ub2e8\ud14c",
+      "content": "<But as long as you're on this bus with the rest of us, things will keep happening, both good and bad.>"
+    },
+    {
+      "id": 21,
+      "model": "\ub2e8\ud14c",
+      "content": "<Something's probably going to blow Heathcliff's fuse again.>"
+    },
+    {
+      "id": 22,
+      "model": "\ub2e8\ud14c",
+      "content": "<You'll see the Sinners, your friends, get killed again.>"
+    },
+    {
+      "id": 23,
+      "model": "\ub2e8\ud14c",
+      "content": "<We'll fail again, too. The kind of failure that leaves us with nothing. The kind of failure that leaves us stagnant.>"
+    },
+    {
+      "id": 24,
+      "model": "\ub2e8\ud14c",
+      "content": "<But...>"
+    },
+    {
+      "id": 25,
+      "model": "\ub2e8\ud14c",
+      "content": "<Among those inevitabilities, think about the other things that are sure to happen.>"
+    },
+    {
+      "id": 26,
+      "place": -1,
+      "model": "\ub2e8\ud14c",
+      "content": "<You're going to miss the days you went out kiting. "
+    },
+    {
+      "id": 27,
+      "model": "\ub2e8\ud14c",
+      "content": "173 1627 387 0673842 241342 48 325192 62 1746 524 1784623 872 84 623 41922 84 135274632, 586'32 58775 48 7877 77 48 7736952 623.>"
+    },
+    {
+      "id": 28,
+      "model": "\ub2e8\ud14c",
+      "content": "<You know for sure that you'll be listening to Rodya heap praises about her favorite food whenever we get the chance to try them.>"
+    },
+    {
+      "id": 29,
+      "model": "\ub2e8\ud14c",
+      "content": "<You're going to suddenly realize that the scenery past the bus windows have changed, and that they've become beautiful for once.>"
+    },
+    {
+      "id": 30,
+      "model": "\ub2e8\ud14c",
+      "content": "<You're going to feel your heart swell for no reason, when you listen to the Sinners laugh and giggle behind you.>"
+    },
+    {
+      "id": 31,
+      "model": "\ub2e8\ud14c",
+      "content": "<You know how I know this?>"
+    },
+    {
+      "id": 32,
+      "model": "\ub2e8\ud14c",
+      "content": "<Because I'm talking about myself here.>"
+    },
+    {
+      "id": 33,
+      "model": "\ub2e8\ud14c",
+      "content": "<These moments in time\u2026 they\u2019re what I use to fill the void my memories left behind.>"
+    },
+    {
+      "id": 34,
+      "place": "Tienkan Temple Interior",
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "... 681 417 586... 173 25235872... 63775 5863229522 48 4132 16864 17546775, 8781775 4614 74 191152 612 17 273?"
+    },
+    {
+      "id": 35,
+      "model": "\ub2e8\ud14c",
+      "content": "<One end... or, at least what we thought would be the end...>"
+    },
+    {
+      "id": 36,
+      "model": "\ub2e8\ud14c",
+      "content": "<... was always just the starting line for something new.>"
+    },
+    {
+      "id": 37,
+      "model": "\ub2e8\ud14c",
+      "content": "<Each finish line was just another arbitrary mark, another step in our journey, right?>"
+    },
+    {
+      "id": 38,
+      "model": "\ub2e8\ud14c",
+      "content": "<And it's those little steps that... keep us going.>"
+    },
+    {
+      "id": 39,
+      "model": "\ub2e8\ud14c",
+      "content": "<And hey, Hong Lu... you're not stagnating. You're changing, too.>"
+    },
+    {
+      "id": 40,
+      "model": "\ub2e8\ud14c",
+      "content": "<Tell me. Why did you decide to go with Jia Qiu's plan?>"
+    },
+    {
+      "id": 41,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "74 1127'4 16864 462 113, 462 589327 68656, 83... 3156175617."
+    },
+    {
+      "id": 42,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "462 47324 46775 4614 4182 48 8773 112..."
+    },
+    {
+      "id": 43,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "112..."
+    },
+    {
+      "id": 44,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "... 4614 7 117423 374667 48 527677295 28792 15177."
+    },
+    {
+      "id": 45,
+      "model": "\ub2e8\ud14c",
+      "content": "<Yeah, and that's... how your heart's been changing.>"
+    },
+    {
+      "id": 46,
+      "model": "\ub2e8\ud14c",
+      "content": "<In ways you hadn\u2019t seen.>"
+    },
+    {
+      "id": 47,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "7 4686564 7\u20193 1932135 924 46222 431582742 84 85 62134 49814 1115 4388 82."
+    },
+    {
+      "id": 48,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "14423 199, 199 84 237242742 72 664 1 9122775 33218, 32247723 48 324637 48 289477222\u2026"
+    },
+    {
+      "id": 49,
+      "place": "Front Gates of Daguanyuan, Past",
+      "model": "\ud30c\uc6b0\uc2a4\ud2b8",
+      "title": "???",
+      "content": "624832 5863 8768133775, 586 815 9322274 1 7182 83 17 19712 84 5863 46882775 4614 846232 268693 1333222 586 65."
+    },
+    {
+      "id": 50,
+      "model": "\ud30c\uc6b0\uc2a4\ud2b8",
+      "title": "???",
+      "content": "1799 586 622 5863 7182, 771 61856?"
+    },
+    {
+      "id": 51,
+      "model": "\uacfc\uac70\ud64d\ub8e8",
+      "content": "68..."
+    },
+    {
+      "id": 52,
+      "model": "\uacfc\uac70\ud64d\ub8e8",
+      "content": "78."
+    },
+    {
+      "id": 53
+    },
+    {
+      "id": 54,
+      "model": "\uacfc\uac70\ud64d\ub8e8",
+      "teller": "6875 96",
+      "title": "???",
+      "content": "6875 96. 7 1174 48 62 6875 96."
+    },
+    {
+      "id": 55,
+      "place": -1,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "664 781, 7 3219722 4614 4625\u201952 6227 663723 6232 199 19875."
+    },
+    {
+      "id": 56,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "4625 12327\u20194 9824... 7'3 8795 483584427 16864 4628. 4614\u20192 165 7 4294 9782 85 62134 112 4319923."
+    },
+    {
+      "id": 57,
+      "model": "\ub2e8\ud14c",
+      "content": "<I can keep turning the clock for you, I can keep walking side-by-side with you to the end of the line...>"
+    },
+    {
+      "id": 58,
+      "model": "\ub2e8\ud14c",
+      "content": "<But at the end of the day... only you can save yourself.>"
+    },
+    {
+      "id": 59,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "86, 7 4686564 462 8742 613 4981423 1115, 72523 48 62 48673 15177."
+    },
+    {
+      "id": 60,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "664 74 112 24799 6232."
+    },
+    {
+      "id": 61,
+      "place": "Tienkan Temple Interior",
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "25235 8224775 72 1 9388722 84 1 5883652\u2026"
+    },
+    {
+      "id": 62,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "173 462 9852977222 84 43226 69822882 8795 26139272 462 9177 84 1794775."
+    },
+    {
+      "id": 63,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "664..."
+    },
+    {
+      "id": 64,
+      "model": "\ub2e8\ud14c",
+      "content": "<But the world you witness will always be beautiful.>"
+    },
+    {
+      "id": 65,
+      "model": "\ub2e8\ud14c",
+      "content": "<Because you are a kind person, Hong Lu. Kinder than anyone else.>"
+    },
+    {
+      "id": 66,
+      "model": "\ub2e8\ud14c",
+      "content": "<So, your world must be painted in the fairest color of jade.>"
+    },
+    {
+      "id": 67,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "... 74 46822 924192 324622 48 263327323 173 9752 87 77 462 63724 8882742 4625 132 57527,"
+    },
+    {
+      "id": 68,
+      "model": "\ud64d\ub8e8\ub2e4\uce68",
+      "content": "3229742 8781775 4614 4625 1799 2527461995 2414423 48 462 17732\u2026"
+    },
+    {
+      "id": 69,
+      "model": "\ub2e8\ud14c",
+      "content": "<Then, show them the petals you\u2019ve gathered.>"
+    }
+  ]
+}

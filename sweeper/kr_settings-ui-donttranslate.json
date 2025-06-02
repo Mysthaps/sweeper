@@ -1,0 +1,272 @@
+{
+  "dataList": [
+    {
+      "id": "mainui_settings_game",
+      "content": "5272319"
+    },
+    {
+      "id": "mainui_settings_graphic",
+      "content": "53196742"
+    },
+    {
+      "id": "mainui_settings_sound",
+      "content": "16378"
+    },
+    {
+      "id": "mainui_settings_notice",
+      "content": "784742"
+    },
+    {
+      "id": "mainui_settings_etc",
+      "content": "8724."
+    },
+    {
+      "id": "mainui_settings_download",
+      "content": "38179813"
+    },
+    {
+      "id": "mainui_settings_download_complete",
+      "content": "38179813 48899242"
+    },
+    {
+      "id": "mainui_settings_video_resource",
+      "content": "57328 322863422"
+    },
+    {
+      "id": "mainui_settings_audio_resource",
+      "content": "16378 322863422"
+    },
+    {
+      "id": "mainui_settings_animation_resource",
+      "content": "177814787 322863422"
+    },
+    {
+      "id": "mainui_settings_ego_presentation",
+      "content": "2.5.8 177814787"
+    },
+    {
+      "id": "mainui_settings_on",
+      "content": "87"
+    },
+    {
+      "id": "mainui_settings_off",
+      "content": "844"
+    },
+    {
+      "id": "mainui_settings_play_once_per_day",
+      "content": "8742 923 315"
+    },
+    {
+      "id": "mainui_settings_resolution",
+      "content": "3228964787"
+    },
+    {
+      "id": "mainui_settings_resolution_windowded",
+      "content": "17738123"
+    },
+    {
+      "id": "mainui_settings_resolution_fullscreen",
+      "content": "4699243227"
+    },
+    {
+      "id": "mainui_settings_texquality",
+      "content": "4234632 0619745"
+    },
+    {
+      "id": "mainui_settings_resolution_warning",
+      "content": "675623 32289647872 815 41622 462 325742 48 6214 173 4872682 1337478719 98123."
+    },
+    {
+      "id": "mainui_settings_fps_warning",
+      "content": "675623 4318231422 815 41622 462 325742 48 6214 173 4872682 1337478719 98123."
+    },
+    {
+      "id": "mainui_settings_low",
+      "content": "981"
+    },
+    {
+      "id": "mainui_settings_middle",
+      "content": "823768"
+    },
+    {
+      "id": "mainui_settings_high",
+      "content": "6756"
+    },
+    {
+      "id": "mainui_settings_postprocessing",
+      "content": "9824-9384222775"
+    },
+    {
+      "id": "mainui_settings_ppon",
+      "content": "87"
+    },
+    {
+      "id": "mainui_settings_ppoff",
+      "content": "844"
+    },
+    {
+      "id": "mainui_settings_ppdesc",
+      "content": "48743892 418231 2442442 77 614492. 1442442 5182 92348381742."
+    },
+    {
+      "id": "mainui_settings_antialiasing",
+      "content": "1747-19712775"
+    },
+    {
+      "id": "mainui_settings_clear",
+      "content": "32224"
+    },
+    {
+      "id": "mainui_settings_clear_ask",
+      "content": "32224 2523546775 48 3241694?"
+    },
+    {
+      "id": "mainui_settings_render_acceleration",
+      "content": "14429231423 327323775"
+    },
+    {
+      "id": "mainui_settings_sound_master",
+      "content": "812423"
+    },
+    {
+      "id": "mainui_settings_sound_sfx",
+      "content": "243"
+    },
+    {
+      "id": "mainui_settings_sound_voice",
+      "content": "58742"
+    },
+    {
+      "id": "mainui_settings_sound_battle_announcer",
+      "content": "177867423"
+    },
+    {
+      "id": "mainui_settings_notice_enkephalin_full",
+      "content": "2782961977 32485235"
+    },
+    {
+      "id": "mainui_settings_notice_ads",
+      "content": "93888478719 7847422"
+    },
+    {
+      "id": "mainui_settings_notice_ads_night",
+      "content": "93888478719 7847422 (77564)"
+    },
+    {
+      "id": "mainui_settings_change_launguage",
+      "content": "91756152"
+    },
+    {
+      "id": "mainui_settings_change_launguage_ask",
+      "content": "91756152 4617522 19995 14423 3224134775 462 5182."
+    },
+    {
+      "id": "mainui_settings_faq_btn",
+      "content": "46248823 2235742"
+    },
+    {
+      "id": "connect_to_google_account",
+      "content": "9778 1746 588592"
+    },
+    {
+      "id": "connect_to_apple_account",
+      "content": "9778 1746 19992"
+    },
+    {
+      "id": "explain_sucession",
+      "content": "74 586 49822 462 1448674, 199 51829915 173 96346122 3141 1799 62 3292423."
+    },
+    {
+      "id": "explain_sucession_remain_days",
+      "content": "586 1799 62 57527 1 7-315 53142 923783. 586 417 3224832 462 1448674 74 586 2757 77 624832 462 273 84 462 923783."
+    },
+    {
+      "id": "explain_writing_code_for_sucession",
+      "content": "\u203b 74 586 15322 48 462 42382 16852,\n992122 27423 462 9244232 586 222 77 462 683."
+    },
+    {
+      "id": "explain_secession_status",
+      "content": "462 1448674 72 463327495 67323 1 4982632 923783.\n4782 328177775: {0}3 {1}6 {2}8\n586 417 3248523 462 1448674 74 586 2757 77 781.\n3248523 462 1448674?"
+    },
+    {
+      "id": "recover",
+      "content": "3248523"
+    },
+    {
+      "id": "request_sucession",
+      "content": "3206224 4982632"
+    },
+    {
+      "id": "request_sucession_success",
+      "content": "4982632 264422246995 320622423."
+    },
+    {
+      "id": "mainui_settings_account",
+      "content": "1448674"
+    },
+    {
+      "id": "account_secede",
+      "content": "49822 1448674"
+    },
+    {
+      "id": "connected_accounts",
+      "content": "977823 14486742"
+    },
+    {
+      "id": "mainui_settings_bloom",
+      "content": "69888"
+    },
+    {
+      "id": "mainui_settings_blur",
+      "content": "6963"
+    },
+    {
+      "id": "mainui_settings_bloomdesc",
+      "content": "48743892 293213 84 97564 2442442. 1442442 5182 92348381742."
+    },
+    {
+      "id": "mainui_settings_blurdesc",
+      "content": "48743892 6963 2442442. 1442442 5182 92348381742."
+    },
+    {
+      "id": "mainui_settings_fps_common",
+      "content": "783819 492"
+    },
+    {
+      "id": "mainui_settings_fps_battle",
+      "content": "488614 492"
+    },
+    {
+      "id": "mainui_settings_renderingscale",
+      "content": "327323 2419775"
+    },
+    {
+      "id": "mainui_settings_renderingscale_warning",
+      "content": "12 324888273 4614 586 224 74 48 \u300c6756\u300d 87 94. 87 886792, \u300c823768\u300d 83 98123 72 32488827323.\n675623 327323775 24192 51962 815 9213 48 774321223 98123 33177152 173 6214."
+    },
+    {
+      "id": "mainui_settings_colorfilter",
+      "content": "(\ub354\ubbf8)\uc0c9\uc0c1\ud544\ud130"
+    },
+    {
+      "id": "mainui_settings_deuteranomaly_green-weak",
+      "content": "(\ub354\ubbf8)\ub179\uc0c9\uc57d"
+    },
+    {
+      "id": "mainui_settings_protanomaly_red-weak",
+      "content": "(\ub354\ubbf8)\uc801\uc0c9\uc57d"
+    },
+    {
+      "id": "mainui_settings_tritanomaly_blue-weak",
+      "content": "(\ub354\ubbf8)\uccad\uc0c9\uc57d"
+    },
+    {
+      "id": "mainui_settings_colorfilter_power",
+      "content": "(\ub354\ubbf8)\uc0c9\uc0c1\ud544\ud130 \uac15\ub3c4"
+    },
+    {
+      "id": "mainui_settings_colorfilter_test",
+      "content": "(\ub354\ubbf8)\uc801\uc6a9 \ud655\uc778 \uc774\ubbf8\uc9c0"
+    }
+  ]
+}

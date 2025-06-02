@@ -1,0 +1,116 @@
+{
+  "dataList": [
+    {
+      "id": 1,
+      "personalityid": 10801,
+      "voiceFile": 0,
+      "teller": "7268129",
+      "dialog": "417 7 38 74? 84 486322. 46232\u20192 78 98774 77 2527 128775.",
+      "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
+    },
+    {
+      "id": 2,
+      "personalityid": 10801,
+      "voiceFile": 0,
+      "teller": "7268129",
+      "dialog": "4672 268693 62 3212871692. 12 9875 12 462 9917 626773 74 727\u20194 48419 4984218.",
+      "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
+    },
+    {
+      "id": 3,
+      "personalityid": 10801,
+      "voiceFile": 0,
+      "teller": "7268129",
+      "dialog": "1299\u2026 74 46232\u20192 78 872 2922 69 483 4672, 7\u201999 2429 4831133.",
+      "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
+    },
+    {
+      "id": 4,
+      "personalityid": 10801,
+      "voiceFile": 0,
+      "teller": "7268129",
+      "dialog": "7\u201999 488995, 664 4672 68722495 286732 9782 1 42337692 9917.",
+      "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
+    },
+    {
+      "id": 5,
+      "personalityid": 10801,
+      "voiceFile": 0,
+      "teller": "7268129",
+      "dialog": "132 586 2237862? 2252319 243212 98822? 7\u20198 372199877423. 387\u20194 4198 48 82.",
+      "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
+    },
+    {
+      "id": 6,
+      "personalityid": 10801,
+      "voiceFile": 0,
+      "teller": "7268129",
+      "dialog": "3229742 74 199\u2026 7 8171523 2882681.",
+      "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
+    },
+    {
+      "id": 7,
+      "personalityid": 10801,
+      "voiceFile": 0,
+      "teller": "7268129",
+      "dialog": "586 268693\u201952 613 2882872 2922 3219 1746 74. 387\u20194 69182 82 483 4672.",
+      "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
+    },
+    {
+      "id": 8,
+      "personalityid": 10802,
+      "voiceFile": 0,
+      "teller": "3 4839. 7268129",
+      "dialog": "",
+      "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
+    },
+    {
+      "id": 9,
+      "personalityid": 10802,
+      "voiceFile": 0,
+      "teller": "3 4839. 7268129",
+      "dialog": "",
+      "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
+    },
+    {
+      "id": 10,
+      "personalityid": 10802,
+      "voiceFile": 0,
+      "teller": "3 4839. 7268129",
+      "dialog": "",
+      "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
+    },
+    {
+      "id": 11,
+      "personalityid": 10802,
+      "voiceFile": 0,
+      "teller": "3 4839. 7268129",
+      "dialog": "",
+      "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
+    },
+    {
+      "id": 12,
+      "personalityid": 10802,
+      "voiceFile": 0,
+      "teller": "3 4839. 7268129",
+      "dialog": "",
+      "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
+    },
+    {
+      "id": 13,
+      "personalityid": 10802,
+      "voiceFile": 0,
+      "teller": "3 4839. 7268129",
+      "dialog": "",
+      "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
+    },
+    {
+      "id": 14,
+      "personalityid": 10802,
+      "voiceFile": 0,
+      "teller": "3 4839. 7268129",
+      "dialog": "",
+      "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
+    }
+  ]
+}

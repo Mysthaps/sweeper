@@ -1,0 +1,24 @@
+{
+  "dataList": [
+    {
+      "id": "event_judgement_above",
+      "content": "<color=#f8c200>135174152</color>"
+    },
+    {
+      "id": "event_judgement_below",
+      "content": "<color=#e30000>372135174152</color>"
+    },
+    {
+      "id": "event_select_personality_to_proceed_judgement",
+      "content": "468822 17 73274745 48 9234838 462 46248 1746:"
+    },
+    {
+      "id": "event_expected_success_rate_format",
+      "content": "932374423 8332: {0}"
+    },
+    {
+      "id": "all_attribute",
+      "content": "199 1447774722"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "dataList": [
+    {
+      "id": "shotcutKeyManual_confirm_popup",
+      "content": "[General] 4874738 98969"
+    },
+    {
+      "id": "shotcutKeyManual_skip_story",
+      "content": "[Story] 2879 37198562"
+    },
+    {
+      "id": "shotcutKeyManual_skip_extraction",
+      "content": "[Extractions] 2879 177814787"
+    },
+    {
+      "id": "shotcutKeyManual_pause_and_play",
+      "content": "[Encounters] 91622 & 322682"
+    },
+    {
+      "id": "shotcutKeyManual_start_battle",
+      "content": "[Encounters] 24134 488614 96122"
+    },
+    {
+      "id": "shotcutKeyManual_button_winning",
+      "content": "[Encounters] 177 3142"
+    },
+    {
+      "id": "shotcutKeyManual_button_damage",
+      "content": "318152 664487"
+    },
+    {
+      "id": "shotcutKeyManual_close_popup",
+      "content": "[General] 49822 98969"
+    },
+    {
+      "id": "shotcutKeyManual_cancel_back",
+      "content": "417429 83 324637 48 93257862 8276"
+    },
+    {
+      "id": "shotcutKeyManual_quit_game",
+      "content": "0674 5182"
+    },
+    {
+      "id": "shotcutKeyManual_move_screen",
+      "content": "[Encounters] 8852 418231"
+    },
+    {
+      "id": "shotcutKeyManual_show_current_situation",
+      "content": "[Encounters] 3729915 49126 133812"
+    },
+    {
+      "id": "shotcutKeyManual_open_manual",
+      "content": "[General] 8927 67 817619"
+    },
+    {
+      "id": "shotcutKeyManual_zoom_inout_battle",
+      "content": "[Encounters] 2888 77 & 864"
+    }
+  ]
+}

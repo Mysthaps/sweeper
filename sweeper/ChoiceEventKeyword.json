@@ -1,0 +1,72 @@
+{
+  "dataList": [
+    {
+      "id": "EGO_GIFT",
+      "content": "2.5.8 5744"
+    },
+    {
+      "id": "OnStageStart",
+      "content": "6987 24152 27435"
+    },
+    {
+      "id": "IncludeSkillAttribute",
+      "content": "1746 462 [ATTRIBUTES] 277 14477745 144148 28799"
+    },
+    {
+      "id": "NotIncludeSkillAttribute",
+      "content": "1746864 462 [ATTRIBUTES] 277 14477745 144148 28799"
+    },
+    {
+      "id": "NextBattle",
+      "content": "9134747914775 77 462 7234 614492"
+    },
+    {
+      "id": "LowestMp",
+      "content": "1746 462 981224 29"
+    },
+    {
+      "id": "FAILURE",
+      "content": "4614 417923 462 46248"
+    },
+    {
+      "id": "SUCCESS",
+      "content": "4614 912223 462 46248"
+    },
+    {
+      "id": "ADD",
+      "content": "133"
+    },
+    {
+      "id": "SUB",
+      "content": "26643144"
+    },
+    {
+      "id": "85560101CRIMSON",
+      "content": "4378287"
+    },
+    {
+      "id": "85560101SCARLET",
+      "content": "2413924"
+    },
+    {
+      "id": "85560101AMBER",
+      "content": "18623"
+    },
+    {
+      "id": "85560101SHAMROCK",
+      "content": "26183848"
+    },
+    {
+      "id": "85560101AZURE",
+      "content": "12632"
+    },
+    {
+      "id": "85560101INDIGO",
+      "content": "773758?"
+    },
+    {
+      "id": "85560101VIOLET",
+      "content": "578924"
+    }
+  ]
+}

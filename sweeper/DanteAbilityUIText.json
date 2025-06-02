@@ -1,0 +1,48 @@
+{
+  "dataList": [
+    {
+      "id": "danteAbility_UIPopup_Title",
+      "content": "229244 2199775 84 97564 1679745"
+    },
+    {
+      "id": "danteAbility_UIPopup_Remain",
+      "content": "328177775 14475147872"
+    },
+    {
+      "id": "dnateAbiltiy_Unlock_GoldenBranch_Resonance",
+      "content": "589327 68656 322871742"
+    },
+    {
+      "id": "tutorial_battle_danteAbility_title",
+      "content": "2199775 84 97564 1679745"
+    },
+    {
+      "id": "tutorial_battle_danteAbility_01_desc_01",
+      "content": "229244 462 2199775 84 97564 1679745 664487 87 462 489 37564."
+    },
+    {
+      "id": "tutorial_battle_danteAbility_02_desc_01",
+      "content": "229244 462 1679745 48 622."
+    },
+    {
+      "id": "tutorial_battle_danteAbility_03_desc_01",
+      "content": "93222 462 487473814787 664487 48 14475142 462 2199775 84 97564 1679745.\n2199775 84 97564 417 62 6223 12 9875 12 46232 132 328177775 14475147872.\n328177775 14475147872 132 32224 25235 315."
+    },
+    {
+      "id": "ui_activated",
+      "content": "14475142"
+    },
+    {
+      "id": "IsUnavailableDanteAbility_TitleText",
+      "content": "417784 622 4672 2199775 84 97564 1679745."
+    },
+    {
+      "id": "IsUnavailableDanteAbility_DescText_IsActivatedAbility",
+      "content": "1932135 6223 4672 2199775 84 97564 1679745 48315."
+    },
+    {
+      "id": "IsUnavailableDanteAbility_DescText_RemainingCountIsZero",
+      "content": "78 328177775 14475147872 483 48315."
+    }
+  ]
+}

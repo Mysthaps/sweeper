@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "id": "umida_stagebutton_not_clear_cp4",
+      "content": "49213 4-54 48 679848"
+    },
+    {
+      "id": "umida_stagebutton_normal",
+      "content": "514623 24319"
+    },
+    {
+      "id": "umida_stagebutton_end_event",
+      "content": "25274 498223"
+    },
+    {
+      "id": "umida_storybutton_before_start",
+      "content": "49213 4.5-1 48 679848"
+    },
+    {
+      "id": "umida_storybutton_normal",
+      "content": "324899244"
+    },
+    {
+      "id": "umida_exchange_scrap",
+      "content": "24319 683"
+    },
+    {
+      "id": "umida_scrap_guide_title",
+      "content": "2343183377135 24319"
+    },
+    {
+      "id": "umida_scrap_guide_desc",
+      "content": "313295, 586 815 864177 <color=#f8c200>[Rare Horseshoe with Bus-modifying Scrap]</color> 4388 49213775 25274 241522, 8177 24835 241522, 83 36752872.\n\n<color=#f8c200>[Rare Horseshoe with Bus-modifying Scrap]</color> 72 487523423 48 20 <color=#f8c200>[Bus-modifying Scrap]</color>."
+    },
+    {
+      "id": "umida_rewardpage_desc",
+      "content": "49213 25274 241522, 8177 24835 241522, 83 36752872 48 2137 <color=#f8c200>[Bus-modifying Scrap]</color>.\n\n586 417 323228 5137862 3211332 4388 462 <color=#f8c200>[Scrap Box]</color> 61223 87 462 768623 84 <color=#f8c200>[Bus-modifying Scrap]</color> 586 6152."
+    },
+    {
+      "id": "umida_scrap_counter_label",
+      "content": "24319 489924423"
+    }
+  ]
+}

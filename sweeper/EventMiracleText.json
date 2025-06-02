@@ -1,0 +1,68 @@
+{
+  "dataList": [
+    {
+      "id": "miracle_stagebutton_not_clear_cp4",
+      "content": "58 49213 41748 {0} 47324!"
+    },
+    {
+      "id": "miracle_stagebutton_normal",
+      "content": "87, 498486213! 524 4314877'!"
+    },
+    {
+      "id": "miracle_stagebutton_end_event",
+      "content": "586'32 9142! 25274'2 2664!"
+    },
+    {
+      "id": "miracle_storybutton_before_start",
+      "content": "49213 5.5-1 48 679848"
+    },
+    {
+      "id": "miracle_storybutton_normal",
+      "content": "3257274 46772 1352746322!"
+    },
+    {
+      "id": "miracle_exchange_scrap",
+      "content": "321133 23461752"
+    },
+    {
+      "id": "miracle_scrap_guide_title",
+      "content": "25274 46332745 56732"
+    },
+    {
+      "id": "miracle_scrap_guide_desc",
+      "content": "586 417 864177 <color=#008d0d>[43778242 2148]</color> 65 4889924775 25274/8177 24835 241522 83 462 873383 3675287.\n586 1928 6152 1 28199 461742 48 864177 <color=#008d0d>[6652 43778242 2148]</color> 77 462 9384222.\n\n<color=#008d0d>[6652 43778242 2148]</color> 72 78823714295 487523423 48 20 <color=#008d0d>[43778242 2148]</color> 6987 14067274787."
+    },
+    {
+      "id": "miracle_rewardpage_desc",
+      "content": "2137 <color=#008d0d>[43778242 2148]</color> 571 462 489981775 8246832:\n47324-4782 25274 24152 & 3675287 492132 173 873383 3675287 492132.\n\n77 462 <color=#008d0d>[321133 23461752]</color> 177381, 586 417 96346122 5137862 3211332\n65 29273775 <color=#008d0d>[43778242 2148]</color> 586 6152 489924423."
+    },
+    {
+      "id": "miracle_scrap_counter_label",
+      "content": "43778242 21482 489924423"
+    },
+    {
+      "id": "miracle_chapter_map_difficulty_ui_9105",
+      "content": "783819"
+    },
+    {
+      "id": "miracle_chapter_map_difficulty_ui_9112",
+      "content": "6133"
+    },
+    {
+      "id": "miracle_chapter_map_difficulty_ui_hard_chapter_unlock_condition",
+      "content": "49213 {0}-{1} 48 679848 462 6133 8832"
+    },
+    {
+      "id": "miracle_chapter_map_difficulty_ui_event_date_format",
+      "content": "67479 {0}/{1}"
+    },
+    {
+      "id": "miracle_bonusUI_Desc",
+      "content": "363775 462 25274 923783, 329985775 462 489981775 2.5.8 87 5863 4218 1799\n68824 462 188674 84 <color=#008d0d>[43778242 2148]</color> 213723.\n586 417 2137 1 8137868 84 <color=#008d0d>120%</color> 68824 48 462 188674 84 25274 46332745 213723."
+    },
+    {
+      "id": "miracle_bonus_popup_title",
+      "content": "25274 68762 67742"
+    }
+  ]
+}

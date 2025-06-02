@@ -1,0 +1,296 @@
+{
+  "dataList": [
+    {
+      "id": "Walpu5_reward_button",
+      "content": "87227872"
+    },
+    {
+      "id": "Walpu5_story_theater_button",
+      "content": "48 4621423"
+    },
+    {
+      "id": "Walpu5_normal_stage",
+      "content": "27423 2125 3744746945"
+    },
+    {
+      "id": "Walpu5_hard_stage",
+      "content": "27423 6133 3744746945"
+    },
+    {
+      "id": "Walpu5_normal_stage_name",
+      "content": "6888 84 462 466346 84 52132"
+    },
+    {
+      "id": "Walpu5_hard_stage_name",
+      "content": "6888 84 462 466346 84 52132"
+    },
+    {
+      "id": "Walpu5_hard_stage_unlock_condition",
+      "content": "49213 2125 3744746945 48 679848"
+    },
+    {
+      "id": "EVENT_Walpu5_NORMAL",
+      "content": "2125"
+    },
+    {
+      "id": "EVENT_Walpu5_HARD",
+      "content": "6133"
+    },
+    {
+      "id": "missionConditionTitle_10037",
+      "content": "324214 1 5213 1832679923 77 17 274867423"
+    },
+    {
+      "id": "missionConditionTitle_10038",
+      "content": "324214 1 5213 1832679923 77 17 274867423"
+    },
+    {
+      "id": "missionConditionTitle_10039",
+      "content": "324214 1 5213 1832679923 77 17 274867423"
+    },
+    {
+      "id": "missionConditionTitle_10040",
+      "content": "324214 17 1553222752 5213 4171474 77 17 274867423"
+    },
+    {
+      "id": "missionConditionTitle_10041",
+      "content": "48899242 274867423 1746864 175 1995 321462"
+    },
+    {
+      "id": "missionConditionTitle_10042",
+      "content": "48899242 274867423 1746864 175 84 462 199722' 29 33899775 48 -45 29"
+    },
+    {
+      "id": "missionConditionTitle_10043",
+      "content": "324214 1 5213 1832679923 1746 17 1995 1746 462 '32135 48 4732' 244244 77 17 274867423"
+    },
+    {
+      "id": "missionConditionTitle_10044",
+      "content": "48899242 462 274867423 1746 17 1995 1746 462 '32135 48 4732' 244244 263575775 173 418775 9222 4617 5 6742 4388 27285 144148 287992"
+    },
+    {
+      "id": "missionConditionTitle_10045",
+      "content": "324214 4+ 5213 18326799232 1746 1 277592 144148 28799"
+    },
+    {
+      "id": "missionConditionTitle_10046",
+      "content": "324214 17 1553222752 5213 4171474 1746 80%+ 69 1746 1 277592 144148 28799"
+    },
+    {
+      "id": "missionConditionTitle_20039",
+      "content": "324214 1 5213 1832679923 77 17 274867423"
+    },
+    {
+      "id": "missionConditionTitle_20040",
+      "content": "324214 1 5213 1832679923 77 17 274867423"
+    },
+    {
+      "id": "missionConditionTitle_20041",
+      "content": "324214 1 5213 1832679923 77 17 274867423"
+    },
+    {
+      "id": "missionConditionTitle_20042",
+      "content": "324214 17 1553222752 5213 4171474 77 17 274867423"
+    },
+    {
+      "id": "missionConditionTitle_20043",
+      "content": "48899242 274867423 1746864 175 1995 321462"
+    },
+    {
+      "id": "missionConditionTitle_20044",
+      "content": "48899242 274867423 1746864 175 84 462 199722' 29 33899775 48 -45 29"
+    },
+    {
+      "id": "missionConditionTitle_20045",
+      "content": "48899242 274867423 1746864 175 199722 32146775 10 28882 9842745"
+    },
+    {
+      "id": "missionConditionTitle_20046",
+      "content": "324214 1 5213 1832679923 1746 17 1995 1746 462 '32135 48 4732' 244244 77 17 274867423"
+    },
+    {
+      "id": "missionConditionTitle_20047",
+      "content": "324214 1 5213 1832679923 1746 17 1995 1746 462 '32135 48 4732' 244244 77 17 274867423"
+    },
+    {
+      "id": "missionConditionTitle_20048",
+      "content": "48899242 462 274867423 1746 17 1995 1746 462 '32135 48 4732' 244244 263575775 173 418775 9222 4617 3 6742 4388 27285 144148 287992"
+    },
+    {
+      "id": "missionConditionTitle_20049",
+      "content": "324214 7+ 5213 18326799232 1746 1 277592 144148 28799"
+    },
+    {
+      "id": "missionConditionTitle_20050",
+      "content": "324214 17 1553222752 5213 4171474 1746 80%+ 69 1746 1 277592 144148 28799"
+    },
+    {
+      "id": "missionConditionTitle_20051",
+      "content": "3219 300+ 4374 318152 1746 1 277592 144148 28799 77 17 274867423"
+    },
+    {
+      "id": "missionConditionTitle_30004",
+      "content": "48899242 199 87227872 77 6846 2125 173 6133 374474694722"
+    },
+    {
+      "id": "Walpu5_reward_event_desc",
+      "content": "324214 462 5213 18326799232 77 '2125' 173 '6133' 374474694722 173 48899242 462 87227872.\n\n2137 5137862 3211332 65 49213775 46222 87227872."
+    },
+    {
+      "id": "Walpu5_reward_normal_tab",
+      "content": "2125"
+    },
+    {
+      "id": "Walpu5_reward_hard_tab",
+      "content": "6133"
+    },
+    {
+      "id": "Walpu5_modal_yes",
+      "content": "522"
+    },
+    {
+      "id": "Walpu5_modal_no",
+      "content": "78"
+    },
+    {
+      "id": "walpu_modal_enterStage_10562",
+      "content": "1799 586 27423 462 6888 84 462 466346 84 52132?"
+    },
+    {
+      "id": "walpu_modal_enterStage_10563",
+      "content": "1799 586 27423 462 6888 84 462 466346 84 52132?"
+    },
+    {
+      "id": "walpu_battle_2_wave",
+      "content": "462 466346 84 52132 8314835"
+    },
+    {
+      "id": "walpu_battle_name_10562",
+      "content": "5213 1832679923"
+    },
+    {
+      "id": "walpu_battle_name_10563",
+      "content": "5213 1832679923"
+    },
+    {
+      "id": "walpu_battle_name_10564",
+      "content": "5213 1832679923"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_01_title",
+      "content": "462 546 119963572 77564 - 4699-2489923 65 1 669924"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_01_title_01",
+      "content": "462 546 119963572 77564 - 4699-2489923 65 1 669924"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_01_desc_01",
+      "content": "[The 5th Walpurgis Night - Full-Stopped by a Bullet] 6798482 3251339222 84 5863 93853222 77 462 8177 24835. 27423 571 462 25274 617723 87 462 177381 83 462 3375232732 4162."
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_02_title_01",
+      "content": "25274 923783"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_02_desc_01",
+      "content": "462 36314787 84 462 546 119963572 77564 25274 72 26817 6232. 363775 462 25274, 48899242 87227872 483 2125 173 6133 3744746945 25274 2748674232 173 49178 46273 3211332."
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_03_title_01",
+      "content": "2125 3744746945 274867423"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_03_desc_01",
+      "content": "229244 462 3883 48 62577 462 2125 3744746945 274867423.\n462 274867423 48726822 17 2782961977 883692 6987 27435.\n87 2125 3744746945, 175 32998523 7327474722 67323 92529 50 1799 62 317223 48 92529 50.\n1928, 175 32998523 7327474722 67323 4723 3 69472 92529 1799 62 317223 48 4723 3 69472 92529.\n6812523, 5863 4633274 2.5.8 46321329777775 47232 1799 62 324924423."
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_03_title_02",
+      "content": "6133 3744746945 274867423"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_03_desc_02",
+      "content": "49213775 462 2125 3744746945 274867423 6798482 462 6133 3744746945.\n77 6133 3744746945, 5863 7327474722' 4633274 925292, 69472 47232, 173 2.5.8 46321329777775 47232 1799 62 324924423."
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_04_title_01",
+      "content": "'32135 48 4732' 244244"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_04_desc_01",
+      "content": "462 #1 277723 48 62 32998523 77 462 42182 8276 1799 62 786623 1746 462 '32135 48 4732' 244244. 462 277723 1746 462 '32135 48 4732' 244244 1799 5177 8832 29842 173 84623 6272474719 2442442."
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_05_title_01",
+      "content": "87227872"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_05_desc_01",
+      "content": "586 417 27423 462 [Missions] 9152, 16232 586 417 5721 462 9724 84 87227872 48 62 488992423 363775 462 274867423 173 46273 3211332. "
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_06_desc_01",
+      "content": "586 417 5721 462 321133 23461752 923783 77 462 [Missions] 9152."
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_06_desc_02",
+      "content": "2125 3744746945 173 6133 3744746945 2146 612 374423274 2242 84 87227872 48 48899242. "
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_06_desc_03",
+      "content": "48899242 46222 87227872 173 49178 5137862 3211332 4388 462 [Missions] 9152. "
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_07_desc_01",
+      "content": "2527 14423 462 25274 46995 2732, 586 1799 62 1692 48 2392372742 462 '462 546 119963572 77564 - 4699-2489923 65 1 669924' 488614 2748674232 173 5721 742 24835 1754782 14 462 3375232732 173 4621423 - [Detour Tales]."
+    },
+    {
+      "id": "Walpu5_not_progress_event_date",
+      "content": "25274 498223"
+    },
+    {
+      "id": "KillCount_Title_LOR_2",
+      "content": "4822 29177"
+    },
+    {
+      "id": "LOR_KillCountTitle_2",
+      "content": "5213 1832679923"
+    },
+    {
+      "id": "walpu_battle_result_win_2",
+      "content": "{0} 614492 488992423"
+    },
+    {
+      "id": "walpu_battle_result_lose_2",
+      "content": "{0} 29787714787 417923"
+    },
+    {
+      "id": "walpu_battle_result_win_1",
+      "content": "{0} 2978771423"
+    },
+    {
+      "id": "walpu_battle_result_lose_1",
+      "content": "{0} 29787714787 417923"
+    },
+    {
+      "id": "mainui_battleresult_win_lor_stage_type_2",
+      "content": "614492 488992423"
+    },
+    {
+      "id": "mainui_battleresult_defeat_lor_stage_type_2",
+      "content": "29787714787 417923"
+    },
+    {
+      "id": "mainui_battleresult_reward_title_lor_stage_type_2",
+      "content": "5170672623 27474722"
+    },
+    {
+      "id": "walpu5_battle_entrance",
+      "content": "48 614492!"
+    },
+    {
+      "id": "walpu5_on_end_event",
+      "content": "25274 498223"
+    }
+  ]
+}

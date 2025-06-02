@@ -1,0 +1,141 @@
+{
+  "dataList": [
+    {
+      "id": 811301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "62 462 785",
+          "desc": "[WhenUse] 5177 +2 [Charge] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Binding] 87 413524 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "62 462 4884834",
+          "desc": "[WhenUse] 5177 +2 [Charge] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +3 [Breath] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 5177 [Breath] 20619 48 [Breath] 87 2294"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 +3 [Breath] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6232'2 1 5744",
+          "desc": "74 413524 612 [Binding], 173 74 4672 6774 612 1 412423 29223, 5177 49126 98123 20619 48 462 29223 3744232742",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 9822 5 29"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [Breath] 173 +3 [Breath] 48674"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 7749744 3 [Paralysis] 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "924'2 524 9148775",
+          "desc": "74 4672 6774 612 [AaCeSeBa], 133 '7749744 1 [Paralysis] 7234 4637' 48 4877 2442442\n4135242 462 6774 1746 462 2981224 29223\n[EndBattle] 29273 199 [Charge] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [Breath]."
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3219 68762 318152 20619 48 [Breath] 87 2294"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [Breath] 173 +3 [Breath] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 31738895 229244 1 84 4 2442442 ([Protection], [Enhancement], [Vulnerable], [Paralysis]). 7749744 83 19995 3 84 462 22924423 244244."
+                },
+                {
+                  "desc": "[OnSucceedAttack] 413524 98222 29 20619 48 [Charge] 48674 87 4672 6774"
+                },
+                {
+                  "desc": "[EnemyKill] 199 2728722 9822 10 29."
+                },
+                {
+                  "desc": "[EnemyKillFail] 5177 2 [Paralysis] 7234 4637."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4782 48 524 68323",
+          "desc": "74 267293 69 72 4889924295 32992423, 524 241552323 7234 4637.\n74 46232 72 328177775 267293 69, 5177 2 [Enhancement] 7234 4637",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

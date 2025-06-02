@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "night_clean_up_stage_button_default",
+      "content": "241522"
+    },
+    {
+      "id": "night_clean_up_stage_button_locked",
+      "content": "49213 7.5-14 48 679848"
+    },
+    {
+      "id": "night_clean_up_storybutton_default",
+      "content": "48 4621423"
+    },
+    {
+      "id": "night_clean_up_storybutton_start",
+      "content": "<size=75%>5721 462 124 25274 24835 24152 \n48 679848</size>"
+    },
+    {
+      "id": "night_clean_up_stage_button_end_event",
+      "content": "25274 498223"
+    },
+    {
+      "id": "night_clean_up_bonus_popup_title",
+      "content": "25274 68762 67742"
+    },
+    {
+      "id": "night_clean_up_bonusUIDesc",
+      "content": "363775 462 25274 923783, 329985775 462 489981775 7327474722 87 5863 4218 1799\n68824 462 188674 84 <color=#625aff>[2122923 4629 45977323]</color> 213723.\n586 417 2137 1 8137868 84 <color=#625aff>100%</color> 68824 48 462 188674 84 25274 46332745 213723."
+    },
+    {
+      "id": "night_clean_up_scrap_guide_title",
+      "content": "25274 46332745 56732"
+    },
+    {
+      "id": "night_clean_up_scrap_guide_desc",
+      "content": "586 417 864177 <color=#625aff>[2122923 4629 45977323]</color> 4388 47324-4782 25274/8177 24835 241522 48899247872, 83 65 49213775 462 462 873383 3675287.\n586 1928 6152 1 28199 461742 48 864177 <color=#625aff>[2122923 4629 4178]</color> 77 462 9384222.\n\n<color=#625aff>[2122923 4629 4178]</color> 72 78823714295 487523423 48 20 <color=#625aff>[2122923 4629 45977323]</color> 6987 14067274787."
+    },
+    {
+      "id": "nightcleanup_reward_popup_desc",
+      "content": "2137 <color=#e50000>[2122923 4629 45977323]</color> 571 462 489981775 8246832:\n25274 24152 492132, 873383 3675287 492132,\n173 8177 24835 24152 47324-4782 492132.\n\n77 462 <color=#e50000>[321133 23461752]</color> 177381, 586 417 96346122 5137862 3211332\n65 29273775 <color=#e50000>[2122923 4629 45977323]</color> 586 6152 489924423."
+    },
+    {
+      "id": "nightCleanUp_reward_popup_num_of_owned_items",
+      "content": "74282 81723"
+    },
+    {
+      "id": "night_clean_up_rewardShopButton",
+      "content": "321133 23461752"
+    }
+  ]
+}

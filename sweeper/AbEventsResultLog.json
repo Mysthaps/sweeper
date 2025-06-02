@@ -1,0 +1,524 @@
+{
+  "dataList": [
+    {
+      "id": "800101_whitesnow_success_1_1",
+      "content": "<color=#ebcaa2>462 2442442 84 [{0}]</color> <color=#e30000>2397323.</color>"
+    },
+    {
+      "id": "800101_whitesnow_failure_1_1",
+      "content": "<color=#ebcaa2>7846775 61992723.</color>"
+    },
+    {
+      "id": "800105_whitesnow_success_1_1",
+      "content": "462 <color=#ebcaa2>[{0}]</color> <color=#f8c200>584 638827!</color>"
+    },
+    {
+      "id": "800105_whitesnow_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] 584 241552323!</color>"
+    },
+    {
+      "id": "800105_whitesnow_failure_1_1",
+      "content": "<color=#ebcaa2>7846775 61992723.</color>"
+    },
+    {
+      "id": "800801_muckwormedapple_success_1_1",
+      "content": "<color=#ebcaa2>462 589327 19992 483823 1 721 6835!</color>"
+    },
+    {
+      "id": "800801_muckwormedapple_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 [{1}] 69.</color>"
+    },
+    {
+      "id": "800801_muckwormedapple_failure_1_2",
+      "content": "199 84 [{0}]\u20192 91342 5177 %{3} {2} 483 {1} 4637(2)/%."
+    },
+    {
+      "id": "800801_muckwormedapple_failure_1_3",
+      "content": "<color=#ebcaa2>462 589327 19992 483823 1 721 6835!</color>"
+    },
+    {
+      "id": "800201_aztec_circle_1_1",
+      "content": "<color=#ebcaa2>199 84 [{0}]\u20192 91342</color> <color=#ebcaa2>5177</color> %{2} [{1}]/%."
+    },
+    {
+      "id": "800202_aztec_circle_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69.</color>"
+    },
+    {
+      "id": "800202_aztec_circle_success_1_2",
+      "content": "<color=#ebcaa2>199 84 [{0}]\u20192 91342</color> <color=#ebcaa2>5177</color> %{2} [{1}]/%."
+    },
+    {
+      "id": "800202_aztec_circle_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69.</color>"
+    },
+    {
+      "id": "800202_aztec_circle_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>98222 {1} 29.</color>"
+    },
+    {
+      "id": "800202_aztec_circle_failure_1_3",
+      "content": "<color=#ebcaa2>199 84 [{0}]\u20192 91342</color> <color=#ebcaa2>5177</color> %{2} [{1}] 173 {4} [{3}]/%."
+    },
+    {
+      "id": "800203_aztec_circle_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69.</color>"
+    },
+    {
+      "id": "800203_aztec_circle_1_2",
+      "content": "<color=#ebcaa2>[{1}] 84 [{0}]</color> <color=#e30000>2397323.</color>"
+    },
+    {
+      "id": "800204_aztec_circle_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69.</color>"
+    },
+    {
+      "id": "800204_aztec_circle_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69.</color>"
+    },
+    {
+      "id": "800204_aztec_circle_success_1_3",
+      "content": "<color=#ebcaa2>[{1}] 84 [{0}]</color> <color=#e30000>2397323.</color>"
+    },
+    {
+      "id": "800204_aztec_circle_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69.</color>"
+    },
+    {
+      "id": "800204_aztec_circle_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>98222 {1} 29.</color>"
+    },
+    {
+      "id": "800204_aztec_circle_failure_1_3",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69.</color>"
+    },
+    {
+      "id": "800204_aztec_circle_failure_1_4",
+      "content": "%{1} [{0}]/% <color=#ebcaa2>1999723</color> 48 <color=#ebcaa2>199 2777232.</color>"
+    },
+    {
+      "id": "800206_aztec_circle_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69.</color>"
+    },
+    {
+      "id": "800206_aztec_circle_success_1_2",
+      "content": "<color=#ebcaa2>199 2777232</color> <color=#fe4b48>9822 {0} 29.</color>"
+    },
+    {
+      "id": "800206_aztec_circle_success_1_3",
+      "content": "<color=#ebcaa2>16783819745 2699322223!</color>"
+    },
+    {
+      "id": "800206_aztec_circle_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69.</color>"
+    },
+    {
+      "id": "800206_aztec_circle_failure_1_2",
+      "content": "<color=#ebcaa2>199 2777232</color> <color=#fe4b48>9822 {0} 29.</color>"
+    },
+    {
+      "id": "800206_aztec_circle_failure_1_3",
+      "content": "<color=#ebcaa2>199 84 [{0}]\u20192 91342</color> <color=#ebcaa2>5177</color> %{2} [{1}] 173 {4} [{3}]/%."
+    },
+    {
+      "id": "801201_reinforcedHuman_1_1",
+      "content": "<color=#ebcaa2>7752247514775 462 4144835\u2026</color>"
+    },
+    {
+      "id": "801201_reinforcedHuman_1_2",
+      "content": "<color=#ebcaa2>12 3247323 1517724 7752247514775 462 4144835.</color>"
+    },
+    {
+      "id": "801202_reinforcedHuman_1_1",
+      "content": "<color=#ebcaa2>9322223 \u201c522\u201d.</color>"
+    },
+    {
+      "id": "801202_reinforcedHuman_2_1",
+      "content": "<color=#ebcaa2>9322223 \u201c78\u201d.</color>"
+    },
+    {
+      "id": "801202_reinforcedHuman_1_2_1",
+      "content": "<color=#ebcaa2>199 7327474722</color> <color=#e30000>9822 {0} 69.</color>"
+    },
+    {
+      "id": "801202_reinforcedHuman_1_2_2",
+      "content": "<color=#ebcaa2>199 462 4568352</color> <color=#e30000>6152 9824</color> <color=#ebcaa2>46273 [Upgrade Factory at Work] 91227522!</color>"
+    },
+    {
+      "id": "801202_reinforcedHuman_2_2",
+      "content": "<color=#ebcaa2>199 2728722</color> <color=#e30000>6152 9824</color> <color=#ebcaa2>46273 [Upgrade Factory at Work] 91227522!</color>"
+    },
+    {
+      "id": "801502_pinkshoe_success_1_1",
+      "content": "<color=#ebcaa2>483 462 328177775 46372, 199 2728722</color> <color=#ebcaa2>5177</color> %{1} [{0}] 173 {3} [{2}]/%."
+    },
+    {
+      "id": "801502_pinkshoe_success_1_2",
+      "content": "<color=#ebcaa2>199 2728722 1799 78 987523 624882 [{0}].</color>"
+    },
+    {
+      "id": "801502_pinkshoe_failure_1_1",
+      "content": "<color=#ebcaa2>199 199722</color> <color=#e30000>9822 {0} 69.</color>"
+    },
+    {
+      "id": "801502_pinkshoe_failure_1_2",
+      "content": "<color=#ebcaa2>199 199722</color> <color=#ebcaa2>5177</color> %{1} [{0}]/%."
+    },
+    {
+      "id": "801502_pinkshoe_failure_1_3",
+      "content": "<color=#ebcaa2>199 2728722 624882 %[{0}]/%.</color>"
+    },
+    {
+      "id": "102001_action_4_1",
+      "content": "<color=#ebcaa2>199 199722</color> <color=#e30000>9822 {0} 69.</color>"
+    },
+    {
+      "id": "102001_action_4_2",
+      "content": "<color=#ebcaa2>199 199722</color> <color=#fe4b48>9822 {0} 29.</color>"
+    },
+    {
+      "id": "102002_action_1_1",
+      "content": "<color=#ebcaa2>[Rodion]</color> <color=#80c9ff>62192 {0} 29.</color>"
+    },
+    {
+      "id": "102002_action_1_2",
+      "content": "<color=#ebcaa2>[Rodion]</color> <color=#fe4b48>98222 {0} 29.</color>"
+    },
+    {
+      "id": "102002_action_2_2",
+      "content": "<color=#ff8000>488614 274867423!</color>"
+    },
+    {
+      "id": "1020201_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#80c9ff>62192 {1} 29.</color>"
+    },
+    {
+      "id": "1020201_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69.</color>"
+    },
+    {
+      "id": "1020203_success_1_1",
+      "content": "<color=#ebcaa2>199 199722</color> <color=#80c9ff>6219 {0} 29.</color>"
+    },
+    {
+      "id": "1020203_success_1_2",
+      "content": "<color=#ebcaa2>[Rodion]</color> <color=#80c9ff>62192 {0} 29.</color>"
+    },
+    {
+      "id": "1020203_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69.</color>"
+    },
+    {
+      "id": "acquire_ego_gift",
+      "content": "<color=#ebcaa2>584 17 2.5.8 5744!</color>"
+    },
+    {
+      "id": "disappear_ego_gift",
+      "content": "<color=#ebcaa2>462 2.5.8 5744 \u2018{0}\u2019</color> <color=#e30000>2397323.</color>"
+    },
+    {
+      "id": "acquire_ego_gift_if_win",
+      "content": "<color=#ebcaa2>177 462 614492 48 2137 17 2.5.8 5744!</color>"
+    },
+    {
+      "id": "chracter_mp_decrease",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>98222 {1} 29.</color>"
+    },
+    {
+      "id": "chracter_mp_increase",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#80c9ff>62192 {1} 29.</color>"
+    },
+    {
+      "id": "chracter_hp_increase",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>62192 {1} 69.</color>"
+    },
+    {
+      "id": "chracter_hp_decrease",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69.</color>"
+    },
+    {
+      "id": "chracter_hp_mp_decrease",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69<color=#ebcaa2> 173 <color=#fe4b48>29.</color>"
+    },
+    {
+      "id": "all_ally_hp_decrease",
+      "content": "<color=#ebcaa2>199 199722</color> <color=#e30000>9822 {0} 69.</color>"
+    },
+    {
+      "id": "all_ally_hp_increase",
+      "content": "<color=#ebcaa2>199 199722</color> <color=#e30000>6219 {0} 69.</color>"
+    },
+    {
+      "id": "all_ally_mp_decrease",
+      "content": "<color=#ebcaa2>199 199722</color> <color=#fe4b48>9822 {0} 29.</color>"
+    },
+    {
+      "id": "all_ally_hp_mp_decrease",
+      "content": "<color=#ebcaa2>199 199722</color> <color=#e30000>9822 {0} 69<color=#ebcaa2> 173 <color=#fe4b48>29.</color>"
+    },
+    {
+      "id": "all_ally_add_buff",
+      "content": "<color=#ebcaa2>199 199722</color> <color=#ebcaa2>5177</color> %{1} {0}/%!"
+    },
+    {
+      "id": "all_ally_add_buff_during_next_n_battle",
+      "content": "<color=#ebcaa2>199 199722</color> <color=#ebcaa2>5177</color> %{2} {1}/% 483 462 7234 {0} 614492(2)."
+    },
+    {
+      "id": "all_enemy_apply_buff",
+      "content": "%{1} {0}/% <color=#ebcaa2>1999723</color> <color=#ebcaa2>48 199 2728722!</color>"
+    },
+    {
+      "id": "character_apply_buff_during_next_n_battle",
+      "content": "<color=#ebcaa2>[{0}] 51772</color> %{3} {2}/% <color=#ebcaa2>483 462 7234 {1} 614492(2).</color>"
+    },
+    {
+      "id": "battle_occurrence",
+      "content": "<color=#ebcaa2>488614 274867423!</color>"
+    },
+    {
+      "id": "nothing_happend",
+      "content": "<color=#ebcaa2>7846775 61992723.</color>"
+    },
+    {
+      "id": "unlock_hidden_node",
+      "content": "<color=#ebcaa2>46232\u20192 1 721 9146 87 462 819!</color>"
+    },
+    {
+      "id": "enemy_wave_decrease",
+      "content": "<color=#ebcaa2>27285 11522 3236423 65 {0}!</color>"
+    },
+    {
+      "id": "803001_cromer_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] 584 241552323!</color>"
+    },
+    {
+      "id": "803001_cromer_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>98222 {1} 29.</color>"
+    },
+    {
+      "id": "all_ally_mp_increase",
+      "content": "<color=#ebcaa2>199 199722</color> <color=#80c9ff>6219 {0} 29.</color>"
+    },
+    {
+      "id": "ally_own_skill_attribute_hp_increase",
+      "content": "<color=#ebcaa2>7327474722 1746</color> %{0} 14477745 144148 28799/% <color=#ebcaa2>6219</color> <color=#00ff9c>{1} 69.</color>"
+    },
+    {
+      "id": "ally_not_own_skill_attribute_hp_increase",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> %{0} 14477745 144148 28799/% <color=#ebcaa2>6219</color> <color=#00ff9c>{1} 69.</color>"
+    },
+    {
+      "id": "ally_own_skill_attribute_hp_decrease",
+      "content": "<color=#ebcaa2>7327474722 1746</color> %{0} 14477745 144148 28799/% <color=#ebcaa2>4182</color> <color=#e30000>{1} 69 318152.</color>"
+    },
+    {
+      "id": "ally_not_own_skill_attribute_hp_decrease",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> %{0} 14477745 144148 28799/% <color=#ebcaa2>4182</color> <color=#e30000>{1} 69 318152.</color>"
+    },
+    {
+      "id": "ally_own_skill_attribute_mp_increase",
+      "content": "<color=#ebcaa2>7327474722 1746</color> %{0} 14477745 144148 28799/% <color=#ebcaa2>6219</color> <color=#80c9ff>{1} 29.</color>"
+    },
+    {
+      "id": "ally_not_own_skill_attribute_mp_increase",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> %{0} 14477745 144148 28799/% <color=#ebcaa2>6219</color> <color=#80c9ff>{1} 29.</color>"
+    },
+    {
+      "id": "ally_own_skill_attribute_mp_decrease",
+      "content": "<color=#ebcaa2>7327474722 1746</color> %{0} 14477745 144148 28799/% <color=#ebcaa2>4182</color> <color=#fe4b48>{1} 29 318152.</color>"
+    },
+    {
+      "id": "ally_not_own_skill_attribute_mp_decrease",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> %{0} 14477745 144148 28799/% <color=#ebcaa2>4182</color> <color=#fe4b48>{1} 29 318152.</color>"
+    },
+    {
+      "id": "852701_statue_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] 584 241552323!</color>"
+    },
+    {
+      "id": "852701_statue_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]\u20192 81381 112 32289523.</color>"
+    },
+    {
+      "id": "852701_statue_failure_1_2",
+      "content": "81381 2437822 25235 277723 31738895!"
+    },
+    {
+      "id": "852701_statue_failure_1_3",
+      "content": "<color=#ebcaa2>[{0}] 584 241552323!</color>"
+    },
+    {
+      "id": "851901_kqe_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>98222 199</color> 461352"
+    },
+    {
+      "id": "851901_kqe_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] 584 241552323!</color>"
+    },
+    {
+      "id": "851901_kqe_success_1_3",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>51772</color> %{2} [{1}]/%."
+    },
+    {
+      "id": "851901_kqe_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>51772</color> %{2} [{1}] 173 {4} [{3}]/%."
+    },
+    {
+      "id": "851901_kqe_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>51772</color> %{2} [{1}]/%."
+    },
+    {
+      "id": "851001_cryingtoad_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] 584 241552323!</color>"
+    },
+    {
+      "id": "851001_cryingtoad_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#80c9ff>62192 {1} 29.</color>"
+    },
+    {
+      "id": "851001_cryingtoad_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>98222 {1} 29.</color>"
+    },
+    {
+      "id": "803101_waterFish_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]\u20192 6835</color> <color=#e30000>98222 {1} 69.</color>"
+    },
+    {
+      "id": "803101_waterFish_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] 6222 462 28799</color> <color=#e30000>[{1}]</color>!"
+    },
+    {
+      "id": "803201_lightningBeast_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] 51772</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "803201_lightningBeast_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] 6222</color> 462 28799 <color=#e30000>[{1}]</color>!"
+    },
+    {
+      "id": "804501_electriccentipede_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] 98222 %{2} [{1}]/%</color>"
+    },
+    {
+      "id": "804501_electriccentipede_success_1_2",
+      "content": "<color=#ebcaa2>199 84 [{0}]\u20192 91342</color> <color=#ebcaa2>5177</color> %{2} [{1}]/%"
+    },
+    {
+      "id": "804501_electriccentipede_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] 51772 %{2} [{1}]/%</color>"
+    },
+    {
+      "id": "804501_electriccentipede_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>51772</color> %{2} [{1}]/%"
+    },
+    {
+      "id": "804801_gentlefairy_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>62192 {1} 69</color>"
+    },
+    {
+      "id": "804801_gentlefairy_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>51772</color> %{2} [{1}], {4} [{3}], 173 {6} [{5}]/%"
+    },
+    {
+      "id": "804801_gentlefairy_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>62192 {1} 69</color>"
+    },
+    {
+      "id": "804801_gentlefairy_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>51772</color> %{2} [{1}], {4} [{3}], 173 {6} [{5}]/%"
+    },
+    {
+      "id": "804601_umbrellafox_success_1_1",
+      "content": "<color=#ebcaa2>199 [{0}]</color> <color=#00ff9c>4182 318152 65 {1} 84 813 69</color>"
+    },
+    {
+      "id": "804601_umbrellafox_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>98222 {1} 29</color>"
+    },
+    {
+      "id": "804601_umbrellafox_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>98222 {1} 29</color>"
+    },
+    {
+      "id": "804701_nobodygonnacry_success_1_1",
+      "content": "<color=#ebcaa2>28 4614 78 872 1799 435 51772</color> 5 3214414623 46322 41972817"
+    },
+    {
+      "id": "804701_nobodygonnacry_success_1_2",
+      "content": "[{0}] 51772 <color=#00ff9c>{2} {1}</color> 7234 4637"
+    },
+    {
+      "id": "804701_nobodygonnacry_failure_1_1",
+      "content": "<color=#ebcaa2>199 {1} 3288523</color> 4388 <color=#ebcaa2>[{0}]</color>"
+    },
+    {
+      "id": "805002_egoawakendongrang_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] 51772</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805002_egoawakendongrang_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] 51772</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805002_egoawakendongrang_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] 98222</color> <color=#e30000>{1} 69</color> 173 <color=#fe4b48>{2} 29</color>"
+    },
+    {
+      "id": "805002_egoawakendongrang_failure_1_2",
+      "content": "<color=#ebcaa2>199 199722 5177</color> {1} <color=#e30000>[{0}]</color>"
+    },
+    {
+      "id": "805004_egoawakendongrang_success_2_1",
+      "content": "<color=#ebcaa2>[{0}] 51772</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805004_egoawakendongrang_success_2_2",
+      "content": "<color=#ebcaa2>199 199722 5177</color> {1} <color=#e30000>[{0}]</color>"
+    },
+    {
+      "id": "805004_egoawakendongrang_success_2_3",
+      "content": "<color=#ebcaa2>[{0}] 51772</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805004_egoawakendongrang_failure_2_1",
+      "content": "<color=#ebcaa2>[{0}] 98222</color> <color=#e30000>{1} 69</color> 173 <color=#fe4b48>{2} 29</color>"
+    },
+    {
+      "id": "805004_egoawakendongrang_failure_2_2",
+      "content": "<color=#ebcaa2>[{0}] 51772</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805006_egoawakendongrang_success_3_1",
+      "content": "38753175 612 6227 4874387423"
+    },
+    {
+      "id": "805006_egoawakendongrang_failure_3_1",
+      "content": "38753175 612 6227 4874387423"
+    },
+    {
+      "id": "805801_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69.</color>"
+    },
+    {
+      "id": "805801_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] 51772</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805801_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}] 51772</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805901_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69.</color>"
+    },
+    {
+      "id": "805901_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] 51772</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805901_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>98222 {1} 69.</color>"
+    }
+  ]
+}

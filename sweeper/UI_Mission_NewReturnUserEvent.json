@@ -1,0 +1,176 @@
+{
+  "dataList": [
+    {
+      "id": "mission_ui_condition_tags_103001001",
+      "content": "9124 41748 7, 49213 175 {0} 24835 241522"
+    },
+    {
+      "id": "mission_ui_condition_tags_103002001",
+      "content": "49213 239 96341514787 1 48419 84 {0} 4782(2)"
+    },
+    {
+      "id": "mission_ui_condition_tags_103003001",
+      "content": "49213 463213 96341514787 1 48419 84 {0} 4782(2)"
+    },
+    {
+      "id": "mission_ui_condition_tags_103004001",
+      "content": "49213 {0} 873383 3675287 (488614)78322"
+    },
+    {
+      "id": "mission_ui_condition_tags_103004002",
+      "content": "49213 1 873383 3675287 (783819 83 675623 3744746945) 14423 32146775 49883 {0}"
+    },
+    {
+      "id": "mission_ui_condition_tags_103004003",
+      "content": "49213 1 873383 3675287 (783819 83 675623 3744746945) 14423 32146775 49883 {0}"
+    },
+    {
+      "id": "mission_ui_condition_tags_103004004",
+      "content": "49213 1 873383 3675287 (783819 83 613323) {0} 4782(2)\n(8624 477726 462 47719 49883 6822 47564 12 1299)"
+    },
+    {
+      "id": "mission_ui_condition_tags_103005001",
+      "content": "92529 69 {0} 73274745(7327474722) 48 92529 {1}"
+    },
+    {
+      "id": "mission_ui_condition_tags_103005002",
+      "content": "69472 {0} 787-946 277723 73274745(7327474722) 48 69472 4723 {1}"
+    },
+    {
+      "id": "mission_ui_condition_tags_103005003",
+      "content": "69472 175 {0} 73274745(7327474722) 48 69472 4723 {1}"
+    },
+    {
+      "id": "mission_ui_condition_tags_103005004",
+      "content": "4632132977 175 {0} 2.5.8 48 4632132977 4723 {1}"
+    },
+    {
+      "id": "mission_ui_condition_tags_103006001",
+      "content": "49213 {0} 31795 87227872"
+    },
+    {
+      "id": "mission_ui_condition_tags_103006002",
+      "content": "49213 {0} 122895 87227872"
+    },
+    {
+      "id": "mission_condition_ui_group_2",
+      "content": "24835 241522"
+    },
+    {
+      "id": "mission_condition_ui_group_3",
+      "content": "239 96341514787"
+    },
+    {
+      "id": "mission_condition_ui_group_4",
+      "content": "463213 96341514787"
+    },
+    {
+      "id": "mission_condition_ui_group_6",
+      "content": "873383 3675287"
+    },
+    {
+      "id": "mission_condition_ui_group_8",
+      "content": "695313775"
+    },
+    {
+      "id": "mission_condition_ui_group_11",
+      "content": "614492 9122"
+    },
+    {
+      "id": "return_user_remain_Luxcavation_bonus",
+      "content": "328177775 31795 6876222 483 324637222"
+    },
+    {
+      "id": "move_to_luxcavation",
+      "content": "58 48 963415147872"
+    },
+    {
+      "id": "move_to_shop",
+      "content": "58 48 2689"
+    },
+    {
+      "id": "information_about_luxcavation",
+      "content": "16864 963. 68762"
+    },
+    {
+      "id": "information_about_returning_user_package",
+      "content": "16864 462 6148 48 844742 9148"
+    },
+    {
+      "id": "information_about_returning_user_package_desc",
+      "content": "363775 462 25274 923783, 462 6148 48 844742 9148\n1799 624882 151791692 4388 462 2689."
+    },
+    {
+      "id": "returning_user_exp_luxcavation_bonus_desc",
+      "content": "239 963. 31795 68762 48674 : {0}"
+    },
+    {
+      "id": "returning_user_thread_luxcavation_bonus_desc",
+      "content": "463213 963. 31795 68762 48674 : {0}"
+    },
+    {
+      "id": "returning_user_luxcavation_bonus_desc",
+      "content": "586 417 864177 68762 96341514787 3211332 363775 462 25274 923783."
+    },
+    {
+      "id": "returning_user_mission",
+      "content": "324637775 8171523 87227872"
+    },
+    {
+      "id": "attendance_check",
+      "content": "1442731742 46248"
+    },
+    {
+      "id": "welcome_returning_user",
+      "content": "1294882 6148 48 462 844742, 8171523!"
+    },
+    {
+      "id": "luxcavation_bonus_and_package",
+      "content": "96341514787 68762 & 9148"
+    },
+    {
+      "id": "until_event_finish_date",
+      "content": "{0} 3152 67479 462 273 84 25274"
+    },
+    {
+      "id": "event_for_new_user_from_date",
+      "content": "483 : 721 14486742 4321423 14423 <color=#990000>{0}/{1}/{2}</color>, 12:00(824)"
+    },
+    {
+      "id": "mission_progress_rate",
+      "content": "8722787 93853222"
+    },
+    {
+      "id": "welcome_returing_user_title",
+      "content": "1838 32-1376248274\n322863422"
+    },
+    {
+      "id": "welcome_returing_user_desc",
+      "content": "1294882 6148 48 462 844742, 8171523."
+    },
+    {
+      "id": "returning_user_attendance_check_title",
+      "content": "3899 4199 483 863 324637775 8171523"
+    },
+    {
+      "id": "returning_user_attendance_check_desc",
+      "content": "\u203b 4899244 8832 1442731742 462482 173 679848 5321423 3211332.\n\n\u203b 985 77 14423 462 31795 32224 923783 173 3242752 5863 31795 1442731742 462482."
+    },
+    {
+      "id": "complete_to_receive",
+      "content": "4917823"
+    },
+    {
+      "id": "already_owned",
+      "content": "81723"
+    },
+    {
+      "id": "move_shortcut",
+      "content": "58 48"
+    },
+    {
+      "id": "warning_about_change_season_item",
+      "content": "1627 1 721 221287 241342, 8795 6194 84 5863 24848 84 '221287 4 69472 & 46321329777775 8795 26133' 1799 62 87531423 48 462 69488775 221287.\n49178 4628 175115?"
+    }
+  ]
+}

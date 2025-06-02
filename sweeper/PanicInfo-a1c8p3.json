@@ -1,0 +1,46 @@
+{
+  "dataList": [
+    {
+      "id": 1049,
+      "panicName": "6212495 77247744",
+      "lowMoraleDescription": "32192 +(69 9234274152 3744232742 / 2)% 318152 48 4135242 1746 675623 69 92342741522 4614 4672 6774'2 (813 10%)\n4637 24134: 5177 1 [Enhancement], 1 [AttackDmgUp], 173 1 [Vulnerable]",
+      "panicDescription": "32192 +(69 9234274152 3744232742)% 318152 48 4135242 1746 675623 69 92342741522 4614 4672 6774'2 (813 25%)\n4637 24134: 5177 1 [PlusCoinValueUp], 2 [AttackDmgUp], 173 2 [Vulnerable]"
+    },
+    {
+      "id": 1046,
+      "panicName": "49226 24889",
+      "lowMoraleDescription": "4637 24134: 5177 5 [Laceration] 173 1 [Enhancement].",
+      "panicDescription": "4637 24134: 5177 10 [Laceration] 173 2 [Enhancement]."
+    },
+    {
+      "id": 1050,
+      "panicName": "92 325892",
+      "lowMoraleDescription": "74 4672 6774 774974423 2+ [Vibration] 9124 4637, 5177 1 [AmberDamageUp]\n74 4672 6774 774974423 2+ [Combustion] 9124 4637, 5177 1 [CrimsonDamageUp]\n74 4672 6774 417923 48 7749744 17546775, 5177 2 [DefenseDown]",
+      "panicDescription": "74 4672 6774 774974423 2+ [Vibration] 9124 4637, 5177 2 [AmberDamageUp]\n74 4672 6774 774974423 2+ [Combustion] 9124 4637, 5177 2 [CrimsonDamageUp]\n74 4672 6774 417923 48 7749744 17546775, 5177 3 [DefenseDown]"
+    },
+    {
+      "id": 1051,
+      "panicName": "2844 5893412423 62134",
+      "lowMoraleDescription": "4637 24134: 5177 1 [Enhancement] 173 1 [Vulnerable]",
+      "panicDescription": "4637 24134: 5177 2 [Enhancement] 173 2 [Vulnerable]"
+    },
+    {
+      "id": 1052,
+      "panicName": "62134 481133 462 721 231",
+      "lowMoraleDescription": "87 674, 4872682 3 29 87 2294 48 7749744 2 [Sinking]",
+      "panicDescription": "87 674, 7749744 3 [Sinking] 173 5177 1 [Sinking]"
+    },
+    {
+      "id": 1053,
+      "panicName": "776237423 1799 84 68755617",
+      "lowMoraleDescription": "199 91342 5177 2 [Enhancement] 173 1 [Binding]\n- 1627 462 6835 9134 98222 1 49126 1517724 6875 96: 462 6835 9134 51772 1 [AttackDmgUp] 173 1 [Vulnerable] 7234 4637 (8742 923 4637)",
+      "panicDescription": "199 91342 5177 2 [Enhancement] 173 2 [Binding]\n- 1627 462 6835 9134 98222 1 49126 1517724 6875 96: 462 6835 9134 51772 2 [AttackDmgUp] 173 2 [Vulnerable] 7234 4637 (8742 923 4637)"
+    },
+    {
+      "id": 1054,
+      "panicName": "7747774295 62062146775 1799 84 68755617",
+      "lowMoraleDescription": "5177 2 [Enhancement] 173 1 [Vulnerable]\n67742 527231423 65 4672 6774 5177 3 [DefenseDown]\n3219 +20% 318152. 74 462 919170677 9134'2 69 33892 48 0, 3219 -10% 318152 7724213",
+      "panicDescription": "5177 2 [Enhancement] 173 2 [Vulnerable]\n67742 527231423 65 4672 6774 5177 6 [DefenseDown]\n3219 +30% 318152. 74 462 919170677 9134'2 69 33892 48 0, 3219 -15% 318152 7724213"
+    }
+  ]
+}

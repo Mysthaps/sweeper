@@ -1,0 +1,58 @@
+{
+  "dataList": [
+    {
+      "id": 107804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "924'2 524 9148775",
+          "desc": "74 4672 6774 612 [AaCeSeBa], 133 '7749744 1 [Paralysis] 7234 4637' 48 4877 2442442\n4135242 462 6774 1746 462 2981224 29223\n[EndBattle] 29273 199 [Charge] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [Breath]."
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 3219 68762 318152 20619 48 [Breath] 87 2294"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [Breath] 173 +3 [Breath] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 31738895 229244 1 84 4 2442442 ([Protection], [Enhancement], [Vulnerable], [Paralysis]). 7749744 83 19995 3 84 462 22924423 244244."
+                },
+                {
+                  "desc": "[OnSucceedAttack] 413524 98222 29 20619 48 [Charge] 48674 87 4672 6774"
+                },
+                {
+                  "desc": "[EnemyKill] 199 2728722 9822 10 29."
+                },
+                {
+                  "desc": "[EnemyKillFail] 5177 2 [Paralysis] 7234 4637."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

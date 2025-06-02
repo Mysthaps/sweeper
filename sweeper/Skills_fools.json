@@ -1,0 +1,130 @@
+{
+  "dataList": [
+    {
+      "id": 899901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "57882 41735.",
+          "desc": "93783747222 4135242 1746 [CandyForCharon]\n[EndSkill] 74 462 413524 3822 784 6152 [CandyForCharon], 7749744 [CandyForCharon]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 [CandyForCharon], 462 413524 6248822 241552323 7234 4637."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "78 41735.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "586...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "... 88887'2 17535.",
+          "desc": "[BeforeAttack] 5177 148 127564 20619 48 768623 84 2728722 1746 [CandyForCharon]\n[WhenUse] 5177 49126 98123 20619 48 462 768623 84 2728722 1746 [CandyForCharon]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "53888-53888",
+          "desc": "[WhenUse] 5177 49126 98123 20619 48 462 768623 84 7327474722 1746 [CandyForCharon]\n3219 +10% 318152 483 25235 73274745 1746 [CandyForCharon] (813 100%)",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "586 674 88887.",
+          "desc": "[WhenUse] 5177 2 [ParryingResultUp] 173 2 [Agility] 7234 4637",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

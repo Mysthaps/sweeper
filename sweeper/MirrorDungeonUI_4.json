@@ -1,0 +1,1184 @@
+{
+  "dataList": [
+    {
+      "id": "dungeon_selectable",
+      "content": "2292441692"
+    },
+    {
+      "id": "dungeon_battle_reawrd_card_selection",
+      "content": "229244 274867423 321133 4133"
+    },
+    {
+      "id": "dungeon_opportunity_to_select_rewards_remaining",
+      "content": "586 6152 784 22924423 1 321133 524.\n48747762 1746864 46882775 1 321133?"
+    },
+    {
+      "id": "mirrordungeon_appear_able_theme_pack_title",
+      "content": "{0} - 42146323 46282 91482"
+    },
+    {
+      "id": "mirrordungeon_theme_pack_boss",
+      "content": "42146323 6822"
+    },
+    {
+      "id": "mirrordungeon_theme_pack_ego_gift",
+      "content": "42146323 2.5.8 57442"
+    },
+    {
+      "id": "mirrordunge_theme_pack_history_button_label",
+      "content": "46282 9148 4889273768"
+    },
+    {
+      "id": "simulation_difficulty",
+      "content": "2786914787"
+    },
+    {
+      "id": "ritournelle_difficulty",
+      "content": "3748372998"
+    },
+    {
+      "id": "enter_simulation_difficulty",
+      "content": "27423 2786914787"
+    },
+    {
+      "id": "enter_ritournelle_difficulty",
+      "content": "27423 3748372998"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_4_normal",
+      "content": "2786914787 49883 {0}"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_4_hard",
+      "content": "3748372998 49883 {0}"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_before_exploration",
+      "content": "624832 27435"
+    },
+    {
+      "id": "mirror_dungeon4_entrance_hard_hint_after_release",
+      "content": "<Unlock Conditions>\n49213 5-36\n49213 873383 84 462 164623775\n2786914787 3744746945"
+    },
+    {
+      "id": "dungeon_encounter_guide_elite_battle",
+      "content": "29742 274867423"
+    },
+    {
+      "id": "purchase_ego_gift",
+      "content": "96346122 2.5.8 57442"
+    },
+    {
+      "id": "purchase_personality_skill_desc",
+      "content": "29273 <color=#f8c200>{0}</color> 4824 48 3299142 4672 28799?"
+    },
+    {
+      "id": "mirror_dungeon_4_start_buff_name",
+      "content": "9146 84 24132"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_1",
+      "content": "252 84 462 24838"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_2",
+      "content": "4667323"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_3",
+      "content": "674775 1773"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_4",
+      "content": "4173 17732"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_5",
+      "content": "4124132 84 92577"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_6",
+      "content": "514623775 24838"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_7",
+      "content": "4837138"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_8",
+      "content": "3775775 84 462 721 5213'2 252"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_9",
+      "content": "41774 25274199"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_10",
+      "content": "69148 98913 77564"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_11",
+      "content": "24799 3117"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_12",
+      "content": "177435 31563218"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_13",
+      "content": "775649222 4745"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_14",
+      "content": "262296148 498632"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_15",
+      "content": "53173 221 84 498632"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_16",
+      "content": "814161474 1773"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_17",
+      "content": "472342 5624"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_18",
+      "content": "9146 84 462 1224 1773"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_19",
+      "content": "6933144"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_19_1",
+      "content": "77564 3177"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_20",
+      "content": "42124 84 975647775"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_21",
+      "content": "789273775 4667323"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_22",
+      "content": "6125 8724"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_23",
+      "content": "747723174 3177"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_24",
+      "content": "2739222 4633274"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_25",
+      "content": "25274 6837287"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_26",
+      "content": "87985 115"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_27",
+      "content": "789273775 48824"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_100",
+      "content": "[Limited]\n5177 200 241397564 6987 275315775 4672 2413 (1-4782 8795, 6714424423 65 1447514787 241462)"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_101",
+      "content": "[Starting E.G.O Gift]\n774383642 7 721 2.5.8 57442 48 462 24134775 2.5.8 5744 9889"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1011",
+      "content": "[Starting E.G.O Gift]\n6798482 6637 2.5.8 57442 41425835"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1012",
+      "content": "[Starting E.G.O Gift]\n6798482 69223 2.5.8 57442 41425835"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1013",
+      "content": "[Starting E.G.O Gift]\n6798482 432883 2.5.8 57442 41425835"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1014",
+      "content": "[Starting E.G.O Gift]\n6798482 3694632 2.5.8 57442 41425835"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1015",
+      "content": "[Starting E.G.O Gift]\n6798482 2778775 2.5.8 57442 41425835"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1016",
+      "content": "[Starting E.G.O Gift]\n6798482 98722 2.5.8 57442 41425835"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1017",
+      "content": "[Starting E.G.O Gift]\n6798482 461352 2.5.8 57442 41425835"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_102",
+      "content": "[Starting E.G.O Gift]\n774383642 6 721 2.5.8 57442 48 462 24134775 2.5.8 5744 9889"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1021",
+      "content": "[Starting E.G.O Gift]\n6798482 29126 2.5.8 57442 41425835"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1022",
+      "content": "[Starting E.G.O Gift]\n6798482 972342 2.5.8 57442 41425835"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1023",
+      "content": "[Starting E.G.O Gift]\n6798482 69674 2.5.8 57442 41425835"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1024",
+      "content": "(784 6223)"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_103",
+      "content": "[Universal]\n5177 +50 24134775 4824"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1031",
+      "content": "[Universal]\n5177 +50 24134775 4824"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1032",
+      "content": "[Universal]\n5177 +50 24134775 4824"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1033",
+      "content": "[Universal]\n5177 +50 24134775 4824"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_104",
+      "content": "[Universal]\n774383642 16 721 4723 2 2.5.8 57442 48 462 26892, 5744 462787 3226942, 173 274867423 3211332 9889"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1041",
+      "content": "[Starting E.G.O Gift]\n768623 84 2.5.8 57442 199213775 77 462 6637 41425835 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1042",
+      "content": "[Starting E.G.O Gift]\n768623 84 2.5.8 57442 199213775 77 462 69223 41425835 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1043",
+      "content": "[Starting E.G.O Gift]\n768623 84 2.5.8 57442 199213775 77 462 432883 41425835 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1044",
+      "content": "[Starting E.G.O Gift]\n768623 84 2.5.8 57442 199213775 77 462 3694632 41425835 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1045",
+      "content": "[Starting E.G.O Gift]\n768623 84 2.5.8 57442 199213775 77 462 2778775 41425835 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1046",
+      "content": "[Starting E.G.O Gift]\n768623 84 2.5.8 57442 199213775 77 462 98722 41425835 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1047",
+      "content": "[Starting E.G.O Gift]\n768623 84 2.5.8 57442 199213775 77 462 461352 41425835 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_105",
+      "content": "[Universal]\n774383642 28 721 4723 3~4 2.5.8 57442 48 462 26892, 5744 462787 3226942, 173 274867423 3211332 9889"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1051",
+      "content": "[Starting E.G.O Gift]\n768623 84 2.5.8 57442 199213775 77 462 29126 41425835 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1052",
+      "content": "[Starting E.G.O Gift]\n768623 84 2.5.8 57442 199213775 77 462 972342 41425835 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1053",
+      "content": "[Starting E.G.O Gift]\n768623 84 2.5.8 57442 199213775 77 462 69674 41425835 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1054",
+      "content": "[Starting E.G.O Gift]\n768623 84 2.5.8 57442 199213775 77 462 317388 41425835 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_106",
+      "content": "[Shops]\n768623 84 2.5.8 57442 2893 14 26892 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_111",
+      "content": "[Shops]\n22992 675623 4723 2.5.8 57442"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1111",
+      "content": "[Shops]\n22992 675623 4723 2.5.8 57442"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1112",
+      "content": "[Shops]\n22992 675623 4723 2.5.8 57442"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1113",
+      "content": "[Shops]\n22992 675623 4723 2.5.8 57442"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_112",
+      "content": "[Shops]\n768623 84 2.5.8 57442 2893 14 26892 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1121",
+      "content": "[Shops]\n3243226 4824 -20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1122",
+      "content": "[Shops]\n3243226 4824 -20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_113",
+      "content": "[Shops]\n2.5.8 5744 96346122 4824 -5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1131",
+      "content": "[Shops]\n4723 1 2.5.8 5744 96346122 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1132",
+      "content": "[Shops]\n4723 22.5.8 5744 96346122 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1133",
+      "content": "[Shops]\n4723 3 2.5.8 5744 96346122 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1134",
+      "content": "[Shops]\n4723 4+ 2.5.8 5744 96346122 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_114",
+      "content": "[Shops]\n2.5.8 5744 96346122 4824 -5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1141",
+      "content": "[Shops]\n6637 2.5.8 5744 96346122 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1142",
+      "content": "[Shops]\n69223 2.5.8 5744 96346122 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1143",
+      "content": "[Shops]\n432883 2.5.8 5744 96346122 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1144",
+      "content": "[Shops]\n3694632 2.5.8 5744 96346122 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1145",
+      "content": "[Shops]\n2778775 2.5.8 5744 96346122 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1146",
+      "content": "[Shops]\n98722 2.5.8 5744 96346122 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1147",
+      "content": "[Shops]\n461352 2.5.8 5744 96346122 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_115",
+      "content": "[Shops]\n2.5.8 5744 96346122 4824 -5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1151",
+      "content": "[Shops]\n29126 2.5.8 5744 96346122 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1152",
+      "content": "[Shops]\n972342 2.5.8 5744 96346122 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1153",
+      "content": "[Shops]\n69674 2.5.8 5744 96346122 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1154",
+      "content": "[Shops]\n82518339222 2.5.8 5744 96346122 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_116",
+      "content": "[Shops]\n768623 84 2.5.8 57442 2893 14 26892 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1161",
+      "content": "[Shops]\n4723 1 2.5.8 5744 2192 4824 +20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1162",
+      "content": "[Shops]\n4723 2 2.5.8 5744 2192 4824 +20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1163",
+      "content": "[Shops]\n4723 3 2.5.8 5744 2192 4824 +20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1164",
+      "content": "[Shops]\n4723 4+ 2.5.8 5744 2192 4824 +20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1165",
+      "content": "[Shops]\n28799 32991428274 4824 -20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1166",
+      "content": "[Shops]\n28799 32991428274 4824 -20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_121",
+      "content": "[Rest Stops]\n2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1211",
+      "content": "[Rest Stops]\n4723 1 2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1212",
+      "content": "[Rest Stops]\n4723 2 2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1213",
+      "content": "[Rest Stops]\n4723 3 2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1214",
+      "content": "[Rest Stops]\n4723 4+ 2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_122",
+      "content": "[Shops]\n20% 461742 483 1 4824-4322 3243226"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_123",
+      "content": "[Rest Stops]\n2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1231",
+      "content": "[Rest Stops]\n6637 2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1232",
+      "content": "[Rest Stops]\n69223 2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1233",
+      "content": "[Rest Stops]\n432883 2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1234",
+      "content": "[Rest Stops]\n3694632 2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1235",
+      "content": "[Rest Stops]\n2778775 2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1236",
+      "content": "[Rest Stops]\n98722 2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1237",
+      "content": "[Rest Stops]\n461352 2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_124",
+      "content": "[Rest Stops]\n20% 461742 48 324673 27617428274 4824"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_125",
+      "content": "[Rest Stops]\n2.5.8 5744 2761742 4824 -10%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1251",
+      "content": "[Rest Stops]\n29126 2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1252",
+      "content": "[Rest Stops]\n972342 2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1253",
+      "content": "[Rest Stops]\n69674 2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1254",
+      "content": "[Rest Stops]\n82518339222 2.5.8 5744 2761742 4824 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_126",
+      "content": "[Universal]\n5177 +10% 8832 4824 14423 1777775 1 488614 274867423"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1261",
+      "content": "[Universal]\n5177 +10% 8832 4824 14423 1777775 1 3256913 274867423"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1262",
+      "content": "[Universal]\n5177 +10% 8832 4824 14423 1777775 1 4846223 274867423"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1263",
+      "content": "[Universal]\n5177 +10% 8832 4824 14423 1777775 17 29742 274867423"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1264",
+      "content": "[Universal]\n5177 +10% 8832 4824 14423 1777775 1 6822 274867423"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_131",
+      "content": "[Floor Theme]\n768623 84 49883 46282 4687422 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_132",
+      "content": "[Encounters]\n3219 +2.5% 318152"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1321",
+      "content": "[Encounters]\n3219 +2.5% 318152"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1322",
+      "content": "[Encounters]\n3219 +2.5% 318152"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1323",
+      "content": "[Encounters]\n3219 +2.5% 318152"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1324",
+      "content": "[Encounters]\n8442722 92529 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1325",
+      "content": "[Encounters]\n8442722 92529 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_133",
+      "content": "[Encounter Reward Cards]\n768623 84 274867423 321133 4133 4687422 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_134",
+      "content": "[Encounters]\n4182 -2.5% 318152"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1341",
+      "content": "[Encounters]\n4182 -2.5% 318152"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1342",
+      "content": "[Encounters]\n4182 -2.5% 318152"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1343",
+      "content": "[Encounters]\n4182 -2.5% 318152"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1344",
+      "content": "[Encounters]\n3242722 92529 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1345",
+      "content": "[Encounters]\n3242722 92529 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1346",
+      "content": "[Encounters]\n3242722 92529 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_135",
+      "content": "[Floor Theme]\n768623 84 49883 46282 4687422 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_136",
+      "content": "[Encounters]\n+1 48 199 2.5.8 322863422 14 462 24134 84 462 873383 3675287 367"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1361",
+      "content": "[Encounters]\n+1 48 199 2.5.8 322863422 14 462 24134 84 462 873383 3675287 367"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1362",
+      "content": "[Encounters]\n813 29223 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1363",
+      "content": "[Encounters]\n813 29223 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_141",
+      "content": "2.5.8 5744 229244787 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_142",
+      "content": "24134775 4824 +250"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_14",
+      "content": "14423 229244775 1 24134775 2.5.8 5744, 3242752 1 317388 4723 4 2.5.8 5744"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_1",
+      "content": "77 2.5.8 5744 462787, <color=#f8c200>462775 2.5.8 57442 1746 462 2182 8251833</color> 317222 462 461742 84 864177775 17 2.5.8 5744 84 462 4833229873775 8251833."
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_2",
+      "content": "462 489981775 132 462 2.5.8 5744 4723 483241242 1627 462775 2 2.5.8 57442 48524623."
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_diffrent_keyword",
+      "content": "488677775 57442 1746 374423274 82518332"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_identical_keyword",
+      "content": "488677775 57442 1746 462 2182 8251833"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_two_same_keywords",
+      "content": "488677775 57442 1627 8795 2/3 57442 26132 462 8251833"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_1_0",
+      "content": "4723 1 + 4723 1 => 4723 1"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_1_1",
+      "content": "4723 1 + 4723 1 => <color=#f8c200>4723 2</color>"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_2_0",
+      "content": "4723 1 + 4723 2 => 4723 1"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_2_1",
+      "content": "4723 1 + 4723 2 => <color=#f8c200>4723 2</color>"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_3_0",
+      "content": "4723 1 + 4723 3 => 4723 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_3_1",
+      "content": "4723 1 + 4723 3 => 4723 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_4_0",
+      "content": "4723 2 + 4723 2 => 4723 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_4_1",
+      "content": "4723 2 + 4723 2 => 4723 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_5_0",
+      "content": "4723 2 + 4723 3 => 4723 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_5_1",
+      "content": "4723 2 + 4723 3 => 4723 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_6_0",
+      "content": "4723 3 + 4723 3 => 4723 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_6_1",
+      "content": "4723 3 + 4723 3 => 4723 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_3",
+      "content": "462 489981775 132 462 2.5.8 5744 8251833 483241242 1627 462775 2 2.5.8 57442 48524623."
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_2_desc_1_0",
+      "content": "31422 483 82518332 87 462 7753237274 2.5.8 57442: 37.5% 2146\n48867723 3142 483 25235 84623 8251833: 25%"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_2_desc_1_1",
+      "content": "3142 483 8251833 87 462 7753237274 2.5.8 57442: 75%\n48867723 3142 483 25235 84623 8251833: 25%"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_4",
+      "content": "462 489981775 132 462 2.5.8 5744 4723 483241242 1627 462775 3 2.5.8 57442 48524623."
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_1_0",
+      "content": "4723 1 + 4723 1 + 4723 1 => 4723 1"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_1_1",
+      "content": "4723 1 + 4723 1 + 4723 1 => <color=#f8c200>4723 2</color>"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_2_0",
+      "content": "4723 1 + 4723 1 + 4723 2 => 4723 1"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_2_1",
+      "content": "4723 1 + 4723 1 + 4723 2 => <color=#f8c200>4723 2</color>"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_3_0",
+      "content": "4723 1 + 4723 1 + 4723 3 => 4723 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_3_1",
+      "content": "4723 1 + 4723 1 + 4723 3 => 4723 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_4_0",
+      "content": "4723 1 + 4723 2 + 4723 2 => 4723 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_4_1",
+      "content": "4723 1 + 4723 2 + 4723 2 => 4723 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_5_0",
+      "content": "4723 1 + 4723 2 + 4723 3 => 4723 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_5_1",
+      "content": "4723 1 + 4723 2 + 4723 3 => <color=#f8c200>4723 3</color>"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_6_0",
+      "content": "4723 1 + 4723 3 + 4723 3 => 4723 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_6_1",
+      "content": "4723 1 + 4723 3 + 4723 3 => 4723 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_7_0",
+      "content": "4723 2 + 4723 2 + 4723 2 => 4723 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_7_1",
+      "content": "4723 2 + 4723 2 + 4723 2 => 4723 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_8_0",
+      "content": "4723 2 + 4723 2 + 4723 3 => 4723 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_8_1",
+      "content": "4723 2 + 4723 2 + 4723 2 => 4723 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_9_0",
+      "content": "4723 2 + 4723 3 + 4723 3 => 4723 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_9_1",
+      "content": "4723 2 + 4723 3 + 4723 3 => <color=#f8c200>4723 4</color>"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_10_0",
+      "content": "4723 3 + 4723 3 + 4723 3 => 4723 4"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_10_1",
+      "content": "4723 3 + 4723 3 + 4723 3 => 4723 4"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_5",
+      "content": "462 489981775 132 462 2.5.8 5744 8251833 483241242 1627 462775 3 2.5.8 57442 48524623."
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_4_desc_1_0",
+      "content": "31422 483 82518332 87 462 7753237274 2.5.8 57442: 25% 2146\n48867723 3142 483 25235 84623 8251833: 25%"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_4_desc_1_1",
+      "content": "3142 483 462 8251833 87 462 7753237274 2.5.8 57442 4614 26132 462 8251833: 50%\n\n3142 483 462 8251833 87 462 7753237274 2.5.8 5744 4614 38227'4 26132 462 8251833: 25%\n\n48867723 3142 483 25235 84623 8251833: 25%"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_4_desc_1_2",
+      "content": "3142 483 8251833 87 462 7753237274 2.5.8 57442: 75%\n\n48867723 3142 483 25235 84623 8251833: 25%"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_6",
+      "content": "\u203b 6812523, 74 46232 132 78 8832 8641771692 2.5.8 57442 4744775 462 16852 4873747872, 5744 462787 815 322694 77 2.5.8 57442 84 374423274 47232 83 82518332."
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_popup_title",
+      "content": "462787 56732"
+    },
+    {
+      "id": "mirrordungeon_select_theme_pack_at_floor",
+      "content": "229244 49883 {0} 46282 9148"
+    },
+    {
+      "id": "mirrordungeon_ego_gift_appear_rate_up",
+      "content": "3142 69"
+    },
+    {
+      "id": "mirrordungeon_ego_gift_appearable",
+      "content": "42146323"
+    },
+    {
+      "id": "mirrordungeon_selected_floor_theme_label",
+      "content": "22924423 49883 46282"
+    },
+    {
+      "id": "mirrordungeon_ego_gift_sort_by_tier",
+      "content": "65 4723"
+    },
+    {
+      "id": "mirrordungeon_ego_gift_sort_by_keyword",
+      "content": "65 8251833"
+    },
+    {
+      "id": "side_content_cannot_acquire_specific_ego_gift",
+      "content": "46232 132 78 4723 {0} 2.5.8 57442 8641771692 4388 5863 4633274 49883 46282."
+    },
+    {
+      "id": "side_content_free_refresh",
+      "content": "[New Release Pamphlet] 6644 144751423\n3243226 4824 32467323"
+    },
+    {
+      "id": "side_content_egogift_free_upgrade",
+      "content": "[Rebate Token] 6644 144751423\n27617428274 4824 32467323"
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_floor_theme",
+      "content": "49883 46282"
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_battle_reward",
+      "content": "274867423 321133 41332"
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_used",
+      "content": "241397564 4824"
+    },
+    {
+      "id": "mirror_dungeon_appeared_ego_gift",
+      "content": "42146323 2.5.8 57442"
+    },
+    {
+      "id": "mirror_dungeon_select_theme_drag",
+      "content": "229244 1 9148\n173 9699"
+    },
+    {
+      "id": "mirror_dungeon_cannot_acquired_ego_gift",
+      "content": "373 784 5177 17 2.5.8 5744"
+    },
+    {
+      "id": "simulation_difficulty_short",
+      "content": "2786914787"
+    },
+    {
+      "id": "ritournelle_difficulty_short",
+      "content": "3748372998"
+    },
+    {
+      "id": "easy_difficulty_simple",
+      "content": "2125"
+    },
+    {
+      "id": "refresh_shop_item_by_chip_warning",
+      "content": "4872682 241397564 48 3243226?\n\n<size=70%>\u203b\u300c241397564 3243226\u300d 6222 <color=#990000>241397564 81723 14 462 24134 84 462 3675287</color> 173 <color=#990000>175 241397564 86417723 363775 462 3675287 367</color>.\n6812523, 586 417784 29273 8832 241397564 4617 1614 586 6152.</size>\n\n<size=85%>241397564 81723 14 462 24134 84 462 3675287: {0}</size>"
+    },
+    {
+      "id": "mirror_dungeon_theme_ego_gift_popup_valid_atk",
+      "content": "244244752 1447774722"
+    },
+    {
+      "id": "mirror_dungeon_shop_keyword_refresh",
+      "content": "8251833 3243226"
+    },
+    {
+      "id": "mirror_dungeon_shop_refresh_by_chip",
+      "content": "241397564 3243226"
+    },
+    {
+      "id": "mirror_dungeon_shop_keyword_refresh_popup_title",
+      "content": "2689 - 8251833 3243226"
+    },
+    {
+      "id": "mirror_dungeon_shop_keyword_refresh_popup_desc",
+      "content": "'8251833 3243226' 48 31722 462 4617422 84 5244775 2.5.8 57442 84 462 22924423 8251833 41425835 77 462 2689.\n29273 {0} 4824 48 8251833 3243226?"
+    },
+    {
+      "id": "ego_gift_combine_ui_plz_select_keyword",
+      "content": "229244 1 8251833."
+    },
+    {
+      "id": "ego_gift_select_keyword_ui_title",
+      "content": "462787 - 8251833 229244787"
+    },
+    {
+      "id": "ego_gift_select_keyword_ui_desc",
+      "content": "992122 468822 1 8251833 586 1174 48 4622 7748."
+    },
+    {
+      "id": "new_ego_gift_combine_guide_desc_1",
+      "content": "462 489981775 72 462 2.5.8 5744 8251833 48324124 8742 586'52 22924423 462 8251833 586 1174 48 4622 7748 77 462 <Fusion - Keyword Selection> 243227."
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_col_1_title",
+      "content": "768623 84 7753237274 2.5.8 57442 6223 483 462787"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_col_2_title",
+      "content": "31422 483 17 2.5.8 5744 1746 5863 22924423 8251833"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_1_0",
+      "content": "2 57442"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_1_1",
+      "content": "60%"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_2_0",
+      "content": "3 57442"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_2_1",
+      "content": "90%"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_diffrent_keyword_notice",
+      "content": "\u203b 82518332 87 462 7753237274 2.5.8 57442 38 784 144244 462 8644882 84 462 462787."
+    },
+    {
+      "id": "new_ego_gift_combine_guide_desc_2",
+      "content": "462 489981775 132 462 2.5.8 5744 4723 483241242 1627 462775 2 2.5.8 57442. 992122 7842 4614 586 417 3242752 69 48 4723 3 2.5.8 57442 1627 462775 2 2.5.8 57442 48524623."
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_col_1_title",
+      "content": "7753237274 2.5.8 5744 47232"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_col_2_title",
+      "content": "2.5.8 5744 4723 48324124"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_1_0",
+      "content": "4723 1 + 4723 1"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_2_0",
+      "content": "4723 1 + 4723 2"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_3_0",
+      "content": "4723 1 + 4723 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_4_0",
+      "content": "4723 2 + 4723 2"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_5_0",
+      "content": "4723 2 + 4723 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_6_0",
+      "content": "4723 3 + 4723 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_desc_3",
+      "content": "462 489981775 132 462 2.5.8 5744 4723 483241242 1627 462775 3 2.5.8 57442. 992122 7842 4614 586 417 3242752 69 48 4723 4 2.5.8 57442 1627 462775 3 2.5.8 57442 48524623."
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_col_1_title",
+      "content": "488677775 57442 1746 374423274 82518332"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_col_2_title",
+      "content": "2.5.8 5744 4723 48324124"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_1_0",
+      "content": "4723 1 + 4723 1 + 4723 1"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_2_0",
+      "content": "4723 1 + 4723 1 + 4723 2"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_3_0",
+      "content": "4723 1 + 4723 1 + 4723 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_4_0",
+      "content": "4723 1 + 4723 2 + 4723 2"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_5_0",
+      "content": "4723 1 + 4723 2 + 4723 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_6_0",
+      "content": "4723 1 + 4723 3 + 4723 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_7_0",
+      "content": "4723 2 + 4723 2 + 4723 2"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_8_0",
+      "content": "4723 2 + 4723 2 + 4723 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_9_0",
+      "content": "4723 2 + 4723 3 + 4723 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_10_0",
+      "content": "4723 3 + 4723 3 + 4723 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_tier_1",
+      "content": "4723 1"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_tier_2",
+      "content": "4723 2"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_tier_3",
+      "content": "4723 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_tier_4",
+      "content": "4723 4"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_desc_4",
+      "content": "6812523, 74 586 6152 1932135 14067323 25235 277592 2.5.8 5744 77 462 16852 8251833 & 4723 48867714787, 83 74 46822 2.5.8 57442 6152 1932135 6227 12275723 48 873383 3675287 252742 83 462 6822 3211332 84 4672 49883, 4627 <u><b>586 87564 1406732 17 2.5.8 5744 84 1 374423274 4723 83 1 8251833 41425835</u></b> 4388 462 46134 972423 16852."
+    },
+    {
+      "id": "new_ego_gift_combine_guide_desc_5",
+      "content": "74 586 6152 1932135 14067323 199 2.5.8 57442 77 462 4833229873775 4723 83 132 671692 48 864177 4628 362 48 462 14832827478723 3212872, 4627 <u><b>586 417784 9384223 1746 462 462787</u></b>."
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_popup_title",
+      "content": "274867423 321133 41332 56732"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_text_1",
+      "content": "586 815 6152 1 461742 48 864177 17 274867423 321133 4133 6987 49213775 17 274867423. 513716922 2646 12 873383 3675287 3744746945 173 5863 4633274 49883 144244 16746 274867423 321133 41332 586 417 524."
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_text_2",
+      "content": "462 489981775 132 462 1992131742 31422 483 462 274867423 321133 41332."
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_0_1",
+      "content": "873383 3675287 2786914787"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_0_2",
+      "content": "873383 3675287 3748372998"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_1_0",
+      "content": "49883 1"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_1_1",
+      "content": "3256913 274867423 : 7.5%\n4846223 274867423 : -\n29742 274867423 : -\n6822 274867423 : 100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_1_2",
+      "content": "3256913 274867423 : 7.5%\n4846223 274867423 : -\n29742 274867423 : -\n6822 274867423 : 100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_2_0",
+      "content": "49883 2"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_2_1",
+      "content": "3256913 274867423 : 10%\n4846223 274867423 : 20%\n29742 274867423 : 33%\n6822 274867423 : 100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_2_2",
+      "content": "3256913 274867423 : 10%\n4846223 274867423 : 20%\n29742 274867423 : 33%\n6822 274867423 : 100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_3_0",
+      "content": "49883 3"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_3_1",
+      "content": "3256913 274867423 : 10%\n4846223 274867423 : 20%\n29742 274867423 : 33%\n6822 274867423 : 100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_3_2",
+      "content": "3256913 274867423 : 10%\n4846223 274867423 : 20%\n29742 274867423 : 33%\n6822 274867423 : 100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_4_0",
+      "content": "49883 4"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_4_1",
+      "content": "3256913 274867423 : 12.5%\n4846223 274867423 : 25%\n29742 274867423 : 50%\n6822 274867423 : -"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_4_2",
+      "content": "3256913 274867423 : 12.5%\n4846223 274867423 : 25%\n29742 274867423 : 50%\n6822 274867423 : 100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_5_0",
+      "content": "49883 5+"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_5_1",
+      "content": "-"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_5_2",
+      "content": "3256913 274867423 : 12.5%\n4846223 274867423 : 25%\n29742 274867423 : 50%\n6822 274867423 : -"
+    },
+    {
+      "id": "expected_result",
+      "content": "483241242"
+    },
+    {
+      "id": "confirmed",
+      "content": "5613174223"
+    },
+    {
+      "id": "combine_tooltip_title",
+      "content": "462 489981775 132 462 4734682417422 77 16746 462 322694775 2.5.8 5744 4388 462 462787 187'4 81446 462 462787 483241242. 77 2646 41222, 8251833 48324124 1799 62 813823 12 \"?(317388)\"."
+    },
+    {
+      "id": "combine_tooltip_desc1",
+      "content": "1627 25235 151791692 2.5.8 5744 77 462 22924423 8251833 41425835 & 4832412423 4723 612 1932135 6227 86417723"
+    },
+    {
+      "id": "combine_tooltip_desc2",
+      "content": "1627 2.5.8 57442 84 462 22924423 8251833 41425835 & 462 4832412423 4723 6152 199 6227 12275723 48 4614 49883'2 873383 3675287 252742 83 6822 274867423 321133 9889 (417 62 86417723 77 462 7234 49883)"
+    },
+    {
+      "id": "combine_tooltip_notice",
+      "content": "586 417784 48747762 1746 462 462787 74 586 6152 489924423 25235 2.5.8 5744 77 462 4832412423 4723."
+    }
+  ]
+}

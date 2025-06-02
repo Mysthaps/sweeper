@@ -1,0 +1,460 @@
+{
+  "dataList": [
+    {
+      "id": "Empty",
+      "content": ""
+    },
+    {
+      "id": "Nothing",
+      "content": "<color=#ebcaa2>7846775 61992723.</color>"
+    },
+    {
+      "id": "LevelupPersonality",
+      "content": "<color=#ebcaa2>25274: 277723 98123-69!</color>"
+    },
+    {
+      "id": "GetEgogift",
+      "content": "<color=#ebcaa2>25274: 317388 2.5.8 5744!</color>"
+    },
+    {
+      "id": "GetCharacter",
+      "content": "<color=#ebcaa2>25274: 277723 32436748274!</color>"
+    },
+    {
+      "id": "LevelupPersonalityOnWinBattle",
+      "content": "<color=#ebcaa2>177 462 7234 614492 48 3243674 1 277723!</color>"
+    },
+    {
+      "id": "GetConfirmedEgogiftOnWinBattle",
+      "content": "<color=#ebcaa2>177 462 7234 614492 48 5177 2.5.8 5744 {reward}!</color>"
+    },
+    {
+      "id": "StartBattle",
+      "content": "<color=#ff0000>488614 274867423!</color>"
+    },
+    {
+      "id": "StartBattle_Normal",
+      "content": "<color=#ff0000>3256913 274867423!</color>"
+    },
+    {
+      "id": "StartBattle_Danger",
+      "content": "<color=#ff0000>37285 274867423!</color>"
+    },
+    {
+      "id": "StartBattle_Abnormality",
+      "content": "<color=#ff0000>4846223 274867423!</color>"
+    },
+    {
+      "id": "StartBattle_FloorBoss",
+      "content": "<color=#ff0000>49883 6822 274867423!</color>"
+    },
+    {
+      "id": "RecoverHpOnly",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>621923 483</color> <color=#00ff9c>{amount} 69.</color>"
+    },
+    {
+      "id": "RecoverMpOnly",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>621923 483</color> <color=#80c9ff>{amount} 29.</color>"
+    },
+    {
+      "id": "RecoverHpOnlyUntilMax",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>621923 6148 48</color> <color=#00ff9c>4699 69.</color>"
+    },
+    {
+      "id": "RecoverMpOnlyUntilMax",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>621923 6148 48</color> <color=#80c9ff>4699 29.</color>"
+    },
+    {
+      "id": "LoseHpOnly",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>4888</color> <color=#e30000>{amount} 69 318152!</color>"
+    },
+    {
+      "id": "LoseMpOnly",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>9824</color> <color=#fe4b48>{amount} 29!</color>"
+    },
+    {
+      "id": "RecoverHpMpSameAmount",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>621923 483</color> <color=#00ff9c>{amount} 69</color> 173 <color=#80c9ff>29.</color>"
+    },
+    {
+      "id": "RecoverHpMpDifferentAmount",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>621923 483</color> <color=#00ff9c>{amount} 69</color> 173 <color=#80c9ff>{amount} 29.</color>"
+    },
+    {
+      "id": "LoseHpMpSameAmount",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>4888</color> <color=#e30000>{amount} 69</color> 173 <color=#fe4b48>29 318152!</color>"
+    },
+    {
+      "id": "LoseHpMpDifferentAmount",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>4888</color> <color=#e30000>{amount} 69</color> 173 <color=#fe4b48>{amount} 29 318152!</color>"
+    },
+    {
+      "id": "GetConfirmedEgogift",
+      "content": "<color=#ebcaa2>2.5.8 5744 {reward} 86417723!</color>"
+    },
+    {
+      "id": "GetConfirmedStackableEgogift",
+      "content": "<color=#ebcaa2>2.5.8 5744 {stack} {reward} 86417723!</color>"
+    },
+    {
+      "id": "LoseConfirmedStackableEgogift",
+      "content": "<color=#ebcaa2>2.5.8 5744 {stack} {reward} 9824!</color>"
+    },
+    {
+      "id": "GetBuff_OnStageStart",
+      "content": "<color=#ebcaa2>{target} {conditional} 1799 27423 462 7234 488614 274867423 1746 {stack} {buffName}.</color>"
+    },
+    {
+      "id": "UnlockHiddenRoute",
+      "content": "<color=#ebcaa2>46232\u20192 1 721 9146 87 462 819!</color>"
+    },
+    {
+      "id": "ReduceEnemyWave",
+      "content": "<color=#ebcaa2>27285 11522 3236423 65 {waveNum} 483 462 7234 614492</color>"
+    },
+    {
+      "id": "DestroyEgogift",
+      "content": "<color=#ebcaa2>2.5.8 5744 {reward}</color> <color=#e30000>322438523!</color>"
+    },
+    {
+      "id": "Choice_90103301",
+      "content": "<color=#f8c200>29223 +1</color> <color=#ebcaa2>483 4672 614492</color>"
+    },
+    {
+      "id": "Choice_901001",
+      "content": "<color=#ebcaa2>14 462 24134 84 462 488614 96122,</color> 199722 1746864 <color=#a0392b>13146 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#e30000>5 13146 318152</color>"
+    },
+    {
+      "id": "Choice_901007",
+      "content": "<color=#ebcaa2>14 462 24134 84 462 4637,</color> </color=#ebcaa2>6219</color> <color=#00ff9c>10 69</color> 173 <color=#80c9ff>10 29</color> (69 48 3 46372)"
+    },
+    {
+      "id": "Choice_901009",
+      "content": "<color=#e30000>28799 47719 98123 -1</color> <color=#ebcaa2>14 462 24134 84 462 488614 96122.</color>"
+    },
+    {
+      "id": "Choice_901010",
+      "content": "<color=#ebcaa2>14 462 24134 84 462 7234 614492,</color> <color=#ebcaa2>1995 67742 1746864</color> <color=#bb521f>9624 14477745 144148 28799</color> <color=#ebcaa2>132 241552323</color>"
+    },
+    {
+      "id": "Choice_901019",
+      "content": "<color=#e30000>29223 -2</color> <color=#ebcaa2>14 462 24134 84 462 488614 96122.</color>"
+    },
+    {
+      "id": "Choice_90103402",
+      "content": "<color=#f8c200>29223 +2</color> <color=#ebcaa2>483 4672 614492</color>"
+    },
+    {
+      "id": "Choice_1030301",
+      "content": "<color=#ebcaa2>14 462 24134 84 462 7234 614492, 199 1995 67742</color> <color=#ebcaa2>5177</color> <color=#f8c200>3 144148 98123 69.</color>"
+    },
+    {
+      "id": "Choice_1030501",
+      "content": "<color=#ff0000>488614 274867423!</color>\n<color=#ebcaa2>199 2728722</color> <color=#ebcaa2>132 774974423 1746</color> <color=#e30000>5 144148 98123 3817!</color>"
+    },
+    {
+      "id": "Choice_1031001",
+      "content": "<color=#ebcaa2>462 468227 277723</color> <color=#ebcaa2>51772</color> <color=#e30000>3 318152 3817</color> <color=#ebcaa2>483 462 7234 2 6144922.</color>"
+    },
+    {
+      "id": "Choice_90100201",
+      "content": "<color=#ebcaa2>462 277723 168 417923 462 46248 41822</color> <color=#e30000>12 69</color> <color=#ebcaa2>318152 173</color> <color=#fe4b48>8 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90100502",
+      "content": "<color=#ebcaa2>462 277723 168 417923 462 46248 41822</color> <color=#e30000>15 69</color> <color=#ebcaa2>318152 173</color> <color=#fe4b48>12 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90101001",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#bb521f>9624 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>10 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90101101",
+      "content": "<color=#ebcaa2>462 277723 168 417923 462 46248 41822</color> <color=#fe4b48>15 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90101701",
+      "content": "<color=#ebcaa2>462 277723 168 912223 462 46248 41822</color> <color=#fe4b48>5 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90101702",
+      "content": "<color=#ebcaa2>462 277723 168 417923 462 46248 41822</color> <color=#fe4b48>25 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90101801",
+      "content": "<color=#ebcaa2>462 277723 168 417923 462 46248 41822</color> <color=#fe4b48>12 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90101901",
+      "content": "<color=#ebcaa2>462 277723 168 417923 462 46248 41822</color> <color=#fe4b48>10 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90102001",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#61822b>59644875 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>5 69</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90102002",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#61822b>59644875 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>10 69</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90102201",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#306471>59888 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>13 69</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90103302",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#7d4e94>2755 14477745 144148 28799</color> <color=#fe4b48>4182</color> <color=#e30000>15 69</color> <color=#ebcaa2>318152 173</color> <color=#fe4b48>15 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90100101",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#a0392b>13146 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>16 69</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_901004",
+      "content": "<color=#ebcaa2>7327474722 1746</color> <color=#a0392b>13146 14477745 144148 28799</color> <color=#ebcaa2>6219</color> <color=#f8c200>15 69.</color>"
+    },
+    {
+      "id": "Choice_90100701",
+      "content": "<color=#ebcaa2>7327474722 1746</color> <color=#bb521f>9624 14477745 144148 28799</color> </color=#ebcaa2>6219</color> <color=#80c9ff>29.</color>"
+    },
+    {
+      "id": "Choice_901008",
+      "content": "<color=#ebcaa2>7327474722 1746</color> <color=#bb521f>9624 14477745 144148 28799</color> <color=#ebcaa2>6219</color> <color=#f8c200>10 69.</color>"
+    },
+    {
+      "id": "Choice_90100901",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#bb521f>9624 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>20 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_901014",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#e48801>29846 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>20 69</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90101401",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#e48801>29846 14477745 144148 28799</color> <color=#fe4b48>4182</color> <color=#fe4b48>12 69</color> <color=#ebcaa2>318152 173</color> <color=#fe4b48>12 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90101601",
+      "content": "<color=#ebcaa2>7327474722 1746</color> <color=#61822b>59644875 14477745 144148 28799</color> </color=#ebcaa2>6219</color> <color=#80c9ff>29.</color>"
+    },
+    {
+      "id": "Choice_901018",
+      "content": "<color=#ebcaa2>872 317388 73274745 1746864</color> <color=#a0392b>13146 14477745 144148 28799</color> <color=#ebcaa2>41822</color> <color=#fe4b48>10 69</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_901021",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#306471>59888 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>10 69</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_901023",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#306471>59888 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>9 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90102301",
+      "content": "<color=#ebcaa2>872 317388 73274745 1746864</color> <color=#306471>59888 14477745 144148 28799</color> <color=#ebcaa2>41822</color> <color=#fe4b48>10 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_901024",
+      "content": "<color=#ebcaa2>462 73274745 1746 462 981224 217745 168 982222222</color> <color=#306471>59888 14477745 144148 28799</color> </color=#ebcaa2>46995 62192 46273</color> <color=#f8c200>69.</color>"
+    },
+    {
+      "id": "Choice_901025",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#306471>59888 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>20 69</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90102501",
+      "content": "<color=#ebcaa2>7327474722 1746</color> <color=#306471>59888 14477745 144148 28799</color> <color=#ebcaa2>6219</color> <color=#f8c200>20 69.</color>"
+    },
+    {
+      "id": "Choice_901026",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#185188>93732 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>10 69</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90102601",
+      "content": "<color=#ebcaa2>7327474722 1746</color> <color=#185188>93732 14477745 144148 28799</color> <color=#ebcaa2>6219</color> <color=#f8c200>10 69.</color>"
+    },
+    {
+      "id": "Choice_901027",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#185188>93732 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>25 69</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90102701",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#185188>93732 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>25 69</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_901028",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#185188>93732 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>5 69</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90102801",
+      "content": "<color=#ebcaa2>7327474722 1746</color> <color=#185188>93732 14477745 144148 28799</color> <color=#ebcaa2>6219</color> <color=#f8c200>15 69.</color>"
+    },
+    {
+      "id": "Choice_901032",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#7d4e94>2755 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>20 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_901034",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#7d4e94>2755 14477745 144148 28799</color> <color=#fe4b48>4182</color> <color=#e30000>15 69</color> <color=#ebcaa2>318152 173</color> <color=#fe4b48>15 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_901035",
+      "content": "<color=#ebcaa2>7327474722 1746864</color> <color=#7d4e94>2755 14477745 144148 28799</color> <color=#ebcaa2>4182</color> <color=#fe4b48>12 69</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_90103501",
+      "content": "<color=#ebcaa2>7327474722 1746</color> <color=#7d4e94>2755 14477745 144148 28799</color> <color=#ebcaa2>6219</color> <color=#f8c200>15 69.</color>"
+    },
+    {
+      "id": "Choice_1040301",
+      "content": "<color=#ebcaa2>462 468227 277723</color> <color=#ebcaa2>612</color> <color=#e30000>10 3694632</color> <color=#ebcaa2>483 1 4637 77 462 7234 614492.</color>"
+    },
+    {
+      "id": "MirrorDungeonAcquireCost",
+      "content": "<color=#ebcaa2>4824 {amount} 517723</color>"
+    },
+    {
+      "id": "MirrorDungeonLossCost",
+      "content": "<color=#ebcaa2>4824 {amount} 9824</color>"
+    },
+    {
+      "id": "Choice_90104001",
+      "content": "<color=#ebcaa2>24134 462 7234 614492 1746</color> <color=#f8c200>+2 2.5.8 322863422</color> <color=#ebcaa2>84 199 1447774722</color>"
+    },
+    {
+      "id": "Choice_9010400101",
+      "content": "<color=#ebcaa2>199 199722 6152</color> <color=#f8c200>+2 28799 47719 98123</color> <color=#ebcaa2>483 462 7234 614492</color>"
+    },
+    {
+      "id": "Choice_90104002",
+      "content": "<color=#ebcaa2>199 199722 6152</color> <color=#f8c200>+1 28799 98123</color> <color=#ebcaa2>483 462 7234 614492</color>"
+    },
+    {
+      "id": "ChangeEventIllust",
+      "content": ""
+    },
+    {
+      "id": "Choice_90105801",
+      "content": "199 32998523 7327474722 5177 2 925292"
+    },
+    {
+      "id": "Choice_90106802",
+      "content": "199 32998523 7327474722 5177 3 925292"
+    },
+    {
+      "id": "Choice_90107402",
+      "content": "199 32998523 7327474722 5177 2 925292"
+    },
+    {
+      "id": "Choice_90109101",
+      "content": "199 32998523 7327474722 5177 2 925292"
+    },
+    {
+      "id": "Choice_90200502",
+      "content": "<color=#ebcaa2>462 277723 168 417923 462 46248 41822</color> <color=#e30000>15 69</color> <color=#ebcaa2>318152 173</color> <color=#fe4b48>12 29</color> <color=#ebcaa2>318152!</color>"
+    },
+    {
+      "id": "Choice_LoseBattle",
+      "content": "<color=#ff0000>78 3211332 6987 324214</color>"
+    },
+    {
+      "id": "Choice_EGO901001",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"6299423495'2 33218\" & \"133274 498123\""
+    },
+    {
+      "id": "Choice_EGO901002",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"9235232787\" & \"112\""
+    },
+    {
+      "id": "Choice_EGO901009",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"47235 3817\" & \"829423 91314477\""
+    },
+    {
+      "id": "Choice_EGO901010",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"698835 513524\" & \"53173263\""
+    },
+    {
+      "id": "Choice_EGO901011",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"267268123\" & \"315523 68632991\""
+    },
+    {
+      "id": "Choice_EGO901013",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"41972817 667392\" & \"893 188327 3899\""
+    },
+    {
+      "id": "Choice_EGO901014",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"36245 4888288314752 4877\" & \"9177 84 2474923 3152\""
+    },
+    {
+      "id": "Choice_EGO901016",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"53227 297374\" & \"2863 970683 13881\""
+    },
+    {
+      "id": "Choice_EGO901018",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"43817 84 38222\" & \"3229742\""
+    },
+    {
+      "id": "Choice_EGO901019",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"247485 8648\" & \"678-52788 5719\""
+    },
+    {
+      "id": "Choice_EGO901020",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"16742 582259768\" & \"4175923 667392\""
+    },
+    {
+      "id": "Choice_EGO901021",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"6962 27998 9756423\" & \"9143899775 4912697564\""
+    },
+    {
+      "id": "Choice_EGO901024",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"829423 2526199\" & \"52788862 2877\""
+    },
+    {
+      "id": "Choice_EGO901031",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"77372 3752352742\" & \"498481838 293775\""
+    },
+    {
+      "id": "Choice_EGO901033",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"24173133-3645 6144235\" & \"67419923 324763791483\""
+    },
+    {
+      "id": "Choice_EGO901034",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"97798774 98574 4734674\" & \"692 252428\""
+    },
+    {
+      "id": "Choice_EGO901056",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"4863-9214 498523\" & \"2823193 295431\""
+    },
+    {
+      "id": "Choice_EGO901059",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"873177423 775648132\" & \"2934322 27132\""
+    },
+    {
+      "id": "Choice_EGO901073",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"273839677 874\" & \"49683224274 9189\""
+    },
+    {
+      "id": "Choice_EGO971029",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"2-4592 37827278719 315523\" & \"98341692 6133723 6144235\""
+    },
+    {
+      "id": "GetImmediateConfirmedEgogifts",
+      "content": "<color=#ebcaa2>2.5.8 5744 {reward} 86417723!</color>"
+    },
+    {
+      "id": "Choice_EGO901101",
+      "content": "177 462 614492 48 5177 2.5.8 57442 \"877714632 42929892\""
+    },
+    {
+      "id": "Choice_EGO901104",
+      "content": "177 462 614492 48 2137 462 2.5.8 5744 \"36946323 69883 214\""
+    },
+    {
+      "id": "Choice_EGO971054",
+      "content": "177 462 614492 48 5177 2.5.8 5744 \"21726775 4629 4178\""
+    },
+    {
+      "id": "LoseMpOnlyUntilMin",
+      "content": "<color=#ebcaa2>323642</color> <color=#fe4b48>29 48 8777868 51962 483</color> <color=#ebcaa2>{conditions}{targets}</color>"
+    }
+  ]
+}

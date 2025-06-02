@@ -1,0 +1,747 @@
+{
+  "dataList": [
+    {
+      "id": 815901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "53129",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 5 [Vibration] 173 +2 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 7749744 2 [Binding] 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "979775 38482",
+          "desc": "[WhenUse] 74 413524 612 5+ [Vibration], 49126 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +3 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Paralysis] 7234 4637"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 8 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [AttackDown] 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "29846469 93222",
+          "desc": "[WhenUse] 74 4672 6774'2 29223 72 412423 4617 462 413524'2, 49126 98123 +1 483 2146 29223 3744232742 (813 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Binding] 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [AttackDown] 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "56133",
+          "desc": "[WhenUse] 5177 3 [Protection]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "8169",
+          "desc": "1627 4672 144148 28799 6742, 5177 [TakeHpHealIncrease] 7234 4637",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "325863775",
+          "desc": "[WhenUse] 74 413524 612 [Burst], 6122 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Burst] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 4832 173 9134 6846 5177 3 69"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Burst] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 4832 173 9134 6846 5177 3 69"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Burst] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 4832 173 9134 6846 5177 3 69"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Burst] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 4832 173 9134 6846 5177 3 69"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "31527862 325863775",
+          "desc": "[WhenUse] 74 413524 612 5+ [Burst], 7749744 2 [DefenseDown]\n5177 +1 6122 98123 483 25235 [TakeHpHealIncrease] 51962 87 2294 (813 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Burst] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 4832 173 9134 6846 5177 5 69"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 5 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 4832 173 9134 6846 5177 5 69"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Burst] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 4832 173 9134 6846 5177 5 69"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 5 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 4832 173 9134 6846 5177 5 69"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4867423",
+          "desc": "14 9222 4617 50% 4832 69, 4832 173 9134 6219 87 4877 674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Burst] 173 +2 [Burst] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Burst] 173 +2 [Burst] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "614 6126",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +3 [Burst] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "281483817",
+          "desc": "[WinDuel] 5177 1 [Enhancement] 173 1 [AttackDmgUp] 7234 4637",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +3 [Burst] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [Laceration] 20619 48 [Burst] 87 413524"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "69621519",
+          "desc": "74 413524 612 5+ [Burst], 49126 98123 +1\n74 413524 612 5+ [Laceration], 49126 98123 +1\n[WinDuel] 7749744 +3 [Burst] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 7234 4877 612 +1 98123"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 7234 4877 612 +2 98123"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Paralysis] 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 8 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4782 48 329274",
+          "desc": "[CantChangeTarget]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Laceration] 48674 173 3 [Burst] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Laceration] 173 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Laceration] 173 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [Enhancement] 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "586 8624 264423 8832!",
+          "desc": "[CantChangeTarget]\n[WinDuel] 7749744 3 [Burst] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 7234 4877 612 +1 98123"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 7234 4877 612 +2 98123"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 8 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816406,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "56133",
+          "desc": "[WhenUse] 5177 1 [Enhancement] 7234 4637",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816407,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4867423",
+          "desc": "[WhenUse] 5177 1 [Enhancement] 7234 4637",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "7'99 328852 586",
+          "desc": "4832 173 9134 6219 65 10% 84 462 318152 32194 65 4672 144148 28799",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [AttackUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [AttackUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 5177 1 [Agility] 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "698835 6124133!",
+          "desc": "74 4672 6774'2 29223 72 412423 4617 462 413524'2 49126 98123 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Laceration] 173 +2 [Laceration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Laceration] 173 +2 [Laceration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 4672 6774'2 29223 72 412423 4617 462 413524'2 65 3 83 8832, 32622 4672 4877 (8742)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4672 72 85 6882!",
+          "desc": "9378374722 4135242 1746 462 92124 69\n[WhenUse] 74 413524 612 9222 4617 70% 69, 49126 98123 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [Agility] 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 5 [Laceration] 173 +2 [Laceration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 5 [Laceration] 173 +2 [Laceration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 20+ [Laceration], 3219 +100% 318152"
+                },
+                {
+                  "desc": "[EnemyKill] 32622 4672 28799 (1 4782 813)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "7'99 524 586...!",
+          "desc": "93783747222 6214649744\n[WhenUse] 74 462 413524 72 462 27285 1746 462 2981224 29223, 6122 98123 +3\n[WhenUse] 7749744 [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], 173 5 [Binding] 7234 4637",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [AttackUp] 7234 4637"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [AttackUp] 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "5752 74 6148...!!",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 5177 2 [AttackUp] 7234 4637"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 5177 2 [AttackUp] 7234 4637"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 5177 2 [AttackUp] 7234 4637"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 10+ [Laceration], 3219 +30% 318152"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 5+ [Laceration], 6219 65 50% 84 318152 32194"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "586 974492...",
+          "desc": "93783747222 4135242 1746 [AaCfPbBe]\n74 4672 6774'2 29223 72 412423 4617 462 413524'2 65 3 83 8832, 32622 4672 28799 (1 4782 813)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 6219 4832 173 9134 65 50% 84 318152 32194"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 6219 4832 173 9134 65 50% 84 318152 32194"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "56133",
+          "desc": "74 4672 6774 612 328177775 267293 69 14 4637 273, 5177 4 [Protection] 7234 4637",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "25132",
+          "desc": "[OnSucceedEvade] 7749744 1 [Binding] 7234 4637 (2 47822 813)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816509,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4672 72 85 99142!",
+          "desc": "74 4672 6774'2 29223 72 412423 4617 462 413524'2, 4877 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 10+ [Laceration], 3219 +30% 318152"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 10+ [Laceration], 3219 +30% 318152"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 10+ [Laceration], 3219 +30% 318152"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 10+ [Laceration], 3219 +30% 318152"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 10+ [Laceration], 6219 65 70% 84 318152 32194"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

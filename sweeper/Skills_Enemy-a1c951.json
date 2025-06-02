@@ -1,0 +1,354 @@
+{
+  "dataList": [
+    {
+      "id": 9010101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "66817-8822!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 4 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 5177 +1 [Breath] 48674"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 7749744 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4194632 4628-882",
+          "desc": "[WinDuel] 6219 5 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 4 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 5177 +1 [Breath] 48674"
+                },
+                {
+                  "desc": "+40% 318152 87 43747419 674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "882, 882!!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+30% 318152 87 43747419 674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+30% 318152 87 43747419 674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [Breath] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "43226 8214-8822",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [Breath] 173 +2 [Breath] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 5177 +1 [Breath] 48674"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 7749744 3 [Binding] 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "988877' 975295-882!",
+          "desc": "[WinDuel] 6219 5 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [Breath] 173 +2 [Breath] 48674"
+                },
+                {
+                  "desc": "+40% 318152 87 43747419 674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "78 622-882!",
+          "desc": "[EndBattle] 74 4672 6774 612 267293, 5177 1 [Enhancement] 7234 4637.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4637 51 7748 463774632-8822!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +3 [Breath] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 5177 +1 [Breath] 48674"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 7749744 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "924'2 524 74 885775-882",
+          "desc": "[WinDuel] 6219 5 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [Breath] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [Breath]"
+                },
+                {
+                  "desc": "+40% 318152 87 43747419 674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6888 6888~",
+          "desc": "[OnSucceedEvade] 5177 5 [Breath] 173 +2 [Breath] 48674.\n[OnDefeatEvade] 31722 2415523 463226893 65 10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "7'99 524 586-882",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 7749744 2 [Binding] 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "12 243648 5893-882!",
+          "desc": "[WinDuel] 6219 5 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [Breath] 173 +3 [Breath] 48674"
+                },
+                {
+                  "desc": "+50% 318152 87 43747419 674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [Breath] 173 +1 [Breath] 48674"
+                },
+                {
+                  "desc": "+50% 318152 87 43747419 674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "98419 311 81423719-8822!",
+          "desc": "[WinDuel] 5177 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 318152 +20% 483 462 9124 4877"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 318152 +20% 483 462 9124 4877"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [Breath] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 3822 784 4872682 [Breath] 48674. 3219 68762 69674 318152 20619 48 [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "78 622-882!",
+          "desc": "[EndBattle] 74 4672 6774 612 267293, 5177 2 [Enhancement] 7234 4637.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

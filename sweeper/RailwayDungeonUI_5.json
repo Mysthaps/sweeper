@@ -1,0 +1,92 @@
+{
+  "dataList": [
+    {
+      "id": "railway_5_must_participate_all",
+      "content": "992122 329985 199 2777232.\n\n\u203b 77 3243144787 3179115 9772 5, 25235 277723 612 48 62 32998523 77 83323 48 27423."
+    },
+    {
+      "id": "mainui_personality_blocked",
+      "content": "417784 329985"
+    },
+    {
+      "id": "railway5_clear_info",
+      "content": "49213 7748"
+    },
+    {
+      "id": "railway5_clear_info_node_ui",
+      "content": "49213 7748"
+    },
+    {
+      "id": "railway_dungeon_5_entrance_recommended_level",
+      "content": "- 7327474722 : 69472 4723 4, 92529 50"
+    },
+    {
+      "id": "railway5_clear_info_clear_turn_count",
+      "content": "49213 46372"
+    },
+    {
+      "id": "railway5_clear_info_ego_stock",
+      "content": "328177775 322863422"
+    },
+    {
+      "id": "railway5_clear_info_selected_buffs",
+      "content": "22924423 6644"
+    },
+    {
+      "id": "railway_dungeon_5_reward_condition_special_ticket",
+      "content": "86417723 65 49213775 9772 5 1746 100 83 42123 48419 46372 624832 221287 5: 86975787 2732."
+    },
+    {
+      "id": "railway_dungeon_5_statistics_button",
+      "content": "3241792"
+    },
+    {
+      "id": "railway_dungeon_5_required_condition_to_enter_format",
+      "content": "\u203b 77483814787\n\n2146 277723 72232 48 6152 14 92124 2 7327474722 77 83323 48 27423 {0}."
+    },
+    {
+      "id": "railway_dungeon_5_reward_condition_special_ticket_warning",
+      "content": "<color=#990000>\u203b 4672 417784 62 86417723 14423 221287 5: 86975787 2732.</color>"
+    },
+    {
+      "id": "railway_dungeon_5_reward_condition_warning",
+      "content": "\u203b 992122 7842 4614 175 3211332 4917823 14423 221287 5: 86975787 2732 1799 62 14424423 65 462 22128719 413358523 9384222. 175 22128719 4633274722, 2646 12 <color=#990000>25826133 431422 173 788771692 25826133 431422</color> 1799 62 619523.\n(25826133 431422\u20146846 317388 173 788771692\u20144614 6152 784 6227 4133723 8523 132 487523423 7748 463213 431422.)"
+    },
+    {
+      "id": "railway_dungeon_5_banner_reward_condition_1",
+      "content": "86417723 65 49213775 3243144787 3179115 9772 5"
+    },
+    {
+      "id": "railway_dungeon_5_banner_reward_condition_2",
+      "content": "86417723 65 49213775 9772 5 1746 {0} 83 42123 48419 46372 624832 <color=#9a0634>221287 5: 86975787</color> 2732."
+    },
+    {
+      "id": "railway_5_banned_personality_exist",
+      "content": "1 984823 73274745 72 18875 462 32998523 7327474722.\n\n\u203b 992122 7842 4614, 77 3243144787 3179115 9772 5, 7327474722 4614 913474791423 77 2244787 #1 417784 91347479142 77 2244787 #2."
+    },
+    {
+      "id": "railway_5_ally_buff",
+      "content": "66442"
+    },
+    {
+      "id": "railway_5_enemy_buff",
+      "content": "437192"
+    },
+    {
+      "id": "railway_5_section",
+      "content": "2244787 #{0}"
+    },
+    {
+      "id": "railway_5_warning_enter_node_1",
+      "content": "992122 7842 4614 7327474722 9134747914775 77 2244787 #1 417784 91347479142 77 2244787 #2.\n\n132 586 2632 586 1174 48 622 4672 9813864 483 2244787 #1?"
+    },
+    {
+      "id": "railway_5_select_buff_title",
+      "content": "229244 66442"
+    },
+    {
+      "id": "railway_5_stage_level_warning",
+      "content": "\u203b 4633274 155. 73 92529: <color=#990000>{0}</color> (32488827323 92529: <color=#990000>{1}</color>)"
+    }
+  ]
+}

@@ -1,0 +1,940 @@
+{
+  "dataList": [
+    {
+      "id": "mirrordungeon_product_list",
+      "content": "9383644 414198562"
+    },
+    {
+      "id": "ego_gift_list",
+      "content": "2.5.8 57442 81723"
+    },
+    {
+      "id": "normal_difficulty",
+      "content": "783819"
+    },
+    {
+      "id": "hard_difficulty",
+      "content": "6133"
+    },
+    {
+      "id": "start_buffs",
+      "content": "144752 2442442"
+    },
+    {
+      "id": "enter_normal_difficulty",
+      "content": "27423 783819 3675287"
+    },
+    {
+      "id": "enter_hard_difficulty",
+      "content": "27423 6133 3675287"
+    },
+    {
+      "id": "list_of_applied_effects",
+      "content": "144752 2442442"
+    },
+    {
+      "id": "activation_complete",
+      "content": "144751423"
+    },
+    {
+      "id": "lack_of_points",
+      "content": "784 278656 241397564."
+    },
+    {
+      "id": "require_to_activate_former_buffs",
+      "content": "2753152 24132 87 462 93257862\n24152'2 2413423 66442 47324."
+    },
+    {
+      "id": "weekly_bonus_reward",
+      "content": "122895 6876222"
+    },
+    {
+      "id": "hard_dungeon_reward",
+      "content": "6133 3211332"
+    },
+    {
+      "id": "dungeon_shop_return_title",
+      "content": "387'4 96346122."
+    },
+    {
+      "id": "dungeon_shop_return_desc",
+      "content": "8852 48 2689"
+    },
+    {
+      "id": "dungeon_shop_heal_title_one",
+      "content": "468822 462 239272752 48774."
+    },
+    {
+      "id": "dungeon_shop_heal_desc_one_hp_perc_mp_int",
+      "content": "462 22924423 277723 62192 {0}% 69 173 {1} 29"
+    },
+    {
+      "id": "dungeon_shop_heal_title_all",
+      "content": "468822 462 272355 337782."
+    },
+    {
+      "id": "dungeon_shop_heal_desc_all_hp_perc_mp_int",
+      "content": "199 2777232 6219 {0}% 69 173 {1} 29"
+    },
+    {
+      "id": "dungeon_shop_purchase_title",
+      "content": "96346122."
+    },
+    {
+      "id": "dungeon_shop_change_formation_title",
+      "content": "9748 69 1 873383 26133 1873 462 436862."
+    },
+    {
+      "id": "dungeon_shop_change_formation_desc",
+      "content": "133 1 721 73274745 83 2.5.8 48 462 4633274 4218"
+    },
+    {
+      "id": "dungeon_shop_heal_character",
+      "content": "6219 277723"
+    },
+    {
+      "id": "dungeon_shop_change_formation",
+      "content": "4218"
+    },
+    {
+      "id": "dungeon_shop_upgrade_personality",
+      "content": "3299142 {0}'2 28799"
+    },
+    {
+      "id": "dungeon_shop_upgrade_personality_0_title",
+      "content": "915 1 88323142 93742."
+    },
+    {
+      "id": "dungeon_shop_upgrade_personality_1_title",
+      "content": "915 1 91352 268."
+    },
+    {
+      "id": "dungeon_shop_upgrade_personality_2_title",
+      "content": "915 1 4328273862 93742."
+    },
+    {
+      "id": "dungeon_shop_upgrade_personality_desc",
+      "content": "461752 872 84 462 73274745'2 [skills {2} - {0}] 48 1 [skill {3} - {1}]"
+    },
+    {
+      "id": "dungeon_shop_out",
+      "content": "92152"
+    },
+    {
+      "id": "mirrordungeon_2_hard_open_at",
+      "content": "49213 873383 84 8733832 87 783819 48 679848"
+    },
+    {
+      "id": "mirrordungeon_with_number",
+      "content": "873383 3675287 {0}"
+    },
+    {
+      "id": "mirrordungeon_select_buffs_title",
+      "content": "229244 25274 244244"
+    },
+    {
+      "id": "acquire_additional_rewards",
+      "content": "3242752 1337478719 3211332"
+    },
+    {
+      "id": "mirrordungeon_acquire_rewards_using_chance_desc",
+      "content": "29273 5863 \u300c122895 6876222\u300d 48 49178 462 68762 3211332?"
+    },
+    {
+      "id": "mirrordungeon_acquire_rewards_not_using_chance_desc",
+      "content": "586 6152 122895 68762 29757679745 328177775. 132 586 2632 586 1174 48 49178 462 4633274 3211332 1746864 62775 462 29757679745?"
+    },
+    {
+      "id": "mirrordungeon_acquire_rewards_no_chance_desc",
+      "content": "49178 462 3211332?"
+    },
+    {
+      "id": "mirror_dungeon_start_buffs_chip_name",
+      "content": "241397564"
+    },
+    {
+      "id": "mirror_dungeon_exit_without_acquire_rewards",
+      "content": "273 2392374787 1746864 49178775 3211332?"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_1",
+      "content": "6194 1 2429 8832"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_2",
+      "content": "47564775 297374"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_3",
+      "content": "29844775 569723167974722"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_4",
+      "content": "297374 48 9626 16213"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_5",
+      "content": "48462775 569723167974722"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_6",
+      "content": "96527419 43177775"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_7",
+      "content": "5978922 84 21372247222"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_8",
+      "content": "7742722 43177775"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_9",
+      "content": "164852774"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_10",
+      "content": "822623 9822767974722"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_11",
+      "content": "7624 872 984824"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_12",
+      "content": "872 2429 4634623"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_13",
+      "content": "4834674862 4773"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_14",
+      "content": "37247744 984824"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_15",
+      "content": "28973 3242722"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_16",
+      "content": "06748 9252"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_17",
+      "content": "49224-488423"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_18",
+      "content": "5312775 144148"
+    },
+    {
+      "id": "mirror_dungeon_buffs_title_19",
+      "content": "24191134 297374"
+    },
+    {
+      "id": "mirrordungeon_unable_to_purchase_buffs_when_running_dungeon",
+      "content": "586 815 784 96346122 2413423 66442 16792 17 2392374787 72 77 93853222."
+    },
+    {
+      "id": "mirrordungeon_resting_open",
+      "content": "4229 4322 48 4182 1 3224 6232!\n\n74 586'3 9782 1 461742 8224775, 992122 99142 4614 87 462 3228.\n\n- 48752772742 24832 81723 239983775 462 8122 483 1 372927223"
+    },
+    {
+      "id": "mirrordungeon_shop_open",
+      "content": "462 372927223'2 668 47992 462 173.\n\n74 87812 1614 12 1174.\n\n12 1928 8781 1614 74 11742."
+    },
+    {
+      "id": "mirrordungeon_resting_heal_title",
+      "content": "4182 1 3224."
+    },
+    {
+      "id": "mirrordungeon_resting_heal_desc",
+      "content": "2777232 6219 69"
+    },
+    {
+      "id": "mirrordungeon_resting_heal_desc_1",
+      "content": "462 22924423 277723 62192 {0}% 69"
+    },
+    {
+      "id": "mirrordungeon_resting_heal_desc_2",
+      "content": "199 2777232 6219 {0}% 69"
+    },
+    {
+      "id": "mirrordungeon_resting_change_formation_title",
+      "content": "99142 462 43686 87 462 41692."
+    },
+    {
+      "id": "mirrordungeon_resting_change_formation_desc",
+      "content": "133 1 721 73274745 83 2.5.8 48 462 4633274 4218"
+    },
+    {
+      "id": "hard_difficulty_en",
+      "content": "6133"
+    },
+    {
+      "id": "mirrordungeon_2_normal_open_at",
+      "content": "49213 8177 24835 4-54 173 873383 84 462 625777775 48 679848"
+    },
+    {
+      "id": "mirrordungeon_2_shop_stageinfo_title",
+      "content": "46748 36869775 668"
+    },
+    {
+      "id": "mirrordungeon_2_shop_stageinfo_desc",
+      "content": "462 223795 28945 29142 72 84469723 65 462 668 488775 4388 462 372927223.\n\n462 58742 292182: '57293 4614 43686 586 6152, 173 74'99 62 234617523 483 288246775 622469.'\n\n586'32 33117 65 462 8524237862 867244."
+    },
+    {
+      "id": "mirrordungeon_2_resting_stageinfo_title",
+      "content": "32722 067247222"
+    },
+    {
+      "id": "mirrordungeon_2_resting_stageinfo_desc",
+      "content": "586 815 6635 5863 9177 77 462 06724,\n83 63775 864 2882872 48 26132 462 9177 1746."
+    },
+    {
+      "id": "dungeon_resting_change_formation_title",
+      "content": "9748 69 1 873383 26133 1873 462 436862."
+    },
+    {
+      "id": "dungeon_resting_change_formation_desc",
+      "content": "133 1 721 73274745 83 2.5.8 48 462 4633274 4218"
+    },
+    {
+      "id": "dungeon_resting_heal_title_one",
+      "content": "99142 462 8824 47323 277723 77 462 46173."
+    },
+    {
+      "id": "dungeon_resting_heal_title_all",
+      "content": "199 2777232 4182 1 2214 48 3224."
+    },
+    {
+      "id": "ego_gift_info",
+      "content": "2.5.8 5744 7748"
+    },
+    {
+      "id": "mirrordungeon_shop_gift_entrance",
+      "content": "462 6721332 173 4637862 467752 3311 5863 144274787."
+    },
+    {
+      "id": "mirrordungeon_shop_gift_purchase",
+      "content": "586 6213 288246775 3389 1746 1 49175."
+    },
+    {
+      "id": "mirrordungeon_reenter",
+      "content": "17546775 2922 48 665?"
+    },
+    {
+      "id": "mirrordungeon_shop_heal_one_who",
+      "content": "6748346714295, 46232'2 8795 872 84 4672 93247862 32248314752 33778.\n168 268693 33778 74?"
+    },
+    {
+      "id": "mirrordungeon_shop_heal_one_answer",
+      "content": "74 98882 9782 462 7428 112 1299 18346 462 93742.\n14423 33778775 462 48774, 462 277723 72 198824 5981775 1746 57583."
+    },
+    {
+      "id": "mirrordungeon_shop_heal_all_answer",
+      "content": "586 686564 272355 337782 483 25235 277723.\n4124775 462 21224 173 2863 970673, 4147562 22282 48 62 9215775 462 2777232' 41422."
+    },
+    {
+      "id": "mirrordungeon_resting_heal_one_answer",
+      "content": "7 613 462 277723 4182 1 97564 719.\n4617846995, 462 277723 22282 48 6152 324852323 46273 24327546 1627 7 988823 14 4628 65 462 273 84 462 63218."
+    },
+    {
+      "id": "mirrordungeon_resting_heal_all_answer",
+      "content": "74 112 1 674 4318923 483 25235872 48 274,\n664 462 3224 112 69722469 48 6152 78724629222."
+    },
+    {
+      "id": "mirrordungeon_shop_heal_one_after",
+      "content": "74 112 1 674 4318923 483 25235872 48 274,\n664 462 3224 112 69722469 48 6152 78724629222."
+    },
+    {
+      "id": "mirrordungeon_shop_heal_one_who_right",
+      "content": "468822 462 277723 4614 98882 47323."
+    },
+    {
+      "id": "mirrordungeon_shop_upgrade_start_left",
+      "content": "48693 77477742 9822767974722 321995 322732 174677 4672 372927223?"
+    },
+    {
+      "id": "dungeon_encounter_guide_mirror_shop",
+      "content": "2689"
+    },
+    {
+      "id": "dungeon_encounter_guide_mirror_select_event",
+      "content": "3224 2489"
+    },
+    {
+      "id": "dungeon_explore_floor",
+      "content": "239983775 49883 {0}"
+    },
+    {
+      "id": "lack_of_point_for_shop",
+      "content": "784 278656 4824"
+    },
+    {
+      "id": "mirrordungeon_select_less_character_at_start",
+      "content": "586'52 32998523 42123 2777232 4617 5863 813 483 462 4218.\n132 586 2632 586 1174 48 9384223?"
+    },
+    {
+      "id": "list_of_applied_effects_is_empty",
+      "content": "78 2442442 144752."
+    },
+    {
+      "id": "give_up_rewards",
+      "content": "5752 69 3211332"
+    },
+    {
+      "id": "mirror_dungeon_rewards_back_to_lobby_button",
+      "content": "48 177381"
+    },
+    {
+      "id": "mirror_dungeon_rewards_back_to_lobby_desc",
+      "content": "18693 586 9782 48 8852 48 462 177381?\n462 2392374787 3211332 98969 1799 32199213 1627 586 324637 48 462 873383 36752872 8276."
+    },
+    {
+      "id": "mirror_dungeon_rewards_back_to_lobby_button_lobby",
+      "content": "48 9724"
+    },
+    {
+      "id": "mirrordungeon_resting_heal_one_who",
+      "content": "462 29142 727'4 199 4614 1732.\n168 268693 4182 462 3224?"
+    },
+    {
+      "id": "mirrordungeon_resting_heal_one_who_right",
+      "content": "468822 462 277723 4614 98882 47323."
+    },
+    {
+      "id": "mirror_dungeon_change_formation_release_character",
+      "content": "417429 199 22924423"
+    },
+    {
+      "id": "mirrordungeon_exit_shop",
+      "content": "92152 462 2689?"
+    },
+    {
+      "id": "mirrordungeon_exit_resting",
+      "content": "92152 462 3224 2489?"
+    },
+    {
+      "id": "mirrordungeon_change_formation_confirm_less_participants",
+      "content": "586 6152 2292447872 328177775.\n132 586 2632 586 1174 48 477726 462 22469?"
+    },
+    {
+      "id": "mirrordungeon_change_formation_confirm_exact_participants",
+      "content": "29273 462 4824 48 329985 462 22924423 7327474722 173 2.5.8?"
+    },
+    {
+      "id": "mirror_dungeon_clear_battle_reward_label",
+      "content": "49213 3211332"
+    },
+    {
+      "id": "mirror_dungeon_start_change_formation_but_button",
+      "content": "665"
+    },
+    {
+      "id": "mirror_dungeon_give_up_ego_gift",
+      "content": "324622 5744"
+    },
+    {
+      "id": "mirror_dungeon_give_up_ego_gift_ask",
+      "content": "48747762 1746864 46882775 17 2.5.8 5744?"
+    },
+    {
+      "id": "mirror_dungeon_challenge_mode_description",
+      "content": "16792 461992752 8832 72 144752, 462 4218 1799 62 224 69 31738895.\n462 22469 1799 784 461752 67479 586 6152 4917823 3211332 483 17 2392374787 1746 462 4218.\n586 417 3242752 8832 3211332 77 461992752 8832 492132."
+    },
+    {
+      "id": "mirror_dungeon_challenge_mode_ask",
+      "content": "14475142 461992752 8832?"
+    },
+    {
+      "id": "mirror_dungeon_challenge_mode",
+      "content": "461992752 8832"
+    },
+    {
+      "id": "mirror_dungeon_hard_require_condition_title",
+      "content": "324888273147872"
+    },
+    {
+      "id": "mirror_dungeon_hard_require_condition_level",
+      "content": "- 73274745 925292 45"
+    },
+    {
+      "id": "mirror_dungeon_hard_require_condition_ego_gacksung",
+      "content": "- 2.5.8 4632132977 4723 3"
+    },
+    {
+      "id": "mirror_dungeon_hard_require_condition_personality_gacksung",
+      "content": "- 73274745 69472 4723 3"
+    },
+    {
+      "id": "mirror_dungeon_hard_require_condition_start_buf",
+      "content": "- 199 2413423 66442 144752"
+    },
+    {
+      "id": "mirrordungeon_acquire_rewards_using_hard_using_chance_desc",
+      "content": "4872682 199 84 5863 328177775 <color=#a16a3b>122895 6876222</color> 173 <color=#ff0000>6133 3744746945 321133 48674</color> 48 49178 462 3211332?"
+    },
+    {
+      "id": "mirrordungeon_acquire_rewards_using_hard_not_using_chance_desc",
+      "content": "586 6152 328177775 <color=#a16a3b>122895 6876222</color>.\n\n4872682 8795 462 <color=#ff0000>6133 3744746945 321133 486742</color> 48 679848 462 3211332?"
+    },
+    {
+      "id": "mirrordungeon_acquire_rewards_using_hard_no_chance_desc",
+      "content": "29273 <color=#ff0000>6133 3744746945 3211332 48674</color> 48 679848 462 3211332?"
+    },
+    {
+      "id": "mirrordungeon_acquire_rewards_not_using_hard_chance_using_chance_desc",
+      "content": "586 6152 328177775 <color=#ff0000>6133 3744746945 321133 486742</color>.\n\n4872682 8795 462 <color=#a16a3b>122895 6876222</color> 48 679848 462 3211332?"
+    },
+    {
+      "id": "mirrordungeon_acquire_rewards_not_using_hard_chance_not_using_chance_desc",
+      "content": "586 6152 328177775 <color=#a16a3b>122895 6876222</color> 173 <color=#ff0000>6133 3744746945 321133 486742</color>.\n\n679848 462 3211332 1746864 29273775 4628?"
+    },
+    {
+      "id": "mirrordungeon_acquire_rewards_not_using_hard_chance_no_chance_desc",
+      "content": "586 6152 328177775 <color=#ff0000>6133 3744746945 321133 486742</color>.\n\n679848 462 3211332 1746864 29273775 4628?"
+    },
+    {
+      "id": "mirrordungeon_acquire_rewards_no_hard_chance_using_chance_desc",
+      "content": "29273 <color=#a16a3b>122895 6876222</color> 48 679848 462 3211332?"
+    },
+    {
+      "id": "mirrordungeon_acquire_rewards_no_hard_chance_not_using_chance_desc",
+      "content": "586 6152 328177775 <color=#a16a3b>122895 6876222</color>.\n\n679848 462 3211332 1746864 29273775 4628?"
+    },
+    {
+      "id": "mirrordungeon_acquire_rewards_no_hard_chance_no_chance_desc",
+      "content": "49178 462 3211332?"
+    },
+    {
+      "id": "mirrordungeon_hard_no_reward_desc",
+      "content": "<color=#ff0000>462 3211332 483 4672 4874274 612 1932135 6227 4917823.</color>"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_1",
+      "content": "1 7863725'2 24134"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_2",
+      "content": "22722 462 89983467745"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_3",
+      "content": "7624 77 4122"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_4",
+      "content": "436742 84 91683"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_5",
+      "content": "183465 93722"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_6",
+      "content": "721 372485235"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_7",
+      "content": "462 298792 84 113"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_8",
+      "content": "8832 462 624423"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_9",
+      "content": "22416972623 43624"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_10",
+      "content": "923225231742"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_11",
+      "content": "71822182"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_12",
+      "content": "4182 173 42142"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_13",
+      "content": "375642"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_14",
+      "content": "4376896174 324637"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_15",
+      "content": "58192"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_16",
+      "content": "321377222"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_17",
+      "content": "297374 48 9626 16213"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_18",
+      "content": "96527419 43177775"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_101",
+      "content": "4723 3 5744 1992131742"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1011",
+      "content": "675623 4723 6637 57442 199213"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1012",
+      "content": "675623 4723 69223 57442 199213"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1013",
+      "content": "675623 4723 432883 57442 199213"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1014",
+      "content": "675623 4723 3694632 57442 199213"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1015",
+      "content": "675623 4723 2778775 57442 199213"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1016",
+      "content": "675623 4723 98722 57442 199213"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1017",
+      "content": "675623 4723 461352 57442 199213"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1018",
+      "content": "675623 4723 317388 57442 199213"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_102",
+      "content": "4723 4+ 57442 199213 & 675623 4723 57442 199213"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1021",
+      "content": "675623 4723 57442 199213"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1022",
+      "content": "675623 4723 57442 199213"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1023",
+      "content": "675623 4723 57442 199213"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_103",
+      "content": "2292441692 2.5.8 5744 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1031",
+      "content": "2292441692 2.5.8 5744 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_104",
+      "content": "2292441692 2.5.8 5744 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1041",
+      "content": "2292441692 6637 2.5.8 5744 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1042",
+      "content": "2292441692 69223 2.5.8 5744 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1043",
+      "content": "2292441692 432883 2.5.8 5744 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1044",
+      "content": "2292441692 3694632 2.5.8 5744 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1045",
+      "content": "2292441692 2778775 2.5.8 5744 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1046",
+      "content": "2292441692 98722 2.5.8 5744 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1047",
+      "content": "2292441692 461352 2.5.8 5744 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1048",
+      "content": "2292441692 317388 2.5.8 5744 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_105",
+      "content": "5177 +50 24134775 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1051",
+      "content": "24134775 4824 +50"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1052",
+      "content": "24134775 4824 +50"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1053",
+      "content": "24134775 4824 +50"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_106",
+      "content": "774383642 3 721 57442"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1061",
+      "content": "774383642 2 721 6637 57442"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1062",
+      "content": "774383642 2 721 69223 57442"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1063",
+      "content": "774383642 2 721 432883 57442"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1064",
+      "content": "774383642 2 721 3694632 57442"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1065",
+      "content": "774383642 2 721 2778775 57442"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1066",
+      "content": "774383642 2 721 98722 57442"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1067",
+      "content": "774383642 2 721 461352 57442"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_107",
+      "content": "5177 8832 4824 4388 488614 2748674232"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1071",
+      "content": "5177 8832 4824 4388 3256913 2748674232"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1072",
+      "content": "5177 8832 4824 4388 4846223 2748674232"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1073",
+      "content": "5177 8832 4824 4388 37285 2748674232"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1074",
+      "content": "5177 8832 4824 4388 49883 6822 2748674232"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_108",
+      "content": "5744 468742 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_109",
+      "content": "4621923 3243226 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1091",
+      "content": "4621923 3243226 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1092",
+      "content": "28199 461742 483 1 4322 3243226"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1093",
+      "content": "[Shops] 4621923 28799 32991428274 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1094",
+      "content": "[Shops] 4621923 28799 32991428274 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_110",
+      "content": "4621923 27617428274 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1101",
+      "content": "28199 461742 483 1 4322 2761742"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1102",
+      "content": "4621923 6637 5744 27617428274 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1103",
+      "content": "4621923 69223 5744 27617428274 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1104",
+      "content": "4621923 432883 5744 27617428274 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1105",
+      "content": "4621923 3694632 5744 27617428274 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1106",
+      "content": "4621923 2778775 5744 27617428274 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1107",
+      "content": "4621923 98722 5744 27617428274 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1108",
+      "content": "4621923 461352 5744 27617428274 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_111",
+      "content": "5177 8832 4824 4388 2299775 57442"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1111",
+      "content": "5177 8832 4824 4388 2299775 57442"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_112",
+      "content": "4621923 5744 96346122 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1121",
+      "content": "4621923 6637 5744 96346122 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1122",
+      "content": "4621923 69223 5744 96346122 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1123",
+      "content": "4621923 432883 5744 96346122 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1124",
+      "content": "4621923 3694632 5744 96346122 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1125",
+      "content": "4621923 2778775 5744 96346122 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1126",
+      "content": "4621923 98722 5744 96346122 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1127",
+      "content": "4621923 461352 5744 96346122 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1128",
+      "content": "4621923 82518339222 5744 96346122 4824"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_151",
+      "content": "2.5.8 5744 229244787 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_152",
+      "content": "24134775 4824 +250"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_153",
+      "content": "14423 229244775 1 24134775 2.5.8 5744, 3242752 1 317388 4723 4 2.5.8 5744"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_121",
+      "content": "+1 2.5.8 32286342 483 199 1447774722"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1211",
+      "content": "+1 2.5.8 32286342 483 199 1447774722"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1212",
+      "content": "813 29223 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1213",
+      "content": "813 29223 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_122",
+      "content": "3219 +3% 318152"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1221",
+      "content": "3219 +3% 318152"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1222",
+      "content": "8442722 92529 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1223",
+      "content": "8442722 92529 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1224",
+      "content": "3219 +4% 29126 318152"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1225",
+      "content": "3219 +4% 972342 318152"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1226",
+      "content": "3219 +4% 69674 318152"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_123",
+      "content": "4182 -3% 318152"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1231",
+      "content": "4182 -3% 318152"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1232",
+      "content": "3242722 92529 +1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1233",
+      "content": "3242722 92529 +2"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1234",
+      "content": "29126 3227241742 -0.1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1235",
+      "content": "972342 3227241742 -0.1"
+    },
+    {
+      "id": "md3_buffs_summaryDesc_1236",
+      "content": "69674 3227241742 -0.1"
+    }
+  ]
+}

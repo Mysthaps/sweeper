@@ -1,0 +1,40 @@
+{
+  "dataList": [
+    {
+      "id": "acquire_personality_title",
+      "content": "229244 73274745"
+    },
+    {
+      "id": "ask_acquire_personality",
+      "content": "229244 {1}'2 [{0}] 73274745?"
+    },
+    {
+      "id": "ask_use_item_for_acquire_personality",
+      "content": "622 {0}?"
+    },
+    {
+      "id": "tip_able_to_check_personality_by_longclick",
+      "content": "\u203b 93222 173 6893 48 5721 32417923 77483814787 84 462 73274745."
+    },
+    {
+      "id": "luxcavation_bonus_on",
+      "content": "963. 68762 144751423"
+    },
+    {
+      "id": "ask_acquire_personality_already_owned",
+      "content": "229244 {1}'2 [{0}] 73274745?\n229244775 17 1932135-81723 73274745 1799 1648814741995 4875234 5863 229244787 48 261332."
+    },
+    {
+      "id": "acquire_ego_title",
+      "content": "229244775 2.5.8"
+    },
+    {
+      "id": "ask_acquire_ego",
+      "content": "229244 {1}'2 [{0}] 2.5.8?"
+    },
+    {
+      "id": "ask_acquire_ego_already_owned",
+      "content": "229244 {1}'2 [{0}] 2.5.8?\n229244775 17 1932135-81723 2.5.8 1799 1648814741995 4875234 5863 229244787 48 261332."
+    }
+  ]
+}

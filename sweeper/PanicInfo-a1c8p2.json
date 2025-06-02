@@ -1,0 +1,58 @@
+{
+  "dataList": [
+    {
+      "id": 1043,
+      "panicName": "2934322 86414787",
+      "lowMoraleDescription": "5177 1 [AttackDmgUp], 1 [Vulnerable], 173 1 [BurstVulnerable]",
+      "panicDescription": "5177 2 [AttackDmgUp], 2 [Vulnerable], 173 2 [BurstVulnerable]"
+    },
+    {
+      "id": 1044,
+      "panicName": "62134 84 2579",
+      "lowMoraleDescription": "49126 98123 +2 1517724 4135242 1746 [OminousTalisman]\n4637 24134: 5177 2 [AttackDmgUp] 173 1 [Vulnerable]",
+      "panicDescription": "49126 98123 +3 1517724 4135242 1746 [OminousTalisman]\n4637 24134: 5177 3 [AttackDmgUp] 173 2 [Vulnerable]"
+    },
+    {
+      "id": 1045,
+      "panicName": "62134 84 8993222752 2579",
+      "lowMoraleDescription": "49126 98123 +2 1517724 4135242 1746 [OminousTalisman]\n4637 24134: 5177 3 [AttackDmgUp] 173 1 [Vulnerable]",
+      "panicDescription": "49126 98123 +3 1517724 4135242 1746 [OminousTalisman]\n4637 24134: 5177 4 [AttackDmgUp] 173 2 [Vulnerable]"
+    },
+    {
+      "id": 1047,
+      "panicName": "771 076",
+      "lowMoraleDescription": "3219 +10% 318152 1517724 4135242 4614 1327'4 6875 96",
+      "panicDescription": "3219 +20% 318152 1517724 4135242 4614 1327'4 6875 96"
+    },
+    {
+      "id": 1042,
+      "panicName": "461352 473467435 48674234633274",
+      "lowMoraleDescription": "1627 49126775 1517724 4135242 1746 [Burst], 5177 +3 [Charge] 48674 173 1 [Vulnerable] (2 47822 923 4637)",
+      "panicDescription": "1627 49126775 1517724 4135242 1746 [Burst], 5177 +5 [Charge] 48674, 1 [AttackDmgUp], 173 2 [Vulnerable] (2 47822 923 4637)"
+    },
+    {
+      "id": 9995,
+      "panicName": "41446775 632146",
+      "lowMoraleDescription": "4637 24134: 5177 2 [DefenseUp] 173 9822 2 [Breath] 9842745",
+      "panicDescription": "4637 24134: 5177 5 [DefenseUp] 173 9822 5 [Breath] 9842745"
+    },
+    {
+      "id": 1055,
+      "panicName": "386692-23523 4214623",
+      "lowMoraleDescription": "4637 24134: 5177 1 4315792 173 1 69 6219775 68824. 87 674, 7749744 1 3694632 173 1 69223",
+      "panicDescription": "4637 24134: 5177 2 4315792 173 2 69 6219775 68824. 87 674, 7749744 1 3694632 173 1 69223"
+    },
+    {
+      "id": 1056,
+      "panicName": "17524",
+      "lowMoraleDescription": "49126 98123 +2 1517724 4135242 1746 [OminousTalisman]\n4637 24134: 5177 2 [AttackDmgUp] 173 1 [Vulnerable]",
+      "panicDescription": "49126 98123 +3 1517724 4135242 1746 [OminousTalisman]\n4637 24134: 5177 3 [AttackDmgUp] 173 2 [Vulnerable]"
+    },
+    {
+      "id": 1058,
+      "panicName": "461352 83323",
+      "lowMoraleDescription": "4637 24134: 5177 1 [Vulnerable] 173 19995 1 [AttackDmgUp] 48 199 199722",
+      "panicDescription": "4637 24134: 5177 2 [Vulnerable] 173 19995 2 [AttackDmgUp] 48 199 199722"
+    }
+  ]
+}

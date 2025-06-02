@@ -1,0 +1,68 @@
+{
+  "dataList": [
+    {
+      "id": "lcb_checkup_stagebutton_not_clear",
+      "content": "49213 7-36 48 679848"
+    },
+    {
+      "id": "lcb_checkup_stagebutton_normal",
+      "content": "241522"
+    },
+    {
+      "id": "lcb_checkup_stagebutton_end_event",
+      "content": "25274 498223"
+    },
+    {
+      "id": "lcb_checkup_storybutton_before_start",
+      "content": "<size=75%>5721 462 124 25274 24835 24152 \n48 679848</size>"
+    },
+    {
+      "id": "lcb_checkup_storybutton_normal",
+      "content": "48 4621423"
+    },
+    {
+      "id": "lcb_checkup_rewardShopButton",
+      "content": "321133 23461752"
+    },
+    {
+      "id": "lcb_checkup_scrap_guide_title",
+      "content": "25274 46332745 56732"
+    },
+    {
+      "id": "lcb_checkup_scrap_guide_desc",
+      "content": "!!! \uc774\uac70 \uc0ac\uc6a9\ud558\ub294 \uacf3 \uc5c6\ub294\uc9c0 \ud655\uc778\ud558\uace0 \uc5c6\uc73c\uba74 \uc81c\uac70 !!! 313295, 586 815 864177 <color=#ff99e6>[Classified Data]</color> 4388 49213775 25274 241522, 8177 24835 241522, 83 873383 36752872.\n\n<color=#ff99e6>[Classified Data]</color> 72 487523423 48 20 <color=#ff99e6>[Amassed Data] 78823714295 6987 14067274787</color>."
+    },
+    {
+      "id": "lcb_checkup_rewardpage_desc",
+      "content": "586 417 864177 <color=#ac1605>[Amassed Data]</color> 4388 47324-4782 25274/8177 24835 241522 48899247872, 83 65 49213775 462 462 873383 3675287.\n586 1928 6152 1 28199 461742 48 864177 <color=#ac1605>[Classified Data]</color> 77 462 9384222.\n\n<color=#ac1605>[Classified Data]</color> 72 78823714295 487523423 48 20 <color=#ac1605>[Amassed Data]</color> 6987 14067274787."
+    },
+    {
+      "id": "lcb_checkup_reward_popup_desc",
+      "content": "2137 <color=#ac1605>[Amassed Data]</color> 571 462 489981775 8246832:\n47324-4782 25274 24152 & 3675287 492132 173 873383 3675287 492132.\n\n77 462 <color=#ac1605>[Reward Exchange]</color> 177381, 586 417 96346122 5137862 3211332\n65 29273775 <color=#ac1605>[Amassed Data]</color> 586 6152 489924423."
+    },
+    {
+      "id": "lcb_checkup_reward_popup_num_of_owned_items",
+      "content": "74282 81723"
+    },
+    {
+      "id": "lcb_checkup_bonusUI_Title",
+      "content": "5177"
+    },
+    {
+      "id": "lcb_checkup_bonusUI_Title_contain_false",
+      "content": "784 81723"
+    },
+    {
+      "id": "lcb_checkup_bonusUI_Desc",
+      "content": "363775 462 25274 923783, 329985775 462 489981775 7327474722 83 2.5.8 87 5863 4218 1799\n68824 462 188674 84 <color=#ac1605>[Amassed Data]</color> 213723.\n586 417 2137 1 8137868 84 <color=#ac1605>120%</color> 68824 48 462 188674 84 25274 46332745 213723."
+    },
+    {
+      "id": "lcb_checkup_bonus_popup_title",
+      "content": "25274 68762 67742"
+    },
+    {
+      "id": "lcb_checkup_bonus_preview",
+      "content": "25274 68762 67742"
+    }
+  ]
+}

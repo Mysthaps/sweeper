@@ -1,0 +1,352 @@
+{
+  "dataList": [
+    {
+      "id": "loginui_sign_in_with_google",
+      "content": "2757 77 1746 588592"
+    },
+    {
+      "id": "loginui_sign_in_with_apple",
+      "content": "2757 77 1746 19992"
+    },
+    {
+      "id": "loginui_sign_in_with_steam",
+      "content": "2757 77 1746 24218"
+    },
+    {
+      "id": "loginui_sign_in_with_guest",
+      "content": "2757 77 12 1 56224"
+    },
+    {
+      "id": "loginui_sign_out_current_account",
+      "content": "2757 864"
+    },
+    {
+      "id": "loginui_sign_out_current_account_desc",
+      "content": "2757 864 4388 462 4633274 1448674?\n74 586\u201932 9915775 12 1 56224, 5863 3141 815 62 9824."
+    },
+    {
+      "id": "loginui_sign_out_switch_account_desc",
+      "content": "2757 864 4388 462 4633274 1448674\n173 217446 48 462 22924423 872?\n74 586\u201932 9915775 12 1 56224, 5863 3141 815 62 9824."
+    },
+    {
+      "id": "switch_account",
+      "content": "461752 1448674"
+    },
+    {
+      "id": "user_agreements",
+      "content": "42382 84 2235742"
+    },
+    {
+      "id": "title_game_data_download",
+      "content": "38179813 5182 3141"
+    },
+    {
+      "id": "content_game_data_download",
+      "content": "38179813775 {0} 84 3141."
+    },
+    {
+      "id": "content_game_data_download_description",
+      "content": "586 1799 62 32463723 48 462 47492 243227 74 5863 325742 612 772644747274 2483152 29142."
+    },
+    {
+      "id": "content_game_data_download_recommend",
+      "content": "1 373244 77423724 4877244787 (17-47) 72 32488827323."
+    },
+    {
+      "id": "switch_allcacheclear",
+      "content": "49213 199 414622"
+    },
+    {
+      "id": "switch_oldcacheclear",
+      "content": "49213 893 414622"
+    },
+    {
+      "id": "networkingerror_content",
+      "content": "462 7241838 72 67241692.\n992122 46248 5863 77423724 4877244787."
+    },
+    {
+      "id": "networkingerror_close",
+      "content": "49822"
+    },
+    {
+      "id": "networkingerror_retry",
+      "content": "32435"
+    },
+    {
+      "id": "loginui_ok",
+      "content": "4874738"
+    },
+    {
+      "id": "login_cancel",
+      "content": "417429"
+    },
+    {
+      "id": "loginui_loading_battlehint",
+      "content": "488614 4792"
+    },
+    {
+      "id": "servererror_content",
+      "content": "1 223523 23383 612 84463323.\n992122 435 15177 77 1 888274."
+    },
+    {
+      "id": "forcequit_content",
+      "content": "417784 8923142 462 5182.\n26644775 3817 781."
+    },
+    {
+      "id": "serverstate_openpreparation",
+      "content": "467752 132 24799 62775 93291323!"
+    },
+    {
+      "id": "serverstate_regularcheck",
+      "content": "462 223523 72 463327495 67323 3864772 81774271742."
+    },
+    {
+      "id": "serverstate_temporary_check",
+      "content": "462 223523 72 463327495 67323 428983135 81774271742."
+    },
+    {
+      "id": "serverstate_verify_invaliduser",
+      "content": "462 1448674 3822 784 23724 83 612 6227 498223."
+    },
+    {
+      "id": "serverstate_verify_ban",
+      "content": "462 1448674 72 3224374423 4388 9915775."
+    },
+    {
+      "id": "serverstate_verify_invalidauth",
+      "content": "17 23383 612 84463323.\n992122 2757 77 15177."
+    },
+    {
+      "id": "guestlogin_failed_try_newguest",
+      "content": "417923 56224 98577.\n462 1448674 72 274623 1932135 977823, 83 462 56224 1448674 38227'4 23724.\n\n18693 586 9782 48 8182 1 721 56224 1448674?"
+    },
+    {
+      "id": "secession_remain_days",
+      "content": "462 1448674 72 463327495 67323 1 4982632 923783.\n4782 328177775: {0}3 {1}6 {2}8\n\n586 417 3248523 462 1448674 74 586 2757 77 781.\n3248523 462 1448674?"
+    },
+    {
+      "id": "secession_canceled",
+      "content": "1448674 324852323 264422246995."
+    },
+    {
+      "id": "serverstate_verify_invalidclientversion",
+      "content": "462 5182 497274 8624 62 6931423."
+    },
+    {
+      "id": "create_guest",
+      "content": "432142 56224 1448674"
+    },
+    {
+      "id": "ask_to_remove_all_cache",
+      "content": "49213 199 414622?"
+    },
+    {
+      "id": "networkingerror_update",
+      "content": "58 48 24832"
+    },
+    {
+      "id": "speed_hack_warning",
+      "content": "62152 84 671646837223 46733 91345 9385318 612 6227 32424423."
+    },
+    {
+      "id": "serverstate_verify_ban_startdate",
+      "content": "3142"
+    },
+    {
+      "id": "serverstate_verify_ban_reason",
+      "content": "32243794787"
+    },
+    {
+      "id": "serverstate_verify_ban_reason_refund",
+      "content": "16622 84 8927 813824 324673 252428"
+    },
+    {
+      "id": "serverstate_verify_ban_reason_cheat",
+      "content": "16783819 5182 14475745 3248332"
+    },
+    {
+      "id": "serverstate_blocking_endpoint",
+      "content": "4672 46744787 72 463327495 67323 81774271742."
+    },
+    {
+      "id": "serverstate_verify_invaliduuid",
+      "content": "4672 3206224 612 1932135 6227 938422223.\n992122 3224134 462 5182 48 25746387722."
+    },
+    {
+      "id": "login_scene_mini_story_warning_spoiler_format",
+      "content": "4672 24835 41822 99142 14423 462 8177 24835 4619423 {0}. 18693 586 9782 48 5721 462 24835 175115?"
+    },
+    {
+      "id": "login_scene_mini_story_unlock_code_105",
+      "content": "5"
+    },
+    {
+      "id": "login_scene_mini_story_unlock_code_9105",
+      "content": "5.5"
+    },
+    {
+      "id": "switch_clearcatalog",
+      "content": "329242 414198562"
+    },
+    {
+      "id": "panel_clearcatalog",
+      "content": "329242 414198562?"
+    },
+    {
+      "id": "serverstate_error_thirdparty_api",
+      "content": "23423719 223523 4877244787 23383. 992122 435 15177 14 1 91423 4782."
+    },
+    {
+      "id": "servererror_invalid_purchasing_package",
+      "content": "43172144787 417923."
+    },
+    {
+      "id": "forcequit_cache_initialize_fail",
+      "content": "5182 497274 417923 48 916746 93892395.\n992122 4874738 5863 7241838 241462 173 435 15177.\n770673722: 9786622699834+665@93878887.488"
+    },
+    {
+      "id": "push_notification_message_full_stamina_default_title",
+      "content": "978662 4889175"
+    },
+    {
+      "id": "push_notification_message_full_stamina_default_text",
+      "content": "2782961977 612 6227 46995 324613523."
+    },
+    {
+      "id": "push_notification_message_full_stamina_1_title",
+      "content": "2782961977 4613523"
+    },
+    {
+      "id": "push_notification_message_full_stamina_1_text",
+      "content": "4182 784742, 524 716564 72 833 6232. 7321995, 85 8795 9639822 6232 18693 62 48 774838 586 4614 2782961977 72 32992772623 46995. 2646 72 199 7 6152 48 215."
+    },
+    {
+      "id": "push_notification_message_full_stamina_2_title",
+      "content": "2782961977 4613523"
+    },
+    {
+      "id": "push_notification_message_full_stamina_2_text",
+      "content": "2782961977 32461352 72 48899242. 3213 8171523, 2782961977 883692 4875232787 72 32488827323 483 462 2182 84 2447472745."
+    },
+    {
+      "id": "push_notification_message_full_stamina_3_title",
+      "content": "2782961977 4613523"
+    },
+    {
+      "id": "push_notification_message_full_stamina_3_text",
+      "content": "8171523 2206732!!! 462 4629 4178 6146 6227 32479923!!! 4882 674623, 483 863 1352746322 8624 58 87!!!"
+    },
+    {
+      "id": "push_notification_message_full_stamina_4_title",
+      "content": "2782961977 4613523"
+    },
+    {
+      "id": "push_notification_message_full_stamina_4_text",
+      "content": "2.4.(2782961977 4613523.)"
+    },
+    {
+      "id": "push_notification_message_full_stamina_5_title",
+      "content": "2782961977 4613523"
+    },
+    {
+      "id": "push_notification_message_full_stamina_5_text",
+      "content": "2782961977 612 6227 46995 324613523, 8171523."
+    },
+    {
+      "id": "push_notification_message_full_stamina_6_title",
+      "content": "2782961977 4613523"
+    },
+    {
+      "id": "push_notification_message_full_stamina_6_text",
+      "content": "1881~ 2782961977'2 1932135 46995 4613523~ 18693 586 9782 48 58 46248?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_7_title",
+      "content": "2782961977 4613523"
+    },
+    {
+      "id": "push_notification_message_full_stamina_7_text",
+      "content": "462, 66. 278296\u2014? ... 462 53227 24644'2 4699. 58 4182 1 517323, 5216?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_8_title",
+      "content": "2782961977 4613523"
+    },
+    {
+      "id": "push_notification_message_full_stamina_8_text",
+      "content": "2782961977'2 6227 324613523... 68. 5216, 462 662 72 32135 483 1784623 585152. 924'2 58."
+    },
+    {
+      "id": "push_notification_message_full_stamina_9_title",
+      "content": "2782961977 4613523"
+    },
+    {
+      "id": "push_notification_message_full_stamina_9_text",
+      "content": "31742~ 2782961977'2 4613523! 387'4461 483524 48 4875234 '28 48 8836922!"
+    },
+    {
+      "id": "push_notification_message_full_stamina_11_title",
+      "content": "2782961977 4613523"
+    },
+    {
+      "id": "push_notification_message_full_stamina_11_text",
+      "content": "67, 8171523... 132 586... 6625? 7-74'2 7846775 488 2237862, 664... 2782961977'2 16864 48 85234981..."
+    },
+    {
+      "id": "push_notification_message_full_stamina_12_title",
+      "content": "2782961977 4613523"
+    },
+    {
+      "id": "push_notification_message_full_stamina_12_text",
+      "content": "329834775 48 462 232464752 8171523. 2782961977 612 6227 46995 32992772623. 815 7 2655224 4614 586 622 83 4875234 4628?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_13_title",
+      "content": "2782961977 4613523"
+    },
+    {
+      "id": "push_notification_message_full_stamina_13_text",
+      "content": "666, 8171523 663? 586 46232? 462, 66, 462 662 4629 4178 72 4699... 87564 11771 4882 46248?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_14_title",
+      "content": "2782961977 4613523"
+    },
+    {
+      "id": "push_notification_message_full_stamina_14_text",
+      "content": "5863 63218 72 8523, 8171523 31742. 387'4 8229 462 662 2744775 483 488 9875."
+    },
+    {
+      "id": "push_notification_message_full_stamina_15_title",
+      "content": "2782961977 4613523"
+    },
+    {
+      "id": "push_notification_message_full_stamina_15_text",
+      "content": "82967'2 2464423. 461387, 4782 48 53888-53888."
+    },
+    {
+      "id": "custom_localize_button",
+      "content": "229244 462488 91756152"
+    },
+    {
+      "id": "custom_localize_title",
+      "content": "229244 462488 91756152"
+    },
+    {
+      "id": "custom_localize_desc",
+      "content": "\u203b 3224134 462 5182 48 19995 462 91756152 461752."
+    },
+    {
+      "id": "steam_overlay_cannot_activate_title",
+      "content": "24218 43172144787 23383"
+    },
+    {
+      "id": "steam_overlay_cannot_activate_text",
+      "content": "992122 4637 87 462 [Enable the Steam Overlay while in-game] 894787\n4388 24218'2 5182 9389234722 - 5272319,\n4627 3224134 462 5182."
+    },
+    {
+      "id": "servererror_remain_restore_purchasing",
+      "content": "1 43172144787 72 24799 77 93853222.\n992122 622 462 [Restore Purchase] 664487 173 435 15177."
+    }
+  ]
+}

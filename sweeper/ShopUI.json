@@ -1,0 +1,320 @@
+{
+  "dataList": [
+    {
+      "id": "mainui_shop_charge_enkephalin_tab",
+      "content": "461352 2782961977"
+    },
+    {
+      "id": "mainui_shop_buy_enkephalin_box_tab",
+      "content": "96346122 2782961977 683"
+    },
+    {
+      "id": "mainui_shop_buy_enkephalin_box",
+      "content": "2782961977 683 963461223."
+    },
+    {
+      "id": "mainui_shop_scarce_madness",
+      "content": "586 387\u20194 6152 278656 967145."
+    },
+    {
+      "id": "mainui_shop_ask_buy_enkephalin_box",
+      "content": "18693 586 9782 48 96346122 2782961977 68322?"
+    },
+    {
+      "id": "mainui_shop_own",
+      "content": "81723"
+    },
+    {
+      "id": "mainui_shop_enkephalin_fulled",
+      "content": "2782961977 72 1932135 14 813 41914745."
+    },
+    {
+      "id": "mainui_shop_ask_charge_enkephalin",
+      "content": "18693 586 9782 48 461352 2782961977?"
+    },
+    {
+      "id": "mainui_shop_charge_enkephalin",
+      "content": "2782961977 4613523."
+    },
+    {
+      "id": "mainui_shop_enkephalin_number",
+      "content": "2782961977"
+    },
+    {
+      "id": "mainui_shop_madness_tab",
+      "content": "967145 2689"
+    },
+    {
+      "id": "mainui_shop_package_tab",
+      "content": "91482"
+    },
+    {
+      "id": "mainui_shop_only_once",
+      "content": "47324-4782 844232"
+    },
+    {
+      "id": "mainui_shop_additional_give",
+      "content": "68762 26999722"
+    },
+    {
+      "id": "mainui_shop_not_free",
+      "content": "9173"
+    },
+    {
+      "id": "mainui_shop_purchase_per_today_fulled",
+      "content": "586\u201952 3214623 462 8137868 84 2782961977 683 963461222 483 48315."
+    },
+    {
+      "id": "mainui_shop_purchase_success",
+      "content": "96346122 2644222469."
+    },
+    {
+      "id": "mainui_shop_enkephalin_box_scarce",
+      "content": "586 387\u20194 6152 278656 2782961977 68322."
+    },
+    {
+      "id": "mainui_shop_lunacy_scarce",
+      "content": "586 387\u20194 6152 278656 967145."
+    },
+    {
+      "id": "mainui_shop_limit_purchase_permanent",
+      "content": "{0} 9244"
+    },
+    {
+      "id": "mainui_shop_limit_purchase_periodic",
+      "content": "{0} 77 24848"
+    },
+    {
+      "id": "mainui_shop_acquire_at_mailbox",
+      "content": "\u203b 3232281692 14 462 8179683."
+    },
+    {
+      "id": "mainui_shop_purchase_product_success",
+      "content": "264422246995 963461223\n{0}."
+    },
+    {
+      "id": "mainui_shop_remain_days_minutes",
+      "content": "{0}3 {1}6 328177"
+    },
+    {
+      "id": "shopui_use_enkephalin_box",
+      "content": "622 2782961977 683"
+    },
+    {
+      "id": "shopui_use_lunacy",
+      "content": "622 967145"
+    },
+    {
+      "id": "shopui_no_more_purchase_chance_today",
+      "content": "3214623 462 31795 96346122 97874."
+    },
+    {
+      "id": "shopui_scarce_lunacy",
+      "content": "586 387\u20194 6152 278656 967145."
+    },
+    {
+      "id": "shopui_scarce_enkephalin_box",
+      "content": "586 387\u20194 6152 278656 2782961977 68322."
+    },
+    {
+      "id": "shopui_scarce_enkephalin",
+      "content": "772644747274 2782961977."
+    },
+    {
+      "id": "shopui_make_enkephalin_module",
+      "content": "12228692 2782961977 8836922"
+    },
+    {
+      "id": "shopui_charge_enkephalin_about",
+      "content": "32461352 {0} 2782961977?"
+    },
+    {
+      "id": "shopui_recover_enkephalin_after_time",
+      "content": "{1} 2782961977 324852323 77 {0}."
+    },
+    {
+      "id": "shopui_ask_create_enkephalin_module",
+      "content": "18693 586 9782 48 12228692 2782961977 8836922?"
+    },
+    {
+      "id": "shopui_charge_as_lunacy",
+      "content": "622 967145"
+    },
+    {
+      "id": "shopui_charge_as_box",
+      "content": "622 68322"
+    },
+    {
+      "id": "shopui_create_module",
+      "content": "8836922"
+    },
+    {
+      "id": "remain_days",
+      "content": "{0}3"
+    },
+    {
+      "id": "remain_hours",
+      "content": "{0}6"
+    },
+    {
+      "id": "remain_minutes",
+      "content": "{0}8"
+    },
+    {
+      "id": "enkephalin_charge_finished",
+      "content": "2782961977 4613523"
+    },
+    {
+      "id": "unable_to_charge",
+      "content": "417784 461352"
+    },
+    {
+      "id": "lack_of_enkephalin_box",
+      "content": "784 278656 68322"
+    },
+    {
+      "id": "enkephalin_full",
+      "content": "813 2782961977"
+    },
+    {
+      "id": "purchase_limitation_full",
+      "content": "96346122 97874 3214623"
+    },
+    {
+      "id": "lack_of_lunacy",
+      "content": "784 278656 967145"
+    },
+    {
+      "id": "create_enkephalin_module_success",
+      "content": "883692 122286923"
+    },
+    {
+      "id": "unable_to_create_enkephalin_module",
+      "content": "417784 12228692 8836922"
+    },
+    {
+      "id": "lack_of_enkephalin",
+      "content": "784 278656 2782961977"
+    },
+    {
+      "id": "remain_days_with_number",
+      "content": "{0}3 9244"
+    },
+    {
+      "id": "enkephalin_module",
+      "content": "2782961977 883692"
+    },
+    {
+      "id": "enkephalin_box",
+      "content": "2782961977 683"
+    },
+    {
+      "id": "today_purchase_count",
+      "content": "31795 48674"
+    },
+    {
+      "id": "lack_of_lunacy_ask_to_move_shop",
+      "content": "586 387\u20194 6152 278656 967145. 18693 586 9782 48 6213 48 462 2689?"
+    },
+    {
+      "id": "remain_hours_with_number",
+      "content": "{0}6 9244"
+    },
+    {
+      "id": "enkephalin_module_count_max",
+      "content": "813 2782961977 8836922"
+    },
+    {
+      "id": "enkephalin_module_count_max_desc",
+      "content": "417784 12228692 8836922; 586 6152 488 8175 77 2483152."
+    },
+    {
+      "id": "mainui_shop_lunacy_package_tab",
+      "content": "91482 #2"
+    },
+    {
+      "id": "mainui_shop_until_season_finished",
+      "content": "67479 221287 7 693142"
+    },
+    {
+      "id": "mainui_shop_purchase",
+      "content": "96346122"
+    },
+    {
+      "id": "mainui_shop_popup_title",
+      "content": "2689"
+    },
+    {
+      "id": "paidShop_category_SPECIAL",
+      "content": "2924719"
+    },
+    {
+      "id": "paidShop_category_PACKAGE",
+      "content": "91482"
+    },
+    {
+      "id": "paidShop_category_LUNACY",
+      "content": "967145"
+    },
+    {
+      "id": "paidShop_category_GROWTH",
+      "content": "538146"
+    },
+    {
+      "id": "returnpolicy_info_title",
+      "content": "324673 989745"
+    },
+    {
+      "id": "paidShop_Tab_LIMITED",
+      "content": "9787423"
+    },
+    {
+      "id": "paidShop_Tab_WEEKLY",
+      "content": "122895"
+    },
+    {
+      "id": "paidShop_Tab_MONTHLY",
+      "content": "8874695"
+    },
+    {
+      "id": "paidShop_Tab_ALWAYS",
+      "content": "191152 151791692"
+    },
+    {
+      "id": "go_to_mail_popup",
+      "content": "48 77683"
+    },
+    {
+      "id": "membership_remain_side_title",
+      "content": "[Pack Expiry Notice]"
+    },
+    {
+      "id": "membership_remain_side_desc",
+      "content": "{1} 315(2) 328177775 483 5863 {0}."
+    },
+    {
+      "id": "returnpolicy_table_battlePassPackge",
+      "content": "978662 9122 9148152"
+    },
+    {
+      "id": "paid_runacy_lack",
+      "content": "784 278656 9173 967145."
+    },
+    {
+      "id": "membership_remain_side_desc_oneDay",
+      "content": "{0} 2397322 48315."
+    },
+    {
+      "id": "restore_purchase_btn",
+      "content": "3224832 96346122"
+    },
+    {
+      "id": "restore_purchase_no_product",
+      "content": "78 9383644 151791692 483 32248314787."
+    },
+    {
+      "id": "restore_purchase_succeed",
+      "content": "5863 674917823 93836442 6152 6227 32248323."
+    }
+  ]
+}

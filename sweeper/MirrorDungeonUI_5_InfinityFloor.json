@@ -1,0 +1,88 @@
+{
+  "dataList": [
+    {
+      "id": "InfinityFloor_CheckEnter_Modal_Title",
+      "content": "91319929 2692398274787 8832"
+    },
+    {
+      "id": "InfinityFloor_CheckEnter_Modal_Desc",
+      "content": "586 417 27423 462 91319929 2692398274787 8832.\n\n27423 462 91319929 2692398274787 8832 173 9384223 48 462 7234 49883?"
+    },
+    {
+      "id": "InfinityFloor_Mode_Button_Title",
+      "content": "91319929 2692398274787 8832 : "
+    },
+    {
+      "id": "InfinityFloor_Mode_Button_Title_forProgressPopup",
+      "content": "91319929 2."
+    },
+    {
+      "id": "mirror_dungeon_infinity_difficulty",
+      "content": "77477745"
+    },
+    {
+      "id": "mirror_dungeon_achievement_panel_title",
+      "content": "146725282742"
+    },
+    {
+      "id": "mirror_dungeon_achievement_reward_title",
+      "content": "3211332 9724"
+    },
+    {
+      "id": "mirror_dungeon_achievement_list_title",
+      "content": "146725282742 9724"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_COLLECTION",
+      "content": "4899244787"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_CLEAR",
+      "content": "492132"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_DECK",
+      "content": "9813864"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_SHOP",
+      "content": "2689"
+    },
+    {
+      "id": "mirrordungeon_mission_date",
+      "content": "462 3211332 417 62 4917823 67479 624832 462 873383 3675287 #6 693142."
+    },
+    {
+      "id": "mirrordungeon_infinityFloor_Entrance_ThemeSelectPanel",
+      "content": "91319929 2692398274787 2751523"
+    },
+    {
+      "id": "mirrordungeon_mission_clear_condition",
+      "content": "\u203b 873383 3675287 498832 132 4867423 12 '4921323' 8795 1627 462 991523 48726823 2782961977 8836922 77 462 321133 49178 177381."
+    },
+    {
+      "id": "mirrordungeon_infinity_open_condition",
+      "content": "49213 41748 57"
+    },
+    {
+      "id": "InfinityFloor_Mode_Button_Notie",
+      "content": "\u203b 49213 25235 49883 84 5863 367 77 6133 3744746945 48 27423."
+    },
+    {
+      "id": "IsOnInfinityMod",
+      "content": "87"
+    },
+    {
+      "id": "IsOFFInfinityMod",
+      "content": "844"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_BATTLE",
+      "content": "488614"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_ALL",
+      "content": "4889924787724"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "dataList": [
+    {
+      "id": "battlepass_battlepass",
+      "content": "614492 9122"
+    },
+    {
+      "id": "battlepass_passmission",
+      "content": "9122 87227872"
+    },
+    {
+      "id": "battlepass_dailymission",
+      "content": "31795"
+    },
+    {
+      "id": "battlepass_weeklymission",
+      "content": "122895"
+    },
+    {
+      "id": "battlepass_seasonmission",
+      "content": "22128719"
+    },
+    {
+      "id": "battlepass_freeandpaid",
+      "content": "9173 {0} 4322 {1}"
+    },
+    {
+      "id": "battlepass_mission_tag_normal",
+      "content": "3256913"
+    },
+    {
+      "id": "battlepass_mission_tag_battle",
+      "content": "488614"
+    },
+    {
+      "id": "battlepass_remain_time",
+      "content": "{0} 3152 {1} 68632 9244"
+    },
+    {
+      "id": "battlepass_ask_purchase_limbus_pass",
+      "content": "9634612775 462 978662 9122 1799 5752 586 462 489981775 62724742 363775 {0}:"
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_reward",
+      "content": "978662 9122 3211332 151791692"
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_ex_reward",
+      "content": "813 9122 92529 321133 69531323"
+    },
+    {
+      "id": "battlepass_level_up",
+      "content": "9122 92529-69"
+    },
+    {
+      "id": "battlepass_level_up_ask",
+      "content": "92529 69 462 9122 62775 [Paid Lunacy]?"
+    },
+    {
+      "id": "battlepass_level_upgrade",
+      "content": "9122 92529 69"
+    },
+    {
+      "id": "battlepass_level_max",
+      "content": "<color=#f8c200>813 9122 92529</color> 3214623."
+    },
+    {
+      "id": "battlepass_purchase_level_up_failed",
+      "content": "417784 96346122 9122 92529"
+    },
+    {
+      "id": "lack_if_paid_lunacy",
+      "content": "772644747274 9173 967145"
+    },
+    {
+      "id": "remain_days_with_label",
+      "content": "{0}3 9244"
+    },
+    {
+      "id": "remain_hours_with_label",
+      "content": "{0}6 9244"
+    },
+    {
+      "id": "remain_minutes_with_label",
+      "content": "{0}8 9244"
+    },
+    {
+      "id": "update_progress",
+      "content": "93853222 6931423"
+    },
+    {
+      "id": "able_to_acquire_ex_pass_level_reward",
+      "content": "29757692 483 813 9122 92529 3211332"
+    },
+    {
+      "id": "ask_to_use_paid_lunacy_to_level_up_pass",
+      "content": "29273 {0} 9173 967145 48 96346122 9122 925292?"
+    },
+    {
+      "id": "battlepass_purchase_level_up",
+      "content": "665 9122 925292"
+    },
+    {
+      "id": "lack_of_paid_lunacy",
+      "content": "586 387\u20194 6152 278656 9173 967145."
+    },
+    {
+      "id": "only_paid_lunacy_for_battlepass_levelup",
+      "content": "\u203b 9634612775 614492 9122 925292 48242 300 9173 967145."
+    },
+    {
+      "id": "buy_battlepass_word",
+      "content": "665"
+    },
+    {
+      "id": "battlepass_level_ex_reward",
+      "content": "813 9122 92529 321133"
+    },
+    {
+      "id": "battlepass_progress",
+      "content": "614492 9122 39"
+    },
+    {
+      "id": "battlepass_free",
+      "content": "4322"
+    },
+    {
+      "id": "battlepass_limbuspass",
+      "content": "978662 9122"
+    },
+    {
+      "id": "battlepass_unable_levelup_by_level",
+      "content": "813 92529 3214623"
+    },
+    {
+      "id": "battlepass_reward_opened_at",
+      "content": "{0} 693142"
+    },
+    {
+      "id": "battlepass_package_purchase",
+      "content": "<font=\"BebasKai SDF\">978662 9122</style> 9148152"
+    },
+    {
+      "id": "battlepass_package_desc_level",
+      "content": "48741772 5137862 3211332 774963775 462 \u300c978662 9122 9148152 2924719 617723\u300d"
+    },
+    {
+      "id": "battlepass_package_desc_banner",
+      "content": "+ [LIMBUS PASS] 1447514787"
+    },
+    {
+      "id": "battlepass_package_ask_purchase",
+      "content": "29273 {0} 9173 967145 48 96346122 4672 9148152?"
+    },
+    {
+      "id": "battlepass_package_warning",
+      "content": "\u203b 4672 7428 1799 62 78823714295 6223 6987 96346122; 324673 815 62 3224374423."
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_ex_box_reward",
+      "content": "3242752 462 489981775 813 9122 92529 23 3211332 6987 96346122"
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_ex_box_reward_count",
+      "content": "<size=75%>(14 5863 9122 92529, 586 417 864177 <style=\"highlightConverted\">{1}</style> 221287 {0} 788771692 25826133 431422 6987 96346122)</size>"
+    },
+    {
+      "id": "battlepass_select_product_popup_title",
+      "content": "229244 9122/9148152"
+    },
+    {
+      "id": "only_paid_lunacy_for_battlepass_levelup_with_number",
+      "content": "\u203b 9634612775 1 9122 92529 48242 {0} 9173 967145."
+    },
+    {
+      "id": "battle_pass_package_button_desc",
+      "content": "5137862 3211332\n774963775 462 2924719 617723"
+    },
+    {
+      "id": "battle_pass_select_popup_package_desc",
+      "content": "5137862 3211332\n774963775 462 2924719 617723"
+    },
+    {
+      "id": "battle_pass_select_popup_limbus_desc",
+      "content": "\u25c6 6798482 978662 9122 3211332\n\u25c6 69531322 813 9122 92529 23 3211332"
+    },
+    {
+      "id": "battle_pass_package_purchase_popup_desc",
+      "content": "\u25c6 5177 10 9122 925292 78823714295 6987 96346122.\n\u25c6 77496322 462 489981775 48742742."
+    },
+    {
+      "id": "battle_pass_limbus_purchase_popup_desc",
+      "content": "\u25c6 3242752 5137862 3211332 4388 462 978662 9122.\n\u25c6 3242752 3 [Season 3] 788771692 25826133 431422 7724213 84 1 4388 462 813 9122 92529 23 3211332."
+    },
+    {
+      "id": "battle_pass_package_button_desc_with_limbus",
+      "content": "5137862 3211332\n774963775 462 2924719 617723\n+ [LIMBUS PASS]"
+    },
+    {
+      "id": "battle_pass_package_purchase_popup_desc_in_box",
+      "content": "- 978662 9122 9148152 2924719 617723\n- 92529 68824 474824 75"
+    },
+    {
+      "id": "until_season_4_start",
+      "content": "~ 67479 221287 4 693142"
+    },
+    {
+      "id": "until_season_5_start",
+      "content": "67479 221287 6 693142"
+    },
+    {
+      "id": "battlepass_ask_purchase_limbus_pass_package",
+      "content": "9634612775 462 978662 9122 9148152 1799\n5752 586 462 489981775 62724742 363775 {0}:"
+    },
+    {
+      "id": "battlepass_purchase_desc_pass",
+      "content": "5137862 3211332 77496323 77 462 978662 9122"
+    },
+    {
+      "id": "battlepass_purchase_desc_ex",
+      "content": "3242752 <style=\"highlightConverted\">{1}</style> 221287 6 788771692 25826133 431422 4388 813 9122 92529+ 3211332 7724213 84 <style=\"highlightConverted\">{0}</style>"
+    },
+    {
+      "id": "battlepass_purchase_desc_pass_level",
+      "content": "78823714295 5177 10 9122 925292 6987 96346122"
+    },
+    {
+      "id": "battlepass_purchase_desc_level_ticket",
+      "content": "92529 68824 474824 5"
+    },
+    {
+      "id": "battlepass_purchase_desc_special_banner",
+      "content": "978662 9122 9148152 2924719 617723"
+    },
+    {
+      "id": "battlepass_purchase_desc_policy",
+      "content": "\u203b 4672 7428 1799 62 6223 78823714295 6987 96346122; 324673 1799 62 3224374423.\n\n\u203b 462 614492 9122 72 5613174223 48 9124 [at least 90 days from the start of the Season].\n462 23144 273 3142 84 462 614492 9122 1799 62 78474723 1627 462 7234 [Guide for the upcoming Season] 72 982423.\n992122 7842 4614 5863 614492 9122 96346122 3142 612 78 244244 87 462 144752 36314787 84 462 614492 9122."
+    },
+    {
+      "id": "owned_count",
+      "content": "{0} 81723"
+    },
+    {
+      "id": "battle_pass_package_button_desc_with_limbus_2",
+      "content": "\u25c6 78823714295 5177 10 9122 95 6987 96346122\n\u25c6 3242752 1 2924719 617723\n\u25c6 92529 68824 474824 5"
+    },
+    {
+      "id": "battle_pass_product_limbus_desc_summary",
+      "content": "\u25c6 6798482 978662 9122 3211332\n\u25c6 69531322 813 9122 92529 23 3211332"
+    },
+    {
+      "id": "battle_pass_product_package_with_limbus_desc_summary",
+      "content": "\u25c6 221287 6 978662 9122\n\u25c6 78823714295 5177 10 9122 95 6987 96346122\n\u25c6 92529 68824 474824 5\n\u25c6 978662 9148152 2924719 617723"
+    },
+    {
+      "id": "battle_pass_product_package_without_limbus_desc_summary",
+      "content": "\u25c6 78823714295 5177 10 9122 95 6987 96346122\n\u25c6 92529 68824 474824 5\n\u25c6 978662 9148152 2924719 617723 32"
+    },
+    {
+      "id": "battle_pass_sale_10",
+      "content": "10% 37248674"
+    },
+    {
+      "id": "until_season_6_start",
+      "content": "- 67479 221287 7 693142"
+    }
+  ]
+}

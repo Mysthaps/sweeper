@@ -1,0 +1,68 @@
+{
+  "dataList": [
+    {
+      "id": "select_personality_gacksung_up_ticket",
+      "content": "229244 73274745 48 4182844"
+    },
+    {
+      "id": "tip_long_click_to_view_personality",
+      "content": "\u203b 9875-93222 17 73274745 48 5721 8832 32417923 7748."
+    },
+    {
+      "id": "leap_up_confim_main_only_gacksung",
+      "content": "[{0}] 73274745'2 69472 4723 1799 62 4617523 12 4899812."
+    },
+    {
+      "id": "select_ego_gacksung_up_ticket",
+      "content": "229244 2.5.8 48 4182844"
+    },
+    {
+      "id": "tip_long_click_to_view_ego",
+      "content": "\u203b 9875-93222 17 2.5.8 48 5721 8832 32417923 7748."
+    },
+    {
+      "id": "ego_leap_up_confim_main_only_gacksung",
+      "content": "[{0}] 2.5.8'2 46321329777775 4723 1799 62 4617523 12 4899812."
+    },
+    {
+      "id": "all_egos",
+      "content": "199 2.5.82"
+    },
+    {
+      "id": "leap_up_able_uptie_ego_tier",
+      "content": "417 62 4632132967"
+    },
+    {
+      "id": "ego_gacksung_grade",
+      "content": "4632132977 4723"
+    },
+    {
+      "id": "leap_up_ego_confim_title",
+      "content": "229244775 2.5.8"
+    },
+    {
+      "id": "check_default_personality_leap_up",
+      "content": "4672 72 17 73274745 4614 417 62 694723 483 4322 48 4723 3 65 93853222775 4638656 462 8177 24835.\n\n69472 4672 73274745 175115?"
+    },
+    {
+      "id": "check_default_ego_leap_up",
+      "content": "4672 72 17 2.5.8 4614 417 62 4632132967 483 4322 48 4723 3 65 93853222775 4638656 462 8177 24835.\n\n69472 4672 73274745 175115?"
+    },
+    {
+      "id": "select_identity_popup_title",
+      "content": "229244 73274745"
+    },
+    {
+      "id": "select_identity_popup_title_season_1",
+      "content": "229244 221287 1 73274745"
+    },
+    {
+      "id": "select_ego_popup_title_season_1_battlepass",
+      "content": "229244 221287 1 614492 9122 2.5.8"
+    },
+    {
+      "id": "select_ego_popup_title",
+      "content": "229244 2.5.8"
+    }
+  ]
+}

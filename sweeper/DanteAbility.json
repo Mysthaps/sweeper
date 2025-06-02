@@ -1,0 +1,19 @@
+{
+  "dataList": [
+    {
+      "id": 90101,
+      "desc": "- 413524775 483 199 287992 1799 62 32224.\n- 2442442 144751423 14 4637 24134 1799 784 62 6931423.",
+      "rawDesc": "Halve the Speed of all enemies."
+    },
+    {
+      "id": 80101,
+      "desc": "- 322242 175 2984423 2.5.8 287992 483 199 4613144232, 173 413524775 483 199 287992 1799 62 32224.",
+      "rawDesc": "Slot in a single E.G.O Skill without consuming any E.G.O resources."
+    },
+    {
+      "id": 70101,
+      "desc": "- 483 3 46372, 224 199 67742' 8442722 173 3242722 925292 48 462 1523152 84 199 67742' 519622.",
+      "rawDesc": "Set all units' Offense and Defense Levels to the average of all units' values."
+    }
+  ]
+}

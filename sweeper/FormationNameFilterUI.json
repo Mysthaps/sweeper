@@ -1,0 +1,40 @@
+{
+  "dataList": [
+    {
+      "id": "change_formation_name_title",
+      "content": "2374 4218 7182"
+    },
+    {
+      "id": "formation_name_filter_contents_title",
+      "content": "48742742"
+    },
+    {
+      "id": "formation_name_filter_contents_story",
+      "content": "24835"
+    },
+    {
+      "id": "formation_name_filter_contents_mirrordungeon",
+      "content": "873383 367."
+    },
+    {
+      "id": "formation_name_filter_contents_railwaydungeon",
+      "content": "3179115"
+    },
+    {
+      "id": "formation_name_filter_contents_exp_mining",
+      "content": "239 963."
+    },
+    {
+      "id": "formation_name_filter_contents_thread_mining",
+      "content": "463213 963."
+    },
+    {
+      "id": "formation_name_filter_contents_practice",
+      "content": "4224775"
+    },
+    {
+      "id": "formation_name_total_tag_count_limitation",
+      "content": "\u203b 69 48 10 4152 417 62 22924423."
+    }
+  ]
+}

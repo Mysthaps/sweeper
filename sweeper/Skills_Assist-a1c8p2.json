@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": 40000201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "12187222 463624",
+          "desc": "[WhenUse] 74 413524 612 3+ 45922 84 72514752 2442442, 6122 98123 +1\n[WhenUse] 5177 +1 [Breath] 48674\n[OnDirectAttack] 7749744 +1 [Burst] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+30% 318152 87 43747419 674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "361969132 266247464787 463624",
+          "desc": "[StartBattle] 5177 1 [Protection]\n[WhenUse] 74 413524 612 3+ 45922 84 72514752 2442442, 4877 98123 +1\n[WhenUse] 5177 3 [Breath] 9842745",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Burst] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 [Breath] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+50% 318152 87 43747419 674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "173775 243782",
+          "desc": "[WhenUse] 74 413524 612 3+ 45922 84 72514752 2442442, 4877 98123 +1\n[WhenUse] 5177 +3 [Breath] 48674\n[WhenUse] 5177 6 [Breath] 9842745",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Burst] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 [Breath] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 7749744 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+100% 318152 87 43747419 674"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 7749744 5 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "324273",
+          "desc": "[CanDuelGuard]\n[StartBattle] 328852 1 317388 328851692 72514752 244244 1999723 48 2294\n[StartBattle] 6219 10 29\n[WhenUse] 5177 2 [ProtectStance]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

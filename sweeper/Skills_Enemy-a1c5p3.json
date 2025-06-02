@@ -1,0 +1,302 @@
+{
+  "dataList": [
+    {
+      "id": 9009801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "2416",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 7749744 4 69223"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4213 69 18673",
+          "desc": "[WinDuel] 6219 5 29.\n3219 +5% 318152 923 [Laceration] 87 413524",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 69223"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 69223"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 69223"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9384244 462 4817!",
+          "desc": "[WhenUse] 5177 5 98722",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 98722 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 6219 4 29"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 98722 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 6219 4 29"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 98722 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 6219 4 29"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 98722 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 6219 4 29"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "7152977",
+          "desc": "[WhenUse] 5177 5 98722 173 +2 98722 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 6773 173 2 318152 3817 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "56133",
+          "desc": "1627 14414823 16792 4672 6774 612 267293, 5177 1 8442722 92529 69 7234 4637",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "06748 7162",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 7749744 +2 69223 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 7749744 +1 69223 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "41352 18673",
+          "desc": "[WinDuel] 6219 5 29.\n3219 +5% 318152 923 [Laceration] 87 413524",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 69223 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 69223 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 69223 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 69223 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9384244 462 4817!",
+          "desc": "[WhenUse] 5177 5 98722",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 98722 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 6219 4 29"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 98722 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 6219 4 29"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 98722 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 6219 4 29"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 98722 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 6219 4 29"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "7152977",
+          "desc": "[WhenUse] 5177 5 98722 173 +2 98722 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 6773 173 2 4315792 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "25132",
+          "desc": "[OnSucceedEvade] 5177 1 8442722 92529 69 7234 4637 (813 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

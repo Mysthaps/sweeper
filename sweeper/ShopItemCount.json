@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": "item_count_basic",
+      "content": "{1} 3{0}"
+    },
+    {
+      "id": "item_count_page",
+      "content": "{0} {1}(2)"
+    },
+    {
+      "id": "item_count_lunacy_free",
+      "content": "524 {0} 4322 967145 12 1 68762"
+    }
+  ]
+}

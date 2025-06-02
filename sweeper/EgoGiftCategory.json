@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "Combustion",
+      "name": "6637"
+    },
+    {
+      "id": "Laceration",
+      "name": "69223"
+    },
+    {
+      "id": "Vibration",
+      "name": "432883"
+    },
+    {
+      "id": "Burst",
+      "name": "3694632"
+    },
+    {
+      "id": "Sinking",
+      "name": "2778775"
+    },
+    {
+      "id": "Breath",
+      "name": "98722"
+    },
+    {
+      "id": "Charge",
+      "name": "461352"
+    },
+    {
+      "id": "Random",
+      "name": "317388"
+    },
+    {
+      "id": "Slash",
+      "name": "29126"
+    },
+    {
+      "id": "Penetrate",
+      "name": "972342"
+    },
+    {
+      "id": "Hit",
+      "name": "69674"
+    },
+    {
+      "id": "None",
+      "name": "82518339222"
+    }
+  ]
+}

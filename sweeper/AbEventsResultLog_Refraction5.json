@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "8630_BUFF",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>51772</color> %{2} {1}/%"
+    },
+    {
+      "id": "8630_SHIELD",
+      "content": "<color=#ebcaa2>{0} 51772 {1} 267293</color>"
+    },
+    {
+      "id": "863201_1_1",
+      "content": "<color=#ebcaa2>{0} 96527419 32272417422 12182723\n- 29126, 972342, 69674 3227241742 +0.3</color>"
+    },
+    {
+      "id": "863201_1_2",
+      "content": "<color=#ebcaa2>483 4672 4637, {0} 32192 +100% 318152 87 43747419 674</color>"
+    },
+    {
+      "id": "863201_2_1",
+      "content": "483 4672 4637, <color=#ebcaa2>199 199722</color> 5177 %{1} {0}/%"
+    },
+    {
+      "id": "863301_1_1",
+      "content": "483 3 46372, <color=#ebcaa2>{0}</color> <color=#ebcaa2>51772</color> %{2} {1}, 173 {4} {3}/%"
+    },
+    {
+      "id": "863301_2_1",
+      "content": "<color=#ebcaa2>199 2777232</color> <color=#fe4b48>9822 10% 69.</color>"
+    },
+    {
+      "id": "863301_2_2",
+      "content": "483 3 46372, <color=#ebcaa2>{0}</color> <color=#ebcaa2>51772</color> %{2} {1}, 173 {4} {3}/%"
+    },
+    {
+      "id": "863301_3_1",
+      "content": "<color=#ebcaa2>199 2777232</color> <color=#fe4b48>9822 15% 69.</color>"
+    },
+    {
+      "id": "863301_3_2",
+      "content": "483 3 46372, <color=#ebcaa2>{0}</color> <color=#ebcaa2>51772</color> %{2} {1}, 173 {4} {3}/%"
+    },
+    {
+      "id": "863301_4_1",
+      "content": "<color=#fe4b48>61952 462 6988342124 9322274</color> <color=#ebcaa2>77 4672 274867423</color>"
+    },
+    {
+      "id": "863301_4_2",
+      "content": "483 3 46372, <color=#ebcaa2>{0}</color> <color=#ebcaa2>51772</color> %{2} {1}, 173 {4} {3}/%"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "dataList": [
+    {
+      "id": "clear_turn",
+      "content": "49213 46372"
+    },
+    {
+      "id": "accumulated_turn",
+      "content": "48419 46372"
+    },
+    {
+      "id": "final_accumulated_turn",
+      "content": "47719 4637 48674"
+    },
+    {
+      "id": "reward_after_clear",
+      "content": "49213 3211332"
+    },
+    {
+      "id": "lost_and_found",
+      "content": "9824 & 48673"
+    },
+    {
+      "id": "railway_line",
+      "content": "9772 {0}"
+    },
+    {
+      "id": "progressing_railway_line",
+      "content": "431529775: {0}"
+    },
+    {
+      "id": "select_railway_line",
+      "content": "1614 9772 1799 586 431529?"
+    },
+    {
+      "id": "stage_info",
+      "content": "2414787 3141"
+    },
+    {
+      "id": "stage_number",
+      "content": "2414787 {0}"
+    },
+    {
+      "id": "mirror_refraction_railway",
+      "content": "3243144787 3179115"
+    },
+    {
+      "id": "mirror_refraction_railway_with_dungeon_name",
+      "content": "3243144787 3179115 {0}"
+    },
+    {
+      "id": "accumulated_records",
+      "content": "431529 4899244787"
+    },
+    {
+      "id": "rank_with_number",
+      "content": "3178 #{0}"
+    },
+    {
+      "id": "open_railway_dungeon_records",
+      "content": "9852"
+    },
+    {
+      "id": "no_more_rewards_remains_desc",
+      "content": "78 3211332 48 49178."
+    },
+    {
+      "id": "use_enkephalin_module_to_acquire_rewards",
+      "content": "29273 <color=#990000>{0} 2782961977 8836922</color>\n48 679848 462 3211332?"
+    },
+    {
+      "id": "able_to_acquire_rewards_without_using_enkephalin_module",
+      "content": "\u203b 8742 67984823, 586 417 432295 49178 462 3211332 586\u201952 213723 363775 462 25274 14 78 1337478719 4824."
+    },
+    {
+      "id": "railway_dungeon_ask_for_re_enter",
+      "content": "463327495 87 <color=#990000>{0} 48 2414787 {1}</color>.\n322682 5863 4315292?"
+    },
+    {
+      "id": "railway_dungeon_current_running",
+      "content": "{0}-{1} 77 93853222"
+    },
+    {
+      "id": "final_clear_accumulated_turn",
+      "content": "47719 4637 48674"
+    },
+    {
+      "id": "railway_dungeon_detailed_info",
+      "content": "3241792"
+    },
+    {
+      "id": "railway_dungeon_1_banner_reward_condition_1",
+      "content": "3243144787 3179115 - 49213 2414787 {0}"
+    },
+    {
+      "id": "railway_dungeon_1_banner_reward_condition_2",
+      "content": "3243144787 3179115 - 49213 2414787 {0} 67323 {1} 48419 46372"
+    },
+    {
+      "id": "railway_dungeon_1_banner_reward_condition_3",
+      "content": "(48899242 624832 {0})"
+    },
+    {
+      "id": "railway_dungeon_banner_reward_condition_title",
+      "content": "617723 3206727422"
+    },
+    {
+      "id": "railway_dungeon_banner_reward_unable_over",
+      "content": "(678641771692 9124 {0} 48419 46372)"
+    },
+    {
+      "id": "no_records_description",
+      "content": "462 4315298562 72 463327495 28945."
+    },
+    {
+      "id": "recover_after_resting_battle",
+      "content": "46995 32485232\n14423 3224775\n483 4672 614492"
+    },
+    {
+      "id": "railway_dungeon_try_last_node",
+      "content": "586 417784 58 6148 8742 586 27423 462 42387762.\n\n27423 462 42387762?"
+    },
+    {
+      "id": "railway_dungeon_ask_stop_desc",
+      "content": "18693 586 9782 48 372286138 4388 462 3243144787 3179115?"
+    },
+    {
+      "id": "railway_dungeon_finished_description",
+      "content": "\u203b 74 418 3248332 6152 462 2182 48419 46372, 462 872 1746 462 675623 32146 48674 1799 62 85231374427.\n74 462 32146 486742 132 1928 732747419, 4627 462 89323 872 1799 62 85231374427."
+    },
+    {
+      "id": "railway_dungeon_open_duration",
+      "content": "892314787 923783"
+    },
+    {
+      "id": "railway_dungeon_current_station",
+      "content": "{0}"
+    },
+    {
+      "id": "railway_dungeon_route_map",
+      "content": "9772 3715318"
+    },
+    {
+      "id": "railway_dungeon_resume_operation",
+      "content": "48747762 4315292"
+    },
+    {
+      "id": "railway_dungeon_stop_operation",
+      "content": "372286138"
+    },
+    {
+      "id": "railway_dungeon_station_info",
+      "content": "9772 7748"
+    },
+    {
+      "id": "railway_dungeon_operation_closed",
+      "content": "9772 4982632"
+    },
+    {
+      "id": "final_clear_accumulated_round",
+      "content": "47719 45492 48674"
+    },
+    {
+      "id": "railway_clear_date",
+      "content": "324833 3142"
+    },
+    {
+      "id": "railway_clear_turn_count",
+      "content": "48419 49213 4637 48674"
+    },
+    {
+      "id": "railway_clear_turn_count_by_stage",
+      "content": "49213 4637 48674 65 2244787"
+    }
+  ]
+}

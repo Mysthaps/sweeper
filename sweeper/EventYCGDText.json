@@ -1,0 +1,80 @@
+{
+  "dataList": [
+    {
+      "id": "ycgd_stagebutton_not_clear",
+      "content": "49213 5.5-12 48 679848"
+    },
+    {
+      "id": "ycgd_stagebutton_normal",
+      "content": "241522"
+    },
+    {
+      "id": "ycgd_stagebutton_end_event",
+      "content": "25274 498223"
+    },
+    {
+      "id": "ycgd_storybutton_before_start",
+      "content": "<size=75%>5721 462 124 25274 24835 24152 48 679848</size>"
+    },
+    {
+      "id": "ycgd_storybutton_normal",
+      "content": "48 4621423"
+    },
+    {
+      "id": "ycgd_rewardShopButton",
+      "content": "321133 23461752"
+    },
+    {
+      "id": "ycgd_scrap_guide_title",
+      "content": "25274 46332745 56732"
+    },
+    {
+      "id": "ycgd_scrap_guide_desc",
+      "content": "313295, 586 815 864177 <color=#1998fe>[322274469 24166133]</color> 4388 49213775 25274 241522, 8177 24835 241522, 83 873383 36752872.\n\n<color=#1998fe>[322274469 24166133]</color> 72 487523423 48 20 <color=#008d0d>[69883723 24166133]</color>."
+    },
+    {
+      "id": "ycgd_rewardpage_desc",
+      "content": "586 417 864177 <color=#1998fe>[69883723 24166133]</color> 4388 25274 241522 & 3675287.\n586 1928 6152 1 28199 461742 48 864177 <color=#7fc6ff>[322274469 24166133]</color> 77 462 9384222.\n\n<color=#7fc6ff>[322274469 24166133]</color> 72 78823714295 487523423 48 20 <color=#1998fe>[69883723 24166133]</color> 6987 14067274787."
+    },
+    {
+      "id": "ycgd_reward_popup_desc",
+      "content": "2137 <color=#1998fe>[69883723 24166133]</color> 571 462 489981775 8246832:\n25274 24152 492132, 873383 3675287 492132,\n173 8177 24835 24152 47324-4782 492132.\n\n77 462 <color=#1998fe>[321133 23461752]</color> 177381, 586 417 96346122 5137862 3211332\n65 29273775 <color=#1998fe>[69883723 24166133]</color> 586 6152 489924423."
+    },
+    {
+      "id": "ycgd_reward_popup_num_of_owned_items",
+      "content": "241661332 489924423"
+    },
+    {
+      "id": "ycgd_bonusUI_Title",
+      "content": "5177"
+    },
+    {
+      "id": "ycgd_bonusUI_Title_contain_false",
+      "content": "784 81723"
+    },
+    {
+      "id": "ycgd_bonusUI_Desc",
+      "content": "363775 462 25274 923783, 329985775 462 489981775 7327474722 87 5863 4218 1799\n68824 462 188674 84 <color=#1998fe>[69883723 24166133]</color> 213723.\n586 417 2137 1 8137868 84 <color=#1998fe>120%</color> 68824 48 462 188674 84 25274 46332745 213723."
+    },
+    {
+      "id": "ycgd_bonus_popup_title",
+      "content": "25274 68762 67742"
+    },
+    {
+      "id": "ycgd_bonus_preview",
+      "content": "25274 68762 67742"
+    },
+    {
+      "id": "ycgd_chapter_map_difficulty_ui_9107",
+      "content": "783819"
+    },
+    {
+      "id": "ycgd_chapter_map_difficulty_ui_9115",
+      "content": "6133"
+    },
+    {
+      "id": "ycgd_chapter_map_difficulty_ui_unlock_condition",
+      "content": "49213 {0}-{1} 48 679848 462 6133 3744746945"
+    }
+  ]
+}

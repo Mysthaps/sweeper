@@ -1,0 +1,269 @@
+{
+  "dataList": [
+    {
+      "id": "battle_speechbubble_cromer_1",
+      "desc": "\ub9d0\ud48d\uc120 \ud2b9\uc218 \ub300\uc0ac_\ud06c\ub85c\uba38",
+      "dlg": "116... 48693 74... 586'32...\n85 27749173...?"
+    },
+    {
+      "id": "battle_speechbubble_10808_1",
+      "desc": "\ub9d0\ud48d\uc120 \ud2b9\uc218 \ub300\uc0ac_\ud53c\ucffc\ub4dc\ud638 \uc120\uc7a5 \uc774\uc2a4\ub9c8\uc5d8",
+      "dlg": "199 85 41694, 586 215...? 1614 41694?\n7 3132215 74'2 199 461782 48 82."
+    },
+    {
+      "id": "battle_speechbubble_10408_1",
+      "desc": "\ub9d0\ud48d\uc120 \ud2b9\uc218 \ub300\uc0ac_\uc5d0\ub4dc\uac00 \uac00\ubb38 \uce58\ud504 \ubc84\ud2c0\ub7ec \ub8cc\uc288",
+      "dlg": "2.1.3.\n586'32 1 4179632 84 1 46724 664923."
+    },
+    {
+      "id": "battle_react_10710_1",
+      "desc": "\ub9d0\ud48d\uc120 \ud2b9\uc218 \ub300\uc0ac_\uc640\uc77c\ub4dc\ud5cc\ud2b8 \ud788\uc2a4\ud074\ub9ac\ud504",
+      "dlg": "06742 462 91462474 324294787!"
+    },
+    {
+      "id": "battle_react_10710_2",
+      "desc": "\ub9d0\ud48d\uc120 \ud2b9\uc218 \ub300\uc0ac_\uc640\uc77c\ub4dc\ud5cc\ud2b8 \ud788\uc2a4\ud074\ub9ac\ud504",
+      "dlg": "... 7'99 58652 864 5863\n487428946862 2522."
+    },
+    {
+      "id": "battle_react_10710_3",
+      "desc": "\ub9d0\ud48d\uc120 \ud2b9\uc218 \ub300\uc0ac_\uc640\uc77c\ub4dc\ud5cc\ud2b8 \ud788\uc2a4\ud074\ub9ac\ud504",
+      "dlg": "38 586 24799 4179 48 6732324173?\n4614 586... 132 7846775 664 9325!"
+    },
+    {
+      "id": "battle_react_10710_4",
+      "desc": "\ub9d0\ud48d\uc120 \ud2b9\uc218 \ub300\uc0ac_\uc640\uc77c\ub4dc\ud5cc\ud2b8 \ud788\uc2a4\ud074\ub9ac\ud504",
+      "dlg": "1 2818775 124 8644, 132 586 781?\n86, 3822 4672 784 328773 586 84\n462 315 7 4888 5863 99142?! 61616161!"
+    },
+    {
+      "id": "battle_react_10710_5",
+      "desc": "\ub9d0\ud48d\uc120 \ud2b9\uc218 \ub300\uc0ac_\uc640\uc77c\ub4dc\ud5cc\ud2b8 \ud788\uc2a4\ud074\ub9ac\ud504",
+      "dlg": "6896, 681 3132 586 598374723\n37261126232 6132 5863 877522 14 82?"
+    },
+    {
+      "id": "battle_react_10710_6",
+      "desc": "\ub9d0\ud48d\uc120 \ud2b9\uc218 \ub300\uc0ac_\uc640\uc77c\ub4dc\ud5cc\ud2b8 \ud788\uc2a4\ud074\ub9ac\ud504",
+      "dlg": "414623772...?! 74'2 82, 6214649744...!\n992122, 2863142 82 8742 15177!!!"
+    },
+    {
+      "id": "battle_react_10710_7",
+      "desc": "\ub9d0\ud48d\uc120 \ud2b9\uc218 \ub300\uc0ac_\uc640\uc77c\ub4dc\ud5cc\ud2b8 \ud788\uc2a4\ud074\ub9ac\ud504",
+      "dlg": "74 8144232 784 1614 8773 84 6214649744 586 132!\n7 26199 2863142 25235 414623772 8772!!!"
+    },
+    {
+      "id": "battle_react_10310_10",
+      "desc": "\ub9d0\ud48d\uc120 \ud2b9\uc218 \ub300\uc0ac_\ub77c\ub9cc\ucc28\ub79c\ub4dc \uc2e4\uc7a5 \ub3c8\ud0a4\ud638\ud14c",
+      "dlg": "... 586 5152 69 5863 33218 483 462 418795? \n586, 168 93214623 16864 5863\n33218 1746 25235 632146...?"
+    },
+    {
+      "id": "battle_react_10310_11",
+      "desc": "\ub9d0\ud48d\uc120 \ud2b9\uc218 \ub300\uc0ac_\ub77c\ub9cc\ucc28\ub79c\ub4dc \uc2e4\uc7a5 \ub3c8\ud0a4\ud638\ud14c",
+      "dlg": "78... 262 72 784 9782 85 272423."
+    },
+    {
+      "id": "battle_react_10310_12",
+      "desc": "\ub9d0\ud48d\uc120 \ud2b9\uc218 \ub300\uc0ac_\ub77c\ub9cc\ucc28\ub79c\ub4dc \uc2e4\uc7a5 \ub3c8\ud0a4\ud638\ud14c",
+      "dlg": "586 3132 31722 5863 69132 1517724 1 675623 8773323? \n9677268274 483 5863 479719 7897245 111742. \n... 173 483 82 12 1299, 7 2699822..."
+    },
+    {
+      "id": "battle_react_10310_13",
+      "desc": "\ub9d0\ud48d\uc120 \ud2b9\uc218 \ub300\uc0ac_\ub77c\ub9cc\ucc28\ub79c\ub4dc \uc2e4\uc7a5 \ub3c8\ud0a4\ud638\ud14c",
+      "dlg": "46822 186732... 462 937224 84 4672 18393\n8624 62 7624 12 6167423 65 56794."
+    },
+    {
+      "id": "battle_1137_FirstKill",
+      "desc": "\ub9d0\ud48d\uc120 \ud2b9\uc218 \ub300\uc0ac_\uac00\uce58\uc6b0_\uccab\ud0ac",
+      "dlg": "7 239244 586 48 47564 48 5863 321462 77 4672\n4364719 24365592, 3252327692 12 4625 815 62."
+    },
+    {
+      "id": "8SV-015",
+      "desc": "\uac00\uce58\uc6b0\uc0ac\uc6a9 \uc2dc \ub300\uc0ac ",
+      "dlg": "6721346 74."
+    },
+    {
+      "id": "8SV-016",
+      "desc": "\uac00\uce58\uc6b0\ud64d\ub8e8 \uac15\uc81c \ud0c0\uac9f\ud305 1",
+      "dlg": "74 8624 972 46232 24799, 26386323 74 815 62."
+    },
+    {
+      "id": "8SV-017",
+      "desc": "\uac00\uce58\uc6b0\ud64d\ub8e8 \uac15\uc81c \ud0c0\uac9f\ud305 2",
+      "dlg": "26199 74 328177 663723 24799?"
+    },
+    {
+      "id": "8SV-018",
+      "desc": "\uac00\uce58\uc6b0\ud64d\ub8e8 \uac15\uc81c \ud0c0\uac9f\ud305 \ud569 \ud328\ubc30",
+      "dlg": "32887243142 48 82 5863 1799."
+    },
+    {
+      "id": "8SV-019",
+      "desc": "\uac00\uce58\uc6b0\ud64d\ub8e8 \uac15\uc81c \ud0c0\uac9f\ud305 \ud569 \uc2b9\ub9ac",
+      "dlg": "462 8122 84 9177 174677 5863 62134... 72 374474694 48 67417592."
+    },
+    {
+      "id": "8SV-020",
+      "desc": "\uac00\uce58\uc6b0\uad11\uc5ed\uae30 \uc0ac\uc6a9\uc2dc",
+      "dlg": "72 74 5863 4889177872 168 6893 5863 487562?\n4627... 9236192 4625 8624 62 261827 14832\n586 132 48 29218 5863 43646."
+    },
+    {
+      "id": "8SV-021",
+      "desc": "\uac00\uce58\uc6b0\uad11\uc5ed\uae30  \ud569 \ud328\ubc30 \ud6c4 \ub2e4\uc74c\ud134",
+      "dlg": "38 784 4213 462 46479745. 46232 1799 62 4782 483 4614 8742 586 6152 298827 5863 8773."
+    },
+    {
+      "id": "8SV-022",
+      "desc": "\uac00\uce58\uc6b0\ub300\uc0c1 \ucc98\uce58\uc2dc",
+      "dlg": "3224 116792... 67479 462 49848 46372."
+    },
+    {
+      "id": "8SV-023",
+      "desc": "\uac00\uce58\uc6b0\ubb18 \ubd80\ub9ac\uae30",
+      "dlg": "464 4628 3817, 818."
+    },
+    {
+      "id": "8SV-024",
+      "desc": "\uac00\uce58\uc6b0\uc790\ub85c \uc18c\ud658",
+      "dlg": "6223 82, 2796."
+    },
+    {
+      "id": "8SV-025",
+      "desc": "\ub1cc\ud6a1",
+      "dlg": "666... 5'199 177'4 6194 613!\n8229 81877' 74 18346 85 669924 4222!"
+    },
+    {
+      "id": "8SV-026",
+      "desc": "\ub1cc\ud6a1\uc0ac\uc6a9 \uc2dc: \ud0c4\ud658 \ucda9\ubd84 - \uac15\ub825\ud55c \uc2a4\ud0ac",
+      "dlg": "2522 69 6232, 6852!\n387'4461 58 98277' 523 62132 781!"
+    },
+    {
+      "id": "8SV-027",
+      "desc": "\ub1cc\ud6a1\uc0ac\uc6a9 \uc2dc: \ud0c4\ud658 \ubd80\uc871 - \uac15\ub825\ud55c \uc2a4\ud0ac",
+      "dlg": "61299, 1614'2 4672? 8171521692 28 413?"
+    },
+    {
+      "id": "8SV-028",
+      "desc": "\ub1cc\ud6a1\ud134 \uc2dc\uc791 : \ub9e4\uc6b0 \uac15\ub825\ud55c \uc2a4\ud0ac",
+      "dlg": "7'81686441 3389 28824677' 675 87 5'199!\n387'4 924 74 8799 5'199 781 173 29879 462 467!"
+    },
+    {
+      "id": "8SV-029",
+      "desc": "\ub1cc\ud6a1\ud569 \uc2b9\ub9ac : \ub9e4\uc6b0 \uac15\ub825\ud55c \uc2a4\ud0ac",
+      "dlg": "11 6248, 387'4 4299 82\n5'199 132 46482323 864 1932135!"
+    },
+    {
+      "id": "8SV-030",
+      "desc": "\ub1cc\ud6a1\ud134 \uc2dc\uc791 : [\uccb4\ub825 n% \uc774\ud558]\uc5d0 \ubc84\ud504 \ud68d\ub4dd",
+      "dlg": "4614'2 8832 9782 74.\n5'199 132 47377' 82 69!"
+    },
+    {
+      "id": "8SV-031",
+      "desc": "\ub1cc\ud6a1\uc0ac\uc6a9 \uc2dc : [\uccb4\ub825 n% \uc774\ud558] \ud544\uc0b4\uae30(",
+      "dlg": "5'199 387'4 58 87 667477' 475232 1746864 93291377'\n523229522 48 524 4688923 '41227 872 84 4628 7112!"
+    },
+    {
+      "id": "8SV-032",
+      "desc": "\ub1cc\ud6a1\ud134 \uc2dc\uc791 : [\uccb4\ub825 n% \uc774\ud558]\uc5d0 \ubc84\ud504 \ubcc0\uacbd",
+      "dlg": "417'4 92152 1 31742 6747772623.\n177'4 4614 37564?"
+    },
+    {
+      "id": "8SV-034",
+      "desc": "\uac00\ud6582.5.8 \uce68\uc2dd\ub960 7 \uc774\uc0c1",
+      "dlg": "417'4 11242 175 8832 4782 87 46222...\n... 274827775, 325894775 7722442."
+    },
+    {
+      "id": "8SV-035",
+      "desc": "\uac00\ud658\ud64d\ub8e8\uba54\uc778\ud0c0\uac9f",
+      "dlg": "387\u20194 9324273 586\u201952 4617523.\n586\u201932 24799 462 2182 43126 586 1232 6148 4627... 2468!"
+    },
+    {
+      "id": "8SV-036",
+      "desc": "\uac00\ud658\uacbd\uba78\ub098\uc120\ubaa8\ub4dc",
+      "dlg": "... 72 4672 1928 462 2.5.8'2 98123?"
+    },
+    {
+      "id": "8SV-037",
+      "desc": "\uac00\ud658\uad11\uc5ed\uae30\uc0ac\uc6a9\uc2dc",
+      "dlg": "626893! 4672 48742894!\n74 31772 3817 6987 462 3725624775 47946!"
+    },
+    {
+      "id": "8SV-038",
+      "desc": "\uac00\ud658\uc804\ud22c\uc2dc\uc791 : 7\uc778\uc774\uc0c1\uc774 \uc790\uc2e0\uc744 \ud0c0\uac9f",
+      "dlg": "48897267222."
+    },
+    {
+      "id": "8SV-039",
+      "desc": "\uad6c\ubcf42.5.8 \uce68\uc2dd\ub960 10 \uc774\uc0c1",
+      "dlg": "586 6152 41827 1 5978922 84 522423315'2 293775.\n1 828835 313295 1517923 48 2527 852294."
+    },
+    {
+      "id": "8SV-040",
+      "desc": "\uad6c\ubcf4\ub09c\uc0ac \ud328\ud134 \uc9c4\uc785",
+      "dlg": "38 784 924 5863 9124 4722 3677 5863 76358274.\n74 81822 82 1174 48 69124 4628 199 1115."
+    },
+    {
+      "id": "8SV-041",
+      "desc": "\uad6c\ubcf4\uc544\uad70 \uc0b4\ud574 \ud328\ud134 \uc9c4\uc785",
+      "dlg": "2143747422 132 724222135\n77 9632674 84 462 5321423 41622."
+    },
+    {
+      "id": "8SV-042",
+      "desc": "\uad6c\ubcf4\uccb4\ub825 7% \ubbf8\ub9cc / \uacbd\uba78 \ub098\uc120 \ubaa8\ub4dc \uac10\uc0c1",
+      "dlg": "... 1621. 4614 183823."
+    },
+    {
+      "id": "8SV-051",
+      "desc": "\uac00\ubaa8\uc0ac\uc6a9 \uc2dc : \ud64d\ub8e8 \uac00\ub450\uae30",
+      "dlg": "4694799 5863 18346!"
+    },
+    {
+      "id": "8SV-052",
+      "desc": "\uac00\ubaa8\uc0ac\uc6a9 \uc2dc : \ud64d\ub8e8 \uac00\ub450\uae30 \uc2e4\ud328",
+      "dlg": "586 3132!"
+    },
+    {
+      "id": "8SV-053",
+      "desc": "\uac00\ubaa8\ud134 \uc2dc\uc791 : \ubcf4\uc625 \uc0dd\uc131",
+      "dlg": "86, 3252323 3717327! 267 87577 6386564 462 528 6148!\n462 932445 528 4614'99 8182 68755617 199 621647469 15177\u2026!"
+    },
+    {
+      "id": "8SV-054",
+      "desc": "\uac00\ubaa8\ud134 \uc2dc\uc791 : \ubcf4\uc625 \ud30c\uad34",
+      "dlg": "69129628862 4317253222832!\n864273232 26199 784 48524 462 43212632 84 3156175617!"
+    },
+    {
+      "id": "8SV-055",
+      "desc": "\uac00\ubaa8\uc0ac\uc6a9 \uc2dc : \ubc84\ud504 \ubc1b\uae30",
+      "dlg": "586 41583 82, 387'4 586?\n7 8721 586 18693, 3213 371766175 1838!"
+    },
+    {
+      "id": "8SV-056",
+      "desc": "\uac00\ubaa8\uac00\ub9c8 \uccb4\ub825 0",
+      "dlg": "78!!!!!!"
+    },
+    {
+      "id": "8SV-057",
+      "desc": "\uac00\ubaa8\uc0ac\uc6a9 \uc2dc : \uc5b4\ub974\uc2e0 \ub098\ubb34 \uc18c\ud658",
+      "dlg": "199 462 172388 84 68755617...\n5752 74 48 82, 5752 74 48 87577...!"
+    },
+    {
+      "id": "8SV-058",
+      "desc": "\uac00\ubaa8\uc0ac\uc6a9 \uc2dc : \uc5b4\ub974\uc2e0 \ub098\ubb34 \ud761\uc218",
+      "dlg": "62 872 1746 462 4146889222 6724835 84 68755617!"
+    },
+    {
+      "id": "8SV-059",
+      "desc": "\uac00\ubaa8\ud134 \uc2dc\uc791 : \uc9c0\uace0\ud55c \ubd88\uc0ac \ud750\ud2b8\ub7ec\uc9d0 \uc2e4\ud328",
+      "dlg": "12 6152 43172427323 462 5882 84 9742 173 32146...\n4662, 68755617 26199 26772 483 199 24237745 12 1299!"
+    },
+    {
+      "id": "8SV-060",
+      "desc": "\uac00\ubaa8\ud134 \uc2dc\uc791 : \uc9c0\uace0\ud55c \ubd88\uc0ac \ud750\ud2b8\ub7ec\uc9d0",
+      "dlg": "166... 1614 1 26182469 4179632 84 364722 4672 72..."
+    },
+    {
+      "id": "8SV-061",
+      "desc": "\uac00\ubaa8\uc0ac\uc6a9 \uc2dc : \uac15\ud55c \uad11\uc5ed\uae30",
+      "dlg": "586 1799 8625 62!"
+    }
+  ]
+}

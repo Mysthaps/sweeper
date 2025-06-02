@@ -1,0 +1,104 @@
+{
+  "dataList": [
+    {
+      "id": "story_dungeon_return_to_savepoint_title",
+      "content": "4218 17776791423"
+    },
+    {
+      "id": "story_dungeon_return_to_savepoint_content",
+      "content": "199 2777232 6152 <color=#990000>92372623</color>.\n324637775 48 462 9124 4624898774."
+    },
+    {
+      "id": "story_dungeon_give_up",
+      "content": "4834274"
+    },
+    {
+      "id": "story_dungeon_to_main",
+      "content": "8177 8276"
+    },
+    {
+      "id": "story_dungeon_continue",
+      "content": "48747762"
+    },
+    {
+      "id": "story_ask_move_to_main",
+      "content": "2152 5863 93853222 173\n324637 48 462 8177 8276?"
+    },
+    {
+      "id": "story_ask_give_up_dungeon",
+      "content": "0674 239983775 462 3675287?"
+    },
+    {
+      "id": "story_to_be_return_enkephalin_box_warning",
+      "content": "\u203b 462 2782961977 883692 29274 483 27435 1799 62 32463723."
+    },
+    {
+      "id": "dungeon_encounter_guide_start",
+      "content": "24134"
+    },
+    {
+      "id": "dungeon_encounter_guide_battle",
+      "content": "3256913 274867423"
+    },
+    {
+      "id": "dungeon_encounter_guide_ab_battle",
+      "content": "4846223 274867423"
+    },
+    {
+      "id": "dungeon_encounter_guide_hard_battle",
+      "content": "37285 274867423"
+    },
+    {
+      "id": "dungeon_encounter_guide_event",
+      "content": "25274"
+    },
+    {
+      "id": "dungeon_encounter_guide_save",
+      "content": "4624898774"
+    },
+    {
+      "id": "dungeon_encounter_guide_boss",
+      "content": "6822 274867423"
+    },
+    {
+      "id": "dungeon_enter_save_point",
+      "content": "4624898774 3214623"
+    },
+    {
+      "id": "dungeon_recover_hp_mp",
+      "content": "69 173 29 6152 6227 32248323."
+    },
+    {
+      "id": "dungeon_save_completion",
+      "content": "93853222 21523"
+    },
+    {
+      "id": "dungeon_save_completion_content",
+      "content": "5863 93853222 612 6227 21523."
+    },
+    {
+      "id": "dungeon_return_to_save_point",
+      "content": "48 4624898774"
+    },
+    {
+      "id": "dungeon_unlocked_node_notice",
+      "content": "1 721 98414787 612 6227 3724852323."
+    },
+    {
+      "id": "dungeon_unlocked_line_notice",
+      "content": "1 721 9146 612 892723."
+    },
+    {
+      "id": "dungeon_encounter_guide_stairs",
+      "content": "8852 48 7234 2872"
+    },
+    {
+      "id": "dungeon_encounter_guide_story",
+      "content": "24835"
+    },
+    {
+      "id": "formation_ui_ask_to_use_saved_formation",
+      "content": "5863 4633274 4218 9813864 1799 62 32991423 1746 4672 721 9813864.\n1799 586 3299142 5863 4633274 4218 9813864 1746 4672 9813864?\n\n<size=80%>\u203b 8742 5863 4218 9813864 612 6227 32991423, 586 417784 325234 6148 48 5863 93257862 9813864.\n\u203b 9813864 4617522 8132 77 462 873392 84 24835 36752872 6152 78 244244 77 462 98138642 77 462 2777232 177381.</size>"
+    }
+  ]
+}

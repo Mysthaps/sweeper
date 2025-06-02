@@ -1,0 +1,36 @@
+{
+  "dataList": [
+    {
+      "id": "move_to_inventory",
+      "content": "58 48 775274835"
+    },
+    {
+      "id": "progress_personality_gacksung",
+      "content": "69472"
+    },
+    {
+      "id": "mainui_reinforce_support_passive",
+      "content": "2699834 9122752 [{0}] 27617423"
+    },
+    {
+      "id": "mainui_reinforce_battle_passive",
+      "content": "488614 9122752 [{0}] 27617423"
+    },
+    {
+      "id": "mainui_battle_passsive_reinforce",
+      "content": "488614 9122752 27617423"
+    },
+    {
+      "id": "mainui_support_passsive_reinforce",
+      "content": "2699834 9122752 27617423"
+    },
+    {
+      "id": "mainui_target_num_label",
+      "content": "148 127564"
+    },
+    {
+      "id": "mainui_awaken_requirement_label",
+      "content": "46332745 320."
+    }
+  ]
+}

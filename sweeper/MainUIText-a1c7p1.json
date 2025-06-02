@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "id": "stage_recommend_level_popup_battle_participant_desc",
+      "content": "462 4633274 1523152 92529 84 5863 32998523 7327474722 72 <color=#990000>98123</color> 4617 462 32488827323 92529 483 4672 24152.\n24134 462 274867423 175115?"
+    },
+    {
+      "id": "stage_recommend_level_popup_formation_desc",
+      "content": "462 4633274 1523152 92529 84 7327474722 77 5863 9813864 72 <color=#990000>98123</color> 4617 462 32488827323 92529 483 4672 24152.\n24134 462 274867423 175115?"
+    },
+    {
+      "id": "stage_recommend_level_popup_dungeon_entrance_desc",
+      "content": "462 4633274 1523152 92529 84 7327474722 77 5863 9813864 72 <color=#990000>98123</color> 4617 462 32488827323 92529 483 4672 24152.\n27423 462 3675287 175115?"
+    },
+    {
+      "id": "current_average_level_and_recommend_level_format",
+      "content": "4633274 155. 92529: {0}\n<color=#f8c200>32488827323 92529: {1}</color>"
+    },
+    {
+      "id": "current_average_level_with_additional_val_and_recommend_level_format",
+      "content": "4633274 155. 92529: {0} ({1})\n<color=#f8c200>32488827323 92529: {2}</color>"
+    },
+    {
+      "id": "stage_recommend_uptie_popup_dungeon_entrance_desc",
+      "content": "<color=#f8c200>32488827323 73274745 & 2.5.8 69472/4632132977 <color=#990000>47232: {0}</color> </color>"
+    }
+  ]
+}

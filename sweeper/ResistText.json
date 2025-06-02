@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "id": "resist_weak",
+      "content": "41419"
+    },
+    {
+      "id": "resist_vulnerable",
+      "content": "1218"
+    },
+    {
+      "id": "resist_normal",
+      "content": "783819"
+    },
+    {
+      "id": "resist_endure",
+      "content": "273632"
+    },
+    {
+      "id": "resist_resist",
+      "content": "77244."
+    },
+    {
+      "id": "resist_immune",
+      "content": "788672"
+    }
+  ]
+}

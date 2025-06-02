@@ -1,0 +1,1028 @@
+{
+  "dataList": [
+    {
+      "id": "10102_getCondition_normal",
+      "content": "1406732 22527 28646 2244787 6 57 2175"
+    },
+    {
+      "id": "10102_getCondition_gacksung",
+      "content": "69472 22527 28646 2244787 6 57 2175 48 4723 3"
+    },
+    {
+      "id": "10103_getCondition_normal",
+      "content": "1406732 69132 9772152 21926 57 2175"
+    },
+    {
+      "id": "10103_getCondition_gacksung",
+      "content": "69472 69132 9772152 21926 57 2175 48 4723 3"
+    },
+    {
+      "id": "10202_getCondition_normal",
+      "content": "1406732 1 4839. 92 4921769 15274 41624"
+    },
+    {
+      "id": "10202_getCondition_gacksung",
+      "content": "69472 1 4839. 92 4921769 15274 41624 48 4723 3"
+    },
+    {
+      "id": "10203_getCondition_normal",
+      "content": "1406732 98684885 4839. 3287174 41624"
+    },
+    {
+      "id": "10203_getCondition_gacksung",
+      "content": "69472 98684885 4839. 3287174 41624 48 4723 3"
+    },
+    {
+      "id": "10302_getCondition_normal",
+      "content": "1406732 1 4839. 93 4921769 15274 387 0673842"
+    },
+    {
+      "id": "10302_getCondition_gacksung",
+      "content": "69472 1 4839. 93 4921769 15274 387 0673842 48 4723 3"
+    },
+    {
+      "id": "10303_getCondition_normal",
+      "content": "1406732 267 28646 2244787 5 37324483 387 0673842"
+    },
+    {
+      "id": "10303_getCondition_gacksung",
+      "content": "69472 267 28646 2244787 5 37324483 387 0673842 48 4723 3"
+    },
+    {
+      "id": "10402_getCondition_normal",
+      "content": "1406732 22527 28646 2244787 6 358266"
+    },
+    {
+      "id": "10402_getCondition_gacksung",
+      "content": "69472 22527 28646 2244787 6 358266 48 4723 3"
+    },
+    {
+      "id": "10403_getCondition_normal",
+      "content": "1406732 86388688 1181266 358266"
+    },
+    {
+      "id": "10403_getCondition_gacksung",
+      "content": "69472 86388688 1181266 358266 48 4723 3"
+    },
+    {
+      "id": "10502_getCondition_normal",
+      "content": "1406732 976 28646 2244787 6 826321694"
+    },
+    {
+      "id": "10502_getCondition_gacksung",
+      "content": "69472 976 28646 2244787 6 826321694 48 4723 3"
+    },
+    {
+      "id": "10503_getCondition_normal",
+      "content": "1406732 1 4839. 92 4921769 15274 826321694"
+    },
+    {
+      "id": "10503_getCondition_gacksung",
+      "content": "69472 1 4839. 92 4921769 15274 826321694 48 4723 3"
+    },
+    {
+      "id": "10602_getCondition_normal",
+      "content": "1406732 86388688 1181266 6875 96"
+    },
+    {
+      "id": "10602_getCondition_gacksung",
+      "content": "69472 86388688 1181266 6875 96 48 4723 3"
+    },
+    {
+      "id": "10603_getCondition_normal",
+      "content": "1406732 47754175 5175921323 6875 96"
+    },
+    {
+      "id": "10603_getCondition_gacksung",
+      "content": "69472 47754175 5175921323 6875 96 48 4723 3"
+    },
+    {
+      "id": "10702_getCondition_normal",
+      "content": "1406732 267 28646 2244787 5 6214649744"
+    },
+    {
+      "id": "10702_getCondition_gacksung",
+      "content": "69472 267 28646 2244787 5 6214649744 48 4723 3"
+    },
+    {
+      "id": "10703_getCondition_normal",
+      "content": "1406732 3 4839. 446 9148 316674 6214649744"
+    },
+    {
+      "id": "10703_getCondition_gacksung",
+      "content": "69472 3 4839. 446 9148 316674 6214649744 48 4723 3"
+    },
+    {
+      "id": "10802_getCondition_normal",
+      "content": "1406732 3 4839. 446 9148 32773223 7268129"
+    },
+    {
+      "id": "10802_getCondition_gacksung",
+      "content": "69472 3 4839. 446 9148 32773223 7268129 48 4723 3"
+    },
+    {
+      "id": "10803_getCondition_normal",
+      "content": "1406732 267 28646 2244787 5 7268129"
+    },
+    {
+      "id": "10803_getCondition_gacksung",
+      "content": "69472 267 28646 2244787 5 7268129 48 4723 3"
+    },
+    {
+      "id": "10804_getCondition_normal",
+      "content": "1406732 9446 122724174 8171523 7268129"
+    },
+    {
+      "id": "10804_getCondition_gacksung",
+      "content": "69472 9446 122724174 8171523 7268129 48 4723 3"
+    },
+    {
+      "id": "10902_getCondition_normal",
+      "content": "1406732 86388688 1181266 38351"
+    },
+    {
+      "id": "10902_getCondition_gacksung",
+      "content": "69472 86388688 1181266 38351 48 4723 3"
+    },
+    {
+      "id": "10903_getCondition_normal",
+      "content": "1406732 9446 122724174 8171523 38351"
+    },
+    {
+      "id": "10903_getCondition_gacksung",
+      "content": "69472 9446 122724174 8171523 38351 48 4723 3"
+    },
+    {
+      "id": "11002_getCondition_normal",
+      "content": "1406732 69132 9772152 21926 27749173"
+    },
+    {
+      "id": "11002_getCondition_gacksung",
+      "content": "69472 69132 9772152 21926 27749173 48 4723 3"
+    },
+    {
+      "id": "11003_getCondition_normal",
+      "content": "1406732 2127 28646 2244787 6 27749173"
+    },
+    {
+      "id": "11003_getCondition_gacksung",
+      "content": "69472 2127 28646 2244787 6 27749173 48 4723 3"
+    },
+    {
+      "id": "11004_getCondition_normal",
+      "content": "1406732 7242 32 982 813714672 27749173"
+    },
+    {
+      "id": "11004_getCondition_gacksung",
+      "content": "69472 7242 32 982 813714672 27749173 48 4723 3"
+    },
+    {
+      "id": "11102_getCondition_normal",
+      "content": "1406732 69132 9772152 21926 86472"
+    },
+    {
+      "id": "11102_getCondition_gacksung",
+      "content": "69472 69132 9772152 21926 86472 48 4723 3"
+    },
+    {
+      "id": "11103_getCondition_normal",
+      "content": "1406732 5 4839. 6213 8171523 86472"
+    },
+    {
+      "id": "11103_getCondition_gacksung",
+      "content": "69472 5 4839. 6213 8171523 86472 48 4723 3"
+    },
+    {
+      "id": "11202_getCondition_normal",
+      "content": "1406732 976 28646 2244787 6 532583"
+    },
+    {
+      "id": "11202_getCondition_gacksung",
+      "content": "69472 976 28646 2244787 6 532583 48 4723 3"
+    },
+    {
+      "id": "11203_getCondition_normal",
+      "content": "1406732 5 4839. 8171523 48398319 532583"
+    },
+    {
+      "id": "11203_getCondition_gacksung",
+      "content": "69472 5 4839. 8171523 48398319 532583 48 4723 3"
+    },
+    {
+      "id": "10504_getCondition_normal",
+      "content": "1406732 7 4839. 538\u00df618823 826321694"
+    },
+    {
+      "id": "10504_getCondition_gacksung",
+      "content": "69472 7 4839. 538\u00df618823 826321694 48 4723 3"
+    },
+    {
+      "id": "10904_getCondition_normal",
+      "content": "1406732 7 4839. 874429618823 383787"
+    },
+    {
+      "id": "10904_getCondition_gacksung",
+      "content": "69472 7 4839. 874429618823 383787 48 4723 3"
+    },
+    {
+      "id": "10204_getCondition_normal",
+      "content": "1406732 462 872 168 53792 41624"
+    },
+    {
+      "id": "10204_getCondition_gacksung",
+      "content": "69472 462 872 168 53792 41624 48 4723 3"
+    },
+    {
+      "id": "10704_getCondition_normal",
+      "content": "1406732 7 4839. 89277618823 6214649744"
+    },
+    {
+      "id": "10704_getCondition_gacksung",
+      "content": "69472 7 4839. 89277618823 6214649744 48 4723 3"
+    },
+    {
+      "id": "11104_getCondition_normal",
+      "content": "1406732 22527 28646 2244787 6 37324483 86472"
+    },
+    {
+      "id": "11104_getCondition_gacksung",
+      "content": "69472 22527 28646 2244787 6 37324483 86472 48 4723 3"
+    },
+    {
+      "id": "10604_getCondition_normal",
+      "content": "1406732 976 28646 2244787 5 6875 96"
+    },
+    {
+      "id": "10604_getCondition_gacksung",
+      "content": "69472 976 28646 2244787 5 6875 96 48 4723 3"
+    },
+    {
+      "id": "10404_getCondition_normal",
+      "content": "1406732 3.6. 4624 32 4672772 358266"
+    },
+    {
+      "id": "10404_getCondition_gacksung",
+      "content": "69472 3.6. 4624 32 4672772 358266 48 4723 3"
+    },
+    {
+      "id": "11204_getCondition_normal",
+      "content": "1406732 3.6. 2862-4624 532583"
+    },
+    {
+      "id": "11204_getCondition_gacksung",
+      "content": "69472 3.6. 2862-4624 532583 48 4723 3"
+    },
+    {
+      "id": "10304_getCondition_normal",
+      "content": "1406732 7 4839. 874429618823 387 0673842"
+    },
+    {
+      "id": "10304_getCondition_gacksung",
+      "content": "69472 7 4839. 874429618823 387 0673842 48 4723 3"
+    },
+    {
+      "id": "11005_getCondition_normal",
+      "content": "1406732 462 872 168 26199 5379 27749173"
+    },
+    {
+      "id": "11005_getCondition_gacksung",
+      "content": "69472 462 872 168 26199 5379 27749173 48 4723 3"
+    },
+    {
+      "id": "10905_getCondition_normal",
+      "content": "1406732 38222917723 18382689 329 383787"
+    },
+    {
+      "id": "10905_getCondition_gacksung",
+      "content": "69472 38222917723 18382689 329 383787 48 4723 3"
+    },
+    {
+      "id": "10505_getCondition_normal",
+      "content": "1406732 38222917723 18382689 47323 826321694"
+    },
+    {
+      "id": "10505_getCondition_gacksung",
+      "content": "69472 38222917723 18382689 47323 826321694 48 4723 3"
+    },
+    {
+      "id": "10705_getCondition_normal",
+      "content": "1406732 98684885 2.5.8::267268123 6214649744"
+    },
+    {
+      "id": "10705_getCondition_gacksung",
+      "content": "69472 98684885 2.5.8::267268123 6214649744 48 4723 3"
+    },
+    {
+      "id": "11205_getCondition_normal",
+      "content": "1406732 38222917723 18382689 47323 532583"
+    },
+    {
+      "id": "11205_getCondition_gacksung",
+      "content": "69472 38222917723 18382689 47323 532583 48 4723 3"
+    },
+    {
+      "id": "10104_getCondition_normal",
+      "content": "1406732 24498322423 2.5.8::297426626 57 2175"
+    },
+    {
+      "id": "10104_getCondition_gacksung",
+      "content": "69472 24498322423 2.5.8::297426626 57 2175 48 4723 3"
+    },
+    {
+      "id": "10805_getCondition_normal",
+      "content": "1406732 98684885 2.5.8::29826775 7268129"
+    },
+    {
+      "id": "10805_getCondition_gacksung",
+      "content": "69472 98684885 2.5.8::29826775 7268129 48 4723 3"
+    },
+    {
+      "id": "10605_getCondition_normal",
+      "content": "1406732 8 4839. 49122 3 23472787 24144 6875 96"
+    },
+    {
+      "id": "10605_getCondition_gacksung",
+      "content": "69472 8 4839. 49122 3 23472787 24144 6875 96 48 4723 3"
+    },
+    {
+      "id": "11006_getCondition_normal",
+      "content": "1406732 98684885 2.5.8::323 26224 27749173"
+    },
+    {
+      "id": "11006_getCondition_gacksung",
+      "content": "69472 98684885 2.5.8::323 26224 27749173 48 4723 3"
+    },
+    {
+      "id": "10806_getCondition_normal",
+      "content": "1406732 976 28646 2244787 4 7268129"
+    },
+    {
+      "id": "10806_getCondition_gacksung",
+      "content": "69472 976 28646 2244787 4 7268129 48 4723 3"
+    },
+    {
+      "id": "10506_getCondition_normal",
+      "content": "1406732 3 4839. 446 9148 36778 826321694"
+    },
+    {
+      "id": "10506_getCondition_gacksung",
+      "content": "69472 3 4839. 446 9148 36778 826321694 48 4723 3"
+    },
+    {
+      "id": "10906_getCondition_normal",
+      "content": "1406732 2127 28646 2244787 5 383787"
+    },
+    {
+      "id": "10906_getCondition_gacksung",
+      "content": "69472 2127 28646 2244787 5 383787 48 4723 3"
+    },
+    {
+      "id": "10305_getCondition_normal",
+      "content": "1406732 4770 28646 2244787 5 37324483 387 0673842"
+    },
+    {
+      "id": "10305_getCondition_gacksung",
+      "content": "69472 4770 28646 2244787 5 37324483 387 0673842 48 4723 3"
+    },
+    {
+      "id": "10807_getCondition_normal",
+      "content": "1406732 88913 681418382 47323 7268129"
+    },
+    {
+      "id": "10807_getCondition_gacksung",
+      "content": "69472 88913 681418382 47323 7268129 48 4723 3"
+    },
+    {
+      "id": "11007_getCondition_normal",
+      "content": "1406732 88913 681418382 47323 27749173"
+    },
+    {
+      "id": "11007_getCondition_gacksung",
+      "content": "69472 88913 681418382 47323 27749173 48 4723 3"
+    },
+    {
+      "id": "11206_getCondition_normal",
+      "content": "1406732 2127 28646 2244787 4 532583"
+    },
+    {
+      "id": "11206_getCondition_gacksung",
+      "content": "69472 2127 28646 2244787 4 532583 48 4723 3"
+    },
+    {
+      "id": "10205_getCondition_normal",
+      "content": "1406732 2127 28646 2244787 4 41624"
+    },
+    {
+      "id": "10205_getCondition_gacksung",
+      "content": "69472 2127 28646 2244787 4 41624 48 4723 3"
+    },
+    {
+      "id": "10405_getCondition_normal",
+      "content": "1406732 1 4839. 93 4921769 15274 358266"
+    },
+    {
+      "id": "10405_getCondition_gacksung",
+      "content": "69472 1 4839. 93 4921769 15274 358266 48 4723 3"
+    },
+    {
+      "id": "10606_getCondition_normal",
+      "content": "1406732 1 4839. 92 4921769 15274 6875 96"
+    },
+    {
+      "id": "10606_getCondition_gacksung",
+      "content": "69472 1 4839. 92 4921769 15274 6875 96 48 4723 3"
+    },
+    {
+      "id": "10206_getCondition_normal",
+      "content": "1406732 22527 28646 2244787 4 41624"
+    },
+    {
+      "id": "10206_getCondition_gacksung",
+      "content": "69472 22527 28646 2244787 4 41624 48 4723 3"
+    },
+    {
+      "id": "10706_getCondition_normal",
+      "content": "1406732 22527 28646 2244787 4 6214649744"
+    },
+    {
+      "id": "10706_getCondition_gacksung",
+      "content": "69472 22527 28646 2244787 4 6214649744 48 4723 3"
+    },
+    {
+      "id": "10105_getCondition_normal",
+      "content": "1406732 88913 844742 47323 57 2175"
+    },
+    {
+      "id": "10105_getCondition_gacksung",
+      "content": "69472 88913 844742 47323 57 2175 48 4723 3"
+    },
+    {
+      "id": "11105_getCondition_normal",
+      "content": "1406732 88913 844742 47323 86472"
+    },
+    {
+      "id": "11105_getCondition_gacksung",
+      "content": "69472 88913 844742 47323 86472 48 4723 3"
+    },
+    {
+      "id": "10907_getCondition_normal",
+      "content": "1406732 37247 28646 2244787 4 383787"
+    },
+    {
+      "id": "10907_getCondition_gacksung",
+      "content": "69472 37247 28646 2244787 4 383787 48 4723 3"
+    },
+    {
+      "id": "10207_getCondition_normal",
+      "content": "1406732 98684885 2.5.8::325324 41624"
+    },
+    {
+      "id": "10207_getCondition_gacksung",
+      "content": "69472 98684885 2.5.8::325324 41624 48 4723 3"
+    },
+    {
+      "id": "10607_getCondition_normal",
+      "content": "1406732 6888 844742 47323 6875 96"
+    },
+    {
+      "id": "10607_getCondition_gacksung",
+      "content": "69472 6888 844742 47323 6875 96 48 4723 3"
+    },
+    {
+      "id": "10106_getCondition_normal",
+      "content": "1406732 1 4839. 93 4921769 15274 57 2175"
+    },
+    {
+      "id": "10106_getCondition_gacksung",
+      "content": "69472 1 4839. 93 4921769 15274 57 2175 48 4723 3"
+    },
+    {
+      "id": "11207_getCondition_normal",
+      "content": "1406732 41776888 9731422 47324 8142 532583"
+    },
+    {
+      "id": "11207_getCondition_gacksung",
+      "content": "69472 41776888 9731422 47324 8142 532583 48 4723 3"
+    },
+    {
+      "id": "10406_getCondition_normal",
+      "content": "1406732 9446 122724174 8171523 358266"
+    },
+    {
+      "id": "10406_getCondition_gacksung",
+      "content": "69472 9446 122724174 8171523 358266 48 4723 3"
+    },
+    {
+      "id": "10306_getCondition_normal",
+      "content": "1406732 462 873392 974492 272423 387 0673842"
+    },
+    {
+      "id": "10306_getCondition_gacksung",
+      "content": "69472 462 873392 974492 272423 387 0673842 48 4723 3"
+    },
+    {
+      "id": "10507_getCondition_normal",
+      "content": "1406732 462 873392 974492 6384623 826321694"
+    },
+    {
+      "id": "10507_getCondition_gacksung",
+      "content": "69472 462 873392 974492 6384623 826321694 48 4723 3"
+    },
+    {
+      "id": "10707_getCondition_normal",
+      "content": "1406732 462 920683 6139887223 6214649744"
+    },
+    {
+      "id": "10707_getCondition_gacksung",
+      "content": "69472 462 920683 6139887223 6214649744 48 4723 3"
+    },
+    {
+      "id": "10107_getCondition_normal",
+      "content": "1406732 462 920683 47324 8142 57 2175"
+    },
+    {
+      "id": "10107_getCondition_gacksung",
+      "content": "69472 462 920683 47324 8142 57 2175 48 4723 3"
+    },
+    {
+      "id": "11008_getCondition_normal",
+      "content": "1406732 4770 28646 2244787 4 37324483 27749173"
+    },
+    {
+      "id": "11008_getCondition_gacksung",
+      "content": "69472 4770 28646 2244787 4 37324483 27749173 48 4723 3"
+    },
+    {
+      "id": "11106_getCondition_normal",
+      "content": "1406732 4770 28646 2244787 4 86472"
+    },
+    {
+      "id": "11106_getCondition_gacksung",
+      "content": "69472 4770 28646 2244787 4 86472 48 4723 3"
+    },
+    {
+      "id": "11107_getCondition_normal",
+      "content": "1406732 98684885 2.5.8::81574 669924 86472"
+    },
+    {
+      "id": "11107_getCondition_gacksung",
+      "content": "69472 98684885 2.5.8::81574 669924 86472 48 4723 3"
+    },
+    {
+      "id": "10307_getCondition_normal",
+      "content": "1406732 98684885 2.5.8::9174237 387 0673842"
+    },
+    {
+      "id": "10307_getCondition_gacksung",
+      "content": "69472 98684885 2.5.8::9174237 387 0673842 48 4723 3"
+    },
+    {
+      "id": "10608_getCondition_normal",
+      "content": "1406732 37247 28646 2244787 4 6875 96"
+    },
+    {
+      "id": "10608_getCondition_gacksung",
+      "content": "69472 37247 28646 2244787 4 6875 96 48 4723 3"
+    },
+    {
+      "id": "10108_getCondition_normal",
+      "content": "1406732 37247 28646 2244787 4 57 2175"
+    },
+    {
+      "id": "10108_getCondition_gacksung",
+      "content": "69472 37247 28646 2244787 4 57 2175 48 4723 3"
+    },
+    {
+      "id": "10808_getCondition_normal",
+      "content": "1406732 462 920683 4194177 7268129"
+    },
+    {
+      "id": "10808_getCondition_gacksung",
+      "content": "69472 462 920683 4194177 7268129 48 4723 3"
+    },
+    {
+      "id": "10508_getCondition_normal",
+      "content": "1406732 69132 9772152 827483 826321694"
+    },
+    {
+      "id": "10508_getCondition_gacksung",
+      "content": "69472 69132 9772152 827483 826321694 48 4723 3"
+    },
+    {
+      "id": "10208_getCondition_normal",
+      "content": "1406732 69132 9772152 21926 41624"
+    },
+    {
+      "id": "10208_getCondition_gacksung",
+      "content": "69472 69132 9772152 21926 41624 48 4723 3"
+    },
+    {
+      "id": "11208_getCondition_normal",
+      "content": "1406732 86388688 4917 4194177 532583"
+    },
+    {
+      "id": "11208_getCondition_gacksung",
+      "content": "69472 86388688 4917 4194177 532583 48 4723 3"
+    },
+    {
+      "id": "10308_getCondition_normal",
+      "content": "1406732 69132 9772152 21926 387 0673842"
+    },
+    {
+      "id": "10308_getCondition_gacksung",
+      "content": "69472 69132 9772152 21926 387 0673842 48 4723 3"
+    },
+    {
+      "id": "10908_getCondition_normal",
+      "content": "1406732 976 28646 2244787 4 37324483 383787"
+    },
+    {
+      "id": "10908_getCondition_gacksung",
+      "content": "69472 976 28646 2244787 4 37324483 383787 48 4723 3"
+    },
+    {
+      "id": "10407_getCondition_normal",
+      "content": "1406732 976 28646 2244787 4 358266"
+    },
+    {
+      "id": "10407_getCondition_gacksung",
+      "content": "69472 976 28646 2244787 4 358266 48 4723 3"
+    },
+    {
+      "id": "10708_getCondition_normal",
+      "content": "1406732 \u00d6647 28646 2244787 3 6214649744"
+    },
+    {
+      "id": "10708_getCondition_gacksung",
+      "content": "69472 \u00d6647 28646 2244787 3 6214649744 48 4723 3"
+    },
+    {
+      "id": "11108_getCondition_normal",
+      "content": "1406732 164623775 6275642 46724 664923 86472"
+    },
+    {
+      "id": "11108_getCondition_gacksung",
+      "content": "69472 164623775 6275642 46724 664923 86472 48 4723 3"
+    },
+    {
+      "id": "10509_getCondition_normal",
+      "content": "1406732 3213 3166742 6822 826321694"
+    },
+    {
+      "id": "10509_getCondition_gacksung",
+      "content": "69472 3213 3166742 6822 826321694 48 4723 3"
+    },
+    {
+      "id": "11209_getCondition_normal",
+      "content": "1406732 23513 418795 6273 532583"
+    },
+    {
+      "id": "11209_getCondition_gacksung",
+      "content": "69472 23513 418795 6273 532583 48 4723 3"
+    },
+    {
+      "id": "10209_getCondition_normal",
+      "content": "1406732 164623775 6275642 664923 41624"
+    },
+    {
+      "id": "10209_getCondition_gacksung",
+      "content": "69472 164623775 6275642 664923 41624 48 4723 3"
+    },
+    {
+      "id": "10408_getCondition_normal",
+      "content": "1406732 23513 418795 46724 664923 358266"
+    },
+    {
+      "id": "10408_getCondition_gacksung",
+      "content": "69472 23513 418795 46724 664923 358266 48 4723 3"
+    },
+    {
+      "id": "10809_getCondition_normal",
+      "content": "1406732 23513 418795 664923 7268129"
+    },
+    {
+      "id": "10809_getCondition_gacksung",
+      "content": "69472 23513 418795 664923 7268129 48 4723 3"
+    },
+    {
+      "id": "11009_getCondition_normal",
+      "content": "1406732 3117 844742 47323 27749173"
+    },
+    {
+      "id": "11009_getCondition_gacksung",
+      "content": "69472 3117 844742 47323 27749173 48 4723 3"
+    },
+    {
+      "id": "10109_getCondition_normal",
+      "content": "1406732 462 3775 98774799724 2463274 57 2175"
+    },
+    {
+      "id": "10109_getCondition_gacksung",
+      "content": "69472 462 3775 98774799724 2463274 57 2175 48 4723 3"
+    },
+    {
+      "id": "11109_getCondition_normal",
+      "content": "1406732 462 3775 98774799724 2463274 86472"
+    },
+    {
+      "id": "11109_getCondition_gacksung",
+      "content": "69472 462 3775 98774799724 2463274 86472 48 4723 3"
+    },
+    {
+      "id": "10609_getCondition_normal",
+      "content": "1406732 37243744 20 56383755 6875 96"
+    },
+    {
+      "id": "10609_getCondition_gacksung",
+      "content": "69472 37243744 20 56383755 6875 96 48 4723 3"
+    },
+    {
+      "id": "10409_getCondition_normal",
+      "content": "1406732 37243744 20 56383755 358266"
+    },
+    {
+      "id": "10409_getCondition_gacksung",
+      "content": "69472 37243744 20 56383755 358266 48 4723 3"
+    },
+    {
+      "id": "10309_getCondition_normal",
+      "content": "1406732 4 4839. 49122 3 4899244787 24144 387 0673842"
+    },
+    {
+      "id": "10309_getCondition_gacksung",
+      "content": "69472 4 4839. 49122 3 4899244787 24144 387 0673842 48 4723 3"
+    },
+    {
+      "id": "10909_getCondition_normal",
+      "content": "1406732 4 4839. 49122 2 4899244787 24144 383787"
+    },
+    {
+      "id": "10909_getCondition_gacksung",
+      "content": "69472 4 4839. 49122 2 4899244787 24144 383787 48 4723 3"
+    },
+    {
+      "id": "10510_getCondition_normal",
+      "content": "1406732 37247 28646 2244787 4 37324483 826321694"
+    },
+    {
+      "id": "10510_getCondition_gacksung",
+      "content": "69472 37247 28646 2244787 4 37324483 826321694 48 4723 3"
+    },
+    {
+      "id": "11110_getCondition_normal",
+      "content": "1406732 1 4839. 4921769 4194177 86472"
+    },
+    {
+      "id": "11110_getCondition_gacksung",
+      "content": "69472 1 4839. 93 4921769 4194177 86472 48 4723 3"
+    },
+    {
+      "id": "10210_getCondition_normal",
+      "content": "1406732 8694743148 844742 329 41624"
+    },
+    {
+      "id": "10210_getCondition_gacksung",
+      "content": "69472 8694743148 844742 329 41624 48 4723 3"
+    },
+    {
+      "id": "10709_getCondition_normal",
+      "content": "1406732 8694743148 844742 47323 6214649744"
+    },
+    {
+      "id": "10709_getCondition_gacksung",
+      "content": "69472 8694743148 844742 47323 6214649744 48 4723 3"
+    },
+    {
+      "id": "10710_getCondition_normal",
+      "content": "1406732 1793 6674 6214649744"
+    },
+    {
+      "id": "10710_getCondition_gacksung",
+      "content": "69472 1793 6674 6214649744 48 4723 3"
+    },
+    {
+      "id": "10110_getCondition_normal",
+      "content": "1406732 98684885 2.5.8::289287 918274 57 2175"
+    },
+    {
+      "id": "10110_getCondition_gacksung",
+      "content": "69472 98684885 2.5.8::289287 918274 57 2175 48 4723 3"
+    },
+    {
+      "id": "10410_getCondition_normal",
+      "content": "1406732 98684885 2.5.8::323 2522 & 927742742 358266"
+    },
+    {
+      "id": "10410_getCondition_gacksung",
+      "content": "69472 98684885 2.5.8::323 2522 & 927742742 358266 48 4723 3"
+    },
+    {
+      "id": "10910_getCondition_normal",
+      "content": "1406732 325514' 78346 2244787 3 383787"
+    },
+    {
+      "id": "10910_getCondition_gacksung",
+      "content": "69472 325514' 78346 2244787 3 383787 48 4723 3"
+    },
+    {
+      "id": "10810_getCondition_normal",
+      "content": "1406732 2127 1224 2244787 3 7268129"
+    },
+    {
+      "id": "10810_getCondition_gacksung",
+      "content": "69472 2127 1224 2244787 3 7268129 48 4723 3"
+    },
+    {
+      "id": "10511_getCondition_normal",
+      "content": "1406732 4770 1224 2244787 3 826321694"
+    },
+    {
+      "id": "10511_getCondition_gacksung",
+      "content": "69472 4770 1224 2244787 3 826321694 48 4723 3"
+    },
+    {
+      "id": "11010_getCondition_normal",
+      "content": "1406732 2127 1224 2244787 3 27749173"
+    },
+    {
+      "id": "11010_getCondition_gacksung",
+      "content": "69472 2127 1224 2244787 3 27749173 48 4723 3"
+    },
+    {
+      "id": "11111_getCondition_normal",
+      "content": "1406732 462 613623 84 91 8174619173 86472"
+    },
+    {
+      "id": "11111_getCondition_gacksung",
+      "content": "69472 462 613623 84 91 8174619173 86472 48 4723 3"
+    },
+    {
+      "id": "10610_getCondition_normal",
+      "content": "1406732 41756674 844742 47323 6875 96"
+    },
+    {
+      "id": "10610_getCondition_gacksung",
+      "content": "69472 41756674 844742 47323 6875 96 48 4723 3"
+    },
+    {
+      "id": "11210_getCondition_normal",
+      "content": "1406732 462 937224 84 91 8174619173 532583"
+    },
+    {
+      "id": "11210_getCondition_gacksung",
+      "content": "69472 462 937224 84 91 8174619173 532583 48 4723 3"
+    },
+    {
+      "id": "10911_getCondition_normal",
+      "content": "1406732 462 93774222 84 91 8174619173 383787"
+    },
+    {
+      "id": "10911_getCondition_gacksung",
+      "content": "69472 462 93774222 84 91 8174619173 383787 48 4723 3"
+    },
+    {
+      "id": "11011_getCondition_normal",
+      "content": "1406732 325514' 78346 2244787 3 27749173"
+    },
+    {
+      "id": "11011_getCondition_gacksung",
+      "content": "69472 325514' 78346 2244787 3 27749173 48 4723 3"
+    },
+    {
+      "id": "10310_getCondition_normal",
+      "content": "1406732 462 8171523 84 91 8174619173 387 0673842"
+    },
+    {
+      "id": "10310_getCondition_gacksung",
+      "content": "69472 462 8171523 84 91 8174619173 387 0673842 48 4723 3"
+    },
+    {
+      "id": "10611_getCondition_normal",
+      "content": "1406732 4699-2489 844742 329 6875 96"
+    },
+    {
+      "id": "10611_getCondition_gacksung",
+      "content": "69472 4699-2489 844742 329 6875 96 48 4723 3"
+    },
+    {
+      "id": "10711_getCondition_normal",
+      "content": "1406732 4699-2489 844742 47323 6214649744"
+    },
+    {
+      "id": "10711_getCondition_gacksung",
+      "content": "69472 4699-2489 844742 47323 6214649744 48 4723 3"
+    },
+    {
+      "id": "10211_getCondition_normal",
+      "content": "1406732 942 2.5.8::13383 6982288 2413 41624"
+    },
+    {
+      "id": "10211_getCondition_gacksung",
+      "content": "69472 942 2.5.8::13383 6982288 2413 41624 48 4723 3"
+    },
+    {
+      "id": "10111_getCondition_normal",
+      "content": "1406732 942 2.5.8::9174237 57 2175"
+    },
+    {
+      "id": "10111_getCondition_gacksung",
+      "content": "69472 942 2.5.8::9174237 57 2175 48 4723 3"
+    },
+    {
+      "id": "10811_getCondition_normal",
+      "content": "1406732 86388688 4917 4194177 7268129"
+    },
+    {
+      "id": "10811_getCondition_gacksung",
+      "content": "69472 86388688 4917 4194177 7268129 48 4723 3"
+    },
+    {
+      "id": "10712_getCondition_normal",
+      "content": "1406732 86388688 4917 1181266 6214649744"
+    },
+    {
+      "id": "10712_getCondition_gacksung",
+      "content": "69472 86388688 4917 1181266 6214649744 48 4723 3"
+    },
+    {
+      "id": "10112_getCondition_normal",
+      "content": "1406732 976 28646 2244787 3 57 2175"
+    },
+    {
+      "id": "10112_getCondition_gacksung",
+      "content": "69472 976 28646 2244787 3 57 2175 48 4723 3"
+    },
+    {
+      "id": "10311_getCondition_normal",
+      "content": "1406732 4770 2124 2244787 3 387 0673842"
+    },
+    {
+      "id": "10311_getCondition_gacksung",
+      "content": "69472 4770 2124 2244787 3 387 0673842 48 4723 3"
+    },
+    {
+      "id": "11211_getCondition_normal",
+      "content": "1406732 47324724 844742 26357583 532583"
+    },
+    {
+      "id": "11211_getCondition_gacksung",
+      "content": "69472 47324724 844742 26357583 532583 48 4723 3"
+    },
+    {
+      "id": "11112_getCondition_normal",
+      "content": "1406732 6272686 9148 - 818 631746 86472"
+    },
+    {
+      "id": "11112_getCondition_gacksung",
+      "content": "69472 6272686 9148 - 818 631746 86472 48 4723 3"
+    },
+    {
+      "id": "10411_getCondition_normal",
+      "content": "1406732 6272686 9148 - 818 631746 358266"
+    },
+    {
+      "id": "10411_getCondition_gacksung",
+      "content": "69472 6272686 9148 - 818 631746 358266 48 4723 3"
+    },
+    {
+      "id": "11012_getCondition_normal",
+      "content": "1406732 462 873392 974492 6384623 27749173"
+    },
+    {
+      "id": "11012_getCondition_gacksung",
+      "content": "69472 462 873392 974492 6384623 27749173 48 4723 3"
+    },
+    {
+      "id": "10612_getCondition_normal",
+      "content": "1406732 3 4839. 446 9148 32773223 6875 96"
+    },
+    {
+      "id": "10612_getCondition_gacksung",
+      "content": "69472 3 4839. 446 9148 32773223 6875 96 48 4723 3"
+    },
+    {
+      "id": "11212_getCondition_normal",
+      "content": "1406732 6272686 9148 - 27 631746 532583"
+    },
+    {
+      "id": "11212_getCondition_gacksung",
+      "content": "69472 6272686 9148 - 27 631746 532583 48 4723 3"
+    },
+    {
+      "id": "10912_getCondition_normal",
+      "content": "1406732 6272686 9148 - 27 631746 383787"
+    },
+    {
+      "id": "10912_getCondition_gacksung",
+      "content": "69472 6272686 9148 - 27 631746 383787 48 4723 3"
+    },
+    {
+      "id": "10212_getCondition_normal",
+      "content": "1406732 6272686 9148 - 818 631746 13294 41624"
+    },
+    {
+      "id": "10212_getCondition_gacksung",
+      "content": "69472 6272686 9148 - 818 631746 13294 41624 48 4723 3"
+    }
+  ]
+}

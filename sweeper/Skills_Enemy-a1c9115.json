@@ -1,0 +1,62 @@
+{
+  "dataList": [
+    {
+      "id": 9101905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "285-49213775 464",
+          "desc": "[StartBattle] 74 462 8177 413524 612 5+ [Laceration], 148 127564 +1\n[StartBattle] 74 4672 6774 1799 622 4+ 144148 287992 4672 4637, 47719 98123 +5\n[WinDuel] 199 199722 6219 15 29\n74 413524 612 7+ [Laceration], 3219 +30% 318152",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 7749744 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 7749744 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "74 413524 612 7+ [Laceration], 3219 +50% 318152"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +10 [Laceration] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "36922 84 462 61482432242",
+          "desc": "[WhenUse] 133 1 8832 4877 923 25235 263575775 84623 1995 (813 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Laceration] 173 +2 [Laceration] 48674"
+                },
+                {
+                  "desc": "[EnemyKill] 199 199722 6219 20 29"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

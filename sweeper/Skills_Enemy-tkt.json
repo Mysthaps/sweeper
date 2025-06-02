@@ -1,0 +1,851 @@
+{
+  "dataList": [
+    {
+      "id": 9014001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "1115 1746 586",
+          "desc": "[WhenUse] 5177 +2 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 [Vibration] 48674 20619 48 [Vibration] 48674 87 413524"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 5177 +2 [Vibration] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "85 224324 121987",
+          "desc": "[WhenUse] 5177 +2 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "479465 11446 461772!",
+          "desc": "49126 98123 +1 483 25235 5 [Vibration] 48674 87 2294 (813 2)\n[WhenUse] 4375523 [Switch_Vibration] 48 4875234 [Vibration] 87 2294 48 [VibrationDistribution]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [Vibration] 48674 20619 48 [Vibration] 48674 87 2294"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "56133",
+          "desc": "[StartBattle] 5177 2 3 ([Vibration] 48674 87 2294) 267293 69 (813 20)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "86441 85 115",
+          "desc": "[WhenUse] 5177 +2 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 [Vibration] 20619 48 [Vibration] 87 413524"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 6 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 5177 +2 [Vibration] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "7'8 932445 5883, 586 8781",
+          "desc": "[WhenUse] 5177 +2 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "5792 11446 461772!",
+          "desc": "49126 98123 +1 483 25235 5 [Vibration] 48674 87 2294 (813 2)\n[WhenUse] 4375523 [Switch_Vibration] 48 4875234 [Vibration] 87 2294 48 [VibrationDistribution]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 [Vibration] 20619 48 [Vibration] 87 413524"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "56133",
+          "desc": "[StartBattle] 5177 2 3 ([Vibration] 48674 87 2294) 267293 69 (813 20)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6152 586 78 26182?",
+          "desc": "[WhenUse] 5177 +1 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "7 222, 586 6152 78 26182",
+          "desc": "[WhenUse] 5177 +1 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "417 586 9384244 4628?",
+          "desc": "[WhenUse] 5177 +1 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 14 10+ [Vibration] 48674 87 2294, 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 15+ [Vibration] 9842745, 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "417'4 622 4614 121987 781",
+          "desc": "[WhenUse] 5177 +2 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [Switch_Vibration] 7748 [VibrationCollapse]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "32135 483 1 6214775?",
+          "desc": "93783747222 4135242 1746 [VibrationCollapse]\n[WhenUse] 19995 [Vibration] 48674 20619 48 [Vibration] 48674 87 2294 48 199 84623 199722\n[WhenUse] 4375523 [Switch_Vibration] 87 199 199722(774963775 4672 6774) 48 4875234 46273 [Vibration] 48 [VibrationDistribution]",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 10 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [FusionVibration] 7748 [VibrationEcho]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "56133",
+          "desc": "[StartBattle] 5177 3 3 ([Vibration] 48674 87 2294) 267293 69 (813 30)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "483 462 5321423 5883",
+          "desc": "[CantDuel]\n[StartBattle] 3311 199 84623 199722' [Vibration] 48674 48 2294; [Vibration] 87 199 199722 239732\n[StartBattle] 5177 1 [AttackUp] 483 25235 3 [Vibration] 48674 87 2294\n[WhenUse] 5177 9 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 10 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 3219 10% 68762 29846 318152 483 25235 [Vibration] 48674 87 2294"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +4 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 3219 10% 68762 29846 318152 483 25235 [Vibration] 48674 87 2294"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4872682 3 [Vibration] 48674 87 2294, 173 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4872682 3 [Vibration] 48674 87 2294, 173 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4872682 3 [Vibration] 48674 87 2294, 173 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4899244787 2489-173-221346",
+          "desc": "[WhenUse] 5177 +1 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 4+ [Vibration] 48674, 7749744 1 [InterlockingTime]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 4+ [Vibration] 48674, 7749744 1 [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 [Vibration] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "992122 2489.",
+          "desc": "[WhenUse] 5177 +2 [Vibration] 48674\n[WhenUse] 14 4+ [Vibration] 48674, 49126 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Paralysis] 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 14 4+ [Vibration] 48674, 7749744 8 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Binding] 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 14 4+ [Vibration] 48674, 7749744 8 [Vibration] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "274834775 48992447872.",
+          "desc": "[WhenUse] 49126 98123 +1 483 25235 5 [Vibration] 48674 87 2294 (813 2)\n[WhenUse] 14 5+ [Vibration] 48674, 3219 +10% 318152 483 25235 [Vibration] 48674. (813 100%)\n[EndSkill] 4872682 199 [Vibration] 48674 87 2294",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [Vibration] 48674 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 8+ [Vibration], 7749744 1 [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 14 4+ [Vibration] 48674, 7749744 8 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [Vibration] 48674 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 4+ [Vibration] 48674, 7749744 1 [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 14 4+ [Vibration] 48674, 7749744 5 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 14 7+ [Vibration] 48674, 7749744 1 [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 14 4+ [Vibration] 48674, 4375523 [Switch_Vibration] 7748 [VibrationChain]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "683381 4782",
+          "desc": "[StartBattle] 4872682 5 [Vibration] 48674 173 5177 +3 [TimeRentalTwo] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9329132 48 4899244",
+          "desc": "[WhenUse] 5177 +2 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 14 3+ [Vibration] 48674, 7749744 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 5177 +1 [Vibration] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4 4839. 14429231423 189641483",
+          "desc": "[WhenUse] 5177 +2 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Vulnerable] 7234 4637"
+                },
+                {
+                  "desc": "7749744 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Vulnerable] 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "5863 478297242, 74 586 1799.",
+          "desc": "[WhenUse] 14 5+ [Vibration] 48674, 49126 98123 +1\n[WhenUse] 5177 +2 [Vibration] 48674\n[WinDuel] 4872682 3 [Vibration] 48674 87 2294 173 5177 +1 [TimeRentalTwo] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Vulnerable] 7234 4637"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 144148 98123 3817 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 14 5+ [Vibration] 48674, 4375523 [Switch_Vibration] 7748 [VibrationChain]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "274834775 48992447872.",
+          "desc": "[WhenUse] 5177 +3 [Vibration] 48674\n[WhenUse] 6122 98123 +1 483 25235 4 [Vibration] 48674 87 2294 (813 3)\n[WinDuel] 4872682 5 [Vibration] 48674 87 2294 173 5177 +3 [TimeRentalTwo] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4872682 1 [Vibration] 48674 87 2294 48 7749744 1 4315792"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4872682 1 [Vibration] 48674 87 2294 48 7749744 +3 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4872682 1 [Vibration] 48674 87 2294 48 7749744 8 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4872682 2 [Vibration] 48674 87 2294 48 4375523 [VibrationExplosion]; 4627, 32622 4672 4877 (1 4782 813)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4872682 5 [Vibration] 48674 87 2294 48 7749744 2 [TimeAccumulation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "683381 4782",
+          "desc": "[StartBattle] 4872682 4 [Vibration] 48674 173 5177 +3 [TimeRentalTwo] 48674\n[StartBattle] 5177 +2 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9329132 48 4899244",
+          "desc": "[WhenUse] 5177 +2 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 14 3+ [Vibration] 48674, 7749744 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 5177 +1 [Vibration] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4 4839. 4782 27132",
+          "desc": "[WhenUse] 5177 +2 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4872682 1 [Vibration] 48674 87 2294 48 7749744 2 [Paralysis] 7234 4637. 7749744 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4872682 1 [Vibration] 48674 87 2294 48 7749744 2 [Paralysis] 7234 4637. 7749744 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "24173 24799.",
+          "desc": "[WhenUse] 14 5+ [Vibration] 48674, 49126 98123 +1\n[WhenUse] 5177 +2 [Vibration] 48674\n[WinDuel] 4872682 3 [Vibration] 48674 87 2294 173 5177 +1 [TimeRentalTwo] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4872682 2 [Vibration] 48674 87 2294 48 7749744 2 [Binding] 7234 4637"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4872682 2 [Vibration] 48674 87 2294 48 7749744 2 [ParryingResultDown] 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "274834775 48992447872.",
+          "desc": "[WhenUse] 5177 +3 [Vibration] 48674\n[WhenUse] 6122 98123 +1 483 25235 4 [Vibration] 48674 87 2294 (813 3)\n[WinDuel] 4872682 5 [Vibration] 48674 87 2294 173 5177 +3 [TimeRentalTwo] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4872682 1 [Vibration] 48674 87 2294 48 7749744 1 4315792"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4872682 1 [Vibration] 48674 87 2294 48 7749744 +3 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4872682 1 [Vibration] 48674 87 2294 48 7749744 8 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4872682 2 [Vibration] 48674 87 2294 48 4375523 [VibrationExplosion]; 4627, 32622 4672 4877 (1 4782 813)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4872682 5 [Vibration] 48674 87 2294 48 7749744 2 [TimeAccumulation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "683381 4782",
+          "desc": "[StartBattle] 4872682 4 [Vibration] 48674 173 5177 +3 [TimeRentalTwo] 48674\n[StartBattle] 5177 +2 [Vibration] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

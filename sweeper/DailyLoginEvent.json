@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "id": "daily_login_event_title",
+      "content": "3899 4199 25274"
+    },
+    {
+      "id": "daily_login_event_description",
+      "content": "\u203b 586 417 3242752 985-77 3211332 2146 315 1627 27423775 462 5182 61223 87 462 5182\u20192 31795 322242 (3-0 06:00 ~ 3+1 05:59 <KST>).\n\u203b 674917823 3211332 132 9824 462 7234 315, 28 992122 8182 2632 48 323228 4628 77 4782."
+    },
+    {
+      "id": "daily_login_event_weekly_format",
+      "content": "1228 {0}"
+    },
+    {
+      "id": "daily_login_halloween_title",
+      "content": "619981227 1442731742 46248 25274"
+    },
+    {
+      "id": "daily_login_halloween_desc",
+      "content": "\u25b6 3242752 1 \u300c32412343144787 474824\u300d 65 4899244775 7 1442731742 462482"
+    },
+    {
+      "id": "daily_login_seventh_anniversary_desc",
+      "content": "985 77 363775 462 25274 923783\n173 3242752 1 32412343144787 474824"
+    }
+  ]
+}

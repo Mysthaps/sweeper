@@ -1,0 +1,22 @@
+{
+  "dataList": [
+    {
+      "id": 1019,
+      "panicName": "872261927 91774775",
+      "lowMoraleDescription": "5177 1 [Enhancement] 173 1 [Vulnerable]",
+      "panicDescription": "5177 1 [PlusCoinValueUp] 173 3 [Vulnerable]."
+    },
+    {
+      "id": 1021,
+      "panicName": "3252752",
+      "lowMoraleDescription": "5177 3 [DefenseDown] 173 3 [AttackDmgUp]",
+      "panicDescription": "5177 6 [DefenseDown] 173 5 [AttackDmgUp]"
+    },
+    {
+      "id": 1022,
+      "panicName": "614323",
+      "lowMoraleDescription": "49126 177: 5177 1 [AttackUp] 7234 4637. (3 47822 923 4637)\n49126 9822: 5177 1 [DefenseUp]. (3 47822 923 4637)",
+      "panicDescription": "49126 177: 5177 1 [AttackUp] 4672 4637 173 7234 4637 (3 47822 923 4637)\n49126 9822: 5177 1 [DefenseUp] (3 47822 923 4637)\n4637 273: 5177 2 [Agility] 7234 4637"
+    }
+  ]
+}

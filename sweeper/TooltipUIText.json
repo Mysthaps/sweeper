@@ -1,0 +1,72 @@
+{
+  "dataList": [
+    {
+      "id": "unit_info_tooltip_status_0",
+      "content": "813 69"
+    },
+    {
+      "id": "unit_info_tooltip_status_1",
+      "content": "29223 31752"
+    },
+    {
+      "id": "unit_info_tooltip_attack_resist_0",
+      "content": "29126 3227241742"
+    },
+    {
+      "id": "unit_info_tooltip_attack_resist_1",
+      "content": "972342 3227241742"
+    },
+    {
+      "id": "unit_info_tooltip_attack_resist_2",
+      "content": "69674 3227241742"
+    },
+    {
+      "id": "unit_info_tooltip_attribute_resist_0",
+      "content": "13146 3227241742"
+    },
+    {
+      "id": "unit_info_tooltip_attribute_resist_1",
+      "content": "9624 3227241742"
+    },
+    {
+      "id": "unit_info_tooltip_attribute_resist_2",
+      "content": "29846 3227241742"
+    },
+    {
+      "id": "unit_info_tooltip_attribute_resist_3",
+      "content": "59644875 3227241742"
+    },
+    {
+      "id": "unit_info_tooltip_attribute_resist_4",
+      "content": "59888 3227241742"
+    },
+    {
+      "id": "unit_info_tooltip_attribute_resist_5",
+      "content": "93732 3227241742"
+    },
+    {
+      "id": "unit_info_tooltip_attribute_resist_6",
+      "content": "2755 3227241742"
+    },
+    {
+      "id": "unit_info_tooltip_skill_count",
+      "content": "768623 84 28799 489722 77 462 28799 9889"
+    },
+    {
+      "id": "unit_info_tooltip_targetting_count",
+      "content": "144148 127564"
+    },
+    {
+      "id": "unit_info_tooltip_targetting_count_desc",
+      "content": "768623 84 28799 29842 4672 28799 417 413524"
+    },
+    {
+      "id": "unit_info_tooltip_ego_resource",
+      "content": "768623 84 2.5.8 322863422 32067323 483 4672 28799"
+    },
+    {
+      "id": "tooltip_ego_resource_ui",
+      "content": "768623 84 81723 2.5.8 322863422"
+    }
+  ]
+}

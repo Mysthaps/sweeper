@@ -1,0 +1,34 @@
+{
+  "dataList": [
+    {
+      "id": 1029,
+      "panicName": "56794",
+      "lowMoraleDescription": "4637 273: 5177 1 [Vulnerable] 173 [MentalIncreaseDown] 7234 4637",
+      "panicDescription": "4637 273: 5177 2 [Vulnerable] 173 [MentalIncreaseDown] 7234 4637."
+    },
+    {
+      "id": 1031,
+      "panicName": "32217567714787",
+      "lowMoraleDescription": "74 462 413524 3822 784 6152 [Laceration], 49126 98123 -1; 87 674, 6219 69 20619 48 [Laceration] 9842745 87 462 413524",
+      "panicDescription": "74 462 413524 612 [Laceration], 49126 98123 +2; 74 462 413524 3822 784 6152 [Laceration], 49126 98123 -2; 87 674, 6219 69 20619 48 [Laceration] 9842745 87 462 413524"
+    },
+    {
+      "id": 1032,
+      "panicName": "56794",
+      "lowMoraleDescription": "4637 273: 5177 1 [Vulnerable] 173 [MentalIncreaseDown] 7234 4637",
+      "panicDescription": "4637 273: 5177 2 [Vulnerable] 173 [MentalIncreaseDown] 7234 4637."
+    },
+    {
+      "id": 1034,
+      "panicName": "663327 84 32298727679745",
+      "lowMoraleDescription": "- 5177 2 [Enhancement] 173 1 [Vulnerable]; 31722 813 29223 51962 65 2\n- 6219 +30% 8832 69 1627 6219775\n- 4637 273: 74 462 [RegainedStrength] 72 98123 4617 742 51962 14 4637 24134, 5177 2 [AttackUp] 173 [DefenseDown] 7234 4637",
+      "panicDescription": "- 5177 2 [Enhancement] 173 31722 813 29223 51962 65 2\n- 6219 +50% 8832 69 1627 6219775\n- 4637 273: 74 462 [RegainedStrength] 72 98123 4617 742 51962 14 4637 24134, 5177 3 [AttackUp] 173 5 [DefenseDown] 7234 4637"
+    },
+    {
+      "id": 1033,
+      "panicName": "32111827775 785 84 4137152",
+      "lowMoraleDescription": "25235 4637 24134: 5177 2 [AttackUp]; +2 29 2447472745",
+      "panicDescription": "4637 24134: 5177 6 [DefenseUp], 173 5177 3 [AttackUp] 7234 4637"
+    }
+  ]
+}
