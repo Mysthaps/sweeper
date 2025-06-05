@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Mirror Dungeon of the Fathoms",
+      "place": "873383 3675287 84 462 4146882",
       "model": "\ub2e8\ud14c",
       "content": "<Ah, the dungeon...>"
     },
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "place": "Yong-jin Building 6F Office",
+      "place": "5875-777 66793775 64 844742",
       "content": "9782 1 873152, 462 4146882 84 258 62517 48 4199 19134."
     },
     {
@@ -647,7 +647,7 @@
     },
     {
       "id": 118,
-      "place": "Aboard Mephistopheles",
+      "place": "168133 82967248962922",
       "model": "\ub85c\uc7c8",
       "content": "162172, 12 321995 317 7748 1 984 84 928992 77 2646 1 26834 4782, 666?"
     },

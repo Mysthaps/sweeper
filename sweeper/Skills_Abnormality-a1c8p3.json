@@ -569,7 +569,7 @@
         {
           "level": 1,
           "name": "297319 1139 47293",
-          "desc": "[DuelGuard]\n[StartBattle] 771 6617 173 5668 5177 30 267293\n[WinDuel] 771 6617 173 5668 5177 30 267293",
+          "desc": "[CanDuelGuard]\n[StartBattle] 771 6617 173 5668 5177 30 267293\n[WinDuel] 771 6617 173 5668 5177 30 267293",
           "coinlist": [
             {
               "coindescs": [
@@ -986,7 +986,7 @@
         {
           "level": 1,
           "name": "488992423 6273717 68962 - 586 [\u9149] - 3242722",
-          "desc": "[WhenUse] 74 413524 612 5+ (268 84 [Laceration] + [Burst]), 4877 98123 +2\n[WhenUse] 6219 8 29\n[WhenUse] 5177 3 [Breath] 173 +2 [Breath] 48674",
+          "desc": "[CanDuelGuard]\n[WhenUse] 74 413524 612 5+ (268 84 [Laceration] + [Burst]), 4877 98123 +2\n[WhenUse] 6219 8 29\n[WhenUse] 5177 3 [Breath] 173 +2 [Breath] 48674",
           "coinlist": [
             {
               "coindescs": [
@@ -1156,9 +1156,15 @@
         {
           "level": 1,
           "name": "7846775 664 1 82177759222 24365592...!",
-          "desc": "[WhenUse] 4877 98123 +1 483 25235 5 (268 84 [Laceration] 173 [Burst] 87 413524) (813 3)\n[WinDuel] 7749744 +1 [Burst] 48674, 7749744 2 [DefenseDown]",
+          "desc": "[CanDuelGuard]\n[WinDuel] 771 86 62192 15 29. 14 0 29, 6219 30 29 7724213.",
           "coinlist": [
-            {}
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
           ]
         }
       ]
@@ -1339,7 +1345,7 @@
         {
           "level": 1,
           "name": "17 84423775 84 2343282 234314423 78883419745 [\u6975\u4ed9\u69a8\u6ef4\u4f9b\u990a]",
-          "desc": "[CantIdentify]\n4672 28799 417784 3219 318152 48 199722\n[WhenUse] 4877 98123 +2 173 3219 +20% 318152 483 25235 1 1995 1746 [SupremeEternalLife]\n[WhenUse] 74 46232 1327'4 175 199722 1746 [SupremeEternalLife], 19995 200 267293 48 199 4135242\n[EndSkill] 2732 4637",
+          "desc": "[CantIdentify]\n4672 28799 417784 3219 318152 48 199722\n417 49126 1746 4672 28799 3251339222 84 29223; 417784 62 241552323 624832 62775 4672 28799\n[WhenUse] 4877 98123 +2 173 3219 +20% 318152 483 25235 1 1995 1746 [SupremeEternalLife]\n[WhenUse] 74 46232 1327'4 175 199722 1746 [SupremeEternalLife], 19995 200 267293 48 199 4135242\n[EndSkill] 2732 4637",
           "coinlist": [
             {
               "coindescs": [
@@ -1548,9 +1554,11 @@
         {
           "level": 1,
           "name": "7846775 664 1 82177759222 24365592...!",
-          "desc": "[WhenUse] 4877 98123 +1 483 25235 5 (268 84 [Laceration] 173 [Burst] 87 413524) (813 3)\n[WinDuel] 7749744 +1 [Burst] 48674, 7749744 2 [DefenseDown]",
+          "desc": "[CanDuelGuard]\n[WhenUse] 4877 98123 +1 483 25235 5 (268 84 [Laceration] 173 [Burst] 87 413524) (813 3)\n[WinDuel] 7749744 +1 [Burst] 48674, 7749744 2 [DefenseDown]",
           "coinlist": [
-            {}
+            {
+              "desc": "[SuperCoin]"
+            }
           ]
         }
       ]

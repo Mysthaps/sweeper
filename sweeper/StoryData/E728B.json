@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Backstreets of District 8, Kezhan Ruins",
+      "place": "61482432242 84 37243744 8, 822617 36772",
       "model": "\ub2e8\ud14c",
       "content": "<\u2026\u2026.>"
     },
@@ -41,7 +41,7 @@
     },
     {
       "id": 7,
-      "place": "Backstreets of District 8, Entrance",
+      "place": "61482432242 84 37243744 8, 27431742",
       "teller": "2775775 58742",
       "title": "???",
       "content": "483 1627 462 413 872 48822, 6241734 462 66374 38832 26199 1 2413 4199 124315~"
@@ -58,7 +58,7 @@
     },
     {
       "id": 10,
-      "place": "Backstreets of District 8, Kezhan Ruins",
+      "place": "61482432242 84 37243744 8, 822617 36772",
       "model": "\ub2e8\ud14c",
       "content": "<... Name's Dante. I'm their manager.>"
     },
@@ -381,7 +381,7 @@
     },
     {
       "id": 65,
-      "place": "Backstreets of District 8",
+      "place": "61482432242 84 37243744 8",
       "model": "\uac00\uc2dc\ucd98",
       "title": "771 418795",
       "content": "... 5216, 173 4614'2 932445 8646 2523546775 4614'2 61992723."

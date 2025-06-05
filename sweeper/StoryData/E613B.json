@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Alleyways of T Corp.",
+      "place": "199251152 84 4 4839.",
       "content": "38351 112 191152 462 872 48 9744 462 4218'2 8883 1627 74'2 3817, 664..."
     },
     {
@@ -111,7 +111,7 @@
     },
     {
       "id": 22,
-      "place": "Yurodiviye Hideout Entrance",
+      "place": "5638375752 6732864 27431742",
       "model": "\uc720\ub85c\uc9c0\ube44\uba64\ubc842",
       "teller": "73142 14475724",
       "title": "37243744 20 56383755",
@@ -183,7 +183,7 @@
     },
     {
       "id": 33,
-      "place": "Dark Alleyways of T Corp.",
+      "place": "3138 199251152 84 4 4839.",
       "model": "\ub2e8\ud14c",
       "content": "<He'll always be watching, huh...>"
     },
@@ -261,7 +261,7 @@
     },
     {
       "id": 48,
-      "place": "T Corp. Watch Factory Past",
+      "place": "4 4839. 11446 4144835 9124",
       "model": "\ubc94\ube14",
       "teller": "668692",
       "title": "4 4839.",
@@ -269,7 +269,7 @@
     },
     {
       "id": 49,
-      "place": "Alleyways of T Corp. Past",
+      "place": "199251152 84 4 4839. 9124",
       "model": "T\uc0ac2\ub4f1\uae09",
       "teller": "49122 2 4899244787 24144",
       "title": "4 4839.",
@@ -277,7 +277,7 @@
     },
     {
       "id": 50,
-      "place": "Dark Alleyways of T Corp.",
+      "place": "3138 199251152 84 4 4839.",
       "model": "\ud0d0\uc815\ub85c\uc7c8",
       "content": "625, 122724174... 1614 1232 462 47324 418 5744782 38775 1627 462 379923 243648?"
     },

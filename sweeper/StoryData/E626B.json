@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "168133 82967248962922",
       "model": "\ub2e8\ud14c",
       "content": "<So this passageway leads straight into Mephistopheles...?>"
     },
@@ -372,7 +372,7 @@
     },
     {
       "id": 74,
-      "place": "Aboard Mephistopheles, Past",
+      "place": "168133 82967248962922, 9124",
       "model": "\ub2e8\ud14c",
       "content": "<Why are you always so... protective of those running shoes, Don Quixote?>"
     },
@@ -432,7 +432,7 @@
     },
     {
       "id": 86,
-      "place": "Dante's Room, Past",
+      "place": "31742'2 3888, 9124",
       "model": "\ub2e8\ud14c",
       "content": "<Don Quixote, don't tell me you go to sleep wearing those running sh\u2014 I mean, Rocinante.>"
     },
@@ -488,7 +488,7 @@
     },
     {
       "id": 98,
-      "place": "Aboard Mephistopheles",
+      "place": "168133 82967248962922",
       "model": "\ub2e8\ud14c",
       "content": "<Gnnngh\u2026!>"
     },

@@ -6,11 +6,11 @@
     },
     {
       "id": "GetConfirmedCoin",
-      "content": "<color=#ebcaa2>{reward}: {stack} 86417723!</color>"
+      "content": "<color=#ebcaa2>{stack} {reward} 13474144(2) 86417723!</color>"
     },
     {
       "id": "LoseConfirmedCoin",
-      "content": "<color=#ebcaa2>{reward}: {stack} 9824!</color>"
+      "content": "<color=#ebcaa2>{stack} {reward} 13474144(2) 9824!</color>"
     },
     {
       "id": "DestroyObject",

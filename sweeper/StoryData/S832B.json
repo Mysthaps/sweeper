@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Tienkan Temple Entrance, Past",
+      "place": "472817 428992 27431742, 9124",
       "model": "\ub354\uc5b4\ub9b0\ud64d\ub8e8",
       "content": "7 387'4 11771 58 772732... 7'8 241323..."
     },
@@ -68,7 +68,7 @@
     },
     {
       "id": 13,
-      "place": "Tienkan Temple Interior, Past",
+      "place": "472817 428992 77423783, 9124",
       "model": "\uc5b4\ub9b0\ud64d\ub8e8",
       "content": "... 7'8 6232."
     },
@@ -139,7 +139,7 @@
     },
     {
       "id": 27,
-      "place": "Tienkan Temple Interior",
+      "place": "472817 428992 77423783",
       "model": "\uac00\ubaa8",
       "content": "1294882, 974492 61856."
     },
@@ -682,7 +682,7 @@
     },
     {
       "id": 136,
-      "place": "Backstreets of District 8, Recent Past",
+      "place": "61482432242 84 37243744 8, 324274 9124",
       "model": "\uac00\uc2dc\ucd98",
       "title": "771 418795",
       "content": "72 4672 2527 5863 4199, 6384623?"
@@ -695,7 +695,7 @@
     },
     {
       "id": 138,
-      "place": "Tienkan Temple Interior",
+      "place": "472817 428992 77423783",
       "model": "\ud64d\ub8e8",
       "content": "6148 4627, 7 3737'4 321995 6732324173 165 586 12823 82 4614 06224787."
     },
@@ -728,7 +728,7 @@
     },
     {
       "id": 144,
-      "place": "Somewhere in Daguanyuan, Past",
+      "place": "288216232 77 3156175617, 9124",
       "model": "\uc5b4\ub9b0\uac00\uc2dc\ucd98",
       "content": "1888! 48315'2 6227 28 8646 467, 675 638."
     },
@@ -744,7 +744,7 @@
     },
     {
       "id": 147,
-      "place": "Tienkan Temple Interior",
+      "place": "472817 428992 77423783",
       "model": "\uac00\uc2dc\ucd98",
       "title": "771 418795",
       "content": "\u2026\u2026."
@@ -1162,7 +1162,7 @@
     },
     {
       "id": 231,
-      "place": "Front Gates of Daguanyuan, Past",
+      "place": "43874 51422 84 3156175617, 9124",
       "model": "\uacfc\uac70\ud64d\ub8e8",
       "content": "68... 7 387'4 6152 1 1726 83 17546775 9782 4614."
     },
@@ -1220,7 +1220,7 @@
     },
     {
       "id": 241,
-      "place": "Tienkan Temple Interior",
+      "place": "472817 428992 77423783",
       "model": "\ud64d\ub8e8",
       "content": "7 222. 781 87564 62 462 4782."
     },

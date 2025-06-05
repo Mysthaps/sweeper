@@ -74,7 +74,7 @@
     },
     {
       "id": 18,
-      "place": "P Corp. WARP train platform",
+      "place": "9 4839. 1139 43177 99144838",
       "model": "\ub3c8\ud0a4\ud638\ud14c",
       "content": "8171523 2206732... 681 674173 84 4622...!"
     },
@@ -159,7 +159,7 @@
     },
     {
       "id": 35,
-      "place": "Aboard Mephistopheles, Past",
+      "place": "168133 82967248962922, 9124",
       "model": "\uc2e4\ub8e8\uc5e3\ub3c8\ud0a4\ud638\ud14c",
       "teller": "387 0673842?",
       "title": "???",
@@ -270,7 +270,7 @@
     },
     {
       "id": 56,
-      "place": "P Corp. WARP train platform Past",
+      "place": "9 4839. 1139 43177 99144838 9124",
       "model": "\ub3c8\ud0a4\ud638\ud14c",
       "content": "\u2026\u2026."
     },
@@ -301,7 +301,7 @@
     },
     {
       "id": 62,
-      "place": "P Corp. WARP train platform",
+      "place": "9 4839. 1139 43177 99144838",
       "content": "173, 6148 48 9322274..."
     },
     {

@@ -783,6 +783,10 @@
     {
       "id": "run_forBattlePortraitStateText",
       "content": "4923"
+    },
+    {
+      "id": "ReturnPassUIText",
+      "content": "324637"
     }
   ]
 }

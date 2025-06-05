@@ -605,7 +605,7 @@
                   "desc": "[OnSucceedAttack] 7749744 2 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 74 4672 6774 612 30% 83 9222 69, 83 72 14 20 [YesdragonSelf] 24148, 32622 4672 28799 (8742 923 28799)"
+                  "desc": "[OnSucceedAttack] 74 4672 6774 612 30% 83 9222 69, 83 72 14 20 [YesdragonSelf] 24148, 32622 4672 4877 (8742 923 28799)"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttack] 4872682 199 69 87 2294 48 3219 +20% 318152 1746 4672 4877 (8742 923 4637)"
@@ -633,7 +633,7 @@
                   "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">3</style> [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 74 4672 6774 612 30% 83 9222 69, 83 72 14 20 [YesdragonSelf] 24148, 32622 4672 28799 (8742 923 28799)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 74 4672 6774 612 30% 83 9222 69, 83 72 14 20 [YesdragonSelf] 24148, 32622 4672 4877 (8742 923 28799)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttack] 4872682 199 69 87 2294 48 3219 +20% 318152 1746 4672 4877 (8742 923 4637)<style=\"highlight\"></style>"
@@ -664,7 +664,7 @@
                   "desc": "[OnSucceedAttack] 7749744 3 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 74 4672 6774 612 30% 83 9222 69, 83 72 14 20 [YesdragonSelf] 24148, 32622 4672 28799 (8742 923 28799)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 74 4672 6774 612 30% 83 9222 69, 83 72 14 20 [YesdragonSelf] 24148, 32622 4672 4877 (8742 923 28799)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttack] 4872682 199 69 87 2294 48 3219 +20% 318152 1746 4672 4877 (8742 923 4637)<style=\"highlight\"></style>"
@@ -697,7 +697,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 74 4672 6774 612 30% 83 9222 69, 83 72 14 20 [YesdragonSelf] 24148, 32622 4672 28799 (8742 923 28799)"
+                  "desc": "[OnSucceedAttack] 74 4672 6774 612 30% 83 9222 69, 83 72 14 20 [YesdragonSelf] 24148, 32622 4672 4877 (8742 923 28799)"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttack] 4872682 199 69 87 2294 48 3219 +20% 318152 1746 4672 4877 (8742 923 4637)"
@@ -725,7 +725,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 74 4672 6774 612 30% 83 9222 69, 83 72 14 20 [YesdragonSelf] 24148, 32622 4672 28799 (8742 923 28799)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 74 4672 6774 612 30% 83 9222 69, 83 72 14 20 [YesdragonSelf] 24148, 32622 4672 4877 (8742 923 28799)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttack] 4872682 199 69 87 2294 48 3219 +20% 318152 1746 4672 4877 (8742 923 4637)<style=\"highlight\"></style>"
@@ -756,7 +756,7 @@
                   "desc": "<style=\"highlight\"> 3219 +1% 318152 483 25235 2% 8722775 69 87 2294 (813 40%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 74 4672 6774 612 30% 83 9222 69, 83 72 14 20 [YesdragonSelf] 24148, 32622 4672 28799 (8742 923 28799)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 74 4672 6774 612 30% 83 9222 69, 83 72 14 20 [YesdragonSelf] 24148, 32622 4672 4877 (8742 923 28799)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttack] 4872682 199 69 87 2294 48 3219 +20% 318152 1746 4672 4877 (8742 923 4637)<style=\"highlight\"></style>"

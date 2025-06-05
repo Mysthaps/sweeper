@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "T Corp. WARP train platform",
+      "place": "4 4839. 1139 43177 99144838",
       "model": "\ub2e8\ud14c",
       "content": "<This place is huge...>"
     },
@@ -248,7 +248,7 @@
     },
     {
       "id": 48,
-      "place": "WARP Train First Class Cabin",
+      "place": "1139 43177 47324 49122 41677",
       "model": "\uadf8\ub808\uace0\ub974",
       "content": "3187..."
     },

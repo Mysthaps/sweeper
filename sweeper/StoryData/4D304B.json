@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "A Hallway in N Corp.",
+      "place": "1 6199115 77 7 4839.",
       "model": "\uad6c\ubcf4",
       "teller": "5668",
       "title": "7 4839.",
@@ -79,7 +79,7 @@
     },
     {
       "id": 12,
-      "place": "K Corp. Laboratory",
+      "place": "8 4839. 9168314835",
       "model": "\ub3d9\ub791",
       "teller": "38753175",
       "title": "8 4839. 3294. 84 4883 32286342 32529898274",
@@ -97,7 +97,7 @@
     },
     {
       "id": 15,
-      "place": "Rowdy League of Nine Litt\u00e9rateurs",
+      "place": "38135 921562 84 7772 9744\u00e93142632",
       "model": "\ub3d9\ub791",
       "teller": "38753175",
       "title": "8 4839. 3294. 84 4883 32286342 32529898274",
@@ -112,7 +112,7 @@
     },
     {
       "id": 17,
-      "place": "Withering League of Nine Litt\u00e9rateurs",
+      "place": "174623775 921562 84 7772 9744\u00e93142632",
       "model": "\uacfc\uac70\ub3d9\ubc31",
       "teller": "38756128",
       "title": "921562 84 7772 9744\u00e93142632",
@@ -148,7 +148,7 @@
     },
     {
       "id": 22,
-      "place": "K Corp. Laboratory",
+      "place": "8 4839. 9168314835",
       "model": "\uadf8\ub808\uace0\ub974",
       "content": "569, 98882 9782 38753175'2..."
     },
