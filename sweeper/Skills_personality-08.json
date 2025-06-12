@@ -1577,7 +1577,7 @@
         {
           "level": 1,
           "name": "4378287 243782 - 91674623 [\u59cb]",
-          "desc": "[CantDuel]\n[BeforeAttack] 4872682 199 [WaitingXichun] 87 2294 48 5177 +([WaitingXichun] 87 2294 3 2) 148 127564 (813 5)\n[WhenUse] 5177 5 [Breath] 173 +2 [Breath] 48674",
+          "desc": "[CantDuel]\n[WhenUse] 5177 5 [Breath] 173 +2 [Breath] 48674\n[BeforeAttack] 4872682 199 [WaitingXichun] 87 2294 48 5177 +([WaitingXichun] 87 2294 3 2) 148 127564 (813 5)",
           "coinlist": [
             {},
             {
@@ -1592,7 +1592,7 @@
         {
           "level": 2,
           "name": "4378287 243782 - 91674623 [\u59cb]",
-          "desc": "[CantDuel]\n[BeforeAttack] 4872682 199 [WaitingXichun] 87 2294 48 5177 +([WaitingXichun] 87 2294 3 2) 148 127564 (813 5)\n[WhenUse] 5177 5 [Breath] 173 +2 [Breath] 48674\n<style=\"highlight\">[WhenUse] 14 3+ [WaitingXichun], 4877 98123 +1</style>",
+          "desc": "[CantDuel]\n[WhenUse] 5177 5 [Breath] 173 +2 [Breath] 48674\n<style=\"highlight\">[WhenUse] 14 3+ [WaitingXichun], 4877 98123 +1</style>\n[BeforeAttack] 4872682 199 [WaitingXichun] 87 2294 48 5177 +([WaitingXichun] 87 2294 3 2) 148 127564 (813 5)",
           "coinlist": [
             {},
             {
@@ -1607,7 +1607,7 @@
         {
           "level": 4,
           "name": "4378287 243782 - 91674623 [\u59cb]",
-          "desc": "[CantDuel]\n[BeforeAttack] 4872682 199 [WaitingXichun] 87 2294 48 5177 +([WaitingXichun] 87 2294 3 2) 148 127564 (813 5)\n[WhenUse] 5177 5 [Breath] 173 +2 [Breath] 48674\n[WhenUse] 14 3+ [WaitingXichun], 4877 98123 +<style=\"highlight\">2</style>",
+          "desc": "[CantDuel]\n[WhenUse] 5177 5 [Breath] 173 +2 [Breath] 48674\n[WhenUse] 14 3+ [WaitingXichun], 4877 98123 +<style=\"highlight\">2</style>\n[BeforeAttack] 4872682 199 [WaitingXichun] 87 2294 48 5177 +([WaitingXichun] 87 2294 3 2) 148 127564 (813 5)",
           "coinlist": [
             {},
             {

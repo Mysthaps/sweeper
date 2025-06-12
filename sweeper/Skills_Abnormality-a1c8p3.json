@@ -1557,7 +1557,11 @@
           "desc": "[CanDuelGuard]\n[WhenUse] 4877 98123 +1 483 25235 5 (268 84 [Laceration] 173 [Burst] 87 413524) (813 3)\n[WinDuel] 7749744 +1 [Burst] 48674, 7749744 2 [DefenseDown]",
           "coinlist": [
             {
-              "desc": "[SuperCoin]"
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
             }
           ]
         }

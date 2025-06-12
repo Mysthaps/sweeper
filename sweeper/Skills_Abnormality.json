@@ -1549,7 +1549,7 @@
         {
           "level": 1,
           "name": "462 53799775",
-          "desc": "[StartBattle] 5122 7748 462 413524 483 462 7234 4637",
+          "desc": "[StartBattle] 51222 7748 462 413524 483 462 7234 4637",
           "coinlist": [
             {
               "coindescs": [
@@ -3644,21 +3644,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 7749744 2 2778775 173 2 3694632 7234 4637"
+                  "desc": "[OnSucceedAttack] 7749744 2 2778775 173 2 3694632"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 7749744 2 2778775 173 2 3694632 7234 4637"
+                  "desc": "[OnSucceedAttack] 7749744 2 2778775 173 2 3694632"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 7749744 2 2778775 173 2 3694632 7234 4637"
+                  "desc": "[OnSucceedAttack] 7749744 2 2778775 173 2 3694632"
                 }
               ]
             }
@@ -4627,7 +4627,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 7749744 2 3242722 3817 7234 4637"
+                  "desc": "[OnSucceedAttack] 323642 413524'2 3242722 92529 65 2 7234 4637"
                 }
               ]
             }
