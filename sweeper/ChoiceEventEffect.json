@@ -78,7 +78,7 @@
     },
     {
       "id": "RecoverHpMpDifferentAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>621923 483</color> <color=#00ff9c>{amount} 69</color> 173 <color=#80c9ff>{amount} 29.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>621923 483</color> <color=#00ff9c>{hpAmount} 69</color> 173 <color=#80c9ff>{mpAmount} 29.</color>"
     },
     {
       "id": "LoseHpMpSameAmount",
@@ -86,7 +86,7 @@
     },
     {
       "id": "LoseHpMpDifferentAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>4888</color> <color=#e30000>{amount} 69</color> 173 <color=#fe4b48>{amount} 29 318152!</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>4888</color> <color=#e30000>{hpAmount} 69</color> 173 <color=#fe4b48>{mpAmount} 29 318152!</color>"
     },
     {
       "id": "GetConfirmedEgogift",

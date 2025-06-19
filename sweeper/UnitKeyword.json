@@ -207,6 +207,18 @@
     {
       "id": "UnitKeyword_BLACK_BEAST_SNAKE",
       "content": "6272686 9148 - 27 631746"
+    },
+    {
+      "id": "UnitKeyword_THUMB_LEVEL_CAPO_FOUR",
+      "content": "4198 7777"
+    },
+    {
+      "id": "UnitKeyword_THUMB_LEVEL_SOLDATO_TWO",
+      "content": "2893148 77"
+    },
+    {
+      "id": "UnitKeyword_THUMB_LEVEL_SOLDATO_THREE",
+      "content": "2893148 777"
     }
   ]
 }

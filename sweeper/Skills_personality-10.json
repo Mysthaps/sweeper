@@ -1445,6 +1445,314 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1101301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "136232742 48 938937245.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "136232742 48 938937245.",
+          "desc": "<style=\"highlight\">[WhenUse] 4877 98123 +1 483 25235 6 (268 84 [Combustion] 173 [Vibration] 87 413524) (813 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "136232742 48 938937245.",
+          "desc": "[WhenUse] 4877 98123 +1 483 25235 6 (268 84 [Combustion] 173 [Vibration] 87 413524) (813 2)\n<style=\"highlight\">[WhenUse] 74 413524 612 '677062 432883' 12 [Vibration], 49126 98123 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "3229244 462 46686.",
+          "desc": "[WhenUse] 74 413524 612 6+ (268 84 [Combustion] 173 [Vibration]), 4877 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 6+ [Vibration], 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "3229244 462 46686.",
+          "desc": "<style=\"highlight\">[WhenUse] 4877 98123 +1 483 25235 6 (268 84 [Combustion] 173 [Vibration] 87 413524) (813 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">2</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 74 413524 612 10+ [VibrationIgnition], 7749744 +1 [Combustion] 48674</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 6+ [Vibration], 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "3229244 462 46686.",
+          "desc": "[WhenUse] 4877 98123 +1 483 25235 6 (268 84 [Combustion] 173 [Vibration] 87 413524) (813 2)\n<style=\"highlight\">[WhenUse] 3219 +10% 318152 483 25235 4 (268 84 [Combustion] 173 [Vibration] 87 413524) (813 30%)\n[WhenUse] 74 413524 612 10+ '677062 432883', 6122 98123 +2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 10+ [VibrationIgnition], 7749744 <style=\"highlight\">+2</style> [Combustion] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 6+ [Vibration], 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101303,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "46362423 48893222787",
+          "desc": "[WhenUse] 4877 98123 +1 483 25235 8 (268 84 [Combustion] 173 [Vibration] 87 413524) (813 2)\n[WhenUse] 14 3+ [FireBulletPropellant], 6122 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "29273 1 [FireBulletPropellant]"
+                },
+                {
+                  "desc": "74 4672 6774 29274 [FireBulletPropellant] 362 48 4672 4877'2 244244, 3219 +20% 318152"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Combustion] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [Switch_Vibration] 7748 [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "29273 1 [FireBulletPropellant]"
+                },
+                {
+                  "desc": "74 4672 6774 29274 [FireBulletPropellant] 362 48 4672 4877'2 244244, 3219 +20% 318152"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "29273 1 [FireBulletPropellant]"
+                },
+                {
+                  "desc": "74 4672 6774 29274 [FireBulletPropellant] 362 48 4672 4877'2 244244, 3219 +20% 318152"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 4672 6774 29274 [FireBulletPropellant], 4375523 [VibrationExplosion]; 4627, 323642 462 413524'2 [Vibration] 48674 65 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "46362423 48893222787",
+          "desc": "[WhenUse] 4877 98123 +1 483 25235 8 (268 84 [Combustion] 173 [Vibration] 87 413524) (813 2)\n[WhenUse] 14 3+ [FireBulletPropellant], <style=\"highlight\">6122 98123 +3, 3219 +30% 318152, 173 4875234 462 48772 48 [SuperCoin]2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "29273 1 [FireBulletPropellant]"
+                },
+                {
+                  "desc": "74 4672 6774 29274 [FireBulletPropellant] 362 48 4672 4877'2 244244, 3219 <style=\"highlight\">+25%</style> 318152"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">+3</style> [Combustion] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [Switch_Vibration] 7748 [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "29273 1 [FireBulletPropellant]"
+                },
+                {
+                  "desc": "74 4672 6774 29274 [FireBulletPropellant] 362 48 4672 4877'2 244244, 3219 <style=\"highlight\">+25%</style> 318152"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "29273 1 [FireBulletPropellant]"
+                },
+                {
+                  "desc": "74 4672 6774 29274 [FireBulletPropellant] 362 48 4672 4877'2 244244, 3219 <style=\"highlight\">+25%</style> 318152"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Vibration] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 4 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 4672 6774 29274 [FireBulletPropellant], 4375523 [VibrationExplosion]; 4627, 323642 462 413524'2 [Vibration] 48674 65 1"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 74 4672 28799 29274 3 [FireBulletPropellant], 4375523 [VibrationExplosion]; 4627, 323642 413524'2 [Vibration] 48674 65 1</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4233862 56133",
+          "desc": "7749744 1 [Vibration] 1517724 462 14414823 1627 674 12 9875 12 4672 6774 612 328177775 267293 (3 47822 923 4637)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "4233862 56133",
+          "desc": "7749744 <style=\"highlight\">2</style> [Vibration] 1517724 462 14414823 1627 674 12 9875 12 4672 6774 612 328177775 267293 (<style=\"highlight\">4</style> 47822 923 4637)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }
