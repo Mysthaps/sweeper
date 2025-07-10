@@ -255,6 +255,10 @@
     {
       "id": "ReUseOnSucceedAttack",
       "name": "[32622 - 87 674]"
+    },
+    {
+      "id": "CriticalOnSucceedAttackHead",
+      "name": "[87 4374 - 62132 674]"
     }
   ]
 }

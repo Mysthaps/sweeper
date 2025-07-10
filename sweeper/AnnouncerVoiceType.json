@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "Danger",
+      "content": "317523"
+    },
+    {
+      "id": "SpecialSkill",
+      "content": "98123469 27285 28799 1137775"
+    },
+    {
+      "id": "SpecialGimmick",
+      "content": "27285 5788748 1137775"
+    },
+    {
+      "id": "AllyDebuff",
+      "content": "32664423 199722"
+    },
+    {
+      "id": "AllyBuff",
+      "content": "664423 199722"
+    },
+    {
+      "id": "SpecialCheer",
+      "content": "27461478719 31995"
+    },
+    {
+      "id": "EnemyAdv",
+      "content": "27285 135174152"
+    },
+    {
+      "id": "AllyDead",
+      "content": "1995 32146"
+    },
+    {
+      "id": "AllyBigDamage_Round",
+      "content": "24134775 4637 14423 418775 32512414775 318152"
+    },
+    {
+      "id": "AllyAdvEx",
+      "content": "1995 463716864"
+    },
+    {
+      "id": "AllyAdv",
+      "content": "1995 135174152"
+    },
+    {
+      "id": "AllyBreak",
+      "content": "1995 241552323"
+    },
+    {
+      "id": "KillEnemy",
+      "content": "27285 8799"
+    },
+    {
+      "id": "EnemyDestroy_RoundStart",
+      "content": "24134775 4637 14423 63218775 27285 9134"
+    },
+    {
+      "id": "EnemyBigDamage_Round",
+      "content": "24134775 4637 14423 3219775 32512414775 318152"
+    },
+    {
+      "id": "EnemyBreak",
+      "content": "27285 241552323"
+    },
+    {
+      "id": "Cheer",
+      "content": "31995"
+    },
+    {
+      "id": "AllyBigDamage",
+      "content": "418775 32512414775 318152"
+    },
+    {
+      "id": "EnemyBigDamage",
+      "content": "3219775 32512414775 318152"
+    },
+    {
+      "id": "EnemyDestroy_Battle",
+      "content": "63218775 27285 9134"
+    },
+    {
+      "id": "MultiKillEnemy",
+      "content": "1995 869478799"
+    },
+    {
+      "id": "Equip",
+      "content": "206799775 177867423"
+    },
+    {
+      "id": "PhysicalAdv",
+      "content": "135174152862 144148 4592"
+    },
+    {
+      "id": "AttrAdv",
+      "content": "135174152862 14477745 4592"
+    },
+    {
+      "id": "PhysicalDisadv",
+      "content": "372135174152862 144148 4592"
+    },
+    {
+      "id": "AttrDisadv",
+      "content": "372135174152862 14477745 4592"
+    },
+    {
+      "id": "EnemyBuff",
+      "content": "664423 2728722"
+    },
+    {
+      "id": "EnemyDebuff",
+      "content": "32664423 2728722"
+    },
+    {
+      "id": "Neglect",
+      "content": "78 77964 483 17 23427323 923783 84 4782"
+    },
+    {
+      "id": "MultiKillAlly",
+      "content": "86947992 1995 321462"
+    }
+  ]
+}

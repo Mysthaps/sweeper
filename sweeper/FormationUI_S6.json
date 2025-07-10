@@ -1,0 +1,232 @@
+{
+  "dataList": [
+    {
+      "id": "formation_ego_resource_detail",
+      "content": "3241792"
+    },
+    {
+      "id": "formation_deck_code_auto_filled",
+      "content": "6122 7327474722 & 2.5.8 6152 6227 2984423 77 483 7327474722 83 2.5.8 4614 586 6152 784 86417723 524."
+    },
+    {
+      "id": "formation_deck_filled_complete",
+      "content": "4218 4832 9813775 48899242"
+    },
+    {
+      "id": "formation_set_to_default",
+      "content": "32224 4672 4218 9813864?\n\n<size=80%>322244775 4672 4218 9813864 1799 6720679 2523546775 2152 483 6122 7327474722 173 6122 2.5.8.</size>"
+    },
+    {
+      "id": "formation_unable_to_set_default",
+      "content": "586 417784 32224 462 6122 9813864."
+    },
+    {
+      "id": "formation_ego_resource_popup_title",
+      "content": "4218 2.5.8 32286342 85235721"
+    },
+    {
+      "id": "formation_ego_resource_popup_total_used",
+      "content": "2.5.8 32286342 23927374632 85235721:"
+    },
+    {
+      "id": "formation_ego_resource_popup_total_acquirable",
+      "content": "8641771692 2.5.8 322863422 85235721:"
+    },
+    {
+      "id": "formation_ego_resource_popup_personality",
+      "content": "73274745 322863422"
+    },
+    {
+      "id": "formation_ego_resource_popup_ego",
+      "content": "2.5.8 32286342 23927374632"
+    },
+    {
+      "id": "formation_code_popup_title",
+      "content": "4218 4832"
+    },
+    {
+      "id": "formation_code_popup_desc",
+      "content": "1746 4218 48322, 586 417:\n- 4895 173 26132 5863 4218 98138642\n- 91242 173 9813 4218 98138642"
+    },
+    {
+      "id": "formation_code_popup_copy",
+      "content": "4895 4218 4832"
+    },
+    {
+      "id": "formation_code_popup_paste",
+      "content": "9813 4218 4832"
+    },
+    {
+      "id": "formation_code_popup_paste_desc",
+      "content": "91242 462 489723 4218 4832 6232 48 20679 462 4218 9813864."
+    },
+    {
+      "id": "formation_code_popup_paste_input",
+      "content": "27423 4832"
+    },
+    {
+      "id": "formation_code_popup_copy_success",
+      "content": "4218 4832 489723"
+    },
+    {
+      "id": "formation_side_button_all_personality",
+      "content": "199 7327474722"
+    },
+    {
+      "id": "formation_side_button_all_ego",
+      "content": "199 2.5.8"
+    },
+    {
+      "id": "formation_side_button_friend_support",
+      "content": "2699834"
+    },
+    {
+      "id": "character_list_title_all_personality",
+      "content": "7327474722"
+    },
+    {
+      "id": "character_list_title_all_personality_with_character_name",
+      "content": "7327474722: {0}"
+    },
+    {
+      "id": "character_list_title_all_ego",
+      "content": "2.5.8"
+    },
+    {
+      "id": "character_list_title_all_ego_with_character_name",
+      "content": "2.5.8: {0}"
+    },
+    {
+      "id": "character_list_title_friend_support",
+      "content": "2699834 7327474722: {0}"
+    },
+    {
+      "id": "character_list_collect_rate",
+      "content": "4899244787 3142"
+    },
+    {
+      "id": "character_list_owned_toggle_label",
+      "content": "86417723"
+    },
+    {
+      "id": "character_list_sort_label",
+      "content": "2834 65"
+    },
+    {
+      "id": "character_list_friend_support_not_existed",
+      "content": "78 2699834 7327474722 483 4672 277723."
+    },
+    {
+      "id": "character_list_friend_support_impossible",
+      "content": "417784 20679 2699834 7327474722 483 4672 277723."
+    },
+    {
+      "id": "view_personality_status_button_label",
+      "content": "7327474722"
+    },
+    {
+      "id": "formation_ui_announcer",
+      "content": "1778674232"
+    },
+    {
+      "id": "formation_ui_announcer_detail",
+      "content": "177867423 3241792"
+    },
+    {
+      "id": "formation_deck_code_invalid_code",
+      "content": "4672 4218 4832 72 7751973."
+    },
+    {
+      "id": "formation_ego_resource_popup_personality_desc",
+      "content": "85235721 84 2.5.8 322863422 8641771692 65 7327474722 77 5863 4218 9813864 & 923-73274745 85235721."
+    },
+    {
+      "id": "formation_ego_resource_popup_ego_desc",
+      "content": "2.5.8 322863422 23927374632 483 2146 20679923 2.5.8."
+    },
+    {
+      "id": "formation_current_personality",
+      "content": "22924423 73274745"
+    },
+    {
+      "id": "ego_sort_label_rarity",
+      "content": "313745"
+    },
+    {
+      "id": "ego_filter_label_attack_type",
+      "content": "2.5.8 144148 4592"
+    },
+    {
+      "id": "ego_filter_label_attribute_type",
+      "content": "2.5.8 14477745"
+    },
+    {
+      "id": "personality_filter_label_attack_type",
+      "content": "28799 144148 4592"
+    },
+    {
+      "id": "personality_filter_label_attribute_type",
+      "content": "28799 14477745"
+    },
+    {
+      "id": "character_list_personality_not_existed",
+      "content": "78 7327474722 8144623 5863 479423 22447752."
+    },
+    {
+      "id": "character_list_ego_not_existed",
+      "content": "78 2.5.8 8144623 5863 479423 22447752."
+    },
+    {
+      "id": "filter_condition_speed",
+      "content": "29223"
+    },
+    {
+      "id": "filter_condition_defense",
+      "content": "324. 95."
+    },
+    {
+      "id": "filter_condition_grade",
+      "content": "4723 {0}"
+    },
+    {
+      "id": "ego_sort_label_syncLevel",
+      "content": "4.29777775"
+    },
+    {
+      "id": "ego_sort_label_crimson_resist",
+      "content": "13146 322."
+    },
+    {
+      "id": "ego_sort_label_scarlet_resist",
+      "content": "9624 322."
+    },
+    {
+      "id": "ego_sort_label_amber_resist",
+      "content": "29846 322."
+    },
+    {
+      "id": "ego_sort_label_shamrock_resist",
+      "content": "5964. 322."
+    },
+    {
+      "id": "ego_sort_label_azure_resist",
+      "content": "59888 322."
+    },
+    {
+      "id": "ego_sort_label_indigo_resist",
+      "content": "93732 322."
+    },
+    {
+      "id": "ego_sort_label_violet_resist",
+      "content": "2755 322."
+    },
+    {
+      "id": "personality_info_list_not_owned",
+      "content": "784 81723"
+    },
+    {
+      "id": "formation_must_participate_specific_character_with_baton",
+      "content": "{0} 417784 27423 12 1 614869 6774. {0} 8624 62 17 144752 91347479174 77 462 614492."
+    }
+  ]
+}

@@ -2,55 +2,55 @@
   "dataList": [
     {
       "id": "ADDITIONAL_COST_RATE_ON_CLEAR_FLOOR",
-      "description": "1627 885775 48 462 7234 49883, 77432122 4633274 <color=#ff6000>4824 6191742</color> 65 {0}% (813 100)"
+      "description": "1627 885775 48 462 7234 49883, 77432122 4633274 <color=#5bffde>4824 6191742</color> 65 {0}% (813 100)"
     },
     {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_ONCE",
-      "description": "77432122 <color=#ff6000>2.5.8 5744 2192 93742</color> 65 {0}% (8742 923 2689)"
+      "description": "77432122 <color=#5bffde>2.5.8 5744 2192 93742</color> 65 {0}% (8742 923 2689)"
     },
     {
       "id": "ADDITIONAL_FLOOR_THEME_SLOT",
-      "description": "<color=#ff6000>46282 9148 229244787</color> +{0}"
+      "description": "<color=#5bffde>46282 9148 229244787</color> +{0}"
     },
     {
       "id": "ADDITIONAL_FLOOR_THEME_REFRESH",
-      "description": "<color=#ff6000>46282 9148 3243226 461742</color> +{0}"
+      "description": "<color=#5bffde>46282 9148 3243226 461742</color> +{0}"
     },
     {
       "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_SELECT_NEW_FLOOR_THEME",
-      "description": "1627 46882775 1 721 46282 9148 483 462 47324 4782, 199 7327474722 5177 +{0} <color=#ff6000>92529(2)</color> (813 9)"
+      "description": "1627 46882775 1 721 46282 9148 483 462 47324 4782, 199 7327474722 5177 +{0} <color=#5bffde>92529(2)</color> (813 9)"
     },
     {
       "id": "ADDITIONAL_SHOP_EGO_GIFT_SLOT",
-      "description": "<color=#ff6000>2689 2.5.8 5744 229244787</color> +{0}"
+      "description": "<color=#5bffde>2689 2.5.8 5744 229244787</color> +{0}"
     },
     {
       "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_ENTER_1ST_FLOOR",
-      "description": "6987 27435, 199 7327474722 5177 {0} <color=#ff6000>92529(2)</color>"
+      "description": "6987 27435, 199 7327474722 5177 {0} <color=#5bffde>92529(2)</color>"
     },
     {
       "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_CLEAR_FLOOR",
-      "description": "6987 49883 49213, 199 7327474722 5177 {0} <color=#ff6000>92529(2)</color> (813 5)"
+      "description": "6987 49883 49213, 199 7327474722 5177 {0} <color=#5bffde>92529(2)</color> (813 5)"
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP",
-      "description": "6987 27423775 1 2689, 5177 {0} 317388 4723 3 83 9222 <color=#ff6000>483 4622 83 2192 8795 2.5.8 5744(2)</color>"
+      "description": "6987 27423775 1 2689, 5177 {0} 317388 4723 3 83 9222 <color=#5bffde>483 4622 83 2192 8795 2.5.8 5744(2)</color>"
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_EGO_GIFT_ON_ENTER_3RD_FLOOR",
-      "description": "6987 27423775 49883 3, 5177 {0} 317388 <color=#ff6000>4723 3 2.5.8 5744(2)</color>"
+      "description": "6987 27423775 49883 3, 5177 {0} 317388 <color=#5bffde>4723 3 2.5.8 5744(2)</color>"
     },
     {
       "id": "ACQUIRE_LOWER_TIER_RANDOM_EGO_GIFT_ON_COMBINE",
-      "description": "1627 462775, 5177 1 <color=#ff6000>317388 1337478719 2.5.8 5744</color> 2 47232 62981 462 462787 322694(8624 62 4723 3 83 675623) (8742 923 2689)"
+      "description": "1627 462775, 5177 1 <color=#5bffde>317388 1337478719 2.5.8 5744</color> 2 47232 62981 462 462787 322694(8624 62 4723 3 83 675623) (8742 923 2689)"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_SELECT",
-      "description": "<color=#ff6000>24134775 2.5.8 5744</color> 468742 +{0}"
+      "description": "<color=#5bffde>24134775 2.5.8 5744</color> 468742 +{0}"
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_KEYWORD_EGO_GIFT_ON_ENTER_1ST_FLOOR",
-      "description": "6987 27435, 5177 {0} <color=#ff6000>4723 3 2.5.8 5744(2) 84 5863 468742</color> 483 5863 22924423 8251833 41425835"
+      "description": "6987 27435, 5177 {0} <color=#5bffde>4723 3 2.5.8 5744(2) 84 5863 468742</color> 483 5863 22924423 8251833 41425835"
     },
     {
       "id": "REVIVE_ONCE_PER_FLOOR",
@@ -58,39 +58,39 @@
     },
     {
       "id": "FREE_SHOP_REFRESH_EGO_GIFT_ONCE",
-      "description": "872 4322 <color=#ff6000>783819 3243226</color> 483 26892"
+      "description": "872 4322 <color=#5bffde>783819 3243226</color> 483 26892"
     },
     {
       "id": "ADDITIONAL_START_COST",
-      "description": "<color=#ff6000>24134775 4824</color> +{0}"
+      "description": "<color=#5bffde>24134775 4824</color> +{0}"
     },
     {
       "id": "ADDITIONAL_COST_AFTER_WIN_BATTLE",
-      "description": "<color=#ff6000>274867423 321133 4824</color> +{0}%"
+      "description": "<color=#5bffde>274867423 321133 4824</color> +{0}%"
     },
     {
       "id": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE",
-      "description": "5321423 461742 483 <color=#ff6000>6756 4723 2.5.8 57442</color> 48 199213 77 26892"
+      "description": "5321423 461742 483 <color=#5bffde>6756 4723 2.5.8 57442</color> 48 199213 77 26892"
     },
     {
       "id": "FREE_SHOP_KEYWORD_REFRESH_EGO_GIFT_ONCE",
-      "description": "872 4322 <color=#ff6000>8251833 3243226</color> 483 26892"
+      "description": "872 4322 <color=#5bffde>8251833 3243226</color> 483 26892"
     },
     {
       "id": "ACQUIRE_2_TIER_RANDOM_EGO_GIFT_ON_ENTER_2ND_FLOOR",
-      "description": "6987 27423775 49883 2, 5177 {0} 317388 <color=#ff6000>4723 2 2.5.8 5744(2)</color>"
+      "description": "6987 27423775 49883 2, 5177 {0} 317388 <color=#5bffde>4723 2 2.5.8 5744(2)</color>"
     },
     {
       "id": "ACQUIRE_1_TIER_RANDOM_EGO_GIFT_ON_ENTER_1ST_FLOOR",
-      "description": "6987 27423775 49883 1, 5177 {0} 317388 <color=#ff6000>4723 1 2.5.8 5744(2)</color>"
+      "description": "6987 27423775 49883 1, 5177 {0} 317388 <color=#5bffde>4723 1 2.5.8 5744(2)</color>"
     },
     {
       "id": "MaxSpeedUpAdder",
-      "description": "<color=#ff6000>813 29223</color> +{0}"
+      "description": "<color=#5bffde>813 29223</color> +{0}"
     },
     {
       "id": "GiveBuffOnRoundStart",
-      "description": "5177 {2} <color=#ff6000>{1}</color>"
+      "description": "5177 {2} <color=#5bffde>{1}</color>"
     }
   ]
 }

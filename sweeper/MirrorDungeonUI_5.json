@@ -14,11 +14,11 @@
     },
     {
       "id": "mirror_dungeon_start_bonus_formation_rest_point",
-      "content": "3224 68762"
+      "content": "241397564 68762"
     },
     {
       "id": "mirror_dungeon_start_bonus_formation_total",
-      "content": "3224\n68762"
+      "content": "241397564\n68762"
     },
     {
       "id": "mirror_dungeon_start_buff_Panel_reset_selection",
@@ -30,11 +30,11 @@
     },
     {
       "id": "mirror_dungeon_reward_popup_rest_bonus_guide",
-      "content": "199 7327474722 8642732 462 4633274 4218 5177 1 3224 68762"
+      "content": "199 7327474722 8642732 462 4633274 4218 5177 1 241397564 68762"
     },
     {
       "id": "mirror_user_start_buff",
-      "content": "3224 68762"
+      "content": "241397564 68762"
     },
     {
       "id": "mirror_enemy_buff",
@@ -74,7 +74,7 @@
     },
     {
       "id": "mirror_start_buff_cannot_purchase_side_popup_desc",
-      "content": "784 278656 3224 68762"
+      "content": "784 278656 241397564 68762"
     },
     {
       "id": "user_enemy_buff_empty_list",
@@ -130,11 +130,11 @@
     },
     {
       "id": "mirror_start_buff_unlock_condition_needs_held_buff_points",
-      "content": "14 {0}+ 3224 68762"
+      "content": "14 {0}+ 241397564 68762"
     },
     {
       "id": "mirror_start_buff_purchase_modal_after_selected_bonus",
-      "content": "328177775 3224 68762"
+      "content": "328177775 241397564 68762"
     },
     {
       "id": "mirror_start_buff_purchase_modal_exchanged_cost",
@@ -146,11 +146,11 @@
     },
     {
       "id": "mirror_start_buff_purchase_modal_description",
-      "content": "1799 586 229244 46222 2442442?"
+      "content": "48747762 1746 22924423 2442442?"
     },
     {
       "id": "mirror_start_buff_purchase_modal_purchase_description",
-      "content": "328177775 3224 68762 1799 62 487523423 48 4824"
+      "content": "328177775 241397564 68762 1799 62 487523423 48 4824"
     },
     {
       "id": "mirror_start_buff_applied_passive",
@@ -166,7 +166,7 @@
     },
     {
       "id": "mirror_start_buff_purchase_modal_not_selected_any_buff",
-      "content": "387'4 229244 175"
+      "content": "7872 22924423"
     },
     {
       "id": "dungeon_shop_heal_title_all_season5",
@@ -186,11 +186,11 @@
     },
     {
       "id": "mirror_dungeon_block_to_click_hard_theme_list",
-      "content": "49213 41748 6\n48 679848"
+      "content": "49213 41748 7\n48 679848"
     },
     {
       "id": "mirrordungeon_theme_hard_blocked",
-      "content": "49213 41748 6\n48 679848"
+      "content": "49213 41748 7\n48 679848"
     },
     {
       "id": "mirrordungeon_shop_heal_title",
@@ -386,7 +386,7 @@
     },
     {
       "id": "mirror_start_buff_unlock_condition_lack_of_current_point",
-      "content": "784 278656 3224 68762"
+      "content": "784 278656 241397564 68762"
     },
     {
       "id": "mirror_theme_pack_baton",
@@ -450,27 +450,27 @@
     },
     {
       "id": "mirror_dungeon_5_buffs_over10",
-      "content": "14 [10]+ 3224 68762"
+      "content": "14 [10]+ 241397564 68762"
     },
     {
       "id": "mirror_dungeon_5_buffs_over20",
-      "content": "14 [20]+ 3224 68762"
+      "content": "14 [20]+ 241397564 68762"
     },
     {
       "id": "mirror_dungeon_5_buffs_over30",
-      "content": "14 [30]+ 3224 68762"
+      "content": "14 [30]+ 241397564 68762"
     },
     {
       "id": "mirror_dungeon_5_buffs_over40",
-      "content": "14 [40]+ 3224 68762"
+      "content": "14 [40]+ 241397564 68762"
     },
     {
       "id": "mirror_dungeon_5_buffs__over50",
-      "content": "14 [50]+ 3224 68762"
+      "content": "14 [50]+ 241397564 68762"
     },
     {
       "id": "mirror_dungeon_5_buffs__over60",
-      "content": "14 [60]+ 3224 68762"
+      "content": "14 [60]+ 241397564 68762"
     },
     {
       "id": "mirrordungeon_egogift_combine_guide_result_label_upgrade",
@@ -494,11 +494,11 @@
     },
     {
       "id": "mirrordungeon_start_bonus_personality_title",
-      "content": "3224 68762 324274787 67742"
+      "content": "241397564 68762 324274787 67742"
     },
     {
       "id": "mirrordungeon_start_bonus_personality_desc",
-      "content": "483 462 324274787 36314787, 46222 67742' 3224 6876222 1799 784 62 29274 6987 49213775 1 873383 3675287 367."
+      "content": "483 462 324274787 36314787, 46222 67742' 241397564 6876222 1799 784 62 29274 6987 49213775 1 873383 3675287 367."
     },
     {
       "id": "mirrordungeon_start_bonus_personality_label",
@@ -506,7 +506,7 @@
     },
     {
       "id": "mirrordungeon_start_bonus_personality_button_label",
-      "content": "3224 68762 324274787 67742"
+      "content": "241397564 68762 324274787 67742"
     },
     {
       "id": "mirrordungeon_start_bonus_personality_period",

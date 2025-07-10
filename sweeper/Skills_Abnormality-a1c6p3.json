@@ -872,7 +872,7 @@
         {
           "level": 1,
           "name": "6223 85 4199, 164623775 6275642",
-          "desc": "[CantDuel]\n[WhenUse] 52723142 1 1793 6674 6774 7234 4637",
+          "desc": "[CantDuel]\n[WhenUse] 52723142 1 1793 6674[TabExplain] 6774 7234 4637",
           "coinlist": [
             {
               "coindescs": [

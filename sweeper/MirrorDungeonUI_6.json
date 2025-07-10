@@ -1,0 +1,284 @@
+{
+  "dataList": [
+    {
+      "id": "mirror_dungeon_detect_theme_pack_button",
+      "content": "221346"
+    },
+    {
+      "id": "mirror_dungeon_detect_theme_pack_list_popup_title_format",
+      "content": "221346 46282 91482 483 49883 {0}"
+    },
+    {
+      "id": "mirror_dungeon_detect_theme_pack_comfirm_modal_desc_format",
+      "content": "'{0}' 9148 1799 62 32991423 1746 '{1}' 9148."
+    },
+    {
+      "id": "combineUI_enableStarlight",
+      "content": "1726818775"
+    },
+    {
+      "id": "combineUI_enableStarlight_confirm_desc",
+      "content": "29273 5 241397564 48 7893852 462787 461742?"
+    },
+    {
+      "id": "side_title_not_enough_starlight",
+      "content": "784 278656 241397564."
+    },
+    {
+      "id": "side_title_not_use_starlight",
+      "content": "417784 29273 241397564."
+    },
+    {
+      "id": "side_desc_is_fixed_combine_egogift",
+      "content": "4672 72 1 5613174223 2.5.8 5744 462787 324792."
+    },
+    {
+      "id": "mirror_dungeon_detect_theme_pack_side_popup_already_in_pool",
+      "content": "4672 46282 9148 72 1932135 151791692."
+    },
+    {
+      "id": "mirror_dungeon_detect_theme_pack_side_popup_locked_by_unlockcode_1",
+      "content": "4672 46282 9148'2 679848 4873747872 7223 48 62 824 47324."
+    },
+    {
+      "id": "mirror_dungeon_detect_theme_pack_side_popup_locked_by_unlockcode_2_format",
+      "content": "4672 46282 9148 1799 624882 151791692 1627 8224775 462 679848 4873747872: 49213 4619423 {0}."
+    },
+    {
+      "id": "mirror_dungeon_detect_theme_pack_side_popup_passed_pack",
+      "content": "4672 46282 9148 612 1932135 6227 22924423 77 93257862 498832."
+    },
+    {
+      "id": "mirror_dungeon_detect_theme_pack_not_enough_point",
+      "content": "784 278656 241397564 48 8622352 46282 91482."
+    },
+    {
+      "id": "mirrordungeon_theme_hard_blocked_6",
+      "content": "49213 41748 7 48 679848."
+    },
+    {
+      "id": "mirrordungeon_theme_difficulty_button_no_hard_data",
+      "content": "6133 374446945 1799 62 6931423 14 1 91423 3142."
+    },
+    {
+      "id": "on_click_mirrordungeon_theme_list_hard_button",
+      "content": "1799 62 6931423 14 1 91423 3142"
+    },
+    {
+      "id": "mirror_start_buff_unavailable_purchase",
+      "content": "784 278656 241397564."
+    },
+    {
+      "id": "mirror_start_buff_unavailable_purchase_modal_title",
+      "content": "784 278656 241397564"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_left_cost",
+      "content": "328177775 241397564"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_desc_md6_toggle_on",
+      "content": "4852342 175 328177775 241397564\n14423 9634612775 53142 84 24132 48 4824.\n\n\u203b \"81723 241397564\" 1799\n784 62 487523423 7748 4824."
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_desc_md6_toggle_off",
+      "content": "175 6729274 241397564 1799 62\n13323 48 5863 3675287 49213 3211332."
+    },
+    {
+      "id": "mirror_theme_list_pack_tag_not_selectable",
+      "content": "672292441692"
+    },
+    {
+      "id": "mirror_theme_list_pack_tag_required_extra_point",
+      "content": "23431 461352"
+    },
+    {
+      "id": "side_desc_is_already_success_percent",
+      "content": "462787 48324124 417784 234223 100%."
+    },
+    {
+      "id": "side_desc_is_all_collect_egogift",
+      "content": "317388 8251833 461742."
+    },
+    {
+      "id": "mirrordungeon_infinity_open_condition_no_have_infinity_data",
+      "content": "67323 487243644787"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_6",
+      "content": "873383 84 78883419745 - 4{0}"
+    },
+    {
+      "id": "mirror_dungeon_available_starlight",
+      "content": "151791692"
+    },
+    {
+      "id": "mirrordungeon_starlight_personality_button_label",
+      "content": "241397564 324274787 67742"
+    },
+    {
+      "id": "mirrordungeon_starlight_personality_title",
+      "content": "241397564 324274787 67742"
+    },
+    {
+      "id": "mirrordungeon_starlight_personality_desc",
+      "content": "483 462 324274787 36314787, 46222 67742' 241397564 6876222 1799 784 62 29274 6987 49213775 1 873383 3675287 367."
+    },
+    {
+      "id": "combine_egogift_not_allow",
+      "content": "672292441692"
+    },
+    {
+      "id": "number_of_cleared_hard_floors",
+      "content": "6133 9148 498832 4921323"
+    },
+    {
+      "id": "mirror_starlight_unlock_condition_lack_of_current_point",
+      "content": "784 278656 241397564"
+    },
+    {
+      "id": "mirror_starlight_unlock_condition_needs_held_buff_points",
+      "content": "14 {0}+ 241397564"
+    },
+    {
+      "id": "mirror_cleared_floor_count_over_6",
+      "content": "91319929 2692398274787 498832 4921323"
+    },
+    {
+      "id": "mirror_cleared_railway_theme_pack_count",
+      "content": "3243144787 3179115 91482 4921323"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_Panel_title_md6",
+      "content": "53142 84 462 78883419 2413"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_card_enhancement",
+      "content": "2761742"
+    },
+    {
+      "id": "mirror_user_starlight_buff",
+      "content": "53142 84 24132"
+    },
+    {
+      "id": "mirror_unobservable_egogift_reason",
+      "content": "678622351692"
+    },
+    {
+      "id": "mirror_unobservable_egogift_reason_is_owned",
+      "content": "81723"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_check_box",
+      "content": "4875234 241397564 48 4824"
+    },
+    {
+      "id": "mirrordungeon_additional_reserved_starlight_from_startBuff",
+      "content": "676223 241397564 6152 6227 13323 48 462 49213 3211332."
+    },
+    {
+      "id": "mirror_starlight_result_base_point",
+      "content": "3241694"
+    },
+    {
+      "id": "mirror_starlight_result_formation_bonus",
+      "content": "9813864 68762"
+    },
+    {
+      "id": "mirror_starlight_result_battle_reward_card",
+      "content": "274867423 321133 41332"
+    },
+    {
+      "id": "mirror_starlight_result_consumed_points_on_start",
+      "content": "24134775 241397564 29274"
+    },
+    {
+      "id": "mirror_starlight_result_dungeon_play_point",
+      "content": "23998314787 24832"
+    },
+    {
+      "id": "mirror_starlight_result_formation_bonus_multiplier",
+      "content": "9813864 68762 8694."
+    },
+    {
+      "id": "mirror_starlight_result_consumed_during_dungeon_play",
+      "content": "29274 77 3675287"
+    },
+    {
+      "id": "mirror_starlight_result_owned_before_enter_dungeon",
+      "content": "932-3675287 3222352"
+    },
+    {
+      "id": "mirror_starlight_result_reward_point",
+      "content": "321133"
+    },
+    {
+      "id": "mirror_starlight_result_total_owned_point_after_dungeon_play",
+      "content": "724 188674"
+    },
+    {
+      "id": "mirror_starlight_result_tooltip_button",
+      "content": "3241792"
+    },
+    {
+      "id": "mirror_starlight_result_consumed_points_on_start_tooltip_title",
+      "content": "24134775 241397564 29274"
+    },
+    {
+      "id": "mirror_starlight_result_consumed_points_on_start_tooltip_item_purchased",
+      "content": "53142 84 24132 963461223"
+    },
+    {
+      "id": "mirror_starlight_result_consumed_points_on_start_tooltip_item_converted_to_cost",
+      "content": "487523423 48 4824"
+    },
+    {
+      "id": "mirror_starlight_result_dungeon_play_point_tooltip_title",
+      "content": "23998314787 24832 3241792"
+    },
+    {
+      "id": "mirror_starlight_result_dungeon_play_point_tooltip_item_cleared_floor",
+      "content": "4921323 498832"
+    },
+    {
+      "id": "mirror_starlight_result_dungeon_play_point_tooltip_item_hard_difficulty",
+      "content": "6133 3744746945"
+    },
+    {
+      "id": "mirror_starlight_result_dungeon_play_point_tooltip_item_railway_theme_pack",
+      "content": "3243144787 3179115 46282 9148"
+    },
+    {
+      "id": "mirror_starlight_result_formation_bonus_multiplier_tooltip_title",
+      "content": "9813864 241397564 68762 8694."
+    },
+    {
+      "id": "mirror_starlight_result_formation_bonus_multiplier_tooltip_item_desc",
+      "content": "\u203b 3867323 3817."
+    },
+    {
+      "id": "mirror_starlight_result_consumed_during_dungeon_play_tooltip_title",
+      "content": "29274 77 3675287"
+    },
+    {
+      "id": "mirror_starlight_result_formation_bonus_multiplier_tooltip_item_detect_theme_pack",
+      "content": "46282 9148 86223514787"
+    },
+    {
+      "id": "mirror_starlight_result_formation_bonus_multiplier_tooltip_item_combine_ego_gift",
+      "content": "1726818775"
+    },
+    {
+      "id": "mirror_starlight_result_formation_total_consumed_point",
+      "content": "268 23927374632"
+    },
+    {
+      "id": "mirror_hard_recommended_level_popup_desctiption",
+      "content": "462 4633274 1523152 92529 84 7327474722 77 5863 9813864 72 <color=#990000>98123</color> 4617 462 32488827323 92529.\n9384223 175115?"
+    },
+    {
+      "id": "mirror_hard_recommended_level_popup_detail_desctiption",
+      "content": "4633274 155. 92529: {0}\n<color=#f8c200>32488827323 92529: {1}</color>"
+    }
+  ]
+}

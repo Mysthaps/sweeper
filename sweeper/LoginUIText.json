@@ -347,6 +347,18 @@
     {
       "id": "servererror_remain_restore_purchasing",
       "content": "1 43172144787 72 24799 77 93853222.\n992122 622 462 [Restore Purchase] 664487 173 435 15177."
+    },
+    {
+      "id": "invalid_login_no_guest_uid",
+      "content": "462 56224 1448674 3822 784 23724,\n83 612 6227 3292423."
+    },
+    {
+      "id": "invalid_login_is_not_guest",
+      "content": "4672 56224 1448674 72 1932135 977823 48 1 99144838.\n992122 622 462 [Change Account] 664487 48 985 7748 5863 977823 99144838."
+    },
+    {
+      "id": "try_new_guest",
+      "content": "8182 1 721 56224 1448674?"
     }
   ]
 }

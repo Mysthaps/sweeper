@@ -1925,6 +1925,342 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1011301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "222 4638656 32427222",
+          "desc": "[WhenUse] 3219 +7% 318152 483 25235 [BoseProjektil] 87 2294 (813 49%)\n[WhenUse] 5177 1 [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 [Breath] 48674"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "222 4638656 32427222",
+          "desc": "[WhenUse] 3219 +<style=\"highlight\">10</style>% 318152 483 25235 [BoseProjektil] 87 2294 (813 <style=\"highlight\">70</style>%)\n<style=\"highlight\">[WhenUse] 14 5+ [Breath], 4877 98123 +1\n[WhenUse] 14 3+ [Breath] 48674, 6122 98123 +1 </style>\n[WhenUse] 5177 <style=\"highlight\">+1 [Breath] 48674 173</style> 1 [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 [Breath] 48674<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttackHead] 7749744 +1 [Laceration] 48674</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttackHead] 5177 1 [BoseProjektil]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "222 4638656 32427222",
+          "desc": "[WhenUse] 3219 +<style=\"highlight\">15</style>% 318152 483 25235 [BoseProjektil] 87 2294 (813 <style=\"highlight\">105</style>%)\n[WhenUse] <style=\"highlight\">4877 98123 +1 483 25235 5 [Breath] 87 2294 (813 2)</style>\n[WhenUse] <style=\"highlight\">6122 98123 +1 483 25235 3 [Breath] 48674 87 2294 (813 2)</style>\n[WhenUse] 5177 +<style=\"highlight\">2</style> [Breath] 48674 173 1 [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 [Breath] 48674<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> 7749744 +1 [Laceration] 48674"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> 5177 1 [BoseProjektil]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "96746 4638656",
+          "desc": "[WhenUse] 3219 +10% 318152 483 25235 [BoseProjektil] 87 2294 (813 70%)\n[WhenUse] 5177 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [BoseProjektil]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 5177 2 [BoseProjektil]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "96746 4638656",
+          "desc": "[WhenUse] 3219 +10% 318152 483 25235 [BoseProjektil] 87 2294 (813 70%)\n<style=\"highlight\">[WhenUse] 14 5+ [Breath], 4877 98123 +1</style>\n[WhenUse] 5177 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttackHead] 7749744 2 [Laceration]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [BoseProjektil]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 7749744 1 [Laceration]</style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 5177 2 [BoseProjektil]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "96746 4638656",
+          "desc": "[WhenUse] 3219 +<style=\"highlight\">15</style>% 318152 483 25235 [BoseProjektil] 87 2294 (813 <style=\"highlight\">105</style>%)\n[WhenUse] <style=\"highlight\">4877 98123 +1 483 25235 5 [Breath] 87 2294 (813 2)</style>\n[WhenUse] 5177 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> 7749744 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 1 [BoseProjektil]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 7749744 <style=\"highlight\">2</style> [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 5177 2 [BoseProjektil]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011303,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "413524 321376248274 4732",
+          "desc": "[StartBattle] 4135242 462 6774 1746 462 92124 69\n- 14 7 [BoseProjektil], 937813795 4135242 18875 199722 12 462 8177 413524\n[StartBattle] 5177 +1 148 127564 483 25235 3 [BoseProjektil] 87 2294 (813 2)\n[WhenUse] 14 5+ [Breath], 4877 98123 +1\n[WhenUse] 14 3+ [Breath] 48674, 6122 98123 +1\n[WhenUse] 5177 1 [Breath] 483 25235 [BoseProjektil] 87 2294 (813 7)\n[EndSkill] 9822 ([BoseProjektil] 87 2294 3 2) 29 (813 14)\n[EndSkill] 74 4672 6774 612 7 [BoseProjektil] 14 488614 24134, 9822 4628 199\n- 74 4672 6774 9824 199 [BoseProjektil], 173 74 17 1995 72 879923, 6219 20 29 87 2294",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "4672 4877 32192 318152 8795 1517724 462 8177 413524"
+                },
+                {
+                  "desc": "74 462 8177 413524 72 17 1995, 14475142 462 489981775 2442442:\n- 462 8177 413524'2 972342 3227241742 6248822 41419 1517724 4672 144148"
+                },
+                {
+                  "desc": "- 3219 +5% 318152 483 25235 [BoseProjektil] 87 2294 (813 35%)"
+                },
+                {
+                  "desc": "- +2% 318152 87 43747419 674 483 25235 [Breath] 87 2294 (813 40%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "4672 4877 32192 318152 8795 1517724 462 266-4135242"
+                },
+                {
+                  "desc": "- 6812523, 74 462 8177 413524 112 17 27285, 3219 318152 1517724 462 8177 413524"
+                },
+                {
+                  "desc": "- 74 462 47324 4877 417923 48 8799 17 1995, 1 317388 266-413524 41822 318152\n"
+                },
+                {
+                  "desc": "3219 +15% 318152 483 25235 [BoseProjektil] 87 2294 (813 105%)"
+                },
+                {
+                  "desc": "- 74 462 47324 4877 879923 17 1995, 3219 +30% 318152 483 25235 [BoseProjektil] 87 2294 7724213 (813 210%)\n"
+                },
+                {
+                  "desc": "+2.5% 318152 87 43747419 674 483 25235 [Breath] 9842745 (813 <style=\"highlight\">25%</style>)"
+                },
+                {
+                  "desc": "+7% 318152 87 43747419 674 483 25235 [BoseProjektil] 87 2294 (813 49%)"
+                },
+                {
+                  "desc": "3219 +(69 9234274152 462 47324 4877 3288523 4388 462 8177 413524)% 318152 (813 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Laceration]"
+                },
+                {
+                  "desc": "- 74 462 47324 4877 879923 17 1995, 7749744 3 [Laceration] 173 +1 [Laceration] 48674 7724213"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "413524 321376248274 4732",
+          "desc": "[StartBattle] 4135242 462 6774 1746 462 92124 69\n- 14 7 [BoseProjektil], 937813795 4135242 18875 199722 12 462 8177 413524\n[StartBattle] 5177 +1 148 127564 483 25235 3 [BoseProjektil] 87 2294 (813 2)\n[WhenUse] <style=\"highlight\">4877 98123 +1 483 25235 5 [Breath] 87 2294 (813 2)</style>\n[WhenUse] <style=\"highlight\">6122 98123 +1 483 25235 3 [Breath] 48674 87 2294 (813 2)</style>\n[WhenUse] 5177 1 [Breath] 483 25235 [BoseProjektil] 87 2294 (813 7)\n[EndSkill] 9822 ([BoseProjektil] 87 2294 3 2) 29 (813 14)\n[EndSkill] 74 4672 6774 612 7 [BoseProjektil] 14 488614 24134, 9822 4628 199\n- 74 4672 6774 9824 199 [BoseProjektil], 173 74 17 1995 72 879923, 6219 20 29 87 2294",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "4672 4877 32192 318152 8795 1517724 462 8177 413524"
+                },
+                {
+                  "desc": "74 462 8177 413524 72 17 1995, 14475142 462 489981775 2442442:\n- 462 8177 413524'2 972342 3227241742 6248822 41419 1517724 4672 144148"
+                },
+                {
+                  "desc": "- 3219 +7% 318152 483 25235 [BoseProjektil] 87 2294 (813 49%)"
+                },
+                {
+                  "desc": "- +3% 318152 87 43747419 674 483 25235 [Breath] 87 2294 (813 60%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "4672 4877 32192 318152 8795 1517724 462 266-4135242"
+                },
+                {
+                  "desc": "- 6812523, 74 462 8177 413524 112 17 27285, 3219 318152 1517724 462 8177 413524"
+                },
+                {
+                  "desc": "- 74 462 47324 4877 417923 48 8799 17 1995, 1 317388 266-413524 41822 318152\n"
+                },
+                {
+                  "desc": "3219 +<style=\"highlight\">20</style>% 318152 483 25235 [BoseProjektil] 87 2294 (813 <style=\"highlight\">140</style>%)"
+                },
+                {
+                  "desc": "- 74 462 47324 4877 879923 17 1995, 3219 +<style=\"highlight\">40</style>% 318152 483 25235 [BoseProjektil] 87 2294 7724213 (813 <style=\"highlight\">280</style>%)\n"
+                },
+                {
+                  "desc": "+<style=\"highlight\">5</style>% 318152 87 43747419 674 483 25235 [Breath] 9842745 (813 <style=\"highlight\">50</style>%)"
+                },
+                {
+                  "desc": "+<style=\"highlight\">10</style>% 318152 87 43747419 674 483 25235 [BoseProjektil] 87 2294 (813 <style=\"highlight\">70</style>%)"
+                },
+                {
+                  "desc": "3219 +(69 9234274152 462 47324 4877 3288523 4388 462 8177 413524)% 318152 (813 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">3</style> [Laceration]"
+                },
+                {
+                  "desc": "- 74 462 47324 4877 879923 17 1995, 7749744 <style=\"highlight\">5</style> [Laceration] 173 +<style=\"highlight\">2</style> [Laceration] 48674 7724213"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "43874 9772 2699834",
+          "desc": "[DuelCounter]\n[WhenUse] 4877 98123 +1 483 25235 2 [Breath] 87 2294 (813 2)\n[WhenUse] 5177 2 [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [Breath] 48674"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "43874 9772 2699834",
+          "desc": "[DuelCounter]\n[WhenUse] 4877 98123 +1 483 25235 2 [Breath] 87 2294 (813 3)\n[WhenUse] 5177 2 [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [Breath] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
