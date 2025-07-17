@@ -1,0 +1,756 @@
+{
+  "dataList": [
+    {
+      "id": 122301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "412413775 3229173",
+          "desc": "[WhenUse] 74 413524 612 4+ [Sinking], 4877 98123 +1\n[WinDuel] 7749744 [ColdBlackTear] 20619 48 462 # 84 328177775 48772",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "26139 421333892",
+          "desc": "[WhenUse] 74 413524 612 4+ [Sinking], 4877 98123 +1\n[WhenUse] 74 413524 612 20 83 675623 29, 6122 98123 +1\n[WinDuel] 7749744 [ColdBlackTear] 20619 48 462 # 84 328177775 48772",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Sinking] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "37523 84 3229173775 42132",
+          "desc": "[WhenUse] 6122 98123 +1 483 25235 4 [Sinking] 87 413524 (813 2)\n[WhenUse] 74 413524 612 1+ [ColdBlackTear], 4877 98123 +1\n[DefeatDuel] 3219 -80% 318152 173 318152 32194 65 4672 28799 417784 2415523 462 413524",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 1 [ColdBlackTear]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 1 [ColdBlackTear]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 1 [ColdBlackTear]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 1 [ColdBlackTear]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 1 [ColdBlackTear]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "261323 283381, 369923",
+          "desc": "[WhenUse] 7749744 1 [ColdBlackTear]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 3+ [ColdBlackTear], 7749744 1 [Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "5789274 4124132 84 689981 3229173",
+          "desc": "93783747222 4135242 1746 462 8824 [ColdBlackTear]\n[WhenUse] 74 462 8177 413524 612 5+ [ColdBlackTear], 4877 98123 +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 3219 47323 318152 20619 48 ([ColdBlackTear] 24148 87 413524 3 6)% 84 413524'2 813 69, 4627 328852 199 [ColdBlackTear] 87 413524"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "134171: 4213 173 972342",
+          "desc": "6222 4672 28799 1627 17 27285 6222 134171[TabExplain] 29152, 173 1627 4672 6774 3822 784 6152 [CollapsedPride]\n48674231441482 8795 134171 29152",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [ColdBlackTear]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [ColdBlackTear]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [ColdBlackTear]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [ColdBlackTear]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 3219 47323 318152 20619 48 ([ColdBlackTear] 24148 87 413524 3 6)% 84 413524'2 813 69, 4627 328852 199 [ColdBlackTear] 87 413524 (7578322 32272417422)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "41323 41746",
+          "desc": "[WhenUse] 49126 98123 +1 483 25235 4 [Sinking] 87 413524 (813 2)\n[WhenUse] 74 413524 612 10 83 675623 29, 6122 98123 +1\n[WhenUse] 74 413524 612 20 83 675623 29, 4877 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "121462323 93732",
+          "desc": "[WhenUse] 49126 98123 +1 483 25235 4 [Sinking] 87 413524 (813 2)\n[WhenUse] 74 413524 612 10 83 675623 29, 6122 98123 +1\n[WhenUse] 74 413524 612 20 83 675623 29, 4877 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "2739222 3229173",
+          "desc": "[WhenUse] 49126 98123 +1 483 25235 4 [Sinking] 87 413524 (813 2)\n[WhenUse] 74 413524 612 10 83 675623 29, 6122 98123 +1\n[WhenUse] 74 413524 612 20 83 675623 29, 4877 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "21833 261392723 1746 42132",
+          "desc": "[WhenUse] 4877 98123 +5 483 25235 6 [Sinking] 87 413524 (813 10)\n[WhenUse] 74 413524 612 [ColdBlackTear], 47719 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 6+ [Sinking], 7749744 ([Sinking] 87 413524 / 10) [DefenseDown] 7234 4637 (3867323 3817)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "21833 91423 1746 53724",
+          "desc": "[WhenUse] 4877 98123 +3 483 25235 6 [Sinking] 87 413524 (813 6)\n[WhenUse] 6122 98123 +1 483 25235 [ColdBlackTear] 48674 87 413524 (813 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 3219 68762 59888 318152 20619 48 (28799 98123)% 84 413524'2 813 69 (813 30)\n- 74 413524 612 2+ [ColdBlackTear], 3219 68762 59888 318152 15177"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "41323 41746",
+          "desc": "[WhenUse] 49126 98123 +1 483 25235 4 [Sinking] 87 413524 (813 2)\n[WhenUse] 74 413524 612 10 83 675623 29, 6122 98123 +1\n[WhenUse] 74 413524 612 20 83 675623 29, 4877 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "121462323 93732",
+          "desc": "[WhenUse] 49126 98123 +1 483 25235 4 [Sinking] 87 413524 (813 2)\n[WhenUse] 74 413524 612 10 83 675623 29, 6122 98123 +1\n[WhenUse] 74 413524 612 20 83 675623 29, 4877 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "2739222 3229173",
+          "desc": "[WhenUse] 49126 98123 +1 483 25235 4 [Sinking] 87 413524 (813 2)\n[WhenUse] 74 413524 612 10 83 675623 29, 6122 98123 +1\n[WhenUse] 74 413524 612 20 83 675623 29, 4877 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "21833 261392723 1746 42132",
+          "desc": "[WhenUse] 4877 98123 +5 483 25235 6 [Sinking] 87 413524 (813 10)\n[WhenUse] 74 413524 612 [ColdBlackTear], 47719 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 6+ [Sinking], 7749744 ([Sinking] 87 413524 / 10) [DefenseDown] 7234 4637 (3867323 3817)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "21833 91423 1746 53724",
+          "desc": "[WhenUse] 4877 98123 +3 483 25235 6 [Sinking] 87 413524 (813 6)\n[WhenUse] 6122 98123 +1 483 25235 [ColdBlackTear] 48674 87 413524 (813 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 3219 68762 59888 318152 20619 48 (28799 98123)% 84 413524'2 813 69 (813 30)\n- 74 413524 612 2+ [ColdBlackTear], 3219 68762 59888 318152 15177"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "41323 41746",
+          "desc": "[WhenUse] 49126 98123 +1 483 25235 4 [Sinking] 87 413524 (813 2)\n[WhenUse] 74 413524 612 10 83 675623 29, 6122 98123 +1\n[WhenUse] 74 413524 612 20 83 675623 29, 4877 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "121462323 93732",
+          "desc": "[WhenUse] 49126 98123 +1 483 25235 4 [Sinking] 87 413524 (813 2)\n[WhenUse] 74 413524 612 10 83 675623 29, 6122 98123 +1\n[WhenUse] 74 413524 612 20 83 675623 29, 4877 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "2739222 3229173",
+          "desc": "[WhenUse] 49126 98123 +1 483 25235 4 [Sinking] 87 413524 (813 2)\n[WhenUse] 74 413524 612 10 83 675623 29, 6122 98123 +1\n[WhenUse] 74 413524 612 20 83 675623 29, 4877 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "21833 261392723 1746 42132",
+          "desc": "[WhenUse] 4877 98123 +5 483 25235 6 [Sinking] 87 413524 (813 10)\n[WhenUse] 74 413524 612 [ColdBlackTear], 47719 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 6+ [Sinking], 7749744 ([Sinking] 87 413524 / 10) [DefenseDown] 7234 4637 (3867323 3817)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "21833 91423 1746 53724",
+          "desc": "[WhenUse] 4877 98123 +3 483 25235 6 [Sinking] 87 413524 (813 6)\n[WhenUse] 6122 98123 +1 483 25235 [ColdBlackTear] 48674 87 413524 (813 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 3219 68762 59888 318152 20619 48 (28799 98123)% 84 413524'2 813 69 (813 30)\n- 74 413524 612 2+ [ColdBlackTear], 3219 68762 59888 318152 15177"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "41323 41746",
+          "desc": "[WhenUse] 49126 98123 +1 483 25235 4 [Sinking] 87 413524 (813 2)\n[WhenUse] 74 413524 612 10 83 675623 29, 6122 98123 +1\n[WhenUse] 74 413524 612 20 83 675623 29, 4877 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "121462323 93732",
+          "desc": "[WhenUse] 49126 98123 +1 483 25235 4 [Sinking] 87 413524 (813 2)\n[WhenUse] 74 413524 612 10 83 675623 29, 6122 98123 +1\n[WhenUse] 74 413524 612 20 83 675623 29, 4877 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "2739222 3229173",
+          "desc": "[WhenUse] 49126 98123 +1 483 25235 4 [Sinking] 87 413524 (813 2)\n[WhenUse] 74 413524 612 10 83 675623 29, 6122 98123 +1\n[WhenUse] 74 413524 612 20 83 675623 29, 4877 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "21833 261392723 1746 42132",
+          "desc": "[WhenUse] 4877 98123 +5 483 25235 6 [Sinking] 87 413524 (813 10)\n[WhenUse] 74 413524 612 [ColdBlackTear], 47719 98123 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 6+ [Sinking], 7749744 ([Sinking] 87 413524 / 10) [DefenseDown] 7234 4637 (3867323 3817)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "21833 91423 1746 53724",
+          "desc": "[WhenUse] 4877 98123 +3 483 25235 6 [Sinking] 87 413524 (813 6)\n[WhenUse] 6122 98123 +1 483 25235 [ColdBlackTear] 48674 87 413524 (813 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 3219 68762 59888 318152 20619 48 (28799 98123)% 84 413524'2 813 69 (813 30)\n- 74 413524 612 2+ [ColdBlackTear], 3219 68762 59888 318152 15177"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

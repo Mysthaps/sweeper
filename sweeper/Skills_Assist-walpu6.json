@@ -1,0 +1,183 @@
+{
+  "dataList": [
+    {
+      "id": 40000301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "1746 9852!",
+          "desc": "[WhenUse] 6122 98123 +1 483 25235 5 (268 84 [Burst] 173 [Sinking] 87 413524) (813 2)\n[WhenUse] 5177 +10 [PowerOfLoveAndJustice]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "77 462 7182 84 7624742!",
+          "desc": "[WhenUse] 4877 98123 +1 483 25235 7 (268 84 [Burst] 173 [Sinking] 87 413524) (813 2)\n[WhenUse] 5177 +10 [PowerOfLoveAndJustice] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Burst] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 612 10+ (268 84 [Burst] 173 [Sinking]), 7749744 1 [Binding] 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "134171 62142",
+          "desc": "817795 4135242 '462 877564 84 3229173'\n266-4135242 462 1995 1746 462 8824 [ColdBlackTear]\n- 74 46232 132 7872, 266-4135242 462 1995 1746 462 92124 69\n77497442 0 318152 173 3822 784 14475142 462 2442442 84 [Sinking] 173 [ColdBlackTear] 1517724 199722\n\n[WinDuel] 328852 1 [ColdBlackTear] 4388 462 266-41352423 1995",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 72 17 27285, 7749744 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 72 17 1995, 6219 5 69"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 72 17 27285, 7749744 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 72 17 1995, 6219 5 69"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 72 17 27285, 7749744 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 413524 72 17 1995, 6219 5 69"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "98882 9782 7'99 6152 48 622 4672 98123!",
+          "desc": "[StartBattle] 5177 1 [ChasingArcana]\n[StartBattle] 5177 50 267293\n[StartBattle] 5177 20 [Aggro] 7234 4637",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "46174775 - 134171 29152",
+          "desc": "[StartBattle] 5177 50 267293\n[StartBattle] 5177 20 [Aggro] 7234 4637\n[EndBattle] 14 0 267293 69, 32432142",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "134171 29152",
+          "desc": "[CantDuel]\n3822 784 3219 318152 1517724 21833 84 1 483584427 877564\n2732 4637 1627 6744775 2728722 1746 [WornOutKnight]\n[EndBattle] 5177 [UsedTooMuchPower]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 323642 413524'2 69 48 (100 - ([CollapsedPride] 24148 3 33))%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "134171 29152",
+          "desc": "[CantDuel]\n32192 318152 8795 1746 4877 2442442\n3822 784 3219 318152 1517724 62134-63218775 21833, 62134-4213775 21833, 173 62134-97234775 21833\n2732 4637 1627 6744775 2728722 4614 612 [WornOutKnight] 173 600- 69\n[EndBattle] 5177 [UsedTooMuchPower]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3219 ([CollapsedPride] 3 200) 47323 318152"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "98882 9782 7'99 6152 48 622 4672 98123!",
+          "desc": "[StartBattle] 5177 1 [ChasingArcanahard]\n[StartBattle] 5177 50 267293\n[StartBattle] 5177 20 [Aggro] 7234 4637",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
