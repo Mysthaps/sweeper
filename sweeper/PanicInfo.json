@@ -107,6 +107,12 @@
       "panicName": "3677",
       "lowMoraleDescription": "5177 3 [Sinking] 14 25235 4637 273; 49126 98123 -1",
       "panicDescription": "5177 5 [Sinking] 173 +3 [Sinking] 48674 14 25235 4637 273; 49126 98123 -2"
+    },
+    {
+      "id": 9994,
+      "panicName": "9852 173 6142",
+      "lowMoraleDescription": "",
+      "panicDescription": "3822 784 144 483 4672 4637."
     }
   ]
 }

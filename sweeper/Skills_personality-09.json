@@ -1586,6 +1586,507 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1091301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "462 877564'2 217446135",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [BlackTearsAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "462 877564'2 217446135",
+          "desc": "<style=\"highlight\">74 413524 612 6+ [Sinking], 4877 98123 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [BlackTearsAlly]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "462 877564'2 217446135",
+          "desc": "74 413524 612 6+ [Sinking], 4877 98123 +1\n<style=\"highlight\">14 3+ [ProtectiveSword], 49126 98123 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 7749744 1 [Sinking]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [BlackTearsAlly]<style=\"highlight\">\n- 5177 1 1337478719 [BlackTearsAlly] 483 25235 2 [ProtectiveSword] (813 2)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "1746 462 98123 84 7624742",
+          "desc": "[WhenUse] 14 15+ [BlackTearsAlly], 4872682 5 [BlackTearsAlly] 48 3219 +15% 318152",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [BlackTearsAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "1746 462 98123 84 7624742",
+          "desc": "<style=\"highlight\">74 413524 612 6+ [Sinking], 4877 98123 +1</style>\n[WhenUse] 14 15+ [BlackTearsAlly], 4872682 5 [BlackTearsAlly] 48 3219 +15% 318152",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +<style=\"highlight\">2</style> [Sinking] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [BlackTearsAlly]\n<style=\"highlight\">- 5177 1 1337478719 [BlackTearsAlly] 483 25235 2 [ProtectiveSword] (813 2)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "1746 462 98123 84 7624742",
+          "desc": "74 413524 612 6+ [Sinking], 4877 98123 +1\n<style=\"highlight\">49126 98123 +1 483 25235 2 [ProtectiveSword] (813 2)</style>\n[WhenUse] 14 15+ [BlackTearsAlly], 4872682 5 [BlackTearsAlly] 48 3219 +15% 318152",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">3</style> [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Sinking] 48674<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [BlackTearsAlly]\n- 5177 1337478719 [BlackTearsAlly] <style=\"highlight\">20619 48 [ProtectiveSword]</style> (813 <style=\"highlight\">5</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091303,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "134171 972342",
+          "desc": "74 413524 612 6+ [Sinking], 4877 98123 +1\n49126 98123 +1 483 25235 2 [ProtectiveSword] (813 2)\n[WhenUse] 14 10+ [BlackTearsAlly], 4872682 69 48 20 [BlackTearsAlly]\n- 3219 +(24148 48726823 3 1.5)% 318152\n[EndSkill] 74 413524 72 32421423, 325177 6194 84 [BlackTearsAlly] 48726823 65 4672 28799",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +2 [Sinking] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [Sinking] 20619 48 [ProtectiveSword] (813 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "134171 972342",
+          "desc": "74 413524 612 6+ [Sinking], 4877 98123 +1\n49126 98123 +1 483 <style=\"highlight\">25235</style> [ProtectiveSword] (813 <style=\"highlight\">5</style>)\n[WhenUse] 14 10+ [BlackTearsAlly], 4872682 69 48 20 [BlackTearsAlly]\n- 3219 +(24148 48726823 3 1.5)% 318152\n<style=\"highlight\">- 6122 98123 +1 483 25235 5 24148 48726823</style>\n[EndSkill] 74 413524 72 32421423, 325177 6194 84 [BlackTearsAlly] 48726823 65 4672 28799",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +<style=\"highlight\">3</style> [Sinking] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">74 4672 6774 612 [SwordCutwithTear], 83 48726823 74 1746 4672 4877, 3219 +20% 318152</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [Sinking] 20619 48 [ProtectiveSword] (813 <style=\"highlight\">5</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "462 877564'2 41746",
+          "desc": "[CanDuelGuard]\n[StartBattle] 5177 267293 20619 48 (29 / 5)% 84 4672 6774'2 813 69 (8742 923 4637)\n[WhenUse] 5177 3 [BlackTearsAlly] (2 47822 923 4637)\n[EndBattle] 14 9222 4617 3 [SwordCutwithTear], 9822 15 29 173 5177 1 [SwordCutwithTear] (8742 923 4637)\n- 74 4672 6774 612 [SwordCutwithTear], 9822 ([SwordCutwithTear] 24148 3 15) 8832 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "462 877564'2 41746",
+          "desc": "[CanDuelGuard]\n<style=\"highlight\">[StartBattle] 4877 98123 +1 483 25235 2 [ProtectiveSword] (813 2)</style>\n[StartBattle] 5177 267293 20619 48 (29 / <style=\"highlight\">3</style>)% 84 4672 6774'2 813 69 (8742 923 4637)\n[WhenUse] 5177 <style=\"highlight\">5</style> [BlackTearsAlly] (2 47822 923 4637)\n[EndBattle] 14 9222 4617 3 [SwordCutwithTear], 9822 15 29 48 5177 1 [SwordCutwithTear] (8742 923 4637)\n- 74 4672 6774 612 [SwordCutwithTear], 9822 ([SwordCutwithTear] 24148 3 15) 8832 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "41323 41746",
+          "desc": "[WhenUse] 9822 7 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [BlackTearsAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "41323 41746",
+          "desc": "<style=\"highlight\">47719 98123 +1 483 25235 3 [Sinking] 87 413524 (813 2)</style>\n[WhenUse] 9822 7 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [BlackTearsAlly]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "41323 41746",
+          "desc": "47719 98123 +1 483 25235 3 [Sinking] 87 413524 (813 <style=\"highlight\">3</style>)\n[WhenUse] 9822 7 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">2</style> [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 7749744 1 [Sinking]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 2 [BlackTearsAlly]\n<style=\"highlight\">- 5177 1 1337478719 [BlackTearsAlly] 483 25235 2 [PenetratingSword] 4672 6774 613 14 488614 24134 (813 2)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "1746 462 4213-261392723 21833",
+          "desc": "[WhenUse] 9822 10 29\n[WhenUse] 14 15+ [BlackTearsAlly], 4872682 5 [BlackTearsAlly] 48 3219 +20% 318152",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +1 [Sinking] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [BlackTearsAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "1746 462 4213-261392723 21833",
+          "desc": "<style=\"highlight\">47719 98123 +1 483 25235 3 [Sinking] 87 413524 (813 2)</style>\n[WhenUse] 9822 10 29\n[WhenUse] 14 15+ [BlackTearsAlly], 4872682 5 [BlackTearsAlly] 48 3219 +20% 318152",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">+2</style> [Sinking] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [BlackTearsAlly]\n<style=\"highlight\">- 5177 1 1337478719 [BlackTearsAlly] 483 25235 2 [PenetratingSword] 4672 6774 613 14 488614 24134 (813 2)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "1746 462 4213-261392723 21833",
+          "desc": "47719 98123 +1 483 25235 3 [Sinking] 87 413524 (813 <style=\"highlight\">3</style>)\n[WhenUse] 9822 10 29\n[WhenUse] 14 15+ [BlackTearsAlly], 4872682 5 [BlackTearsAlly] 48 3219 +20% 318152",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">3</style> [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">2 [Sinking]</style> 173 +2 [Sinking] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 3 [BlackTearsAlly]\n- 5177 1337478719 [BlackTearsAlly] <style=\"highlight\">20619 48 [PenetratingSword]</style> 4672 6774 613 14 488614 24134 (813 <style=\"highlight\">5</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091307,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "134171: 4213 173 972342",
+          "desc": "47719 98123 +1 483 25235 3 [Sinking] 87 413524 (813 2)\n[WhenUse] 9822 15 29\n[WhenUse] 14 10+ [BlackTearsAlly], 4872682 69 48 20 [BlackTearsAlly]\n- 3219 +(24148 48726823 3 3)% 318152\n[EndSkill] 74 413524 72 32421423, 325177 6194 84 [BlackTearsAlly] 48726823 65 4672 28799",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 +3 [Sinking] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 3 [Sinking] (8742 923 28799)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 4672 4877 48726823 [SwordCutwithTear], 32622 4877 8742 (8742 923 4637)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "134171: 4213 173 972342",
+          "desc": "47719 98123 +1 483 25235 3 [Sinking] 87 413524 (813 <style=\"highlight\">4</style>)\n[WhenUse] 9822 15 29\n[WhenUse] 14 10+ [BlackTearsAlly], 4872682 69 48 20 [BlackTearsAlly]\n- 3219 +(24148 48726823 3 3)% 318152\n<style=\"highlight\">- 6122 98123 +1 483 25235 5 24148 48726823</style>\n[EndSkill] 74 413524 72 32421423, 325177 6194 84 [BlackTearsAlly] 48726823 65 4672 28799",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">+4</style> [Sinking] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">5</style> [Sinking] (8742 923 28799)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 74 4672 4877 48726823 [SwordCutwithTear], 32622 4877 8742 (8742 923 4637)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "121462323 93732",
+          "desc": "[DuelCounter]\n[WhenUse] 5177 3 [BlackTearsAlly] (2 47822 923 4637)\n[EndBattle] 14 9222 4617 3 [SwordCutwithTear], 9822 15 29 173 5177 1 [SwordCutwithTear] (8742 923 4637)\n- 74 4672 6774 612 [SwordCutwithTear], 9822 ([SwordCutwithTear] 24148 3 15) 8832 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "121462323 93732",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[StartBattle] 47719 98123 +1 483 25235 2 [PenetratingSword] (813 2)</style>\n[WhenUse] 5177 <style=\"highlight\">5</style> [BlackTearsAlly] (2 47822 923 4637)\n[EndBattle] 14 9222 4617 3 [SwordCutwithTear], 9822 15 29 173 5177 1 [SwordCutwithTear] (8742 923 4637)\n- 74 4672 6774 612 [SwordCutwithTear], 9822 ([SwordCutwithTear] 24148 3 15) 8832 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

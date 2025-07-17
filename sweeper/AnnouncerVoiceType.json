@@ -119,6 +119,14 @@
     {
       "id": "MultiKillAlly",
       "content": "86947992 1995 321462"
+    },
+    {
+      "id": "Win",
+      "content": "5744835 435"
+    },
+    {
+      "id": "Defeat",
+      "content": "324214 1179"
     }
   ]
 }

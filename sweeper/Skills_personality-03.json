@@ -1843,6 +1843,483 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1031201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "65 8171523 2206732'2 833232, 7 18 6232!",
+          "desc": "[WhenUse] 5177 +2 [ThePowerOfLoveAndHate] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [ThePowerOfLoveAndHate] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "65 8171523 2206732'2 833232, 7 18 6232!",
+          "desc": "<style=\"highlight\">[WhenUse] 4872682 5 [ThePowerOfLoveAndHate] 48674 87 2294 48 5177 4877 98123 +1</style>\n[WhenUse] 5177 +<style=\"highlight\">3</style> [ThePowerOfLoveAndHate] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [ThePowerOfLoveAndHate] 48674<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">2</style> [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "65 8171523 2206732'2 833232, 7 18 6232!",
+          "desc": "[WhenUse] 4872682 5 [ThePowerOfLoveAndHate] 48674 87 2294 48 5177 4877 98123 +1\n<style=\"highlight\">[WhenUse] 4877 98123 +1 483 25235 2 [ThePowerOfLoveAndHate] (813 2)</style>\n[WhenUse] 5177 +3 [ThePowerOfLoveAndHate] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +<style=\"highlight\">3</style> [ThePowerOfLoveAndHate] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">3</style> [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "1746 9852! 6516!",
+          "desc": "[WhenUse] 5177 +3 [ThePowerOfLoveAndHate] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +3 [ThePowerOfLoveAndHate] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "1746 9852! 6516!",
+          "desc": "<style=\"highlight\">[WhenUse] 3219 +6% 318152 483 25235 [ThePowerOfLoveAndHate] 87 2294 (813 30%)\n[WhenUse] 4872682 6 [ThePowerOfLoveAndHate] 48674 87 2294 48 5177 4877 98123 +1</style>\n[WhenUse] 5177 +3 [ThePowerOfLoveAndHate] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +<style=\"highlight\">4</style> [ThePowerOfLoveAndHate] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">2</style> [Burst]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 7749744 [VillainMark] 1517724 462 8177 413524 7234 4637</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "1746 9852! 6516!",
+          "desc": "[WhenUse] 3219 +<style=\"highlight\">10</style>% 318152 483 25235 [ThePowerOfLoveAndHate] 87 2294 (813 <style=\"highlight\">50</style>%)\n[WhenUse] 4872682 6 [ThePowerOfLoveAndHate] 48674 87 2294 48 5177 4877 98123 +1\n[WhenUse] 5177 +<style=\"highlight\">5</style> [ThePowerOfLoveAndHate] 48674",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +4 [ThePowerOfLoveAndHate] 48674<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> 7749744 [VillainMark] 1517724 462 8177 413524 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "134171 62142!! / 87783 134171 29152!!!",
+          "desc": "3219 +15% 318152 483 25235 [ArcanaQueenOfHate] 87 2294 (813 45%)\n[WhenUse] 14 3+ [ThePowerOfLoveAndHate], 3219 +([ThePowerOfLoveAndHate] 3 15)% 318152 (813 75%)\n[WhenUse] 14 3+ [ThePowerOfLoveAndHate], 6122 98123 +1\n[WhenUse] 4872682 [ThePowerOfLoveAndHate] 48674 48 5177 4877 98123 (4877 98123 +1 483 25235 5 48674 48726823, 813 2)\n[WhenUse] 5177 +6 [ThePowerOfLoveAndHate] 48674\n[EndSkill] 5177 1 [ArcanaQueenOfHate]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "134171 62142!! / 87783 134171 29152!!!",
+          "desc": "3219 +<style=\"highlight\">30</style>% 318152 483 25235 [ArcanaQueenOfHate] 87 2294 (813 <style=\"highlight\">90</style>%)\n[WhenUse] 14 3+ [ThePowerOfLoveAndHate], 3219 +([ThePowerOfLoveAndHate] 3 <style=\"highlight\">20</style>)% 318152 <style=\"highlight\">(813 100%)</style>\n[WhenUse] 14 3+ [ThePowerOfLoveAndHate], 6122 98123 +<style=\"highlight\">2</style>\n[WhenUse] 4872682 [ThePowerOfLoveAndHate] 48674 48 5177 4877 98123 (4877 98123 +1 483 25235 5 48674 48726823, 813 <style=\"highlight\">4</style>)\n[WhenUse] 5177 +6 [ThePowerOfLoveAndHate] 48674\n[EndSkill] 5177 1 [ArcanaQueenOfHate]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "31973 46174",
+          "desc": "[CanDuelGuard]\n[WhenUse] 6122 98123 +1 483 25235 [HystericGauge] (813 2)\n[WhenUse] 5177 +2 [ThePowerOfLoveAndHate] 48674 (2 47822 923 4637)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "31973 46174",
+          "desc": "[CanDuelGuard]\n[WhenUse] 6122 98123 +1 483 25235 [HystericGauge] <style=\"highlight\">(813 3)</style>\n[WhenUse] 5177 +<style=\"highlight\">4</style> [ThePowerOfLoveAndHate] 48674 (2 47822 923 4637)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "16232 132... 462 57991772...?",
+          "desc": "3219 +3% 318152 483 25235 [HystericGauge] 87 2294 (813 9%)\n[WhenUse] 5177 +2 [ThePowerOfLoveAndHate] 48674\n[WhenUse] 9822 5 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [ThePowerOfLoveAndHate] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "16232 132... 462 57991772...?",
+          "desc": "3219 <style=\"highlight\">+4%</style> 318152 483 25235 [HystericGauge] 87 2294 <style=\"highlight\">(813 12%)</style>\n<style=\"highlight\">[WhenUse] 4872682 5 [ThePowerOfLoveAndHate] 48674 87 2294 48 5177 6122 98123 +1</style>\n[WhenUse] 5177 <style=\"highlight\">+3</style> [ThePowerOfLoveAndHate] 48674\n[WhenUse] 9822 5 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [ThePowerOfLoveAndHate] 48674<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">2</style> [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "16232 132... 462 57991772...?",
+          "desc": "3219 <style=\"highlight\">+5%</style> 318152 483 25235 [HystericGauge] 87 2294 <style=\"highlight\">(813 15%)</style>\n<style=\"highlight\">[WhenUse] 4872682 5 [ThePowerOfLoveAndHate] 48674 87 2294 48 5177 6122 98123 +1</style>\n<style=\"highlight\">[WhenUse] 6122 98123 +1 483 25235 2 [ThePowerOfLoveAndHate] 87 2294 (813 2)</style>\n[WhenUse] 5177 +3 [ThePowerOfLoveAndHate] 48674\n[WhenUse] 9822 5 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +<style=\"highlight\">3</style> [ThePowerOfLoveAndHate] 48674"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">3</style> [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "524 864 84 85 6213...",
+          "desc": "74 4672 6774 612 [HystericGauge], 49126 98123 +1\n[WhenUse] 5177 +3 [ThePowerOfLoveAndHate] 48674\n[WhenUse] 9822 8 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +3 [ThePowerOfLoveAndHate] 48674"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "524 864 84 85 6213...",
+          "desc": "74 4672 6774 612 [HystericGauge], <style=\"highlight\">6122 98123 +1</style>\n<style=\"highlight\">[WhenUse] 4872682 6 [ThePowerOfLoveAndHate] 48674 87 2294 48 5177 6122 98123 +1</style>\n[WhenUse] 5177 +3 [ThePowerOfLoveAndHate] 48674\n[WhenUse] 9822 8 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +3 [ThePowerOfLoveAndHate] 48674<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 <style=\"highlight\">2</style> [Sinking]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] 7749744 [VillainMark] 1517724 462 8177 413524 7234 4637</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "524 864 84 85 6213...",
+          "desc": "<style=\"highlight\">6122 98123 +1 483 25235 [HystericGauge] 87 2294 (813 2)\n- 14 3 [HystericGauge], 5177 +1 148 127564\n- 3219 -50% 318152 1517724 266-4135242</style>\n[WhenUse] 4872682 6 [ThePowerOfLoveAndHate] 48674 87 2294 48 5177 6122 98123 +1\n[WhenUse] 5177 +<style=\"highlight\">5</style> [ThePowerOfLoveAndHate] 48674\n[WhenUse] 9822 8 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5177 +3 [ThePowerOfLoveAndHate] 48674<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7749744 2 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> 7749744 [VillainMark] 1517724 462 8177 413524 7234 4637"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031207,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "32523223 62142 / 32523223 134171 29152",
+          "desc": "4672 28799 32192 -50% 318152 1517724 266-4135242\n\n[WhenUse] 4872682 199 [HystericGauge] 48 5177 49126 98123 +1\n[WhenUse] 4872682 [ThePowerOfLoveAndHate] 48674 48 5177 49126 98123 (49126 98123 +1 483 25235 8 48674 48726823, 813 2)\n[WhenUse] 3219 +12% 318152 483 25235 [ThePowerOfLoveAndHate] 87 2294 (813 60%)\n[BeforeAttack] 4872682 199 [ArcanaQueenOfHate] 87 2294 48 5177 +1 148 127564\n[BeforeAttack] 74 4672 28799 8795 612 1 277592 413524(483 4846223 2748674232, 1 9134), 664 612 2+ 148 127564, 3219 +20% 318152\n[BeforeAttack] 6122 98123 -6 483 25235 4314823 4877 (813 -18)\n[EndBattle] 74 4672 6774 727'4 14 -45 29, 173 72 14 9222 4617 0 29, 6219 10 29. 6219 8832 29 462 4634623 4672 6774'2 29 51962 72 4388 0 (2 29 621923 483 25235 8722775 29, 813 50 29)\n[WhenUse] 9822 10 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "32523223 62142 / 32523223 134171 29152",
+          "desc": "4672 28799 32192 -50% 318152 1517724 266-4135242\n\n[WhenUse] 4872682 199 [HystericGauge]; <style=\"highlight\">49126 98123 +1 483 25235 24148 48726823 (813 3)</style>\n[WhenUse] 4872682 [ThePowerOfLoveAndHate] 48674 48 5177 49126 98123 (49126 98123 +1 483 25235 <style=\"highlight\">5</style> 48674 48726823, 813 <style=\"highlight\">4</style>)\n[WhenUse] 3219 +<style=\"highlight\">24</style>% 318152 483 25235 [ThePowerOfLoveAndHate] 87 2294 (813 <style=\"highlight\">120</style>%)\n[BeforeAttack] 4872682 199 [ArcanaQueenOfHate] 87 2294; <style=\"highlight\">5177 +1 148 127564 483 25235 24148 48726823 (813 3)\n- 74 4672 28799 48726823 3 [HystericGauge], 5177 +1 148 127564</style>\n[BeforeAttack] 74 4672 28799 8795 612 1 277592 413524(483 4846223 2748674232, 1 9134), <style=\"highlight\">3219 +(20 3 (148 127564 - 1))% 318152 (813 80%)</style>\n[BeforeAttack] 6122 98123 -6 483 25235 4314823 4877 (813 -18)\n[EndBattle] 74 4672 6774 727'4 14 -45 29, 173 72 14 9222 4617 0 29, 6219 10 29. 6219 8832 29 462 4634623 4672 6774'2 29 51962 72 4388 0 (2 29 621923 483 25235 8722775 29, 813 50 29)\n[WhenUse] 9822 10 29",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 2 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 7749744 2 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

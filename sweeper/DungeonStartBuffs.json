@@ -91,6 +91,10 @@
     {
       "id": "GiveBuffOnRoundStart",
       "description": "5177 {2} <color=#5bffde>{1}</color>"
+    },
+    {
+      "id": "GiveBuffOnRSOnNewFloorTheme",
+      "description": "1627 46882775 1 721 46282 9148 483 462 47324 4782(77 49883 {4} 83 98123 8795), 5177 {2} <color=#5bffde>{1}</color> 77 742 488614 2748674232."
     }
   ]
 }

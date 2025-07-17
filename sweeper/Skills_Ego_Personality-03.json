@@ -672,6 +672,208 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2030911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "77 462 7182 84 9852 173 6142 - 81783 134171 29152!!!",
+          "abName": "462 06227 84 614323",
+          "desc": "[BeforeAttack] 19995 1 [MagicalGirlResponse] 48 (1 + (2755 32287. / 3)) 317388 84623 199722 (813 3 199722)\n\n[BeforeAttack] 5177 +([Charge] - 1) 148 127564 (813 3)\n\n[EndSkill] 4872682 199 [Charge] 48674 87 2294 48 6219 (2 + (2755 32287. / 2)) 199722 1746 462 92124 69 92342741522 65 ([Charge] 48674 48726823)% 69 (813 5 199722, 813 5%)\n\n[EndSkill] 74 4672 6774 72 98684885 2.5.8::77 462 7182 84 9852 173 6142 387 0673842, 5177 1 [ArcanaQueenOfHate]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 [Charge] 48674 (5 923 4637)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 7749744 [VillainMark] 1517724 462 8177 413524 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 ([Charge] - 1) [Burst] (813 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "77 462 7182 84 9852 173 6142 - 81783 134171 29152!!!",
+          "abName": "462 06227 84 614323",
+          "desc": "[BeforeAttack] 19995 1 [MagicalGirlResponse] 48 (1 + (2755 32287. / 3)) 317388 84623 199722 (813 3 199722)\n<style=\"highlight\">- 74 4672 6774 612 [MagicalGirlAppear], 19995 2 [MagicalGirlResponse] 48 (1 + (2755 32287. / 3)) 317388 84623 199722 7724213 (813 3 199722)</style>\n\n[BeforeAttack] 5177 +([Charge] - 1) 148 127564 (813 <style=\"highlight\">5</style>)\n[EndSkill] 4872682 199 [Charge] 48674 87 2294 48 6219 (2 + (2755 32287. / 2)) 199722 1746 462 92124 69 92342741522 65 ([Charge] 48674 48726823)% 69 (813 5 199722, 813 <style=\"highlight\">8</style>%)\n\n[EndSkill] 74 4672 6774 72 98684885 2.5.8::77 462 7182 84 9852 173 6142 387 0673842, 5177 1 [ArcanaQueenOfHate]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 [Charge] 48674 (5 923 4637)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 7749744 [VillainMark] 1517724 462 8177 413524 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 ([Charge] - 1) [Burst] (813 <style=\"highlight\">3</style>)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "77 462 7182 84 9852 173 6142 - 81783 134171 29152!!!",
+          "abName": "462 06227 84 614323",
+          "desc": "[BeforeAttack] 19995 1 [MagicalGirlResponse] 48 (1 + (2755 32287. / <style=\"highlight\">2</style>)) 317388 84623 199722 (813 <style=\"highlight\">4</style> 199722)\n- 74 4672 6774 612 [MagicalGirlAppear], 19995 2 [MagicalGirlResponse] 48 (1 + (2755 32287. / <style=\"highlight\">2</style>)) 317388 84623 199722 7724213 (813 <style=\"highlight\">4</style> 199722)\n\n[BeforeAttack] 5177 +([Charge] - 1) 148 127564 (813 5)\n<style=\"highlight\">- 74 4672 6774 612 [MagicalGirlAppear], 5177 +([Charge]) 148 127564 7724213 (813 5)</style>\n\n[EndSkill] 4872682 199 [Charge] 48674 87 2294 48 6219 (2 + (2755 32287. / 2)) 199722 1746 462 92124 69 92342741522 65 ([Charge] 48674 48726823)% 69 (813 5 199722, 813 <style=\"highlight\">10</style>%)\n\n[EndSkill] 74 4672 6774 72 98684885 2.5.8::77 462 7182 84 9852 173 6142 387 0673842, 5177 1 [ArcanaQueenOfHate]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 +<style=\"highlight\">2</style> [Charge] 48674 (<style=\"highlight\">10</style> 923 4637)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 [VillainMark] 1517724 462 8177 413524 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 ([Charge] - 1) [Burst] (813 <style=\"highlight\">4</style>)"
+                },
+                {
+                  "desc": "<style=\"highlight\">- 74 4672 6774 612 [MagicalGirlAppear], 7749744 +1 [Burst] 48674</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "813787223 32523223 134171 29152 - 2312632 84 614323",
+          "abName": "462 06227 84 614323",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 5177 +([Charge]) 148 127564 (813 5)\n\n[BeforeAttack] 4872682 199 [Charge] 48674 173 3219 +1% 8832 318152 483 25235 [Charge] 48674 48726823 (813 20%)\n\n[BeforeAttack] 74 462 8177 413524 612 [VillainMark], 3219 +3% 318152 483 25235 [Charge] (813 15%)\n\n[BeforeAttack] 3219 +5% 318152 483 25235 3 2755 32287. (813 10%, 3867323 3817)\n\n[BeforeAttack] 6122 98123 -12 483 25235 4314823 4877 (813 -24)\n\n[EndSkill] 74 4672 6774 72 1 98684885 2.5.8::77 462 7182 84 9852 173 6142 387 0673842, 5177 1 [HystericGauge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 +1 [Charge] 48674 (7 47822 923 4637)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 7749744 [VillainMark] 1517724 462 8177 413524 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 ([Charge] - 1) [Sinking] (813 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "813787223 32523223 134171 29152 - 2312632 84 614323",
+          "abName": "462 06227 84 614323",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 5177 +([Charge]) 148 127564 (813 5)\n<style=\"highlight\">- 74 4672 6774 612 [NoVillain], 5177 +([Charge] + 1) 148 127564 7724213 (813 5)</style>\n\n[BeforeAttack] 4872682 199 [Charge] 48674 173 3219 +<style=\"highlight\">2</style>% 8832 318152 483 25235 [Charge] 48674 48726823 (813 <style=\"highlight\">40</style>%)\n\n[BeforeAttack] 74 462 8177 413524 612 [VillainMark], 3219 +<style=\"highlight\">5</style>% 318152 483 25235 [Charge] (813 <style=\"highlight\">25</style>%)\n<style=\"highlight\">- 74 4672 6774 612 [HystericGauge], 3219 +7% 318152 483 25235 [Charge] 7724213 (813 35%)</style>\n\n[BeforeAttack] 3219 +<style=\"highlight\">7</style>% 318152 483 25235 2 2755 32287. (813 <style=\"highlight\">21</style>%, 3867323 3817)\n\n[BeforeAttack] 6122 98123 -12 483 25235 4314823 4877 (813 -24)\n\n[EndSkill] 74 4672 6774 72 1 98684885 2.5.8::77 462 7182 84 9852 173 6142 387 0673842, 5177 1 [HystericGauge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [Charge] 48674 (<style=\"highlight\">10</style> 923 4637)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 7749744 [VillainMark] 1517724 462 8177 413524 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 ([Charge] - 1) [Sinking] (813 <style=\"highlight\">3</style>)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "813787223 32523223 134171 29152 - 2312632 84 614323",
+          "abName": "462 06227 84 614323",
+          "desc": "[CantIdentify]\n4135242 31738895\n[BeforeAttack] 5177 +([Charge]) 148 127564 (813 5)\n- 74 4672 6774 612 [NoVillain], 5177 +([Charge] + 1) 148 127564 7724213 (813 5)\n\n[BeforeAttack] 4872682 199 [Charge] 48674 173 3219 <style=\"highlight\">+2.5%</style> 8832 318152 483 25235 [Charge] 48674 48726823 (813 <style=\"highlight\">50</style>%)\n\n[BeforeAttack] 74 462 8177 413524 612 [VillainMark], 3219 +5% 318152 483 25235 [Charge] (813 25%)\n- 74 4672 6774 612 [HystericGauge], 3219 +<style=\"highlight\">10</style>% 318152 483 25235 [Charge] 7724213 (813 <style=\"highlight\">50</style>%)\n\n[BeforeAttack] 3219+<style=\"highlight\">10</style>% 318152 483 25235 2 2755 32287. (813 <style=\"highlight\">30</style>%, 3867323 3817)\n\n[BeforeAttack] 6122 98123 -12 483 25235 4314823 4877 (813 -24)\n\n[EndSkill] 74 4672 6774 72 1 98684885 2.5.8::77 462 7182 84 9852 173 6142 387 0673842, 5177 1 [HystericGauge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 5177 +2 [Charge] 48674 (<style=\"highlight\">14</style> 923 4637)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> 7749744 [VillainMark] 1517724 462 8177 413524 7234 4637"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 7749744 ([Charge] - 1) [Sinking] (813 <style=\"highlight\">4</style>)"
+                },
+                {
+                  "desc": "<style=\"highlight\">- 74 4672 6774 612 [NoVillain], 7749744 +1 [Sinking] 48674</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
