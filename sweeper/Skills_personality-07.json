@@ -865,7 +865,7 @@
         {
           "level": 3,
           "name": "8 36991617...!",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] 74 4672 6774 612 [NightPathfinding] 173 612 15+ 29, 622 918274, 88637, 173 3229173 12 4867423 (8742 923 4637)</style>\n[StartBattle] 74 4672 6774 3822 784 6152 [NightPathfinding], 5177 1 [NightPathfinding] 7234 4637 (8742 923 4637)\n<style=\"highlight\">[WhenUse] 74 413524 612 6+ [Sinking], 4877 98123 +1</style>\n[EndBattle] 74 4672 6774 612 [NightPathfinding], 9822 [NightPathfinding]",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] 74 4672 6774 612 [NightPathfinding] 173 612 15+ 29, 622 '918274, 88637, 173 3229173' 12 4867423 (8742 923 4637)</style>\n[StartBattle] 74 4672 6774 3822 784 6152 [NightPathfinding], 5177 1 [NightPathfinding] 7234 4637 (8742 923 4637)\n<style=\"highlight\">[WhenUse] 74 413524 612 6+ [Sinking], 4877 98123 +1</style>\n[EndBattle] 74 4672 6774 612 [NightPathfinding], 9822 [NightPathfinding]",
           "coinlist": [
             {},
             {
@@ -880,7 +880,7 @@
         {
           "level": 4,
           "name": "8 36991617...!",
-          "desc": "[DuelCounter]\n[BeforeUse] 74 4672 6774 612 [NightPathfinding] 173 612 15+ 29, 622 918274, 88637, 173 3229173 12 4867423 (8742 923 4637)\n[StartBattle] 74 4672 6774 3822 784 6152 [NightPathfinding], 5177 1 [NightPathfinding] 7234 4637 (8742 923 4637)\n[WhenUse] <style=\"highlight\">4877 98123 +1 483 25235 3 [Sinking] 87 413524 (813 2)</style>\n<style=\"highlight\">[WinDuel] 5177 [AttackUp] 7234 4637 20619 48 (# 84 4912622/3) (813 3, 8742 923 4637)</style>\n[EndBattle] 74 4672 6774 612 [NightPathfinding], 9822 [NightPathfinding]",
+          "desc": "[DuelCounter]\n[BeforeUse] 74 4672 6774 612 [NightPathfinding] 173 612 15+ 29, 622 '918274, 88637, 173 3229173' 12 4867423 (8742 923 4637)\n[StartBattle] 74 4672 6774 3822 784 6152 [NightPathfinding], 5177 1 [NightPathfinding] 7234 4637 (8742 923 4637)\n[WhenUse] <style=\"highlight\">4877 98123 +1 483 25235 3 [Sinking] 87 413524 (813 2)</style>\n<style=\"highlight\">[WinDuel] 5177 [AttackUp] 7234 4637 20619 48 (# 84 4912622/3) (813 3, 8742 923 4637)</style>\n[EndBattle] 74 4672 6774 612 [NightPathfinding], 9822 [NightPathfinding]",
           "coinlist": [
             {},
             {

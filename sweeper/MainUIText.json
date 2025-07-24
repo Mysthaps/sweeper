@@ -1959,6 +1959,10 @@
     {
       "id": "mainui_notice_download_failed",
       "content": "48693 784 9813 7847422. 992122 46248 5863 7241838 4877244787."
+    },
+    {
+      "id": "mainui_settings_show_importance_level_UI",
+      "content": "2681 614492 67742\n(5788748 93783745)"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "mirror_dungeon_detect_theme_pack_button",
-      "content": "221346"
+      "content": "9148 221346"
     },
     {
       "id": "mirror_dungeon_detect_theme_pack_list_popup_title_format",
@@ -286,11 +286,11 @@
     },
     {
       "id": "mirror_observation_ego_gift_title",
-      "content": "2.5.8 5744\n221346"
+      "content": "2.5.8 5744 221346"
     },
     {
       "id": "mirror_observation_ego_gift_confirm",
-      "content": "\uc120\ud0dd"
+      "content": "229244"
     },
     {
       "id": "mirror_observation_have_starlight",
@@ -298,11 +298,11 @@
     },
     {
       "id": "mirror_dungeon_ask_give_up_ego_gift_observation",
-      "content": "2.5.8 \uae30\ud504\ud2b8 \uad00\uce21\uc744 \uc9c4\ud589\ud558\uc9c0 \uc54a\uc73c\uc2dc\uaca0\uc2b5\ub2c8\uae4c?"
+      "content": "48358 2.5.8 5744 221346?"
     },
     {
       "id": "mirror_dungeon_ask_confirm_ego_gift_observation",
-      "content": "\ubcc4\ube5b {0}\uac1c\ub97c \uc18c\ubaa8\ud558\uc5ec 2.5.8 \uae30\ud504\ud2b8 \uad00\uce21\uc744 \uc9c4\ud589\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?"
+      "content": "4872682 {0} 241397564 48 221346 173 864177 46222 2.5.8 57442?"
     },
     {
       "id": "mirror_dungeon_observation_filter_reset",
@@ -314,7 +314,19 @@
     },
     {
       "id": "mirror_observation_ego_gift_title_toggle",
-      "content": "(\ub354\ubbf8)\uc5d0\uace0\uae30\ud504\ud2b8 \uad00\uce21\uc758 \uce74\ud14c\uace0\ub9ac \uc120\ud0dd \ud1a0\uae00\uc758 \uc81c\ubaa9"
+      "content": "14475142 5744\n221346"
+    },
+    {
+      "id": "mirror_observation_lack_starlight_title",
+      "content": "417784 221346\n57442"
+    },
+    {
+      "id": "mirror_observation_lack_starlight_desc",
+      "content": "586 38 784 6152 278656 241397564 483 4672 5744 221346."
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_selected_startBuff",
+      "content": "22924423 53142 84 24132"
     }
   ]
 }
