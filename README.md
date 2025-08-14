@@ -1,4 +1,6 @@
 Made for **Moonframe**.
+# Notice
+This repo is no longer actively maintained. If you want an updated version or the code for this, please DM @mysthaps on Moonframe.
 # Installation
 Custom language packs can only be installed on **PC (Steam)**.
 1. Download the latest version of the pack [here](https://github.com/Mysthaps/sweeper/releases/latest). If this is your first time installing, also download the ``config.json`` file. When updating, you only need to download the ``.zip`` file.
